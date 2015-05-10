@@ -1,0 +1,3329 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140009309</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv112119" /><label for="fv112119"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(36190)"><img src="images/profile24_0.png"> ს.ს. უნივერსალური სამედიცინო ცენტრი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>04.04.2014 11:49</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>11.04.2014 00:07</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>15.04.2014 13:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="10800-GEL-04.04.2014 11:49">10`800.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;64200000 - სატელეკომუნიკაციო მომსახურებები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;64210000 - სატელეფონო და მონაცემთა გადაცემის მომსახურებები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla"></div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხ. ტექნიკური დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>2014 წლის 1 მაისი -2015 წლის 30 აპრილის ჩატვლით</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>70.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>108 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=112119&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="112119">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: მიხეილგოგოძე :: 04.04.2014 11:49</li>
+	<li style="text-align:right">ბოლო შესწორება: მიხეილგოგოძე :: 08.04.2014 17:42</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+<span>
+<button id="btn_apphistory" type="button">განცხადების ისტორია</button>
+<script type="text/javascript">
+$('#btn_apphistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){$.get('engine/controller.php',{app_id:112119, action:'app_versions'}, function(data) {$('#history').html(data);})});
+</script>
+</span>
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:112119, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '112119'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="730388.1396612174.112119">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=730388&code=1396612174">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=730388&code=1396612174">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Contract Tender #31 04.04.2014 Telecom.services.pdf
+						</a>
+					</td>
+					<td class="date" align="right">04.04.2014 11:49<br/>მიხეილგოგოძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="734733.1396978997.112119">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=734733&code=1396978997">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=734733&code=1396978997">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA140009309_Contract Tender #31 04.08.2014 Telecom.services.pdf
+						</a>
+					</td>
+					<td class="date" align="right">08.04.2014 17:43<br/>მიხეილგოგოძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="735909.1397143976.112119">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=735909&code=1397143976">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=735909&code=1397143976">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA140009309_Contract Tender #31 04.08.2014 Telecom.services.pdf
+						</a>
+					</td>
+					<td class="date" align="right">10.04.2014 15:32<br/>მიხეილგოგოძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 10`800.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: 2014 წლის 1 მაისი -2015 წლის 30 აპრილის ჩატვლით</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B112119130722">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2342)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სილქნეტი</span>
+			</td>
+		<td class="activebid1"><strong>10`272.00</strong>&nbsp;<br/><span class="date">14.04.2014 18:05</span></td>
+		<td class="activebid1">10`272.00&nbsp;<br/><span class="date">14.04.2014 18:05</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(112119,130722)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:05</td>
+		<td align="center" class="activebid1">13:07</td>
+		<td class="activebid1">სილქნეტი</td>
+		<td align="center" class="activebid1"><strong>10`272.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:09</td>
+		<td align="center" class="activebid1">13:11</td>
+		<td class="activebid1">სილქნეტი</td>
+		<td align="center" class="activebid1"><strong>10`272.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:13</td>
+		<td align="center" class="activebid1">13:15</td>
+		<td class="activebid1">სილქნეტი</td>
+		<td align="center" class="activebid1"><strong>10`272.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B112119">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2342)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სილქნეტი</span>
+		</td>
+		<td class="activebid1"><strong>10`272.00</strong></td>
+		<td class="date activebid1">14.04.2014 18:05</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'112119'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'112119'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="740398.1397572261.112119">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=740398&code=1397572261">
+                    SPA140009309_04.15.014 xeltserili  SPA140009309.pdf
+                    </a>
+                </td>
+                <td class="date">15.04.2014 14:31 :: მიხეილგოგოძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="740401.1397572273.112119">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=740401&code=1397572273">
+                    SPA140009309_04.15.014#169 (1 shef-sher.SET).pdf
+                    </a>
+                </td>
+                <td class="date">15.04.2014 14:31 :: მიხეილგოგოძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="740406.1397572298.112119">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=740406&code=1397572298">
+                    SPA140009309_04.15.014-P126 (oqmi#169 (1shef-sher.SET ).pdf
+                    </a>
+                </td>
+                <td class="date">15.04.2014 14:31 :: მიხეილგოგოძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="741692.1397648150.112119">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=741692&code=1397648150">
+                    SPA140009309_პასუხი.pdf
+                    </a>
+                </td>
+                <td class="date">16.04.2014 11:35 :: მაია ბრელიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="741809.1397650713.112119">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=741809&code=1397650713">
+                    SPA140009309_04.16.014#170 (2 gamarjvebuli.xelSekruleba.SET).pdf
+                    </a>
+                </td>
+                <td class="date">16.04.2014 12:18 :: მიხეილგოგოძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="741869.1397652463.112119">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=741869&code=1397652463">
+                    SPA140009309_04.16.014-P127 (oqmi#170 (3 xelSekruleba.SET).pdf
+                    </a>
+                </td>
+                <td class="date">16.04.2014 12:47 :: მიხეილგოგოძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'112119'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg10" style="font-weight:bold">მიმდინარე ხელშეკრულება</span><br/>
+			<span class="date">მიხეილგოგოძე :: 24.04.2014</span><br/>
+			<span><strong>48</strong> დღე ხელშეკრულების მოქმედების ვადის ამოწურვამდე</span>
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(2342)"><img src="images/profile24.png"></a> <strong>სილქნეტი</strong><br/>
+				
+					ნომერი/თანხა: N#SET-04.23.014-27 / <span class="convertme" id="10272-GEL-24.04.2014 14:03">10272 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 01.05.2014 - 30.05.2015<br/>
+					<span class="date">24.04.2014 14:03</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=93053"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="112119">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="112119">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="112119">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="815637.1403611890.112119">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815637&code=1403611890">
+SPA140009309_SILKNET.06.10.14 a.f #ea-027732465.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815638.1403611894.112119">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815638&code=1403611894">
+SPA140009309_SILKNET.06.10.14 a.f #ea-027732470.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815639.1403611899.112119">
+<td>3.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815639&code=1403611899">
+SPA140009309_SILKNET.06.10.14 a.f #ea-027732479.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815640.1403611905.112119">
+<td>4.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815640&code=1403611905">
+SPA140009309_SILKNET.06.10.14 a.f #ea-027732494.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815641.1403611909.112119">
+<td>5.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815641&code=1403611909">
+SPA140009309_SILKNET.06.10.14 a.f #ea-027732500.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815642.1403611915.112119">
+<td>6.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815642&code=1403611915">
+SPA140009309_SILKNET.06.10.14 a.f #ea-027732511.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815644.1403611922.112119">
+<td>7.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815644&code=1403611922">
+SPA140009309_SILKNET.06.10.14 a.f #ea-027732555.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:12 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815647.1403611994.112119">
+<td>8.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815647&code=1403611994">
+SPA140009309_SILKNET 06.17.014.SAG.#2054.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:13 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815648.1403612001.112119">
+<td>9.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815648&code=1403612001">
+SPA140009309_SILKNET 06.17.014.SAG.#2055.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:13 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815649.1403612008.112119">
+<td>10.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815649&code=1403612008">
+SPA140009309_SILKNET 06.17.014.SAG.#2056.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:13 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815650.1403612011.112119">
+<td>11.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815650&code=1403612011">
+SPA140009309_SILKNET 06.17.014.SAG.#2058.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:13 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815651.1403612015.112119">
+<td>12.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815651&code=1403612015">
+SPA140009309_SILKNET 06.17.014.SAG.#2059.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:13 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815652.1403612021.112119">
+<td>13.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815652&code=1403612021">
+SPA140009309_SILKNET 06.17.014.SAG.#2060.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:13 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="815653.1403612027.112119">
+<td>14.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815653&code=1403612027">
+SPA140009309_SILKNET 06.17.014.SAG.#2061.pdf
+</a>
+</td>
+<td class="date">24.06.2014 12:13 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844774.1406128248.112119">
+<td>15.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844774&code=1406128248">
+SPA140009309_SILKNET.07.08.14 a.f #ea-028515260.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:10 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844775.1406128256.112119">
+<td>16.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844775&code=1406128256">
+SPA140009309_SILKNET.07.08.14 a.f #ea-028515272.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:10 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844776.1406128261.112119">
+<td>17.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844776&code=1406128261">
+SPA140009309_SILKNET.07.08.14 a.f #ea-028515277.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844777.1406128267.112119">
+<td>18.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844777&code=1406128267">
+SPA140009309_SILKNET.07.08.14 a.f #ea-028515326.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844778.1406128271.112119">
+<td>19.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844778&code=1406128271">
+SPA140009309_SILKNET.07.08.14 a.f #ea-028515341.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844779.1406128278.112119">
+<td>20.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844779&code=1406128278">
+SPA140009309_SILKNET.07.08.14 a.f #ea-028515361.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844781.1406128286.112119">
+<td>21.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844781&code=1406128286">
+SPA140009309_SILKNET.07.08.14 a.f #ea-028515377.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844782.1406128296.112119">
+<td>22.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844782&code=1406128296">
+SPA140009309_SILKNET 07.17.014.SAG.#2188.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844783.1406128304.112119">
+<td>23.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844783&code=1406128304">
+SPA140009309_SILKNET 07.17.014.SAG.#2189.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844786.1406128310.112119">
+<td>24.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844786&code=1406128310">
+SPA140009309_SILKNET 07.17.014.SAG.#2190.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844788.1406128315.112119">
+<td>25.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844788&code=1406128315">
+SPA140009309_SILKNET 07.17.014.SAG.#2193.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844789.1406128319.112119">
+<td>26.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844789&code=1406128319">
+SPA140009309_SILKNET 07.17.014.SAG.#2194.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:11 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844790.1406128324.112119">
+<td>27.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844790&code=1406128324">
+SPA140009309_SILKNET 07.17.014.SAG.#2195.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:12 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844791.1406128328.112119">
+<td>28.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844791&code=1406128328">
+SPA140009309_SILKNET 07.17.014.SAG.#2196.pdf
+</a>
+</td>
+<td class="date">23.07.2014 15:12 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869806.1408554148.112119">
+<td>29.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869806&code=1408554148">
+SPA140009309_SILKNET.08.08.14 a.f #ea-029344054.pdf
+</a>
+</td>
+<td class="date">20.08.2014 17:02 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869808.1408554155.112119">
+<td>30.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869808&code=1408554155">
+SPA140009309_SILKNET.08.08.14 a.f #ea-029344086.pdf
+</a>
+</td>
+<td class="date">20.08.2014 17:02 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869811.1408554162.112119">
+<td>31.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869811&code=1408554162">
+SPA140009309_SILKNET.08.08.14 a.f #ea-029344103.pdf
+</a>
+</td>
+<td class="date">20.08.2014 17:02 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869812.1408554167.112119">
+<td>32.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869812&code=1408554167">
+SPA140009309_SILKNET.08.08.14 a.f #ea-029344142.pdf
+</a>
+</td>
+<td class="date">20.08.2014 17:02 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869813.1408554171.112119">
+<td>33.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869813&code=1408554171">
+SPA140009309_SILKNET.08.08.14 a.f #ea-029344156.pdf
+</a>
+</td>
+<td class="date">20.08.2014 17:02 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869815.1408554176.112119">
+<td>34.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869815&code=1408554176">
+SPA140009309_SILKNET.08.08.14 a.f #ea-029344161.pdf
+</a>
+</td>
+<td class="date">20.08.2014 17:02 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869816.1408554181.112119">
+<td>35.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869816&code=1408554181">
+SPA140009309_SILKNET.08.08.14 a.f #ea-029344197.pdf
+</a>
+</td>
+<td class="date">20.08.2014 17:03 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="870567.1408629543.112119">
+<td>36.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=870567&code=1408629543">
+SPA140009309_SILKNET 08.18.014.SAG.#2243.pdf
+</a>
+</td>
+<td class="date">21.08.2014 13:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="870568.1408629549.112119">
+<td>37.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=870568&code=1408629549">
+SPA140009309_SILKNET 08.18.014.SAG.#2244.pdf
+</a>
+</td>
+<td class="date">21.08.2014 13:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="870569.1408629553.112119">
+<td>38.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=870569&code=1408629553">
+SPA140009309_SILKNET 08.18.014.SAG.#2245.pdf
+</a>
+</td>
+<td class="date">21.08.2014 13:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="870570.1408629557.112119">
+<td>39.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=870570&code=1408629557">
+SPA140009309_SILKNET 08.18.014.SAG.#2247.pdf
+</a>
+</td>
+<td class="date">21.08.2014 13:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="870571.1408629561.112119">
+<td>40.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=870571&code=1408629561">
+SPA140009309_SILKNET 08.18.014.SAG.#2248.pdf
+</a>
+</td>
+<td class="date">21.08.2014 13:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="870572.1408629564.112119">
+<td>41.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=870572&code=1408629564">
+SPA140009309_SILKNET 08.18.014.SAG.#2249.pdf
+</a>
+</td>
+<td class="date">21.08.2014 13:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="870573.1408629567.112119">
+<td>42.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=870573&code=1408629567">
+SPA140009309_SILKNET 08.18.014.SAG.#2250.pdf
+</a>
+</td>
+<td class="date">21.08.2014 13:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="886865.1410368116.112119">
+<td>43.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=886865&code=1410368116">
+SPA140009309_SILKNET.09.08.14 a.f #ea-030084262.pdf
+</a>
+</td>
+<td class="date">10.09.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="886867.1410368127.112119">
+<td>44.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=886867&code=1410368127">
+SPA140009309_SILKNET.09.08.14 a.f #ea-030084329.pdf
+</a>
+</td>
+<td class="date">10.09.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="886869.1410368133.112119">
+<td>45.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=886869&code=1410368133">
+SPA140009309_SILKNET.09.08.14 a.f #ea-030084342.pdf
+</a>
+</td>
+<td class="date">10.09.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="886871.1410368141.112119">
+<td>46.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=886871&code=1410368141">
+SPA140009309_SILKNET.09.08.14 a.f #ea-030084441.pdf
+</a>
+</td>
+<td class="date">10.09.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="886872.1410368148.112119">
+<td>47.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=886872&code=1410368148">
+SPA140009309_SILKNET.09.08.14 a.f #ea-030084454.pdf
+</a>
+</td>
+<td class="date">10.09.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="886874.1410368154.112119">
+<td>48.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=886874&code=1410368154">
+SPA140009309_SILKNET.09.08.14 a.f #ea-030084478.pdf
+</a>
+</td>
+<td class="date">10.09.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="886877.1410368160.112119">
+<td>49.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=886877&code=1410368160">
+SPA140009309_SILKNET.09.08.14 a.f #ea-030084507.pdf
+</a>
+</td>
+<td class="date">10.09.2014 16:56 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="911003.1412602504.112119">
+<td>50.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=911003&code=1412602504">
+SPA140009309_SILKNET 09.16.014.SAG.#2403.pdf
+</a>
+</td>
+<td class="date">06.10.2014 13:35 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="911005.1412602512.112119">
+<td>51.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=911005&code=1412602512">
+SPA140009309_SILKNET 09.16.014.SAG.#2404.pdf
+</a>
+</td>
+<td class="date">06.10.2014 13:35 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="911006.1412602517.112119">
+<td>52.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=911006&code=1412602517">
+SPA140009309_SILKNET 09.16.014.SAG.#2405.pdf
+</a>
+</td>
+<td class="date">06.10.2014 13:35 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="911008.1412602524.112119">
+<td>53.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=911008&code=1412602524">
+SPA140009309_SILKNET 09.16.014.SAG.#2407.pdf
+</a>
+</td>
+<td class="date">06.10.2014 13:35 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="911009.1412602529.112119">
+<td>54.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=911009&code=1412602529">
+SPA140009309_SILKNET 09.16.014.SAG.#2408.pdf
+</a>
+</td>
+<td class="date">06.10.2014 13:35 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="911010.1412602533.112119">
+<td>55.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=911010&code=1412602533">
+SPA140009309_SILKNET 09.16.014.SAG.#2409.pdf
+</a>
+</td>
+<td class="date">06.10.2014 13:35 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="911011.1412602537.112119">
+<td>56.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=911011&code=1412602537">
+SPA140009309_SILKNET 09.16.014.SAG.#2410.pdf
+</a>
+</td>
+<td class="date">06.10.2014 13:35 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918410.1413195666.112119">
+<td>57.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918410&code=1413195666">
+SPA140009309_SILKNET.10.09.14 a.f #ea-030944333.pdf
+</a>
+</td>
+<td class="date">13.10.2014 10:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918411.1413195672.112119">
+<td>58.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918411&code=1413195672">
+SPA140009309_SILKNET.10.09.14 a.f #ea-030944365.pdf
+</a>
+</td>
+<td class="date">13.10.2014 10:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918412.1413195678.112119">
+<td>59.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918412&code=1413195678">
+SPA140009309_SILKNET.10.09.14 a.f #ea-030944375.pdf
+</a>
+</td>
+<td class="date">13.10.2014 10:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918413.1413195684.112119">
+<td>60.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918413&code=1413195684">
+SPA140009309_SILKNET.10.09.14 a.f #ea-030944423.pdf
+</a>
+</td>
+<td class="date">13.10.2014 10:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918415.1413195695.112119">
+<td>61.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918415&code=1413195695">
+SPA140009309_SILKNET.10.09.14 a.f #ea-030944440.pdf
+</a>
+</td>
+<td class="date">13.10.2014 10:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918417.1413195704.112119">
+<td>62.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918417&code=1413195704">
+SPA140009309_SILKNET.10.09.14 a.f #ea-030944447.pdf
+</a>
+</td>
+<td class="date">13.10.2014 10:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918418.1413195739.112119">
+<td>63.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918418&code=1413195739">
+SPA140009309_SILKNET.10.09.14 a.f #ea-030944461.pdf
+</a>
+</td>
+<td class="date">13.10.2014 10:22 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="935148.1414675580.112119">
+<td>64.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=935148&code=1414675580">
+SPA140009309_SILKNET 10.20.014.SAG.#2680.pdf
+</a>
+</td>
+<td class="date">30.10.2014 13:26 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="935149.1414675586.112119">
+<td>65.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=935149&code=1414675586">
+SPA140009309_SILKNET 10.20.014.SAG.#2681.pdf
+</a>
+</td>
+<td class="date">30.10.2014 13:26 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="935150.1414675606.112119">
+<td>66.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=935150&code=1414675606">
+SPA140009309_SILKNET 10.20.014.SAG.#2682.pdf
+</a>
+</td>
+<td class="date">30.10.2014 13:26 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="935152.1414675611.112119">
+<td>67.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=935152&code=1414675611">
+SPA140009309_SILKNET 10.20.014.SAG.#2684.pdf
+</a>
+</td>
+<td class="date">30.10.2014 13:26 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="935153.1414675618.112119">
+<td>68.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=935153&code=1414675618">
+SPA140009309_SILKNET 10.20.014.SAG.#2685.pdf
+</a>
+</td>
+<td class="date">30.10.2014 13:26 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="935154.1414675623.112119">
+<td>69.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=935154&code=1414675623">
+SPA140009309_SILKNET 10.20.014.SAG.#2686.pdf
+</a>
+</td>
+<td class="date">30.10.2014 13:27 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="935155.1414675627.112119">
+<td>70.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=935155&code=1414675627">
+SPA140009309_SILKNET 10.20.014.SAG.#2687.pdf
+</a>
+</td>
+<td class="date">30.10.2014 13:27 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="947098.1415724601.112119">
+<td>71.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=947098&code=1415724601">
+SPA140009309_SILKNET.11.11.14 a.f #ea-031822210.pdf
+</a>
+</td>
+<td class="date">11.11.2014 16:50 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="947100.1415724616.112119">
+<td>72.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=947100&code=1415724616">
+SPA140009309_SILKNET.11.11.14 a.f #ea-031822294.pdf
+</a>
+</td>
+<td class="date">11.11.2014 16:50 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="947102.1415724623.112119">
+<td>73.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=947102&code=1415724623">
+SPA140009309_SILKNET.11.11.14 a.f #ea-031822312.pdf
+</a>
+</td>
+<td class="date">11.11.2014 16:50 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="947103.1415724630.112119">
+<td>74.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=947103&code=1415724630">
+SPA140009309_SILKNET.11.11.14 a.f #ea-031822472.pdf
+</a>
+</td>
+<td class="date">11.11.2014 16:50 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="947105.1415724638.112119">
+<td>75.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=947105&code=1415724638">
+SPA140009309_SILKNET.11.11.14 a.f #ea-031822511.pdf
+</a>
+</td>
+<td class="date">11.11.2014 16:50 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="947106.1415724646.112119">
+<td>76.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=947106&code=1415724646">
+SPA140009309_SILKNET.11.11.14 a.f #ea-031822535.pdf
+</a>
+</td>
+<td class="date">11.11.2014 16:50 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="947108.1415724652.112119">
+<td>77.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=947108&code=1415724652">
+SPA140009309_SILKNET.11.11.14 a.f #ea-031822621.pdf
+</a>
+</td>
+<td class="date">11.11.2014 16:50 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="958646.1416585565.112119">
+<td>78.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=958646&code=1416585565">
+SPA140009309_SILKNET 11.20.014.SAG.#2304.pdf
+</a>
+</td>
+<td class="date">21.11.2014 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="958647.1416585576.112119">
+<td>79.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=958647&code=1416585576">
+SPA140009309_SILKNET 11.20.014.SAG.#2305.pdf
+</a>
+</td>
+<td class="date">21.11.2014 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="958648.1416585582.112119">
+<td>80.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=958648&code=1416585582">
+SPA140009309_SILKNET 11.20.014.SAG.#2306.pdf
+</a>
+</td>
+<td class="date">21.11.2014 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="958650.1416585587.112119">
+<td>81.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=958650&code=1416585587">
+SPA140009309_SILKNET 11.20.014.SAG.#2308.pdf
+</a>
+</td>
+<td class="date">21.11.2014 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="958651.1416585591.112119">
+<td>82.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=958651&code=1416585591">
+SPA140009309_SILKNET 11.20.014.SAG.#2309.pdf
+</a>
+</td>
+<td class="date">21.11.2014 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="958652.1416585597.112119">
+<td>83.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=958652&code=1416585597">
+SPA140009309_SILKNET 11.20.014.SAG.#2310.pdf
+</a>
+</td>
+<td class="date">21.11.2014 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="958653.1416585602.112119">
+<td>84.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=958653&code=1416585602">
+SPA140009309_SILKNET 11.20.014.SAG.#2311.pdf
+</a>
+</td>
+<td class="date">21.11.2014 16:00 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988528.1418837559.112119">
+<td>85.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988528&code=1418837559">
+SPA140009309_SILKNET.12.10.14 a.f #ea-032618396.pdf
+</a>
+</td>
+<td class="date">17.12.2014 17:32 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988529.1418837574.112119">
+<td>86.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988529&code=1418837574">
+SPA140009309_SILKNET.12.10.14 a.f #ea-032618421.pdf
+</a>
+</td>
+<td class="date">17.12.2014 17:32 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988530.1418837581.112119">
+<td>87.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988530&code=1418837581">
+SPA140009309_SILKNET.12.10.14 a.f #ea-032618428.pdf
+</a>
+</td>
+<td class="date">17.12.2014 17:33 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988532.1418837586.112119">
+<td>88.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988532&code=1418837586">
+SPA140009309_SILKNET.12.10.14 a.f #ea-032618465.pdf
+</a>
+</td>
+<td class="date">17.12.2014 17:33 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988533.1418837592.112119">
+<td>89.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988533&code=1418837592">
+SPA140009309_SILKNET.12.10.14 a.f #ea-032618470.pdf
+</a>
+</td>
+<td class="date">17.12.2014 17:33 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988534.1418837598.112119">
+<td>90.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988534&code=1418837598">
+SPA140009309_SILKNET.12.10.14 a.f #ea-032618486.pdf
+</a>
+</td>
+<td class="date">17.12.2014 17:33 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988535.1418837604.112119">
+<td>91.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988535&code=1418837604">
+SPA140009309_SILKNET.12.10.14 a.f #ea-032628889.pdf
+</a>
+</td>
+<td class="date">17.12.2014 17:33 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992917.1419180862.112119">
+<td>92.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete1">
+<a target="blank" href="engine/files.php?mode=app&file=992917&code=1419180862">
+SPA140009309_SILKNET.12.10.14 a.f #ea-032618396.pdf
+</a>
+</td>
+<td class="date">21.12.2014 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992918.1419180886.112119">
+<td>93.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=992918&code=1419180886">
+SPA140009309_SILKNET 12.11.014.SAG.#3098.pdf
+</a>
+</td>
+<td class="date">21.12.2014 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992919.1419180902.112119">
+<td>94.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=992919&code=1419180902">
+SPA140009309_SILKNET 12.11.014.SAG.#3099.pdf
+</a>
+</td>
+<td class="date">21.12.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992920.1419180908.112119">
+<td>95.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=992920&code=1419180908">
+SPA140009309_SILKNET 12.11.014.SAG.#3100.pdf
+</a>
+</td>
+<td class="date">21.12.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992921.1419180912.112119">
+<td>96.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=992921&code=1419180912">
+SPA140009309_SILKNET 12.11.014.SAG.#3102.pdf
+</a>
+</td>
+<td class="date">21.12.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992922.1419180918.112119">
+<td>97.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=992922&code=1419180918">
+SPA140009309_SILKNET 12.11.014.SAG.#3103.pdf
+</a>
+</td>
+<td class="date">21.12.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992923.1419180923.112119">
+<td>98.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=992923&code=1419180923">
+SPA140009309_SILKNET 12.11.014.SAG.#3104.pdf
+</a>
+</td>
+<td class="date">21.12.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992924.1419180928.112119">
+<td>99.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=992924&code=1419180928">
+SPA140009309_SILKNET 12.11.014.SAG.#3105.pdf
+</a>
+</td>
+<td class="date">21.12.2014 16:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1016117.1420822474.112119">
+<td>100.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1016117&code=1420822474">
+SPA140009309_SILKNET.01.08.015 a.f #ea-033268923.pdf
+</a>
+</td>
+<td class="date">09.01.2015 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1016118.1420822478.112119">
+<td>101.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1016118&code=1420822478">
+SPA140009309_SILKNET.01.08.015 a.f #ea-033268935.pdf
+</a>
+</td>
+<td class="date">09.01.2015 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1016119.1420822482.112119">
+<td>102.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1016119&code=1420822482">
+SPA140009309_SILKNET.01.08.015 a.f #ea-033268946.pdf
+</a>
+</td>
+<td class="date">09.01.2015 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1016120.1420822485.112119">
+<td>103.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1016120&code=1420822485">
+SPA140009309_SILKNET.01.08.015 a.f #ea-033268968.pdf
+</a>
+</td>
+<td class="date">09.01.2015 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1016122.1420822489.112119">
+<td>104.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1016122&code=1420822489">
+SPA140009309_SILKNET.01.08.015 a.f #ea-033268996.pdf
+</a>
+</td>
+<td class="date">09.01.2015 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1016123.1420822494.112119">
+<td>105.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1016123&code=1420822494">
+SPA140009309_SILKNET.01.08.015 a.f #ea-033269020.pdf
+</a>
+</td>
+<td class="date">09.01.2015 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1016124.1420822498.112119">
+<td>106.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1016124&code=1420822498">
+SPA140009309_SILKNET.01.08.015 a.f #ea-033269036.pdf
+</a>
+</td>
+<td class="date">09.01.2015 16:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1036586.1422456867.112119">
+<td>107.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1036586&code=1422456867">
+SPA140009309_SILKNET 01.14.015.SAG.#0007.pdf
+</a>
+</td>
+<td class="date">28.01.2015 14:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1036588.1422456872.112119">
+<td>108.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1036588&code=1422456872">
+SPA140009309_SILKNET 01.14.015.SAG.#0008.pdf
+</a>
+</td>
+<td class="date">28.01.2015 14:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1036589.1422456875.112119">
+<td>109.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1036589&code=1422456875">
+SPA140009309_SILKNET 01.14.015.SAG.#0009.pdf
+</a>
+</td>
+<td class="date">28.01.2015 14:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1036590.1422456879.112119">
+<td>110.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1036590&code=1422456879">
+SPA140009309_SILKNET 01.14.015.SAG.#0011.pdf
+</a>
+</td>
+<td class="date">28.01.2015 14:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1036591.1422456884.112119">
+<td>111.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1036591&code=1422456884">
+SPA140009309_SILKNET 01.14.015.SAG.#0013.pdf
+</a>
+</td>
+<td class="date">28.01.2015 14:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1036592.1422456889.112119">
+<td>112.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1036592&code=1422456889">
+SPA140009309_SILKNET 01.14.015.SAG.#0014.pdf
+</a>
+</td>
+<td class="date">28.01.2015 14:54 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1036593.1422456900.112119">
+<td>113.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1036593&code=1422456900">
+SPA140009309_SILKNET 01.14.015.SAG.#0056.pdf
+</a>
+</td>
+<td class="date">28.01.2015 14:55 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1051984.1423581681.112119">
+<td>114.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1051984&code=1423581681">
+SPA140009309_SILKNET.02.10.015 a.f #ea-034052511.pdf
+</a>
+</td>
+<td class="date">10.02.2015 15:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1051985.1423581690.112119">
+<td>115.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1051985&code=1423581690">
+SPA140009309_SILKNET.02.10.015 a.f #ea-034052519.pdf
+</a>
+</td>
+<td class="date">10.02.2015 15:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1051987.1423581696.112119">
+<td>116.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1051987&code=1423581696">
+SPA140009309_SILKNET.02.10.015 a.f #ea-034052530.pdf
+</a>
+</td>
+<td class="date">10.02.2015 15:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1051988.1423581704.112119">
+<td>117.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1051988&code=1423581704">
+SPA140009309_SILKNET.02.10.015 a.f #ea-034052548.pdf
+</a>
+</td>
+<td class="date">10.02.2015 15:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1051989.1423581713.112119">
+<td>118.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1051989&code=1423581713">
+SPA140009309_SILKNET.02.10.015 a.f #ea-034052554.pdf
+</a>
+</td>
+<td class="date">10.02.2015 15:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1051990.1423581718.112119">
+<td>119.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1051990&code=1423581718">
+SPA140009309_SILKNET.02.10.015 a.f #ea-034052559.pdf
+</a>
+</td>
+<td class="date">10.02.2015 15:21 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1051993.1423581768.112119">
+<td>120.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1051993&code=1423581768">
+SPA140009309_SILKNET.02.10.015 a.f #ea-034052568.pdf
+</a>
+</td>
+<td class="date">10.02.2015 15:22 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1063222.1424275162.112119">
+<td>121.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1063222&code=1424275162">
+SPA140009309_SILKNET 02.13.015.SAG.#1611.pdf
+</a>
+</td>
+<td class="date">18.02.2015 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1063223.1424275167.112119">
+<td>122.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1063223&code=1424275167">
+SPA140009309_SILKNET 02.13.015.SAG.#1612.pdf
+</a>
+</td>
+<td class="date">18.02.2015 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1063224.1424275172.112119">
+<td>123.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1063224&code=1424275172">
+SPA140009309_SILKNET 02.13.015.SAG.#1613.pdf
+</a>
+</td>
+<td class="date">18.02.2015 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1063225.1424275178.112119">
+<td>124.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1063225&code=1424275178">
+SPA140009309_SILKNET 02.13.015.SAG.#1615.pdf
+</a>
+</td>
+<td class="date">18.02.2015 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1063226.1424275182.112119">
+<td>125.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1063226&code=1424275182">
+SPA140009309_SILKNET 02.13.015.SAG.#1616.pdf
+</a>
+</td>
+<td class="date">18.02.2015 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1063227.1424275186.112119">
+<td>126.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1063227&code=1424275186">
+SPA140009309_SILKNET 02.13.015.SAG.#1617.pdf
+</a>
+</td>
+<td class="date">18.02.2015 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1063228.1424275190.112119">
+<td>127.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1063228&code=1424275190">
+SPA140009309_SILKNET 02.13.015.SAG.#1618.pdf
+</a>
+</td>
+<td class="date">18.02.2015 15:59 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1092926.1426166363.112119">
+<td>128.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1092926&code=1426166363">
+SPA140009309_SILKNET.03.10.015 a.f #ea-034767203.pdf
+</a>
+</td>
+<td class="date">12.03.2015 13:19 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1092928.1426166371.112119">
+<td>129.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1092928&code=1426166371">
+SPA140009309_SILKNET.03.10.015 a.f #ea-034767231.pdf
+</a>
+</td>
+<td class="date">12.03.2015 13:19 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1092929.1426166377.112119">
+<td>130.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1092929&code=1426166377">
+SPA140009309_SILKNET.03.10.015 a.f #ea-034767243.pdf
+</a>
+</td>
+<td class="date">12.03.2015 13:19 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1092930.1426166384.112119">
+<td>131.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1092930&code=1426166384">
+SPA140009309_SILKNET.03.10.015 a.f #ea-034767300.pdf
+</a>
+</td>
+<td class="date">12.03.2015 13:19 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1092931.1426166391.112119">
+<td>132.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1092931&code=1426166391">
+SPA140009309_SILKNET.03.10.015 a.f #ea-034767310.pdf
+</a>
+</td>
+<td class="date">12.03.2015 13:19 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1092932.1426166398.112119">
+<td>133.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1092932&code=1426166398">
+SPA140009309_SILKNET.03.10.015 a.f #ea-034767332.pdf
+</a>
+</td>
+<td class="date">12.03.2015 13:19 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1092933.1426166406.112119">
+<td>134.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1092933&code=1426166406">
+SPA140009309_SILKNET.03.10.015 a.f #ea-034767335.pdf
+</a>
+</td>
+<td class="date">12.03.2015 13:20 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1106298.1426872611.112119">
+<td>135.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1106298&code=1426872611">
+SPA140009309_SILKNET 03.13.015.SAG.#1830.pdf
+</a>
+</td>
+<td class="date">20.03.2015 17:30 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1106300.1426872618.112119">
+<td>136.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1106300&code=1426872618">
+SPA140009309_SILKNET 03.13.015.SAG.#1831.pdf
+</a>
+</td>
+<td class="date">20.03.2015 17:30 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1106302.1426872621.112119">
+<td>137.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1106302&code=1426872621">
+SPA140009309_SILKNET 03.13.015.SAG.#1832.pdf
+</a>
+</td>
+<td class="date">20.03.2015 17:30 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1106303.1426872625.112119">
+<td>138.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1106303&code=1426872625">
+SPA140009309_SILKNET 03.13.015.SAG.#1834.pdf
+</a>
+</td>
+<td class="date">20.03.2015 17:30 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1106304.1426872630.112119">
+<td>139.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1106304&code=1426872630">
+SPA140009309_SILKNET 03.13.015.SAG.#1835.pdf
+</a>
+</td>
+<td class="date">20.03.2015 17:30 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1106307.1426872636.112119">
+<td>140.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1106307&code=1426872636">
+SPA140009309_SILKNET 03.13.015.SAG.#1836.pdf
+</a>
+</td>
+<td class="date">20.03.2015 17:30 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1106309.1426872644.112119">
+<td>141.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1106309&code=1426872644">
+SPA140009309_SILKNET 03.13.015.SAG.#1837.pdf
+</a>
+</td>
+<td class="date">20.03.2015 17:30 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1107405.1427108667.112119">
+<td>142.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1107405&code=1427108667">
+SPA140009309_SILKNET 03.20.015.SAG.#0003.pdf
+</a>
+</td>
+<td class="date">23.03.2015 11:04 :: მიხეილგოგოძე</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 10`272.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 8`340.51 ლარი  (81%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>10.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2015</td>
+<td>1</td>
+<td>20.03.2015&nbsp;
+
+</td>
+<td class="date">23.03.2015<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>772.72 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2015</td>
+<td>1</td>
+<td>13.03.2015&nbsp;
+
+</td>
+<td class="date">20.03.2015<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>787.16 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2015</td>
+<td>1</td>
+<td>13.02.2015&nbsp;
+
+</td>
+<td class="date">18.02.2015<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>942.02 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2015</td>
+<td>4</td>
+<td>14.01.2015&nbsp;
+
+</td>
+<td class="date">28.01.2015<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>735.46 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>11.12.2014&nbsp;
+
+</td>
+<td class="date">21.12.2014<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>889.17 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>20.11.2014&nbsp;
+
+</td>
+<td class="date">21.11.2014<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>782.83 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>20.10.2014&nbsp;
+
+</td>
+<td class="date">30.10.2014<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>836.35 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>3</td>
+<td>16.09.2014&nbsp;
+
+</td>
+<td class="date">06.10.2014<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>924.90 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>18.08.2014&nbsp;
+
+</td>
+<td class="date">21.08.2014<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>864.87 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>17.07.2014&nbsp;
+
+</td>
+<td class="date">23.07.2014<br>მიხეილგოგოძე</td>
+</tr><tr class="activebid1">
+<td>795.03 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>17.06.2014&nbsp;
+
+</td>
+<td class="date">24.06.2014<br>მიხეილგოგოძე</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'112119'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

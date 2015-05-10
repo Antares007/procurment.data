@@ -1,0 +1,1599 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140012580</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv115501" /><label for="fv115501"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1686)"><img src="images/profile24_0.png"> შპს საქაერონავიგაცია</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>15.05.2014 10:39</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>20.05.2014 00:00</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>22.05.2014 13:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="22010-GEL-15.05.2014 10:39">22`010.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გარეშე</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;39700000 - საოჯახო ტექნიკა</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;39710000 - საოჯახო ელექტროტექნიკა
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;39711130 - მაცივრები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;39711361 - ელექტროღუმელები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;39711362 - მიკროტალღური ღუმელები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;39713430 - მტვერსასრუტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;39715000 - წყლის გამაცხელებლები და შენობების გასათბობი სისტემა, სანტექნიკის მოწყობილობა
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;39715200 - გამათბობელი მოწყობილობები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;39717000 - ვენტილატორები და ჰაერის კონდიცირების მოწყობილობები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;39717100 - ვენტილატორები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla"></div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების ძალაში შესვლიდან 20 სამუშაო დღე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>200.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>220 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=115501&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="115501">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: თეონა გაჩეჩილაძე :: 15.05.2014 10:38</li>
+	<li style="text-align:right">ბოლო შესწორება: თეონა გაჩეჩილაძე :: 15.05.2014 10:38</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:115501, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '115501'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="770726.1400150330.115501">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=770726&code=1400150330">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=770726&code=1400150330">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">15.05.2014 10:38<br/>თეონა გაჩეჩილაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 22`010.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების ძალაში შესვლიდან 20 სამუშაო დღე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B115501135795">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(15595)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">SmartNet</span>
+			</td>
+		<td class="activebid1"><strong>15`700.00</strong>&nbsp;<br/><span class="date">22.05.2014 13:11</span></td>
+		<td class="activebid1">22`010.00&nbsp;<br/><span class="date">22.05.2014 12:45</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(115501,135795)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B115501135656">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(35915)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს სტარტი</span>
+			</td>
+		<td class="activebid1"><strong>15`695.00</strong>&nbsp;<br/><span class="date">22.05.2014 13:13</span></td>
+		<td class="activebid1">21`130.00&nbsp;<br/><span class="date">21.05.2014 17:24</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(115501,135656)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">13:05</td>
+		<td align="center" class="activebid1">13:07</td>
+		<td class="activebid1">SmartNet</td>
+		<td align="center" class="activebid1"><strong>16`730.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:07</td>
+		<td align="center" class="activebid1">13:09</td>
+		<td class="activebid1">შპს სტარტი</td>
+		<td align="center" class="activebid1"><strong>16`729.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">13:11</td>
+		<td align="center" class="activebid1">13:13</td>
+		<td class="activebid1">SmartNet</td>
+		<td align="center" class="activebid1"><strong>15`700.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:13</td>
+		<td align="center" class="activebid1">13:15</td>
+		<td class="activebid1">შპს სტარტი</td>
+		<td align="center" class="activebid1"><strong>15`695.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:17</td>
+		<td align="center" class="activebid1">13:19</td>
+		<td class="activebid1">SmartNet</td>
+		<td align="center" class="activebid1"><strong>15`700.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:19</td>
+		<td align="center" class="activebid1">13:21</td>
+		<td class="activebid1">შპს სტარტი</td>
+		<td align="center" class="activebid1"><strong>15`695.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B115501">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(15595)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">SmartNet</span>
+		</td>
+		<td class="activebid1"><strong>19`340.00</strong></td>
+		<td class="date activebid1">22.05.2014 12:45</td>
+	</tr><tr bgcolor="#ffffff" id="B115501">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(35915)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს სტარტი</span>
+		</td>
+		<td class="activebid1"><strong>18`510.00</strong></td>
+		<td class="date activebid1">21.05.2014 18:25</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'115501'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'115501'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="786407.1401291568.115501">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=786407&code=1401291568">
+                    SPA140012580_ინტერესთა კონფლიქტი.pdf
+                    </a>
+                </td>
+                <td class="date">28.05.2014 15:39 :: თეონა გაჩეჩილაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="786412.1401291604.115501">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=786412&code=1401291604">
+                    SPA140012580_ოქმი 2.pdf
+                    </a>
+                </td>
+                <td class="date">28.05.2014 15:40 :: თეონა გაჩეჩილაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="786415.1401291628.115501">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=786415&code=1401291628">
+                    SPA140012580_წერილი დაზუსტებაზე.pdf
+                    </a>
+                </td>
+                <td class="date">28.05.2014 15:40 :: თეონა გაჩეჩილაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="790040.1401471325.115501">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=790040&code=1401471325">
+                    SPA140012580_12580 დაზუსტება.pdf
+                    </a>
+                </td>
+                <td class="date">30.05.2014 17:35 :: ნონაკობაიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="793473.1401814106.115501">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=793473&code=1401814106">
+                    SPA140012580_ოქმი 3.pdf
+                    </a>
+                </td>
+                <td class="date">03.06.2014 16:48 :: თეონა გაჩეჩილაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="793476.1401814143.115501">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=793476&code=1401814143">
+                    SPA140012580_მოწვევა ხელშეკრულებაზე.pdf
+                    </a>
+                </td>
+                <td class="date">03.06.2014 16:49 :: თეონა გაჩეჩილაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A92115">
+                <td>
+                    &nbsp;
+                    <span title="39715200 - გამათბობელი მოწყობილობები">39715200 - გამათბობელი მოწყობილობები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">NEO OR 2011 (დაუდგენელი)<br/>ელექტრო გამათბობელი (ზეთის რადიატორი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:50 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">153.40 GEL<br/>
+                <span class="color-2">33 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;5`062.20 GEL</td>
+                <td title="ელ.კვება- 220-240ვ 50 (+3)ჰც, სიმძლავრე - არანაკლებ 2500ვტ; სიმძლავრის რეგულირება - 3 საფეხურიანი; სექციების რაოდენობა -არანაკლებ  10ც; უნდა გააჩნდეს თერმოსტატი და  დაცვა გადახურებისაგან; გამათბობელს ასევე უნდა გააჩნდეს ევროჩანგალი და ბორბლები.">ელ.კვება- ...</td>
+            </tr><tr id="A92089">
+                <td>
+                    &nbsp;
+                    <span title="39717100 - ვენტილატორები">39717100 - ვენტილატორები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">CROWN (დაუდგენელი)<br/>ვენტილატორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:41 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">23.60 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;47.20 GEL</td>
+                <td title="ჰაერის ნაკადის მიმართულების ცვლილების ფუნქციით;  დახრის კუთხის რეგულირება; ძაბვა-220-240V; სიხშირე-50Hz;  სიმძლავრე-არანაკლებ 60W;  სადენის სიგრძე - 1,5მ; ფრთების დიამეტრი-43-45სმ;     მაქსიმალური სიმაღლე-135სმ.">ჰაერის ნაკ...</td>
+            </tr><tr id="A92065">
+                <td>
+                    &nbsp;
+                    <span title="39710000 - საოჯახო ელექტროტექნიკა">39710000 - საოჯახო ელექტროტექნიკა...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">KENWOOD (დაუდგენელი)<br/>ელექტრო ჩაიდანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:32 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">23.60 GEL<br/>
+                <span class="color-2">45 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`062.00 GEL</td>
+                <td title="ძაბვა - 220-240ვ; სიხშირე - 50 ჰც; სიმძლავრე -1800-2200 ვტ; მოცულობა -1,5-2ლ;">ძაბვა - 22...</td>
+            </tr><tr id="A92121">
+                <td>
+                    &nbsp;
+                    <span title="39711130 - მაცივრები">39711130 - მაცივრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">TOSHIBA (დაუდგენელი)<br/>მაცივარი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:52 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">649.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`245.00 GEL</td>
+                <td title="დამოუკიდებლად მდგომი ორკამერიანი (მაცივარი/საყინულე); მუშაობის პრინციპი- მშრალი გაყინვა;  კომპრესორების რაოდენობა - 1 ცალი; მოცულობა - საერთო მოცულობა  250-300 ლ; მაცივარი კამერა-200-230 ლ; საყინულე კამერა-60-100 ლ; ენერგომოხმარების კლასი A++;        გაბარიტები (სიმ/სიგ/სირ) - 160±15X60±5X65±5 სმ;">დამოუკიდებ...</td>
+            </tr><tr id="A92137">
+                <td>
+                    &nbsp;
+                    <span title="39713210 - სარეცხი/საშრობები ">39713210 - სარეცხი/საშრობები </span><br>
+                    <span style="font-size:0.9em" class="adj-0">STAR (დაუდგენელი)<br/>საშრობი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:57 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">47.20 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;188.80 GEL</td>
+                <td title="საყოფაცხოვრებო სარეცხის საშრობი (გასაშლელი),მეტალის.                                                ზომა: არანაკლებ 90სმX45სმ (დაკეცილ მდგომარეობაში).">საყოფაცხოვ...</td>
+            </tr><tr id="A92109">
+                <td>
+                    &nbsp;
+                    <span title="39711361 - ელექტროღუმელები">39711361 - ელექტროღუმელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">EUROSTAR (დაუდგენელი)<br/>მაგიდის  2-კომფორიანი     ელექტრო ღუმელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:48 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">64.90 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;194.70 GEL</td>
+                <td title="ფოლადის ემალირებული კორპუსი; კომფორების რაოდენობა - 2ც; მაქსიმალური სიმძლავრე -2500ვტ; მარცხენა კომფორის სიმძლავრე-750-760ვტ; მარჯვენა კომფორის სიმძლავრე-1500-1510ვტ;  გახურების დრო - მაქსიმუმ 4 წუთამდე; ორი მექანიკური ტემპერატურის რეგულატორი; ნომინალური ძაბვა 220-240ვ; ყოველი კამფორის ჩართვის და მუშაობის ინდიკატორი. ზომები: სიმაღლე - 8-10 სმ; სიგრძე - 45-55 სმ;  სიგანე - 30-40 სმ;">ფოლადის ემ...</td>
+            </tr><tr id="A92077">
+                <td>
+                    &nbsp;
+                    <span title="39711361 - ელექტროღუმელები">39711361 - ელექტროღუმელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">TERMIKEL (დაუდგენელი)<br/>ელექტრო ქურა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:36 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">354.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;708.00 GEL</td>
+                <td title="კვება-220ვ; ელექტრო მომხმარებლის კლასი-A; ტემპერატურის რეგულატორი;  ზომა-850-860X595-600X595-600მმ">კვება-220ვ...</td>
+            </tr><tr id="A92149">
+                <td>
+                    &nbsp;
+                    <span title="39713430 - მტვერსასრუტები">39713430 - მტვერსასრუტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">NEO (დაუდგენელი)<br/>მტვერსასრუტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 17:04 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">295.00 GEL<br/>
+                <span class="color-2">6 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`770.00 GEL</td>
+                <td title="დაბერვის, შეწოვის ფუნქციით. ძრავის დაცვა მტვრისაგან. სიმძლავრე არანაკლებ 1600 ვატი. ცვლადი ფილტრი ხანგრძლივი მუშაობისათვის. ძაბვა-220ვ (+/- 10%) ქსელიდან. ავზის მოცულობა- არანაკლებ 3ლ.">დაბერვის, ...</td>
+            </tr><tr id="A92147">
+                <td>
+                    &nbsp;
+                    <span title="39713430 - მტვერსასრუტები">39713430 - მტვერსასრუტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ZELMER (დაუდგენელი)<br/>მტვერსასრუტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 17:02 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">2`371.80 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`371.80 GEL</td>
+                <td title="წყლის მწმენდავი მტვერსასრუტი, რბილი იატაკისთვის;    სიხშირე-50Hz; დაცვის ტიპი IPX4; დაცვის კლასი II; ძრავის ნომინალური სიმძლავრე - 1100W; გამფრქვევი ტუმბოს სიმძლავრე -  40 W; გაფრქვეული ნივთიერების რაოდენობა - 1ლ/წთ; გამწმენდი სითხის ტემპერატურა- 50°;  ხმაურის დონე EU74-ის შესაბამისად; აქსესუარები-კომპლექტში.">წყლის მწმე...</td>
+            </tr><tr id="A92143">
+                <td>
+                    &nbsp;
+                    <span title="39713430 - მტვერსასრუტები">39713430 - მტვერსასრუტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">SILVER (დაუდგენელი)<br/>მტვერსასრუტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:59 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">354.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;708.00 GEL</td>
+                <td title="მტვრის შემგროვებელი- ციკლონური კონტეინერი (ჭიქა) არანაკლებ 1,9 ლიტრი, კომპაქტური;   ფილტრაციის სისტემით;  ინტელექტუალური სისტამით, რომელიც მუდმივად ამოწმებს წარმადობას; გორგოლაჭები მანევრირებისათვის; სიმძლავრის რეგულატორი; ელექტრო სადენის  ავტომატური დახვევა; მტვრის შემგროვებლის ავსების ელექტრონული ინდიკატორი; ძაბვა-220-240V; სიხშირე-50Hz; სიმძლავრე-300-2200W;    სადენის სიგრძე-7 მ;">მტვრის შემ...</td>
+            </tr><tr id="A92099">
+                <td>
+                    &nbsp;
+                    <span title="39711362 - მიკროტალღური ღუმელები">39711362 - მიკროტალღური ღუმელები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">EUROLUX (დაუდგენელი)<br/>მიკრიტალღური ღუმელი (გრილით)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:45 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">236.00 GEL<br/>
+                <span class="color-2">11 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`596.00 GEL</td>
+                <td title="მოცულობა - 23 ლ; მართვის ტიპი - ელექტრონული; შიდა საფარი - ბიოკერამიკული ემალი; ტაიმერით; წონა - არაუმეტეს 15 კგ;  სიმძლავრის დონეების რაოდენობა -  6; გამოსხივების სიმძლავრე - 850-860ვტ;  გრილის სიმძლავრე - 1100-1110 ვტ,">მოცულობა -...</td>
+            </tr><tr id="A92083">
+                <td>
+                    &nbsp;
+                    <span title="39717000 - ვენტილატორები და ჰაერის კონდიცირების მოწყობილობები">39717000 - ვენტილატორები და ჰაერის კონდიცირების მოწყობილობები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">EXTRACT (დაუდგენელი)<br/>ჰაერის გამწოვი ვენტილატორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 16:38 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">23.60 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;94.40 GEL</td>
+                <td title="დიამეტრი-20სმ;  სიმძლავრე-40ვტ;">დიამეტრი-2...</td>
+            </tr><tr id="A92151">
+                <td>
+                    &nbsp;
+                    <span title="39715000 - წყლის გამაცხელებლები და შენობების გასათბობი სისტემა, სანტექნიკის მოწყობილობა">39715000 - წყლის გამაცხელებლები და შენობების გასათბობი სისტემა, სანტექ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">TEST (დაუდგენელი)<br/>წყლის გამაცხელებელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">18.06.2014 17:05 :: თეონა გაჩეჩილაძე</div>
+                </td>
+                <td align="right">236.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;472.00 GEL</td>
+                <td title="ტიპი-დაგროვებითი; მართვა უნდა ხდებოდეს ტემპერატურის მექანიკური რეგულატორით (გარეთერმოსტატი); კედელზე დასაკიდი ვერტიკალურად; ტევადობა  90ლ; ძაბვა-220-240V; სიხშირე-50 Hz; სიმძლავრე-  2,0კვტ;">ტიპი-დაგრო...</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'115501'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg20" style="font-weight:bold">შესრულებული ხელშეკრულება</span><br/>
+			<span class="date">თეონა თოიძე :: 30.06.2014</span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(35915)"><img src="images/profile24.png"></a> <strong>შპს სტარტი</strong><br/>
+				
+					ნომერი/თანხა: Nნას/04/06/14 / <span class="convertme" id="18520.1-GEL-18.06.2014 16:29">18520.1 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 10.06.2014 - 31.08.2014<br/>
+					<span class="date">18.06.2014 16:29</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=97883"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="115501">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="115501">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="115501">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="815441.1403606845.115501">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=815441&code=1403606845">
+SPA140012580_შპს სტარტი მიღება-ჩაბარება 23.06.14.pdf
+</a>
+</td>
+<td class="date">24.06.2014 10:47 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="821032.1404130052.115501">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=821032&code=1404130052">
+SPA140012580_შპს სტარტი ანგარიშ-ფაქტურა #8325853.pdf
+</a>
+</td>
+<td class="date">30.06.2014 12:07 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 18`520.10 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 18`520.10 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>18`520.10 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>27.06.2014&nbsp;
+
+</td>
+<td class="date">30.06.2014<br>თეონა თოიძე</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'115501'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

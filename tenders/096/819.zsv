@@ -1,0 +1,2260 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA130023991</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv96819" /><label for="fv96819"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat120.png"> ტენდერი შეწყვეტილია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1253)"><img src="images/profile24_0.png"> ქ. თბილისის მერია</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>04.11.2013 18:48</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>20.11.2013 00:04</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>25.11.2013 16:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2013 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="55550000-GEL-04.11.2013 18:48">55`550`000.00 GEL</span> </td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გარეშე</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;34100000 - ავტოსატრანსპორტო საშუალებები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;34121100 - საზოგადოებრივი ავტობუსები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">ავტობუსები.<br />
+•	Tender Type: e-Tender<br />
+•	Procuring Ave. TBILISI CITY HALL<br />
+•	Tender Announcement Date: 04.11.2013 18:48<br />
+•	Start making suggestions: 20.11.2013 00:00<br />
+•	Deadline for Submission of Proposals: 25.11.2013 16:00<br />
+•	Financing source: 2013-2014 Funds (year)<br />
+•	Procurement presumable value: 55 550 000 GEL<br />
+•	The tender proposal should include VAT : Exclude VAT<br />
+•	Classification (CPV) code: 34121100.<br />
+•	procurement  object: 100 unit of Buses.<br />
+Note: The full description of the unit of procurement you can see in tender documentation.<br />
+•	Deadline of procurement: See in tender documentation.<br />
+•	Offer price decrease step: 222 200    GEL<br />
+•	Guarantee the amount: 555 500 GEL<br />
+•	Guarantee Validity 160 day</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>100 ერთეული.</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>იხ. სატენდერო დოკუმენტაციაში.</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>222`200.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>555`500 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=96819&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="96819">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: გრიგოლ გურგენიძე :: 04.11.2013 18:48</li>
+	<li style="text-align:right">ბოლო შესწორება: გრიგოლ გურგენიძე :: 04.11.2013 19:23</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+<span>
+<button id="btn_apphistory" type="button">განცხადების ისტორია</button>
+<script type="text/javascript">
+$('#btn_apphistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){$.get('engine/controller.php',{app_id:96819, action:'app_versions'}, function(data) {$('#history').html(data);})});
+</script>
+</span>
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:96819, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '96819'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="596446.1383590906.96819">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=596446&code=1383590906">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=596446&code=1383590906">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია_100 avtobisi.pdf
+						</a>
+					</td>
+					<td class="date" align="right">04.11.2013 18:48<br/>გრიგოლ გურგენიძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="597079.1383668244.96819">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=597079&code=1383668244">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=597079&code=1383668244">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA130023991_დოკუმენტაცია ინგლისურად_inglish doc. .pdf
+						</a>
+					</td>
+					<td class="date" align="right">05.11.2013 16:17<br/>გრიგოლ გურგენიძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="604629.1384452293.96819">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=604629&code=1384452293">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=604629&code=1384452293">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA130023991_სატენდერო დოკუმენტაცია_დაზუსტებული ინფორმაცია მონიშნულია მწვანედ.pdf
+						</a>
+					</td>
+					<td class="date" align="right">14.11.2013 18:04<br/>გრიგოლ გურგენიძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="604630.1384452314.96819">
+					<td><span class="opgear">4.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=604630&code=1384452314">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=604630&code=1384452314">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA130023991_დოკუმენტაცია ინგლისურად_Specified information is marked in green.pdf
+						</a>
+					</td>
+					<td class="date" align="right">14.11.2013 18:05<br/>გრიგოლ გურგენიძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="607870.1384893741.96819">
+					<td><span class="opgear">5.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=607870&code=1384893741">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=607870&code=1384893741">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA130023991_სატენდერო დოკუმენტაცია_დამატებით დაზუსტებული ინფორმაცია მონიშნულია ცისფრად.pdf
+						</a>
+					</td>
+					<td class="date" align="right">19.11.2013 20:42<br/>გრიგოლ გურგენიძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="607871.1384893760.96819">
+					<td><span class="opgear">6.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=607871&code=1384893760">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=607871&code=1384893760">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA130023991_დოკუმენტაცია ინგლისურად_Added specified information is marked in blue.pdf
+						</a>
+					</td>
+					<td class="date" align="right">19.11.2013 20:42<br/>გრიგოლ გურგენიძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		<div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13486" class="show_reply">გამოხმაურება (2)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">27.11.2013 22:50</span> XIAMEN GOLDEN DRAGON BUS CO :: Badri Niauri</p>
+			<p class="chatmessgase activebid1">გამარჯობა,<br />
+<br />
+თქვენს მიერ 27.11.2013 წ., 21.43 სთ. ატვირთულ იქნა &quot;წერილი დაზუსტებაზე&quot; (მხოლოდ ქართულად) ...<br />
+<br />
+გთხოვთ, ისევე როგორც &quot;სატენდერო დოკუმენტაცია&quot;, ატვირთოთ &quot;წერილი დაზუსტებაზე&quot; ინგლისურად (რათა არ მოხდეს შემდგომში ინტერპრეტირება) ...<br />
+<br />
+ასევე, დააზუსთოთ ჩვენს მიერ ერთიანი ელექტრონული სისტემის მეშვეობით დოკუმენტების წარმოდგენის ბოლო ვადა, თარიღისა და საათის მითითებით ...<br />
+<br />
+პატივისცემით,</p>
+			<div style="display: none" id="ANS13486">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13321" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">24.11.2013 14:19</span> &quot;ვია ვიტა&quot; :: იოსებ მაისურაძე</p>
+			<p class="chatmessgase activebid1">გთხოვთ მეტად დააზუსტოთ ხელშეკრულების უზრუნველყოფის საბანკო გარანტიის წარდგენისაგან გათავისუფლების კრიტერიუმები</p>
+			<div style="display: none" id="ANS13321">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13304" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">22.11.2013 19:08</span> თეგეტა თრაქ ენდ ბას :: დავითი ჭეიშვილი</p>
+			<p class="chatmessgase activebid1">სატენდერო დოკუმენტაციაში მოცემული &quot;სახელმწიფო შესყიდვების შესახებ ხელშეკრულების&quot; პროექტში მოცემულია: <br />
+<br />
+&quot;10.5 შემსყიდველს შეუძლია მიიღოს გადაწყვეტილება ხელშეკრულების ცალმხრივად შეწყვეტის შესახებ აგრეთვე:<br />
+<br />
+ბ) თუ შემსყიდველისათვის ცნობილი გახდა, რომ მისგან დამოუკიდებელი მიზეზების გამო იგი ვერ უზრუნველყოფს ხელშეკრულებით ნაკისრი ვალდებულებების შესრულებას;<br />
+<br />
+10.6 ამ მუხლის მე-5 პუნქტში მითითებულ შემთხვევებში შემსყიდველი ვალდებულია აუნაზღაუროს მიმწოდებელს ფაქტიურად მიწოდებული საქონლის ღირებულება&quot;.<br />
+<br />
+როგორც წესი, ხელშეკრულების გაფორმების და თანხმლები პროცედურების (ავანის მიღება, მწარმოებელთან შეთანხმება და ა.შ) მომწოდებელი ახორციელებს ხელშეკრულებით გათვალისწინებული საქონლის სრულად შეკვეთას ხელშეკრულებით გათვალისწინებული პირობების შესრულების მიზნით.<br />
+10.5 (ბ) და 10.6 პუნქტების მიხედვით მიმწოდებელი, ისევე როგორც მწარმოებელი დგება რისკის ქვეშ შეკვეთილი და წარმოებული ან წარმოებაში მყოფი პროდუქციისათვის (რომელიც გაცილებით მეტი შეიძლება იყოს ვიდრე ფაქტიურად მიწოდებული საქონელი) შესაბამისი ანაზღაურების მიღებასთან დაკავშირებით, რაც პირდაპირ ზარალს აყენებს მიმწოდებელს.<br />
+<br />
+რა დამცავ მექანიზმს ითვალისწინებს შემსყიდველი მსგავსი ტიპის ზარალის თავიდან აცილების მიზნით ან შესაძლებელია თუ არა 10.5 (ბ) პუნქტის ამოღება ხელშეკრულების პროექტიდან?</p>
+			<div style="display: none" id="ANS13304">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13301" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">22.11.2013 18:05</span> თეგეტა თრაქ ენდ ბას :: დავითი ჭეიშვილი</p>
+			<p class="chatmessgase activebid1">გთხოვთ დააზუსტოთ რომელი ბანკის მიერ იქნება გაცემული აკრედიტივი.</p>
+			<div style="display: none" id="ANS13301">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13300" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">22.11.2013 17:55</span> თეგეტა თრაქ ენდ ბას :: დავითი ჭეიშვილი</p>
+			<p class="chatmessgase activebid1">თქვენს მიერ მონიტორებთან დაკავშირებით 20.11.2013 18:32 დასმულ კითხვაზე გაცემული პასუხიდან არ ჩანს, მოთხოვნილია თუ არა დამატებითი მონიტორი და თუ მოთხოვნილია რა სპეციფიკაციით. გთხოვთ დააზუსტოთ;<br />
+<br />
+ერთერთი პრეტენდენტის მიერ 22.11.2013 16:03 დასმულ კითხვაზე გაცემული პასუხიდან გამომდინარე თქვენ ითხოვთ, რომ საბურავები ჩათვლილი იყოს როგორც მალ-ცვეთადი ნაწილები და ეყრდნობით სატენდერო დოკუმენტაციის პუნქტ 2.3.2-ს, სადაც საბურავები აღნიშნული არ არის. როგორც წესი, საბურავები არ წარმოადგენს მალ-ცვეთად ნაწილებს და არ შეიძლება იყოს გათვალისწინებული მალ-ცვეთადი ნაწილების ჩამონათვალში. გთხოვთ კიდევ ერთხელ დააზუსტოთ, უნდა იყოს თუ საბურავი გათვალისწინებული მალ-ცვეთად ნაწილებში?<br />
+<br />
+19.11.2013 16:48 ავტობუსის ფერთან დაკავშირებულ კითხვაზე გაცემული პასუხიდან არ ჩანს მოთხოვნილი მწვანე ფერის RAL კოდი. მანქანათმშენებლობაში მწვანე ფერის მრავალი ვარიაცია არსებობს, რასაც შეიძლება მნიშვნელობა ჰქონდეს სატენდერო ფასის ჩამოყალიბებისათვის. გთხოვთ დააზუსტოთ მოთხოვნილი მწვანე ფერის RAL კოდი.<br />
+<br />
+19.11.2013 16:48 აკრედიტივთან დაკავშირებული კითხვა გულისხმობს: რა სახის დოკუმენტების წარდგენის შემდეგ და რა ვადაში არის გათვალისწინებული აკრედიტივით ანგარიშსწორების განხორციელება.</p>
+			<div style="display: none" id="ANS13300">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13286" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">22.11.2013 16:03</span> &quot;ვია ვიტა&quot; :: იოსებ მაისურაძე</p>
+			<p class="chatmessgase activebid1">დამატებით კიდევ გეკითხებით შედის თუ არა მალე ცვეთად ნაწილებში საბურავები. გთხოვთ ოპერატიულად გვიპასუხოთ</p>
+			<div style="display: none" id="ANS13286">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13277" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">22.11.2013 13:03</span> შპს Interconsult Group :: გიორგი ყველაშვილი</p>
+			<p class="chatmessgase activebid1">ჩვენს კომპანიას ქონდა შეხება ტრაქტორების ტენდერთან და მიუხედავად იმისა რომ ნიუ ჰოლანდი ჩვენი კონკურენტი იყო, მაინც ვასკვნით მთელი პასუხისმგებლობით რომ ზეტორი ნიუ ჰოლანდს ვერცერთ ასპექტში ვერ აჯობებს. მაგრამ მანამდე პირველ ეტაპზე ტრაქტორებისა რაც მოხდა იყო იმის გამომწვევი რა რეაგირებაც იყო სახელმწიფოსგან და დაისაჯნენ დასასჯელები. იმედი მაქვს რომ შეცდომა არ განმეორდება და რომც შეძლონ ამ ხარისხიანი პროდუქციის მწარმოებლებმა ფასის დაწევა და ზარალზე წასვლა სერვის ცენტრის ხარჯზე და სამომავლო პერსპექტივების გათვლით, იქნება ნება იბოძოთ და უპასუხოდ უკვე მრავალჯერ დასმულ შეკითხვას და დადოთ შეთავაზებული სერვის ცენტრის მდგომარეობა და ღირებულება, რომლის ხარჯზეც შეიძლება მოხდეს სამომავლო გათვლები. ჩვენი ჯგუფი დახარჯავს უდიდეს რესურს გპირდებით, როგორც ტრაქტორების თემაზე და პირობას ვდებთ ბოლომდე მივიყვანთ სანამ არ გაირკვევა აღნიშნული ბოლომდე და იმედია ყველა მართალი იქნება. <br />
+<br />
+პატივისცემით</p>
+			<div style="display: none" id="ANS13277">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13276" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">22.11.2013 13:03</span> შპს Interconsult Group :: გიორგი ყველაშვილი</p>
+			<p class="chatmessgase activebid1">2. რომელი ბრენდების ინფორმაციაა მოძიებული რის მიხედვითაც შეადგინეთ საბაზრო ღირებულება? ისევ თურქეთში და ჩინეტში აწყობილი პროდუქციას ვყიდულობთ ამხელა ფასად? თუ საინტერესო იქნება თქვენთვის მარტივად გეტყვით, რომ ვერც ევროპული მერსედესი, ვერც მანი, ვერც  სკანია, ვერც დაფი და ვერც ივეკო ვერ დაწევენ ფასს ამ დონემდე თუ მართლაც ხარიასხიან პროდუქციას მოგვაწვდიან. როგორც ჩანს აქაც ტრაქტორების კომბინაციაა, როდესაც საშინელი პროდუქციას ამ ევროპულ ბრენდებზე უკეთესად შერაცხავენ ექპერტების დასკვნებით. აქ არსებობს ერთი ეჭვი და ვარიანტი, ან ამ ბრენდებიდან რომელიმე აქვს შემონახული რომელიღაც დიდ კომპანიას უკვე და მის მიერ არის დადებული როგორც ფასი ასევე მონაცემები, ან ისევ უხარისხო პროდუქციაზე გვაქვს აქცენტი გაკეთებული.</p>
+			<div style="display: none" id="ANS13276">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13274" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">22.11.2013 13:03</span> შპს Interconsult Group :: გიორგი ყველაშვილი</p>
+			<p class="chatmessgase activebid1">მოგესალმებით<br />
+<br />
+ამ ტენდერთან დაკავშირებით რატომღაც ალბათ უფრო მეტი კითხვა უნდა გაჩნდეს ვიდრე ეხლა იკითხება. <br />
+მაგალითისთვის მინდა მოვიყვანო რამოდენიმე:<br />
+1. თქვენს მიერ მოწოდებული დამახასიათებლები ვის მიერ არის მოწოდებული. რა გაანგარიშებებით და რეგულაციებით არის ის შედგენილი. რომელი ბრენდების საბაზისო ინფორმაციაზე დაყრდნობით აცხადებთ რომ აღნიშნული მონაცემები არის კომპეტენტური თქვენს მიერ. მაგ: რომ აცხადებთ რომ ძრავა უნდა აღემატებოდეს 200კვ, რის საფუძველზე ითვლება აღნიშნული საერთოდ თუ გაქვთ წარმოდგენა? აქ არ არის არანაირი ინფრასტრუქტურაზე საუბარი გაზის გასამართ სადგურებზე და მაშინ როგორც აცხადებთ მტკიცებით რომ სწორედ ამდენ კუბიანი გაზის ბალონია ოპტიმალური? იქნებ მეტია უკეთესი ან ნაკლები? იქნებ უკანა და წინა შასების ინფორმაცია და კომბინაცია უკეთესიც არსებობს.</p>
+			<div style="display: none" id="ANS13274">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13256" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">22.11.2013 10:10</span> &quot;ვია ვიტა&quot; :: იოსებ მაისურაძე</p>
+			<p class="chatmessgase activebid1">გამარჯობათ, შედის თუ არა მალე ცვეთად ნაწილებში საბურავები. დროის სიმცირის გამო გთხოვთ ოპერატიულად გვიპასუხოთ</p>
+			<div style="display: none" id="ANS13256">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13231" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">21.11.2013 10:01</span> Bus capital :: Max Naklinsky</p>
+			<p class="chatmessgase activebid1">გამარჯობათ!<br />
+ქვემოთ წარმოგიდგენთ კომპანია BUS capital-ის ორი შეკითხვა.<br />
+1. თუ შეიძლება ტენდერში მოთხოვნილი გამოცდილების სახით ჩაითვალოს დიზელის ძრავზე მომუშავე ავტობუსების წარმოება და მიწოდებ“ა, რომელთა რაოდენობა გაცილებით აღემატება სატენდერო დოკუმენტაციაში მოთხოვნილ რაოდენობას (100 ც.)?<br />
+2. თუ დაიშვება ტენდერში მონაწილეობა იმ კომპანიისა, რომელსაც აქვს ბუნებრივ გაზზე მომუშავე ავტობუსების წარმოების წარმატებითი გამოცდილება, მაგრამ აღნიშნული ავტობუსების რაოდენობა სატენდერო დოკუმენტაციაში მოთხოვნილ რაოდენობაზე ცოტათი ნაკლებია?</p>
+			<div style="display: none" id="ANS13231">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13220" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">20.11.2013 18:32</span> თეგეტა თრაქ ენდ ბას :: გიგა ბილისეიშვილი</p>
+			<p class="chatmessgase activebid1">In reference to the Electronic Tender of State Procurement of the Buses, we would like to ask you to clarify the following topic:<br />
+Para 2.1<br />
+Point 43 Video Monitoring System<br />
+As it indicated “ Video Image shall be displayed on the monitor near driver”<br />
+<br />
+In the question, which we have asked on November 18 in regard with Point 43” LCD screen”, we were asking: “7 inch monitor will be used to display video image from anti-vandal video monitoring system or for other purposes (please clarify)?”  And your answer (November 19) was “7 inch monitor will not be used to display video image from anti-vandal video monitoring system”.<br />
+As the indication in para 43 and your answer are not in line with each other,  we kindly want to ask you to clarify if additional monitor is needed to display video image from video monitoring system near driver. If additional monitor is needed, please clarify technical specifications for it.</p>
+			<div style="display: none" id="ANS13220">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13216" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">20.11.2013 15:08</span> თეგეტა თრაქ ენდ ბას :: გიგა ბილისეიშვილი</p>
+			<p class="chatmessgase activebid1">In reference to the Electronic Tender of State Procurement of the Buses, we would like to ask you to clarify the following topic:<br />
+Para 4.3.8<br />
+As it indicated in tender documents “The remaining portion of the buss cost, specified in contract, shall be provided through irrevocable letter of credit”, we kindly want to ask you to clarify:<br />
+<br />
+In what period after the contract is signed buyer will open L/C in favor of the seller? Will this period be specified in the contract as buyer’s obligation for L/C opening?</p>
+			<div style="display: none" id="ANS13216">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13182" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">19.11.2013 16:48</span> თეგეტა თრაქ ენდ ბას :: გიგა ბილისეიშვილი</p>
+			<p class="chatmessgase activebid1">In reference to “Technical Requirements of Procurement Object” of Electronic Tender of State Procurement of the Buses, we would like to ask you to clarify the following topic:<br />
+Para 2 Technical conditions of procurement object <br />
+<br />
+There is no indication of the color for required buses. Could you clarify in what color (RAL code) buses should be painted? Specific colors have specific prices and it may affect the price.<br />
+<br />
+Para 2.1<br />
+Point 48 Monitoring Systems<br />
+1. We kindly want to ask you to clarify the kind of the system which you are requiring under Point 48: type of cameras, megapixels and etc. As there are many different systems for video surveillance and the pricing form them is quite different;<br />
+<br />
+2. Nevertheless you have indicated that “Recordings from all cameras shall be easily downloadable from a single output”, Would it possible to mount in the bus the cameras, which have their own integrated SD Memory Card for storing the data, rather than have a separate vibration resistant unit/computer which will store all the data collected from the cameras at one place in the bus. <br />
+<br />
+Para 4.3.8<br />
+As it indicated in tender documents “The remaining portion of the buss cost, specified in contract, shall be provided through irrevocable letter of credit”, we kindly want to ask you to clarify:<br />
+a) Upon submission of which kind of documents and in what period payment through irrevocable confirmed letter of credit will be done?</p>
+			<div style="display: none" id="ANS13182">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13151" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">19.11.2013 10:18</span> თეგეტა თრაქ ენდ ბას :: გიგა ბილისეიშვილი</p>
+			<p class="chatmessgase activebid1">In reference to “Technical Requirements of Procurement Object” of Electronic Tender of State Procurement of the Buses, we would like to ask you to clarify the following topic:<br />
+Point 46 Radio Station<br />
+It is required, that “Radio station shall be conformable to DMR standard - ETSI DMR Tier II, ETSI TS 102 361 -1,2,3. It shall have interoperability certificate of DMR association and shall be compatible to MIL-STD-810 C/D/E/F/G and at least IP54 standards”<br />
+Is it required for pretenders to upload/present above mentioned certificates?</p>
+			<div style="display: none" id="ANS13151">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13144" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">18.11.2013 18:41</span> თეგეტა თრაქ ენდ ბას :: გიგა ბილისეიშვილი</p>
+			<p class="chatmessgase activebid1">In reference to “Technical Requirements of Procurement Object” of Electronic Tender of State Procurement of the Buses, we would like to ask you to clarify the following topic:<br />
+<br />
+Point 43 LCD screen:<br />
+1.	7 inch monitor will be used to display video image from anti-vandal video monitoring system or for other purposes (please clarify)?<br />
+2.	Which Operation System should be installed on 7 inch screen?<br />
+<br />
+Point 48 Monitoring systems<br />
+1.	How many cameras do you mean under the following: ” several cameras allowing monitoring of the whole internal space of the bus”?<br />
+2.	Downloadable port form the Recording system should be USB or LAN? <br />
+3.	Is it necessary to have alternative source of power for monitoring system (to allow the cameras to continue recording after the engine will be switched off)?</p>
+			<div style="display: none" id="ANS13144">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13134" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">18.11.2013 14:39</span> თეგეტა თრაქ ენდ ბას :: გიგა ბილისეიშვილი</p>
+			<p class="chatmessgase activebid1">In reference to “Technical Requirements of Procurement Object” of Electronic Tender of State Procurement of the Buses, we would like to ask you to clarify the following topic:<br />
+Point 43 LCD screen: <br />
+1. Video input type - There could be monitors with a variety of connectivity options, (E.g. HDMI, HD-SDI, VGA, Composite, Component, DVI and USB monitors). <br />
+2. Mounting options (e.g. front of the driver, roof mount over the driver, behind the driver);<br />
+3. Is touch screen connectivity required?<br />
+4. How is the screen to be powered?<br />
+5. Is there any extra requirements?</p>
+			<div style="display: none" id="ANS13134">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_13130" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">18.11.2013 13:32</span> შპს&quot;ივერია მოტორსი&quot; :: ილია რევაზიშვილი</p>
+			<p class="chatmessgase activebid1">მოგესალმებით,<br />
+გთხოვთ მოგვაწოდოთ ინფორმაცია, თქვენს მიერ გამოყოფილ ტერიტორიაში რა მატერიალური ბაზა და შენობა ნაგებოები არსებობს ან თუ შესაძლებელია მიგვითითოთ მისამართი</p>
+			<div style="display: none" id="ANS13130">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">14.11.2013 12:04</span> უფლებები და თავისუფლებები - კავშირი :: ბადრი ნიაური</p>
+			<p class="chatmessgase activebid1">გთხოვთ, არსებითი სახის შეკითხვებზე, რომელიც ფასზე ახდენს გავლენას, დაუყოვნებლივ გასცეთ პასუხი (სახელმწიფო შესყიდვების სააგენტოს თავმჯდომარის ბრძანება №9 - 2011 წლის 7 აპრილი) ...</p>
+			<div style="display: none" id="ANS13022">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_12899" class="show_reply">გამოხმაურება (2)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">12.11.2013 16:16</span> უფლებები და თავისუფლებები - კავშირი :: ბადრი ნიაური</p>
+			<p class="chatmessgase activebid1">გთხოვთ, დააზუსტოთ სატენდერო ფასი მოიცავს თუ არა სერვისის მომსახურების ღირებულებასაც (150000 კმ ან/და 30 თვე, რომელიც უფრო ადრე დადგება) ?..</p>
+			<div style="display: none" id="ANS12899">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_12850" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">11.11.2013 18:25</span> თეგეტა თრაქ ენდ ბას :: გიგა ბილისეიშვილი</p>
+			<p class="chatmessgase activebid1">In reference to “Technical Requirements of Procurement Object” of Electronic Tender of State Procurement of the Buses, we would like to ask you to clarify the following topics: <br />
+<br />
+1.        point 23 -  bodywork ; <br />
+“  Body frame: corrosion protected for at least 5 years, shall be made of corrosion resistant or of an appropriate anticorrosion protection equipped (for ex. KTL or its analogue) steel or aluminium profiles. Side panelling shall be made of corrosion resistant steel plates, aluminium or laminates. “ <br />
+<br />
+could steel side paneling zinc coated and covered by KTL be treated as corrosion resistant steel plates?<br />
+ <br />
+2.        point 28  - Driver’s cabin and working place  ; <br />
+         “   Stop signaling via visual and sound signal” <br />
+<br />
+          is it means that the stop button pressed by passenger should generate on driver working <br />
+          place the sound signal (bip) and the light ? <br />
+<br />
+3.        point 31 Rear-view mirrors <br />
+„The bus must have two internal, spherical rear-view mirrors. “ <br />
+<br />
+is it means that inside the bus must be two spherical mirrors located on 2 and 3 doors to see the door area ? Or it has a different meaning? <br />
+        <br />
+4.        point 43 LCD screen <br />
+„At least 7 inch sensory screen installed near the driver with cabling connected to board computer via connectors. “ <br />
+<br />
+Is it means that it should be a “touch screen” or another type? Could you give more details what you mean? <br />
+<br />
+6.        point 47 Digital information boards <br />
+<br />
+we understand, that in the bus will be just only 3 destination displays and cabeling (wireing)  connected them to on board location place without control unit. Is it proper understanding?</p>
+			<div style="display: none" id="ANS12850">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_12836" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">11.11.2013 14:06</span> შპს ტექ.სერვისი :: გიორგი შალიკიანი</p>
+			<p class="chatmessgase activebid1">1.	სატენდერო დოკუმენტაციის ნომერ 2.3.2 პუნქტში მითითებულია ჩასატარებელი სამუშაოს ტიპები, მიმდინარე ტექნიკური, დიაგნოსტიკა და ა.შ. გთხოვთ დაგვიზუსტოთ, რა სამუშაოების ჩამონათვალი იგულისხმება  სხვა შემდეგ შემთხვევებში . ასევე გვაინტერესებს რა სათადარიგო ნაწილები იგულისხმება მალ–ცვეთადი ნაწილების სიაში. <br />
+2.	სატენდერო დოკუმენტაციის ნომერ 2.3.2 პუნქტში მითითებულია, რომ შემსყიდველი უზრუნველყოფს უსაყიდლოდ გადასცეს მიმწოდებელს შენობა ტექნიკური მომსახურების და რემონტების ჩასასატარებლად. გთხოვთ დაგვიზუსტოთ – იქნება თუ არა ეს შენობა აღჭურვილი ყველა საჭირო სერვისის დანადგარებით და სტანდარტული იარაღებით, მწარმოებლის სტანდარტების მიხედვით. <br />
+3.	სატენდერო დოკუმენტაციის ნომერ 2.5.1  პუნქტში მითითებული ინფორმაციის მიხედვით, მიმწოდებელი უზრუნველყოფს მძღოლების სასწავლო პროგრამის ჩატარებას. გთხოვთ დაგვიზუსტოთ – რამდენმა მძღოლმა უნდა გაიაროს საწავლო კურსი და თუ უზრუნველყოფს შემსყიდველი შესაბამისი ტერტორიის გამოყოფას თეორიული და პრაქტიკული მეცადინეობის კურსების ჩასატარებლად.</p>
+			<div style="display: none" id="ANS12836">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_12832" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">11.11.2013 13:28</span> შპს  D&amp;S GROUP“ (დ და ს ჯგუფი) :: ზურაბ ლაზარეშვილი</p>
+			<p class="chatmessgase activebid1">მოგესალმებით.<br />
+გვაქვს ესეთი კითხვა: თუ არის შესაძლებელი ერთი ბრენდის ორი მოდელით შემოსვლა ტენდერზე.<br />
+<br />
+წინასწარ გიხდით მადლობას</p>
+			<div style="display: none" id="ANS12832">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">06.11.2013 12:49</span> შპს ტექ.სერვისი :: გიორგი შალიკიანი</p>
+			<p class="chatmessgase activebid0">2121212</p>
+			<div style="display: none" id="ANS12668">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_12665" class="show_reply">გამოხმაურება (2)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">06.11.2013 12:46</span> შპს   ფაუერ გეითი :: ოთარ ბეგლარიშვილი</p>
+			<p class="chatmessgase activebid1">მოგესალმებით, <br />
+მინდა გკითხოთ შემდეგი: ტენდერში ნომრით SPA130023991 არსებული სატენდერო დოკუმენტაცია საბოლოოა? თუ არსებობს სხვა დამატებითი დოკუმენტაცია, მაგალითისთვის: სპეციფიკაციები, დამატებითი მოთხოვნები ან სხვა. წინასწარ გიხდით მადობას.</p>
+			<div style="display: none" id="ANS12665">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_12621" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">05.11.2013 13:22</span> შპს ტექ.სერვისი :: გიორგი შალიკიანი</p>
+			<p class="chatmessgase activebid1">გამარჯობა, თუ შეიძლება სატენდერო დოკუმენტაციის ინგლისური ვარიანტის მიღება...?<br />
+<br />
+წინასწარ გიხდით დიდ მადლობას</p>
+			<div style="display: none" id="ANS12621">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_12614" class="show_reply">გამოხმაურება (3)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">05.11.2013 12:16</span> უფლებები და თავისუფლებები - კავშირი :: ბადრი ნიაური</p>
+			<p class="chatmessgase activebid1">გამარჯობა, შესაძლებელია ინგლისურ ენაზე სატენდერო დოკუმენტაციის მიღება ?..</p>
+			<div style="display: none" id="ANS12614">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_96819_12611" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">05.11.2013 11:28</span> შპს FAWG :: Karo Kaplanyan</p>
+			<p class="chatmessgase activebid1">можно ли получить тендерную документацию на анлийском или русском языке</p>
+			<div style="display: none" id="ANS12611">...</div>
+		</div>
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 55`550`000.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: იხ. სატენდერო დოკუმენტაციაში.</span><br/>
+</p>
+<p style="margin:4px" class="color-2">ტენდერი შეწყვეტილია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B96819108608">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37294)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">KAREX, a.s.</span>
+			</td>
+		<td class="activebid1"><strong>53`328`000.00</strong>&nbsp;<br/><span class="date">25.11.2013 16:06</span></td>
+		<td class="activebid1">55`550`000.00&nbsp;<br/><span class="date">22.11.2013 19:22</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(96819,108608)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B96819108768">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4687)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">თეგეტა თრაქ ენდ ბას</span>
+			</td>
+		<td class="activebid1"><strong>48`807`236.00</strong>&nbsp;<br/><span class="date">25.11.2013 16:32</span></td>
+		<td class="activebid1">51`934`155.00&nbsp;<br/><span class="date">25.11.2013 15:56</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(96819,108768)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B96819108766">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37534)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Solaris Bus &amp; Coach S.A.</span>
+			</td>
+		<td class="activebid1"><strong>48`656`719.00</strong>&nbsp;<br/><span class="date">25.11.2013 16:34</span></td>
+		<td class="activebid1">49`521`662.00&nbsp;<br/><span class="date">25.11.2013 15:45</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(96819,108766)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B96819108767">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37553)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Zhengzhou Yutong Bus Co..LTD</span>
+			</td>
+		<td class="activebid1"><strong>31`660`626.00</strong>&nbsp;<br/><span class="date">25.11.2013 16:35</span></td>
+		<td class="activebid1">34`903`912.00&nbsp;<br/><span class="date">25.11.2013 15:55</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(96819,108767)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B96819108763">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37544)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">XIAMEN GOLDEN DRAGON BUS CO</span>
+			</td>
+		<td class="activebid1"><strong>31`660`601.00</strong>&nbsp;<br/><span class="date">25.11.2013 16:38</span></td>
+		<td class="activebid1">33`000`000.00&nbsp;<br/><span class="date">25.11.2013 15:25</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(96819,108763)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">16:05</td>
+		<td align="center" class="activebid1">16:07</td>
+		<td class="activebid1">KAREX, a.s.</td>
+		<td align="center" class="activebid1"><strong>53`328`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:07</td>
+		<td align="center" class="activebid1">16:09</td>
+		<td class="activebid1">თეგეტა თრაქ ენდ ბას</td>
+		<td align="center" class="activebid1"><strong>51`479`515.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:09</td>
+		<td align="center" class="activebid1">16:11</td>
+		<td class="activebid1">Solaris Bus &amp; Coach S.A.</td>
+		<td align="center" class="activebid1"><strong>49`101`120.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:11</td>
+		<td align="center" class="activebid1">16:13</td>
+		<td class="activebid1">Zhengzhou Yutong Bus Co..LTD</td>
+		<td align="center" class="activebid1"><strong>32`686`700.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:13</td>
+		<td align="center" class="activebid1">16:15</td>
+		<td class="activebid1">XIAMEN GOLDEN DRAGON BUS CO</td>
+		<td align="center" class="activebid1"><strong>32`686`699.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">16:17</td>
+		<td align="center" class="activebid1">16:19</td>
+		<td class="activebid1">KAREX, a.s.</td>
+		<td align="center" class="activebid1"><strong>53`328`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:19</td>
+		<td align="center" class="activebid1">16:21</td>
+		<td class="activebid1">თეგეტა თრაქ ენდ ბას</td>
+		<td align="center" class="activebid1"><strong>51`479`515.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:21</td>
+		<td align="center" class="activebid1">16:23</td>
+		<td class="activebid1">Solaris Bus &amp; Coach S.A.</td>
+		<td align="center" class="activebid1"><strong>48`878`919.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:23</td>
+		<td align="center" class="activebid1">16:25</td>
+		<td class="activebid1">Zhengzhou Yutong Bus Co..LTD</td>
+		<td align="center" class="activebid1"><strong>32`000`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:25</td>
+		<td align="center" class="activebid1">16:27</td>
+		<td class="activebid1">XIAMEN GOLDEN DRAGON BUS CO</td>
+		<td align="center" class="activebid1"><strong>31`999`999.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">16:29</td>
+		<td align="center" class="activebid1">16:31</td>
+		<td class="activebid1">KAREX, a.s.</td>
+		<td align="center" class="activebid1"><strong>53`328`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:31</td>
+		<td align="center" class="activebid1">16:33</td>
+		<td class="activebid1">თეგეტა თრაქ ენდ ბას</td>
+		<td align="center" class="activebid1"><strong>48`807`236.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:33</td>
+		<td align="center" class="activebid1">16:35</td>
+		<td class="activebid1">Solaris Bus &amp; Coach S.A.</td>
+		<td align="center" class="activebid1"><strong>48`656`719.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:35</td>
+		<td align="center" class="activebid1">16:37</td>
+		<td class="activebid1">Zhengzhou Yutong Bus Co..LTD</td>
+		<td align="center" class="activebid1"><strong>31`660`626.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:37</td>
+		<td align="center" class="activebid1">16:39</td>
+		<td class="activebid1">XIAMEN GOLDEN DRAGON BUS CO</td>
+		<td align="center" class="activebid1"><strong>31`660`601.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B96819">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37294)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">KAREX, a.s.</span>
+		</td>
+		<td class="activebid1"><strong>55`550`000.00</strong></td>
+		<td class="date activebid1">22.11.2013 19:22</td>
+	</tr><tr bgcolor="#ffffff" id="B96819">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4687)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">თეგეტა თრაქ ენდ ბას</span>
+		</td>
+		<td class="activebid1"><strong>51`479`515.00</strong></td>
+		<td class="date activebid1">25.11.2013 15:57</td>
+	</tr><tr bgcolor="#ffffff" id="B96819">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37534)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Solaris Bus &amp; Coach S.A.</span>
+		</td>
+		<td class="activebid1"><strong>49`521`662.00</strong></td>
+		<td class="date activebid1">25.11.2013 15:45</td>
+	</tr><tr bgcolor="#ffffff" id="B96819">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37553)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Zhengzhou Yutong Bus Co..LTD</span>
+		</td>
+		<td class="activebid1"><strong>34`903`912.00</strong></td>
+		<td class="date activebid1">25.11.2013 15:55</td>
+	</tr><tr bgcolor="#ffffff" id="B96819">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37544)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">XIAMEN GOLDEN DRAGON BUS CO</span>
+		</td>
+		<td class="activebid1"><strong>33`000`000.00</strong></td>
+		<td class="date activebid1">25.11.2013 15:25</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'96819'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'96819'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="614129.1385588564.96819">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=614129&code=1385588564">
+                    SPA130023991_ინტერესთა კონფლიქტი_interesta.pdf
+                    </a>
+                </td>
+                <td class="date">27.11.2013 21:42 :: გრიგოლ გურგენიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="614130.1385588581.96819">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=614130&code=1385588581">
+                    SPA130023991_ოქმი 2_oqmi #2.pdf
+                    </a>
+                </td>
+                <td class="date">27.11.2013 21:43 :: გრიგოლ გურგენიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="614131.1385588592.96819">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=614131&code=1385588592">
+                    SPA130023991_წერილი დაზუსტებაზე_werili  dazustebaze.pdf
+                    </a>
+                </td>
+                <td class="date">27.11.2013 21:43 :: გრიგოლ გურგენიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616861.1385996916.96819">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616861&code=1385996916">
+                    SPA130023991_1 Mimartva.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:08 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616870.1385997101.96819">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616870&code=1385997101">
+                    SPA130023991_წერილი დაზუსტებაზე_2 Dazustebis Werili.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:11 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616872.1385997170.96819">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616872&code=1385997170">
+                    SPA130023991_Danarti 1_Cxrili.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:12 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616873.1385997203.96819">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616873&code=1385997203">
+                    SPA130023991_Danarti 2_Baloni 1.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:13 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616874.1385997232.96819">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616874&code=1385997232">
+                    SPA130023991_Danarti 2_Baloni 2.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:13 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616877.1385997244.96819">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616877&code=1385997244">
+                    SPA130023991_Danarti 3_rekviziti.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:14 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616879.1385997262.96819">
+                <td>10.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616879&code=1385997262">
+                    SPA130023991_Danarti 4_Garantia Servisi Treiningi.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:14 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616880.1385997287.96819">
+                <td>11.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616880&code=1385997287">
+                    SPA130023991_Danarti 5_Rekomendaciebi 1.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:14 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616883.1385997325.96819">
+                <td>12.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616883&code=1385997325">
+                    SPA130023991_Danarti 5_Rekomendaciebi 2.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:15 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616885.1385997355.96819">
+                <td>13.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616885&code=1385997355">
+                    SPA130023991_Danarti 6_Dzrava.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:15 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616886.1385997371.96819">
+                <td>14.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616886&code=1385997371">
+                    SPA130023991_Danarti 7_Fasebis Cxrili.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 15:16 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="616984.1386001040.96819">
+                <td>15.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=616984&code=1386001040">
+                    SPA130023991_განმარტება_Ganmarteba.pdf
+                    </a>
+                </td>
+                <td class="date">02.12.2013 16:17 :: Badri Niauri</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="621644.1386355378.96819">
+                <td>16.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=621644&code=1386355378">
+                    SPA130023991_ოქმი 3_oqmi 3.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2013 18:42 :: გრიგოლ გურგენიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="621645.1386355396.96819">
+                <td>17.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=621645&code=1386355396">
+                    SPA130023991_წერილი დისკვალიფიკაციაზე_werili diskvalifikacia.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2013 18:43 :: გრიგოლ გურგენიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="621647.1386355416.96819">
+                <td>18.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=621647&code=1386355416">
+                    SPA130023991_წერილი დაზუსტებაზე_werili dazustebaze .pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2013 18:43 :: გრიგოლ გურგენიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="625170.1386779994.96819">
+                <td>19.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=625170&code=1386779994">
+                    SPA130023991_dazustebuli dokumentaciapdf.pdf
+                    </a>
+                </td>
+                <td class="date">11.12.2013 16:39 :: Tang YuXiang</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="625177.1386780091.96819">
+                <td>20.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=625177&code=1386780091">
+                    SPA130023991_EC cert.pdf
+                    </a>
+                </td>
+                <td class="date">11.12.2013 16:41 :: Tang YuXiang</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="625201.1386780558.96819">
+                <td>21.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=625201&code=1386780558">
+                    SPA130023991_sat.document_benzinmzidi_axali.pdf
+                    </a>
+                </td>
+                <td class="date">11.12.2013 16:49 :: Tang YuXiang</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="625268.1386781573.96819">
+                <td>22.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=625268&code=1386781573">
+                    SPA130023991_Rekomendacia1.pdf
+                    </a>
+                </td>
+                <td class="date">11.12.2013 17:06 :: Tang YuXiang</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="625269.1386781586.96819">
+                <td>23.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=625269&code=1386781586">
+                    SPA130023991_Rekomentacia2.pdf
+                    </a>
+                </td>
+                <td class="date">11.12.2013 17:06 :: Tang YuXiang</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="645666.1388510058.96819">
+                <td>24.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype50 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=645666&code=1388510058">
+                    SPA130023991_ტენდერის შეწყვეტის ოქმი_oqmi 4.pdf
+                    </a>
+                </td>
+                <td class="date">31.12.2013 17:14 :: გრიგოლ გურგენიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+        <td width="120">06.12.2013 18:43</td>
+        <td><strong>XIAMEN GOLDEN DRAGON BUS CO</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr>
+</table>
+</div>
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'96819'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="96819">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="96819">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="96819">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="5" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'96819'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

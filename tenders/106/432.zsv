@@ -1,0 +1,2833 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140003794</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv106432" /><label for="fv106432"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(2004)"><img src="images/profile24_0.png"> ქალაქ ქუთაისის მერია</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>06.02.2014 18:36</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>10.02.2014 00:07</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>12.02.2014 12:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="96543-GEL-06.02.2014 18:36">96`543.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">ქალაქ ქუთაისის საკრებულოს, მერიის და მერიის სტრუქტურული ერთეულებისათვის სხვადასხვა დასახელების საკანცელარიო საქონლის სახელმწიფო შესყიდვა </div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ ტექნიკურ დოკუმენტაციაში</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების დადებიდან 2014 წლის 31 დეკემბრამდე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>900.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>965 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=106432&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="106432">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: რუსუდან ჩინჩალაძე :: 06.02.2014 18:34</li>
+	<li style="text-align:right">ბოლო შესწორება: რუსუდან ჩინჩალაძე :: 06.02.2014 18:34</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:106432, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '106432'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="675147.1391711732.106432">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=675147&code=1391711732">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=675147&code=1391711732">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია_satendero dokumentacia.pdf
+						</a>
+					</td>
+					<td class="date" align="right">06.02.2014 18:35<br/>რუსუდან ჩინჩალაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="675149.1391711739.106432">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=675149&code=1391711739">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=675149&code=1391711739">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ფასების ცხრილი_fasebis cxrili.pdf
+						</a>
+					</td>
+					<td class="date" align="right">06.02.2014 18:35<br/>რუსუდან ჩინჩალაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 96`543.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების დადებიდან 2014 წლის 31 დეკემბრამდე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B106432121154">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17291)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კანც პაპერი</span>
+			</td>
+		<td class="activebid1"><strong>95`540.00</strong>&nbsp;<br/><span class="date">12.02.2014 11:58</span></td>
+		<td class="activebid1">96`543.00&nbsp;<br/><span class="date">12.02.2014 11:51</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(106432,121154)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B106432121086">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37158)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს მაიპისი</span>
+			</td>
+		<td class="activebid1"><strong>88`648.00</strong>&nbsp;<br/><span class="date">12.02.2014 10:09</span></td>
+		<td class="activebid1">88`648.00&nbsp;<br/><span class="date">12.02.2014 10:09</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(106432,121086)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>95`540.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">შპს მაიპისი</td>
+		<td align="center" class="activebid1"><strong>88`648.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:11</td>
+		<td align="center" class="activebid1">12:13</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>95`540.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">შპს მაიპისი</td>
+		<td align="center" class="activebid1"><strong>88`648.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>95`540.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:19</td>
+		<td align="center" class="activebid1">12:21</td>
+		<td class="activebid1">შპს მაიპისი</td>
+		<td align="center" class="activebid1"><strong>88`648.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B106432">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17291)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კანც პაპერი</span>
+		</td>
+		<td class="activebid1"><strong>95`540.00</strong></td>
+		<td class="date activebid1">12.02.2014 11:58</td>
+	</tr><tr bgcolor="#ffffff" id="B106432">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37158)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს მაიპისი</span>
+		</td>
+		<td class="activebid1"><strong>88`648.00</strong></td>
+		<td class="date activebid1">12.02.2014 10:09</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'106432'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'106432'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="682308.1392300295.106432">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=682308&code=1392300295">
+                    SPA140003794_ინტერესთა კონფლიქტი_interesta konfliqti.pdf
+                    </a>
+                </td>
+                <td class="date">13.02.2014 14:04 :: რუსუდან ჩინჩალაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="682309.1392300307.106432">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=682309&code=1392300307">
+                    SPA140003794_ოქმი 2_oqmi 2.pdf
+                    </a>
+                </td>
+                <td class="date">13.02.2014 14:05 :: რუსუდან ჩინჩალაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="682311.1392300349.106432">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=682311&code=1392300349">
+                    SPA140003794_წერილი ხელშეკრულებაზე_werili.pdf
+                    </a>
+                </td>
+                <td class="date">13.02.2014 14:05 :: რუსუდან ჩინჩალაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A22358">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბლოკნოტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:47 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">211 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;844.00 GEL</td>
+                <td title="საშუალო ზომის, 60 ფურცლიანი">საშუალო ზო...</td>
+            </tr><tr id="A22360">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კალენდარი (2014 წლის) ბლოკნოტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:48 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">183 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`098.00 GEL</td>
+                <td title="ზომა A5, 150 ფურცლიანი">ზომა A5, 1...</td>
+            </tr><tr id="A22362">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>წებოვანი ლენტი (სკოჩი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:49 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">348 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;348.00 GEL</td>
+                <td title="ზომა - არანაკლებ 40 მ.">ზომა - არა...</td>
+            </tr><tr id="A22364">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კალგულატორი 12 თანრიგიანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:50 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;750.00 GEL</td>
+                <td title="არანაკლებ ორი კვებით, საუკეთესო ხარისხის">არანაკლებ ...</td>
+            </tr><tr id="A22366">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სათლელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:51 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">161 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;161.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22369">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>დირაკოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:51 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">103 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;515.00 GEL</td>
+                <td title="არანაკლებ 20 ფურცლის გახვრეტა">არანაკლებ ...</td>
+            </tr><tr id="A22372">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საწერი დაფა, სადგარით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:52 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">150.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`250.00 GEL</td>
+                <td title="ზომა - 120X90, ბორბლებზე, მუხრუჯით">ზომა - 120...</td>
+            </tr><tr id="A22376">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კედლის კალენდარი (2014 წლის) გასაშლელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:53 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">91 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;364.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22377">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მაგიდის კალენდარი (2014 წლის) დაფით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:54 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">242 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`936.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22398">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბეჭდებისა და შტამპების ბალიშები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:01 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">32 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;128.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22380">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მაგიდის ბრა, ცივი ნათების</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:54 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">25.00 GEL<br/>
+                <span class="color-2">49 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`225.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22381">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მაგიდის ბრის ნათურა, ცივი ნათების</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:55 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">38 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;228.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22383">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბაინდერი (დიდი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:55 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">824 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`296.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22384">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბაინდერი (საშუალო)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:56 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">540 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`160.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22386">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კორექტორი ფინჯით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:57 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">424 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;339.20 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22388">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საკანცელარიო დანა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:58 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">244 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;488.00 GEL</td>
+                <td title="არანაკლებ 15 სმ. პირით და დამატებითი პირებით">არანაკლებ ...</td>
+            </tr><tr id="A22390">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სკრეპის ამხსნელი, ანტისტეპლერი (ჩამკეტით)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:58 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;150.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22393">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მელანი (ლურჯი/წითელი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:59 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">104 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;83.20 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22394">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ჩასანიშნი ფურცელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:00 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">1620 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`296.00 GEL</td>
+                <td title="წებვადი">წებვადი...</td>
+            </tr><tr id="A22397">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ჩასანიშნი ფურცელი (ფერადი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:01 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">1290 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`870.00 GEL</td>
+                <td title="ზომა - 8X8 მმ., არანაკლებ 10 ფერიანი">ზომა - 8X8...</td>
+            </tr><tr id="A22401">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ელემენტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:03 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;90.00 GEL</td>
+                <td title="3V, ლითიუმის, ბრტყელი, დიამეტრი - 20 მმ., სისქე - 2 მმ.">3V, ლითიუმ...</td>
+            </tr><tr id="A22403">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ელემენტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:04 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title="12 V, 27A სიგნალიზაციის პულტის, სიგრძე - 27 მმ., დიამეტრი - 8 მმ.">12 V, 27A ...</td>
+            </tr><tr id="A22405">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ელემენტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:05 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">1245 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;373.50 GEL</td>
+                <td title="1.5V, AA, AAA">1.5V, AA, ...</td>
+            </tr><tr id="A22406">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ტელეფონი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:06 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">50.00 GEL<br/>
+                <span class="color-2">120 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;6`000.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22409">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სანაგვე ურნა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:08 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">139 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;834.00 GEL</td>
+                <td title="მეტალის, ბადე">მეტალის, ბ...</td>
+            </tr><tr id="A22410">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მაგიდის სტელაჟი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:09 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">173 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;519.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22414">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ავტოკალამი (წითელი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:11 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">180 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;108.00 GEL</td>
+                <td title="ტუში">ტუში...</td>
+            </tr><tr id="A22296">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საშლელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:25 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">232 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;69.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22299">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>წებოვანი ქაღალდი (პოსტიტი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:26 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">2010 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`015.00 GEL</td>
+                <td title="ფერადი">ფერადი...</td>
+            </tr><tr id="A22304">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ავტოკალამი (ლურჯი/წითელი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:29 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">4102 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;820.40 GEL</td>
+                <td title="მაღალი ხარისხი">მაღალი ხარ...</td>
+            </tr><tr id="A22310">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ავტოკალამი (ლურჯი/წითელი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:30 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">2454 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`227.00 GEL</td>
+                <td title="ბურთულიანი, ზამბარიანი">ბურთულიანი...</td>
+            </tr><tr id="A22313">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ავტოკალამი (ლურჯი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:31 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">1582 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;791.00 GEL</td>
+                <td title="ტუში">ტუში...</td>
+            </tr><tr id="A22316">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>რვეული</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:32 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">185 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;185.00 GEL</td>
+                <td title="48 ფურცლიანი, საშუალო ზომა">48 ფურცლია...</td>
+            </tr><tr id="A22318">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>რვეული</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:32 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">237 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;355.50 GEL</td>
+                <td title="ზომა - A4, 48 ფურცლიანი">ზომა - A4,...</td>
+            </tr><tr id="A22320">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფაილბოქსი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:33 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">476 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`428.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22322">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საქაღალდე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:34 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">730 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`460.00 GEL</td>
+                <td title="2 სამაგრით">2 სამაგრით...</td>
+            </tr><tr id="A22326">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფაილი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:35 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">759 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`036.00 GEL</td>
+                <td title="ზომა - A4, 100 ცალიანი, არანაკლებ - 30 მიკრონი">ზომა - A4,...</td>
+            </tr><tr id="A22329">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>წებო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:35 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">611 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;244.40 GEL</td>
+                <td title="მშრალი, 15 გრ.">მშრალი, 15...</td>
+            </tr><tr id="A22330">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფურცლების სამაგრი დაფა, პლანშეტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:36 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">577 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`731.00 GEL</td>
+                <td title="ზომა 120X90">ზომა 120X9...</td>
+            </tr><tr id="A22336">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სტეპლერი 24/6</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:38 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.50 GEL<br/>
+                <span class="color-2">283 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;707.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22342">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კონვერტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:40 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">2990 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;598.00 GEL</td>
+                <td title="ზომა A4">ზომა A4...</td>
+            </tr><tr id="A22344">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კონვერტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:41 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">730 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`460.00 GEL</td>
+                <td title="მისალოცი, თვითწებვადი">მისალოცი, ...</td>
+            </tr><tr id="A22345">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კლიპფაილი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:42 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">710 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`420.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22347">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ორგანაიზერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:42 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">103 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;515.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22348">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კედლის საათი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:43 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">66 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;660.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22350">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მაკრატელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:43 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">127 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;254.00 GEL</td>
+                <td title="ზომა - არანაკლებ 17 სმ.">ზომა - არა...</td>
+            </tr><tr id="A22353">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სწრაფჩამკერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:44 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">1243 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;497.20 GEL</td>
+                <td title="პლასტიკური">პლასტიკური...</td>
+            </tr><tr id="A22354">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მარკერი სხვადასხვა ფერის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:45 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">353 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;176.50 GEL</td>
+                <td title="ზომა - არანაკლებ 6 მმ. წვერით">ზომა - არა...</td>
+            </tr><tr id="A22355">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სახაზავი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:46 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">315 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;126.00 GEL</td>
+                <td title="პლასტმასის, 30 სმ-იანი">პლასტმასის...</td>
+            </tr><tr id="A22357">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბლოკნოტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:46 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">277 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`385.00 GEL</td>
+                <td title="ზომით 175X250 მმ., 80 ფურცლიანი">ზომით 175X...</td>
+            </tr><tr id="A22833">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სტეოლერი 23/15-10 (დიდი ზომის)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:11 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">46 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;460.00 GEL</td>
+                <td title="არანაკლებ 60 ფურცლის დასტეპლერება">არანაკლებ ...</td>
+            </tr><tr id="A22834">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ქუთაისის რუქა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:12 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">26 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;208.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22835">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საქართველოს დროშა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:12 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">66 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;792.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22836">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ევროკავშირის დროშა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:12 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;120.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22837">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სხვა ქვეყნების დროშა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:13 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">25.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;250.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22838">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ტელეფონის გადასატანი აპარატი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:14 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">80.00 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;320.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22841">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საკანცელარიო წიგნი კალენდრით (2014 წლის)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:15 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;300.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22842">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საქმიანი ჩანთა/პორტფელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:15 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">32.00 GEL<br/>
+                <span class="color-2">23 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;736.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22846">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფურცელი A3</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:18 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">85 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`275.00 GEL</td>
+                <td title="A3 ზომა, 500 ცალიანი">A3 ზომა, 5...</td>
+            </tr><tr id="A22847">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ჩასანიშნი სტიკი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:18 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">57 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;45.60 GEL</td>
+                <td title="ფერადი, 100 ფურცლიანი, ზომა 76X19">ფერადი, 10...</td>
+            </tr><tr id="A22851">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბაფთიანი პაპკა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:23 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title="მუყაოსი">მუყაოსი...</td>
+            </tr><tr id="A22852">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>CD დისკი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:24 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">430 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;215.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22853">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სტეპლერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:24 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">6 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;90.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22854">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კორექტორი პასტა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:25 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">78 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;62.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22856">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ცარცის ფურცელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:26 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.05 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;5.00 GEL</td>
+                <td title="80 გრ.">80 გრ.</td>
+            </tr><tr id="A22857">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ორგანაიზერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:26 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">90.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;450.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22858">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ორმაგი სკოჩი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:27 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">37 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;37.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22859">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ტუშის ავტოკალამი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:27 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22860">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საპრეზენტაციო დაფა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:28 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">150.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;150.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22861">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>გამყოფი დივაიდერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:30 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title="პლასტმასის დისკით">პლასტმასის...</td>
+            </tr><tr id="A22863">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სკოჩი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:32 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;15.00 GEL</td>
+                <td title="არანაკლებ 40 მეტრი">არანაკლებ ...</td>
+            </tr><tr id="A22864">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>თაბახის ფურცელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:32 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">27 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.00 GEL</td>
+                <td title="რუხი, 80 გრ">რუხი, 80 გ...</td>
+            </tr><tr id="A22865">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სკოჩის დისპენსერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:33 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22866">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფურცლის საჭრელი გილიოტინა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:33 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">25.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22867">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ვატმანის ფურცელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:34 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;15.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22868">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კონვერტი (პატარა)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:35 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">24 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4.80 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22869">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საქაღალდე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:35 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">25 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;100.00 GEL</td>
+                <td title="ზომა A4, 80 ფურცლიანი">ზომა A4, 8...</td>
+            </tr><tr id="A22870">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საქაღალდე კონვერტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:36 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7.50 GEL</td>
+                <td title="ზომა A4">ზომა A4...</td>
+            </tr><tr id="A22871">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კლიპფაილი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:36 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title="ზამბარით">ზამბარით...</td>
+            </tr><tr id="A22872">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საქაღალდე საარქივო, ბაფთიანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:37 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">24 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;72.00 GEL</td>
+                <td title="ზომა A4">ზომა A4...</td>
+            </tr><tr id="A22873">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კონვერტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:38 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title="ზომა A5, 110 გრ.">ზომა A5, 1...</td>
+            </tr><tr id="A22874">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საკანცელარიო ჯამი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:39 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;500.00 GEL</td>
+                <td title="მეტალის">მეტალის...</td>
+            </tr><tr id="A22875">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>საქაღალდე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:39 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">25.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;375.00 GEL</td>
+                <td title="ზომა A4, ტყავის">ზომა A4, ტ...</td>
+            </tr><tr id="A22876">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფოტოქაღალდი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:40 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title="ზომა A4, 20 ფურცლიანი შეკვრა">ზომა A4, 2...</td>
+            </tr><tr id="A22411">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სტეპლერის ტყვია</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:09 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">404 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;121.20 GEL</td>
+                <td title="ზომა - 24/6">ზომა - 24/...</td>
+            </tr><tr id="A22413">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფერადი ფურცელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:11 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">198 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;792.00 GEL</td>
+                <td title="ზომა - A4">ზომა - A4...</td>
+            </tr><tr id="A22295">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>თაბახის ფურცელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:25 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">7.00 GEL<br/>
+                <span class="color-2">3634 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;25`438.00 GEL</td>
+                <td title="თეთრი, 80 გრ-იანი">თეთრი, 80 ...</td>
+            </tr><tr id="A22332">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სკრეპი #3</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:37 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">810 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;405.00 GEL</td>
+                <td title="100 ცალიანი, ნიკელის">100 ცალიან...</td>
+            </tr><tr id="A22338">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სტეპლერის ტყვია</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:39 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">1315 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;657.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22855">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ლამინირების ფურცელი (100 ცალიანი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:25 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">30.00 GEL<br/>
+                <span class="color-2">2 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22862">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კლიპჩარტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:31 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">30 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;300.00 GEL</td>
+                <td title="ზომა A1">ზომა A1...</td>
+            </tr><tr id="A22399">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>დაფის მარკერების ნაკრები (4 მარკერი, 1 საშლელი მაგნიტური)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 13:02 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">69 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;276.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22840">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>დისკის მარკერი (არანაკლებ 4 ფერი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:14 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">66 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;132.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22845">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მაგიდის საკანცელარიო მოწყობილობა/ორგანაიზერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:17 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">34 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;204.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22340">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ჭიკარტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:39 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">305 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;244.00 GEL</td>
+                <td title="ფერადი, 20 ცალიანი">ფერადი, 20...</td>
+            </tr><tr id="A22341">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ჭიკარტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:40 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">40 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;40.00 GEL</td>
+                <td title="ოქროსფერთავიანი, 50 ცალიანი">ოქროსფერთა...</td>
+            </tr><tr id="A22352">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფანქარი საშლელით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.02.2014 12:44 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">228 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;342.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A22843">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კლიპსი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.02.2014 10:16 :: რუსუდან ჩინჩალაძე</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">304 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;912.00 GEL</td>
+                <td title="50 მმ.">50 მმ.</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'106432'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg10" style="font-weight:bold">მიმდინარე ხელშეკრულება</span><br/>
+			<span class="date">რუსუდან ჩინჩალაძე :: 25.02.2014</span><br/>
+			
+			<span>ხელშეკრულების მოქმედების ვადას გადაცილებული დღეები:  <strong>71</strong></span>
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(37158)"><img src="images/profile24.png"></a> <strong>შპს მაიპისი</strong><br/>
+				
+					ნომერი/თანხა: N58 / <span class="convertme" id="88648-GEL-25.02.2014 10:51">88648 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 20.02.2014 - 31.01.2015<br/>
+					<span class="date">25.02.2014 10:51</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=87754"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="106432">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;font-weight: bold;margin:1em">ხელშეკრულების ცვლილება</div>
+		<table width="100%">
+			<tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 1</u></span><br/>
+					ნომერი/თანხა: N58 / <span class="convertme" id="88648-GEL-22.10.2014 11:06">88648 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 20.02.2014 - 31.01.2015<br/>
+					<span class="date">22.10.2014 11:06</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=108058"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+		</table>
+	</div>
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="106432">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="106432">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="800181.1402336935.106432">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=800181&code=1402336935">
+SPA140003794_58-10936.pdf
+</a>
+</td>
+<td class="date">09.06.2014 18:02 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="800184.1402336947.106432">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=800184&code=1402336947">
+SPA140003794_58-is dokumentacia.pdf
+</a>
+</td>
+<td class="date">09.06.2014 18:02 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="828166.1404732339.106432">
+<td>3.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=828166&code=1404732339">
+SPA140003794_58-5286.30.pdf
+</a>
+</td>
+<td class="date">07.07.2014 11:25 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="828170.1404732429.106432">
+<td>4.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete1">
+<a target="blank" href="engine/files.php?mode=app&file=828170&code=1404732429">
+SPA140003794_58-is dok...pdf
+</a>
+</td>
+<td class="date">07.07.2014 11:27 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="828181.1404732826.106432">
+<td>5.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=828181&code=1404732826">
+SPA140003794_58-is dok..pdf
+</a>
+</td>
+<td class="date">07.07.2014 11:33 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="828186.1404732898.106432">
+<td>6.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=828186&code=1404732898">
+SPA140003794_58-is dok...pdf
+</a>
+</td>
+<td class="date">07.07.2014 11:34 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="828188.1404732946.106432">
+<td>7.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=828188&code=1404732946">
+SPA140003794_58-is dokoo.pdf
+</a>
+</td>
+<td class="date">07.07.2014 11:35 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="849322.1406639429.106432">
+<td>8.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=849322&code=1406639429">
+SPA140003794_58 - 3443,60.pdf
+</a>
+</td>
+<td class="date">29.07.2014 13:10 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="849326.1406639609.106432">
+<td>9.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=849326&code=1406639609">
+SPA140003794_58 - dok.pdf
+</a>
+</td>
+<td class="date">29.07.2014 13:13 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918922.1413213491.106432">
+<td>10.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918922&code=1413213491">
+SPA140003794_58-4760.8.pdf
+</a>
+</td>
+<td class="date">13.10.2014 15:18 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="918989.1413215154.106432">
+<td>11.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=918989&code=1413215154">
+SPA140003794_58-is dok.pdf
+</a>
+</td>
+<td class="date">13.10.2014 15:45 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="919010.1413215580.106432">
+<td>12.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=919010&code=1413215580">
+SPA140003794_58-is dok1.pdf
+</a>
+</td>
+<td class="date">13.10.2014 15:53 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="952918.1416221096.106432">
+<td>13.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=952918&code=1416221096">
+SPA140003794_58-4037.8.pdf
+</a>
+</td>
+<td class="date">17.11.2014 10:44 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="998045.1419416839.106432">
+<td>14.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=998045&code=1419416839">
+SPA140003794_58-6818.2.pdf
+</a>
+</td>
+<td class="date">24.12.2014 10:27 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1010537.1420453201.106432">
+<td>15.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1010537&code=1420453201">
+SPA140003794_58-10527.6.pdf
+</a>
+</td>
+<td class="date">05.01.2015 10:20 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1074541.1424947229.106432">
+<td>16.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1074541&code=1424947229">
+SPA140003794_1220.69_58.pdf
+</a>
+</td>
+<td class="date">26.02.2015 10:40 :: რუსუდან ჩინჩალაძე</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 88`648.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 59`029.70 ლარი  (67%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>1`220.69 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2015</td>
+<td>1</td>
+<td>19.02.2015&nbsp;
+
+</td>
+<td class="date">26.02.2015<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid0">
+<td>1`220.69 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2015</td>
+<td>2</td>
+<td>19.02.2015&nbsp;
+
+</td>
+<td class="date">26.02.2015<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid1">
+<td>11`998.71 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2015</td>
+<td>4</td>
+<td>30.12.2014&nbsp;
+
+</td>
+<td class="date">13.01.2015<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid1">
+<td>10`527.60 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>31.12.2014&nbsp;
+
+</td>
+<td class="date">05.01.2015<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid1">
+<td>6`818.20 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>17.12.2014&nbsp;
+
+</td>
+<td class="date">24.12.2014<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid1">
+<td>4`037.80 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>05.11.2014&nbsp;
+
+</td>
+<td class="date">17.11.2014<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid1">
+<td>4`760.80 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>07.10.2014&nbsp;
+
+</td>
+<td class="date">13.10.2014<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid1">
+<td>3`443.60 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>3</td>
+<td>28.07.2014&nbsp;
+
+</td>
+<td class="date">29.07.2014<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid1">
+<td>5`286.30 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>3</td>
+<td>04.07.2014&nbsp;
+
+</td>
+<td class="date">07.07.2014<br>რუსუდან ჩინჩალაძე</td>
+</tr><tr class="activebid1">
+<td>10`936.00 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2</td>
+<td>05.06.2014&nbsp;
+
+</td>
+<td class="date">09.06.2014<br>რუსუდან ჩინჩალაძე</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'106432'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

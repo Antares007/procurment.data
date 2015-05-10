@@ -1,0 +1,4504 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA120026044</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv67223" /><label for="fv67223"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(2240)"><img src="images/profile24_1.png"> მცხეთის მუნიციპალიტეტი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>09.11.2012 16:36</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td><span class='subject_name'>25.11.2012 00:00</span></td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>30.11.2012 15:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2012 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="1449000-GEL-09.11.2012 16:36">1`449`000.00 GEL</span> </td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;45200000 - მთლიანი ან ნაწილობრივი სამშენებლო სამუშაოები და სამოქალაქო მშენებლობის სამუშაოები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;45200000 - მთლიანი ან ნაწილობრივი სამშენებლო სამუშაოები და სამოქალაქო მშენებლობის სამუშაოები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;45247120 - საწყალოსნო გზები, არხების გარდა 
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">ა)მცხეთის მუნიციპალიტეტის სოფელ მისაქციელში და სოფელ ახალუბნის წყალმომარაგების სამუშაოების სახელმწიფო შესყიდვა<br />
+ბ) სამუშაოების საგარანტიო ვადა - სამუშაოების დასრულებიდან 2 (ორი) წელი.</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ დანართები</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>2013 წლის 1 ივლისამდე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>15`000.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>14`490 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=67223&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="67223">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ნინო  ქიტუაშვილი :: 02.11.2012 15:05</li>
+	<li style="text-align:right">ბოლო შესწორება: ნინო  ქიტუაშვილი :: 14.11.2012 16:16</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+<span>
+<button id="btn_apphistory" type="button">განცხადების ისტორია</button>
+<script type="text/javascript">
+$('#btn_apphistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){$.get('engine/controller.php',{app_id:67223, action:'app_versions'}, function(data) {$('#history').html(data);})});
+</script>
+</span>
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:67223, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '67223'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="385114.1351868751.67223">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385114&code=1351868751">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385114&code=1351868751">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:05<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385115.1351868757.67223">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385115&code=1351868757">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385115&code=1351868757">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:05<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385116.1351868766.67223">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385116&code=1351868766">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385116&code=1351868766">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_1-1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385117.1351868771.67223">
+					<td><span class="opgear">4.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385117&code=1351868771">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385117&code=1351868771">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_1-2.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385118.1351868777.67223">
+					<td><span class="opgear">5.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385118&code=1351868777">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385118&code=1351868777">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_1-3.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385119.1351868782.67223">
+					<td><span class="opgear">6.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385119&code=1351868782">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385119&code=1351868782">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_1-4.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385120.1351868786.67223">
+					<td><span class="opgear">7.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385120&code=1351868786">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385120&code=1351868786">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_1-5.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385121.1351868795.67223">
+					<td><span class="opgear">8.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385121&code=1351868795">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385121&code=1351868795">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_1-6.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385122.1351868801.67223">
+					<td><span class="opgear">9.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385122&code=1351868801">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385122&code=1351868801">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2-1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385123.1351868806.67223">
+					<td><span class="opgear">10.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385123&code=1351868806">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385123&code=1351868806">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2-2.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385124.1351868818.67223">
+					<td><span class="opgear">11.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385124&code=1351868818">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385124&code=1351868818">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2-3.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:06<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385125.1351868823.67223">
+					<td><span class="opgear">12.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385125&code=1351868823">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385125&code=1351868823">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2-4.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:07<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385126.1351868829.67223">
+					<td><span class="opgear">13.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385126&code=1351868829">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385126&code=1351868829">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2-5.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:07<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385127.1351868840.67223">
+					<td><span class="opgear">14.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385127&code=1351868840">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385127&code=1351868840">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2-6.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:07<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385128.1351868848.67223">
+					<td><span class="opgear">15.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385128&code=1351868848">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385128&code=1351868848">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2-7.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:07<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="385129.1351868856.67223">
+					<td><span class="opgear">16.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=385129&code=1351868856">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=385129&code=1351868856">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2-8.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.11.2012 15:07<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="386589.1352462889.67223">
+					<td><span class="opgear">17.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=386589&code=1352462889">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=386589&code=1352462889">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">09.11.2012 12:08<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="386590.1352462897.67223">
+					<td><span class="opgear">18.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=386590&code=1352462897">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=386590&code=1352462897">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_2.pdf
+						</a>
+					</td>
+					<td class="date" align="right">09.11.2012 12:08<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="386591.1352462906.67223">
+					<td><span class="opgear">19.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=386591&code=1352462906">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=386591&code=1352462906">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_3.pdf
+						</a>
+					</td>
+					<td class="date" align="right">09.11.2012 12:08<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="386592.1352462914.67223">
+					<td><span class="opgear">20.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=386592&code=1352462914">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=386592&code=1352462914">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_4.pdf
+						</a>
+					</td>
+					<td class="date" align="right">09.11.2012 12:08<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="386593.1352462922.67223">
+					<td><span class="opgear">21.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=386593&code=1352462922">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=386593&code=1352462922">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_5.pdf
+						</a>
+					</td>
+					<td class="date" align="right">09.11.2012 12:08<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="386594.1352462931.67223">
+					<td><span class="opgear">22.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=386594&code=1352462931">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=386594&code=1352462931">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_6.pdf
+						</a>
+					</td>
+					<td class="date" align="right">09.11.2012 12:08<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="386703.1352478961.67223">
+					<td><span class="opgear">23.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=386703&code=1352478961">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=386703&code=1352478961">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">09.11.2012 16:36<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="387643.1352909515.67223">
+					<td><span class="opgear">24.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=387643&code=1352909515">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=387643&code=1352909515">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA120026044_სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">14.11.2012 16:11<br/>ნინო  ქიტუაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		<div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_67223_2221" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">28.11.2012 23:24</span> შპს სელექცია :: ბელა თოდუა</p>
+			<p class="chatmessgase activebid1">პროექტანთან გასაუბრება თუ შესაძლებელია? რამოდენიმე საკითხი გაურკვეველია</p>
+			<div style="display: none" id="ANS2221">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_67223_2020" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">21.11.2012 13:50</span> შპს &quot;გზა XXI&quot; :: როინ აბუსელიძე</p>
+			<p class="chatmessgase activebid1">ხელშეკრულების უზრუნველყოფისა და საავანსო ანგარიშსწორების სადაზღვეო  საბანკო გარანტიების გამოყენება შესაძლებელია თუ არა?</p>
+			<div style="display: none" id="ANS2020">...</div>
+		</div>
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 1`449`000.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: 2013 წლის 1 ივლისამდე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B6722366557">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(10726)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ერისიმედი</span>
+			</td>
+		<td class="activebid1"><strong>1`449`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:15</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 14:15</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66557)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366523">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(28738)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ჯორჯიან უოთერ ენდ ფაუერი</span>
+			</td>
+		<td class="activebid1"><strong>1`399`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 15:07</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 12:19</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66523)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366500">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4690)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">დაგი</span>
+			</td>
+		<td class="activebid1"><strong>1`392`622.00</strong>&nbsp;<br/><span class="date">30.11.2012 11:30</span></td>
+		<td class="activebid1">1`392`622.00&nbsp;<br/><span class="date">30.11.2012 11:30</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66500)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366468">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(23749)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ბოვან</span>
+			</td>
+		<td class="activebid1"><strong>1`385`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:46</span></td>
+		<td class="activebid1">1`400`000.00&nbsp;<br/><span class="date">29.11.2012 21:30</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66468)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366495">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(19748)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ერ-დი ჯგუფი</span>
+			</td>
+		<td class="activebid1"><strong>1`344`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:57</span></td>
+		<td class="activebid1">1`404`000.00&nbsp;<br/><span class="date">30.11.2012 11:18</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66495)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366474">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7367)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;გზა XXI&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`295`400.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:59</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 01:41</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66474)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366561">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(8241)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;ბლოკ-ჯორჯია&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`281`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:52</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 14:23</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66561)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366542">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2975)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ქართლი</span>
+			</td>
+		<td class="activebid1"><strong>1`278`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:57</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 13:21</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66542)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366576">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(8015)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სპეცჰიდრომშენი</span>
+			</td>
+		<td class="activebid1"><strong>1`263`579.00</strong>&nbsp;<br/><span class="date">30.11.2012 15:20</span></td>
+		<td class="activebid1">1`293`579.00&nbsp;<br/><span class="date">30.11.2012 14:59</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66576)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366503">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2613)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;ნიუ კონსტრაქშენ&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`251`773.00</strong>&nbsp;<br/><span class="date">30.11.2012 11:33</span></td>
+		<td class="activebid1">1`251`773.00&nbsp;<br/><span class="date">30.11.2012 11:33</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66503)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366489">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(15041)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;MSHEN-GROUP მშენ-გროუფ&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`240`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:56</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 10:50</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66489)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366539">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2108)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ნოვა</span>
+			</td>
+		<td class="activebid1"><strong>1`234`591.00</strong>&nbsp;<br/><span class="date">30.11.2012 13:16</span></td>
+		<td class="activebid1">1`234`591.00&nbsp;<br/><span class="date">30.11.2012 13:16</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66539)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366551">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11877)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">GSG GROUP</span>
+			</td>
+		<td class="activebid1"><strong>1`215`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:42</span></td>
+		<td class="activebid1">1`352`197.00&nbsp;<br/><span class="date">30.11.2012 14:09</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66551)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366472">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3129)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ინტერ პლიუსი</span>
+			</td>
+		<td class="activebid1"><strong>1`185`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:59</span></td>
+		<td class="activebid1">1`230`226.00&nbsp;<br/><span class="date">30.11.2012 00:07</span></td>
+		<td align="center" class="activebid1">[4] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66472)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366440">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7923)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;თბილსათბობმშენი&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`182`718.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:59</span></td>
+		<td class="activebid1">1`212`718.00&nbsp;<br/><span class="date">29.11.2012 16:42</span></td>
+		<td align="center" class="activebid1">[3] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66440)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366467">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11589)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">აგრო</span>
+			</td>
+		<td class="activebid1"><strong>1`180`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 15:27</span></td>
+		<td class="activebid1">1`250`000.00&nbsp;<br/><span class="date">29.11.2012 21:22</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66467)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366473">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(13627)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ბილდინგ-დეველოპერ</span>
+			</td>
+		<td class="activebid1"><strong>1`150`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:33</span></td>
+		<td class="activebid1">1`236`983.00&nbsp;<br/><span class="date">30.11.2012 01:30</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66473)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366443">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(28017)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს შანსი-2010</span>
+			</td>
+		<td class="activebid1"><strong>1`150`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 14:16</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">29.11.2012 17:15</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66443)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366525">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(8500)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ნდს მშენებლობა&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`149`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 16:12</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 12:31</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66525)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366442">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11832)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შ.პ.ს.''კაპიტელი''</span>
+			</td>
+		<td class="activebid1"><strong>1`124`950.00</strong>&nbsp;<br/><span class="date">30.11.2012 15:52</span></td>
+		<td class="activebid1">1`433`761.00&nbsp;<br/><span class="date">29.11.2012 17:10</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66442)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366532">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(29126)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ლუკა-მშენი</span>
+			</td>
+		<td class="activebid1"><strong>1`120`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 17:29</span></td>
+		<td class="activebid1">1`151`349.00&nbsp;<br/><span class="date">30.11.2012 13:05</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66532)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366543">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(10595)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ჭიათურმშენი</span>
+			</td>
+		<td class="activebid1"><strong>1`119`991.00</strong>&nbsp;<br/><span class="date">30.11.2012 16:38</span></td>
+		<td class="activebid1">1`292`268.00&nbsp;<br/><span class="date">30.11.2012 13:29</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66543)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366479">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(12361)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">გ და დ</span>
+			</td>
+		<td class="activebid1"><strong>1`105`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 17:42</span></td>
+		<td class="activebid1">1`189`860.00&nbsp;<br/><span class="date">30.11.2012 09:56</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66479)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366469">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2474)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კომფორტი2005</span>
+			</td>
+		<td class="activebid1"><strong>1`100`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 17:37</span></td>
+		<td class="activebid1">1`199`760.00&nbsp;<br/><span class="date">29.11.2012 21:51</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66469)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366568">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(1988)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ლ და კ&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`049`000.00</strong>&nbsp;<br/><span class="date">30.11.2012 15:56</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 14:29</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66568)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366499">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(18407)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს მშენებელი XXI +</span>
+			</td>
+		<td class="activebid1"><strong>950`004.00</strong>&nbsp;<br/><span class="date">30.11.2012 16:49</span></td>
+		<td class="activebid1">1`449`000.00&nbsp;<br/><span class="date">30.11.2012 11:25</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66499)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B6722366572">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3867)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">მემონტაჟე ნიკა</span>
+			</td>
+		<td class="activebid1"><strong>949`500.00</strong>&nbsp;<br/><span class="date">30.11.2012 16:54</span></td>
+		<td class="activebid1">1`131`918.00&nbsp;<br/><span class="date">30.11.2012 14:52</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(67223,66572)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">15:05</td>
+		<td align="center" class="activebid1">15:07</td>
+		<td class="activebid1">ერისიმედი</td>
+		<td align="center" class="activebid1"><strong>1`449`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:07</td>
+		<td align="center" class="activebid1">15:09</td>
+		<td class="activebid1">შპს ჯორჯიან უოთერ ენდ ფაუერი</td>
+		<td align="center" class="activebid1"><strong>1`399`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:09</td>
+		<td align="center" class="activebid1">15:11</td>
+		<td class="activebid1">დაგი</td>
+		<td align="center" class="activebid1"><strong>1`392`622.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:11</td>
+		<td align="center" class="activebid1">15:13</td>
+		<td class="activebid1">შპს ბოვან</td>
+		<td align="center" class="activebid1"><strong>1`385`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:13</td>
+		<td align="center" class="activebid1">15:15</td>
+		<td class="activebid1">&quot;ნდს მშენებლობა&quot;</td>
+		<td align="center" class="activebid1"><strong>1`337`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:15</td>
+		<td align="center" class="activebid1">15:17</td>
+		<td class="activebid1">ერ-დი ჯგუფი</td>
+		<td align="center" class="activebid1"><strong>1`344`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:17</td>
+		<td align="center" class="activebid1">15:19</td>
+		<td class="activebid1">შპს &quot;გზა XXI&quot;</td>
+		<td align="center" class="activebid1"><strong>1`295`400.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:19</td>
+		<td align="center" class="activebid1">15:21</td>
+		<td class="activebid1">სპეცჰიდრომშენი</td>
+		<td align="center" class="activebid1"><strong>1`263`579.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:21</td>
+		<td align="center" class="activebid1">15:23</td>
+		<td class="activebid1">შპს &quot;ბლოკ-ჯორჯია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`281`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:23</td>
+		<td align="center" class="activebid1">15:25</td>
+		<td class="activebid1">შპს ქართლი</td>
+		<td align="center" class="activebid1"><strong>1`278`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:25</td>
+		<td align="center" class="activebid1">15:27</td>
+		<td class="activebid1">შპს &quot;ნიუ კონსტრაქშენ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`251`773.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:27</td>
+		<td align="center" class="activebid1">15:29</td>
+		<td class="activebid1">აგრო</td>
+		<td align="center" class="activebid1"><strong>1`180`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:29</td>
+		<td align="center" class="activebid1">15:31</td>
+		<td class="activebid1">&quot;MSHEN-GROUP მშენ-გროუფ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`240`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:31</td>
+		<td align="center" class="activebid1">15:33</td>
+		<td class="activebid1">ნოვა</td>
+		<td align="center" class="activebid1"><strong>1`234`591.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:33</td>
+		<td align="center" class="activebid1">15:35</td>
+		<td class="activebid1">GSG GROUP</td>
+		<td align="center" class="activebid1"><strong>1`215`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:35</td>
+		<td align="center" class="activebid1">15:37</td>
+		<td class="activebid1">კომფორტი2005</td>
+		<td align="center" class="activebid1"><strong>1`124`999.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:37</td>
+		<td align="center" class="activebid1">15:39</td>
+		<td class="activebid1">ჭიათურმშენი</td>
+		<td align="center" class="activebid1"><strong>1`175`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:39</td>
+		<td align="center" class="activebid1">15:41</td>
+		<td class="activebid1">გ და დ</td>
+		<td align="center" class="activebid1"><strong>1`189`860.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:41</td>
+		<td align="center" class="activebid1">15:43</td>
+		<td class="activebid1">ინტერ პლიუსი</td>
+		<td align="center" class="activebid1"><strong>1`185`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:43</td>
+		<td align="center" class="activebid1">15:45</td>
+		<td class="activebid1">შპს &quot;თბილსათბობმშენი&quot;</td>
+		<td align="center" class="activebid1"><strong>1`182`718.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:45</td>
+		<td align="center" class="activebid1">15:47</td>
+		<td class="activebid1">შპს ლუკა-მშენი</td>
+		<td align="center" class="activebid1"><strong>1`151`349.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:47</td>
+		<td align="center" class="activebid1">15:49</td>
+		<td class="activebid1">ბილდინგ-დეველოპერ</td>
+		<td align="center" class="activebid1"><strong>1`150`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:49</td>
+		<td align="center" class="activebid1">15:51</td>
+		<td class="activebid1">შპს შანსი-2010</td>
+		<td align="center" class="activebid1"><strong>1`150`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:51</td>
+		<td align="center" class="activebid1">15:53</td>
+		<td class="activebid1">შ.პ.ს.''კაპიტელი''</td>
+		<td align="center" class="activebid1"><strong>1`124`950.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:53</td>
+		<td align="center" class="activebid1">15:55</td>
+		<td class="activebid1">შპს მშენებელი XXI +</td>
+		<td align="center" class="activebid1"><strong>1`050`003.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:55</td>
+		<td align="center" class="activebid1">15:57</td>
+		<td class="activebid1">&quot;ლ და კ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`049`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:57</td>
+		<td align="center" class="activebid1">15:59</td>
+		<td class="activebid1">მემონტაჟე ნიკა</td>
+		<td align="center" class="activebid1"><strong>996`918.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">16:01</td>
+		<td align="center" class="activebid1">16:03</td>
+		<td class="activebid1">ერისიმედი</td>
+		<td align="center" class="activebid1"><strong>1`449`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:03</td>
+		<td align="center" class="activebid1">16:05</td>
+		<td class="activebid1">შპს ჯორჯიან უოთერ ენდ ფაუერი</td>
+		<td align="center" class="activebid1"><strong>1`399`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:05</td>
+		<td align="center" class="activebid1">16:07</td>
+		<td class="activebid1">დაგი</td>
+		<td align="center" class="activebid1"><strong>1`392`622.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:07</td>
+		<td align="center" class="activebid1">16:09</td>
+		<td class="activebid1">შპს ბოვან</td>
+		<td align="center" class="activebid1"><strong>1`385`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:09</td>
+		<td align="center" class="activebid1">16:11</td>
+		<td class="activebid1">ერ-დი ჯგუფი</td>
+		<td align="center" class="activebid1"><strong>1`344`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:11</td>
+		<td align="center" class="activebid1">16:13</td>
+		<td class="activebid1">&quot;ნდს მშენებლობა&quot;</td>
+		<td align="center" class="activebid1"><strong>1`149`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:13</td>
+		<td align="center" class="activebid1">16:15</td>
+		<td class="activebid1">შპს &quot;გზა XXI&quot;</td>
+		<td align="center" class="activebid1"><strong>1`295`400.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:15</td>
+		<td align="center" class="activebid1">16:17</td>
+		<td class="activebid1">შპს &quot;ბლოკ-ჯორჯია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`281`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:17</td>
+		<td align="center" class="activebid1">16:19</td>
+		<td class="activebid1">შპს ქართლი</td>
+		<td align="center" class="activebid1"><strong>1`278`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:19</td>
+		<td align="center" class="activebid1">16:21</td>
+		<td class="activebid1">სპეცჰიდრომშენი</td>
+		<td align="center" class="activebid1"><strong>1`263`579.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:21</td>
+		<td align="center" class="activebid1">16:23</td>
+		<td class="activebid1">შპს &quot;ნიუ კონსტრაქშენ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`251`773.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:23</td>
+		<td align="center" class="activebid1">16:25</td>
+		<td class="activebid1">&quot;MSHEN-GROUP მშენ-გროუფ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`240`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:25</td>
+		<td align="center" class="activebid1">16:27</td>
+		<td class="activebid1">ნოვა</td>
+		<td align="center" class="activebid1"><strong>1`234`591.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:27</td>
+		<td align="center" class="activebid1">16:29</td>
+		<td class="activebid1">GSG GROUP</td>
+		<td align="center" class="activebid1"><strong>1`215`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:29</td>
+		<td align="center" class="activebid1">16:31</td>
+		<td class="activebid1">გ და დ</td>
+		<td align="center" class="activebid1"><strong>1`120`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:31</td>
+		<td align="center" class="activebid1">16:33</td>
+		<td class="activebid1">ინტერ პლიუსი</td>
+		<td align="center" class="activebid1"><strong>1`185`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:33</td>
+		<td align="center" class="activebid1">16:35</td>
+		<td class="activebid1">შპს &quot;თბილსათბობმშენი&quot;</td>
+		<td align="center" class="activebid1"><strong>1`182`718.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:35</td>
+		<td align="center" class="activebid1">16:37</td>
+		<td class="activebid1">აგრო</td>
+		<td align="center" class="activebid1"><strong>1`180`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:37</td>
+		<td align="center" class="activebid1">16:39</td>
+		<td class="activebid1">ჭიათურმშენი</td>
+		<td align="center" class="activebid1"><strong>1`119`991.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:39</td>
+		<td align="center" class="activebid1">16:41</td>
+		<td class="activebid1">შპს ლუკა-მშენი</td>
+		<td align="center" class="activebid1"><strong>1`151`349.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:41</td>
+		<td align="center" class="activebid1">16:43</td>
+		<td class="activebid1">ბილდინგ-დეველოპერ</td>
+		<td align="center" class="activebid1"><strong>1`150`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:43</td>
+		<td align="center" class="activebid1">16:45</td>
+		<td class="activebid1">შპს შანსი-2010</td>
+		<td align="center" class="activebid1"><strong>1`150`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:45</td>
+		<td align="center" class="activebid1">16:47</td>
+		<td class="activebid1">კომფორტი2005</td>
+		<td align="center" class="activebid1"><strong>1`124`999.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:47</td>
+		<td align="center" class="activebid1">16:49</td>
+		<td class="activebid1">შ.პ.ს.''კაპიტელი''</td>
+		<td align="center" class="activebid1"><strong>1`124`950.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:49</td>
+		<td align="center" class="activebid1">16:51</td>
+		<td class="activebid1">შპს მშენებელი XXI +</td>
+		<td align="center" class="activebid1"><strong>950`004.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:51</td>
+		<td align="center" class="activebid1">16:53</td>
+		<td class="activebid1">&quot;ლ და კ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`049`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:53</td>
+		<td align="center" class="activebid1">16:55</td>
+		<td class="activebid1">მემონტაჟე ნიკა</td>
+		<td align="center" class="activebid1"><strong>949`500.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">16:57</td>
+		<td align="center" class="activebid1">16:59</td>
+		<td class="activebid1">ერისიმედი</td>
+		<td align="center" class="activebid1"><strong>1`449`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:59</td>
+		<td align="center" class="activebid1">17:01</td>
+		<td class="activebid1">შპს ჯორჯიან უოთერ ენდ ფაუერი</td>
+		<td align="center" class="activebid1"><strong>1`399`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:01</td>
+		<td align="center" class="activebid1">17:03</td>
+		<td class="activebid1">დაგი</td>
+		<td align="center" class="activebid1"><strong>1`392`622.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:03</td>
+		<td align="center" class="activebid1">17:05</td>
+		<td class="activebid1">შპს ბოვან</td>
+		<td align="center" class="activebid1"><strong>1`385`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:05</td>
+		<td align="center" class="activebid1">17:07</td>
+		<td class="activebid1">ერ-დი ჯგუფი</td>
+		<td align="center" class="activebid1"><strong>1`344`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:07</td>
+		<td align="center" class="activebid1">17:09</td>
+		<td class="activebid1">შპს &quot;გზა XXI&quot;</td>
+		<td align="center" class="activebid1"><strong>1`295`400.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:09</td>
+		<td align="center" class="activebid1">17:11</td>
+		<td class="activebid1">შპს &quot;ბლოკ-ჯორჯია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`281`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:11</td>
+		<td align="center" class="activebid1">17:13</td>
+		<td class="activebid1">შპს ქართლი</td>
+		<td align="center" class="activebid1"><strong>1`278`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:13</td>
+		<td align="center" class="activebid1">17:15</td>
+		<td class="activebid1">სპეცჰიდრომშენი</td>
+		<td align="center" class="activebid1"><strong>1`263`579.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:15</td>
+		<td align="center" class="activebid1">17:17</td>
+		<td class="activebid1">შპს &quot;ნიუ კონსტრაქშენ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`251`773.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:17</td>
+		<td align="center" class="activebid1">17:19</td>
+		<td class="activebid1">&quot;MSHEN-GROUP მშენ-გროუფ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`240`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:19</td>
+		<td align="center" class="activebid1">17:21</td>
+		<td class="activebid1">ნოვა</td>
+		<td align="center" class="activebid1"><strong>1`234`591.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:21</td>
+		<td align="center" class="activebid1">17:23</td>
+		<td class="activebid1">GSG GROUP</td>
+		<td align="center" class="activebid1"><strong>1`215`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:23</td>
+		<td align="center" class="activebid1">17:25</td>
+		<td class="activebid1">ინტერ პლიუსი</td>
+		<td align="center" class="activebid1"><strong>1`185`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:25</td>
+		<td align="center" class="activebid1">17:27</td>
+		<td class="activebid1">შპს &quot;თბილსათბობმშენი&quot;</td>
+		<td align="center" class="activebid1"><strong>1`182`718.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:27</td>
+		<td align="center" class="activebid1">17:29</td>
+		<td class="activebid1">აგრო</td>
+		<td align="center" class="activebid1"><strong>1`180`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">17:29</td>
+		<td align="center" class="activebid1">17:31</td>
+		<td class="activebid1">შპს ლუკა-მშენი</td>
+		<td align="center" class="activebid1"><strong>1`120`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:31</td>
+		<td align="center" class="activebid1">17:33</td>
+		<td class="activebid1">ბილდინგ-დეველოპერ</td>
+		<td align="center" class="activebid1"><strong>1`150`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:33</td>
+		<td align="center" class="activebid1">17:35</td>
+		<td class="activebid1">შპს შანსი-2010</td>
+		<td align="center" class="activebid1"><strong>1`150`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:35</td>
+		<td align="center" class="activebid1">17:37</td>
+		<td class="activebid1">&quot;ნდს მშენებლობა&quot;</td>
+		<td align="center" class="activebid1"><strong>1`149`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">17:37</td>
+		<td align="center" class="activebid1">17:39</td>
+		<td class="activebid1">კომფორტი2005</td>
+		<td align="center" class="activebid1"><strong>1`100`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:39</td>
+		<td align="center" class="activebid1">17:41</td>
+		<td class="activebid1">შ.პ.ს.''კაპიტელი''</td>
+		<td align="center" class="activebid1"><strong>1`124`950.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">17:41</td>
+		<td align="center" class="activebid1">17:43</td>
+		<td class="activebid1">გ და დ</td>
+		<td align="center" class="activebid1"><strong>1`105`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:43</td>
+		<td align="center" class="activebid1">17:45</td>
+		<td class="activebid1">ჭიათურმშენი</td>
+		<td align="center" class="activebid1"><strong>1`119`991.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:45</td>
+		<td align="center" class="activebid1">17:47</td>
+		<td class="activebid1">&quot;ლ და კ&quot;</td>
+		<td align="center" class="activebid1"><strong>1`049`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:47</td>
+		<td align="center" class="activebid1">17:49</td>
+		<td class="activebid1">შპს მშენებელი XXI +</td>
+		<td align="center" class="activebid1"><strong>950`004.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">17:49</td>
+		<td align="center" class="activebid1">17:51</td>
+		<td class="activebid1">მემონტაჟე ნიკა</td>
+		<td align="center" class="activebid1"><strong>949`500.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(28738)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ჯორჯიან უოთერ ენდ ფაუერი</span>
+		</td>
+		<td class="activebid1"><strong>1`449`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 12:19</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(10726)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ერისიმედი</span>
+		</td>
+		<td class="activebid1"><strong>1`449`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:15</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4690)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">დაგი</span>
+		</td>
+		<td class="activebid1"><strong>1`392`622.00</strong></td>
+		<td class="date activebid1">30.11.2012 11:30</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(23749)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ბოვან</span>
+		</td>
+		<td class="activebid1"><strong>1`385`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:46</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(8500)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ნდს მშენებლობა&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`367`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:59</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(19748)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ერ-დი ჯგუფი</span>
+		</td>
+		<td class="activebid1"><strong>1`344`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:57</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7367)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;გზა XXI&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`295`400.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:59</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(8015)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სპეცჰიდრომშენი</span>
+		</td>
+		<td class="activebid1"><strong>1`293`579.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:59</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(8241)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;ბლოკ-ჯორჯია&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`281`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:52</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2975)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ქართლი</span>
+		</td>
+		<td class="activebid1"><strong>1`278`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:57</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2613)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;ნიუ კონსტრაქშენ&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`251`773.00</strong></td>
+		<td class="date activebid1">30.11.2012 11:33</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11589)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">აგრო</span>
+		</td>
+		<td class="activebid1"><strong>1`250`000.00</strong></td>
+		<td class="date activebid1">29.11.2012 21:22</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(15041)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;MSHEN-GROUP მშენ-გროუფ&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`240`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:56</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2108)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ნოვა</span>
+		</td>
+		<td class="activebid1"><strong>1`234`591.00</strong></td>
+		<td class="date activebid1">30.11.2012 13:16</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11877)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">GSG GROUP</span>
+		</td>
+		<td class="activebid1"><strong>1`215`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:42</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2474)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კომფორტი2005</span>
+		</td>
+		<td class="activebid1"><strong>1`199`760.00</strong></td>
+		<td class="date activebid1">29.11.2012 21:51</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(10595)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ჭიათურმშენი</span>
+		</td>
+		<td class="activebid1"><strong>1`190`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:58</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(12361)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">გ და დ</span>
+		</td>
+		<td class="activebid1"><strong>1`189`860.00</strong></td>
+		<td class="date activebid1">30.11.2012 09:56</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3129)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ინტერ პლიუსი</span>
+		</td>
+		<td class="activebid1"><strong>1`185`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:59</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7923)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;თბილსათბობმშენი&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`182`718.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:59</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(29126)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ლუკა-მშენი</span>
+		</td>
+		<td class="activebid1"><strong>1`151`349.00</strong></td>
+		<td class="date activebid1">30.11.2012 13:05</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(13627)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ბილდინგ-დეველოპერ</span>
+		</td>
+		<td class="activebid1"><strong>1`150`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:33</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(28017)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს შანსი-2010</span>
+		</td>
+		<td class="activebid1"><strong>1`150`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:16</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11832)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შ.პ.ს.''კაპიტელი''</span>
+		</td>
+		<td class="activebid1"><strong>1`145`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:59</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(18407)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს მშენებელი XXI +</span>
+		</td>
+		<td class="activebid1"><strong>1`125`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:59</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(1988)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ლ და კ&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`089`000.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:58</td>
+	</tr><tr bgcolor="#ffffff" id="B67223">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3867)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">მემონტაჟე ნიკა</span>
+		</td>
+		<td class="activebid1"><strong>996`918.00</strong></td>
+		<td class="date activebid1">30.11.2012 14:58</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'67223'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'67223'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="393673.1354813121.67223">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393673&code=1354813121">
+                    SPA120026044_ინტერესთა კონფლიქტი.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 16:58 :: ნინო  ქიტუაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393674.1354813182.67223">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393674&code=1354813182">
+                    SPA120026044_ოქმი N2.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 16:59 :: ნინო  ქიტუაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393675.1354813195.67223">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393675&code=1354813195">
+                    SPA120026044_დაზუსტება.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 16:59 :: ნინო  ქიტუაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393679.1354813375.67223">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393679&code=1354813375">
+                    SPA120026044_1 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:02 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393681.1354813411.67223">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393681&code=1354813411">
+                    SPA120026044_2 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:03 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393686.1354813452.67223">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393686&code=1354813452">
+                    SPA120026044_3 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:04 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393688.1354813493.67223">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393688&code=1354813493">
+                    SPA120026044_4 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:04 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393690.1354813534.67223">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393690&code=1354813534">
+                    SPA120026044_5 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:05 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393691.1354813577.67223">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393691&code=1354813577">
+                    SPA120026044_6 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:06 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393692.1354813624.67223">
+                <td>10.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393692&code=1354813624">
+                    SPA120026044_7 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:07 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393693.1354813667.67223">
+                <td>11.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393693&code=1354813667">
+                    SPA120026044_8 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:07 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393694.1354813713.67223">
+                <td>12.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393694&code=1354813713">
+                    SPA120026044_9 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:08 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393695.1354813747.67223">
+                <td>13.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393695&code=1354813747">
+                    SPA120026044_10 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:09 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393696.1354813790.67223">
+                <td>14.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393696&code=1354813790">
+                    SPA120026044_11 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:09 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393697.1354813851.67223">
+                <td>15.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393697&code=1354813851">
+                    SPA120026044_12 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:10 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393698.1354813902.67223">
+                <td>16.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393698&code=1354813902">
+                    SPA120026044_13 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:11 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393700.1354813954.67223">
+                <td>17.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393700&code=1354813954">
+                    SPA120026044_14 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:12 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393702.1354814004.67223">
+                <td>18.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393702&code=1354814004">
+                    SPA120026044_15 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:13 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393703.1354814047.67223">
+                <td>19.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393703&code=1354814047">
+                    SPA120026044_16 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:14 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393705.1354814092.67223">
+                <td>20.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393705&code=1354814092">
+                    SPA120026044_17 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:14 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393706.1354814129.67223">
+                <td>21.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393706&code=1354814129">
+                    SPA120026044_18 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:15 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393707.1354814173.67223">
+                <td>22.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393707&code=1354814173">
+                    SPA120026044_19 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:16 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393709.1354814221.67223">
+                <td>23.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393709&code=1354814221">
+                    SPA120026044_20 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:17 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393711.1354814270.67223">
+                <td>24.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393711&code=1354814270">
+                    SPA120026044_21 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:17 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393712.1354814315.67223">
+                <td>25.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393712&code=1354814315">
+                    SPA120026044_22 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:18 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393714.1354814364.67223">
+                <td>26.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393714&code=1354814364">
+                    SPA120026044_23 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:19 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393715.1354814403.67223">
+                <td>27.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393715&code=1354814403">
+                    SPA120026044_24 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:20 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393717.1354814455.67223">
+                <td>28.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393717&code=1354814455">
+                    SPA120026044_25 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:20 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393720.1354814529.67223">
+                <td>29.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393720&code=1354814529">
+                    SPA120026044_26 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:22 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393724.1354814579.67223">
+                <td>30.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393724&code=1354814579">
+                    SPA120026044_27 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:22 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393726.1354814624.67223">
+                <td>31.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393726&code=1354814624">
+                    SPA120026044_28 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:23 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393731.1354814678.67223">
+                <td>32.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393731&code=1354814678">
+                    SPA120026044_29 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:24 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393733.1354814725.67223">
+                <td>33.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393733&code=1354814725">
+                    SPA120026044_30 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:25 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393736.1354814770.67223">
+                <td>34.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393736&code=1354814770">
+                    SPA120026044_31 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:26 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393737.1354814824.67223">
+                <td>35.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393737&code=1354814824">
+                    SPA120026044_32 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:27 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393738.1354814872.67223">
+                <td>36.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393738&code=1354814872">
+                    SPA120026044_33 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:27 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393739.1354814921.67223">
+                <td>37.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393739&code=1354814921">
+                    SPA120026044_34 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:28 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393741.1354814972.67223">
+                <td>38.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393741&code=1354814972">
+                    SPA120026044_35 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:29 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393742.1354815011.67223">
+                <td>39.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393742&code=1354815011">
+                    SPA120026044_36 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:30 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393744.1354815059.67223">
+                <td>40.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393744&code=1354815059">
+                    SPA120026044_37 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:30 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393747.1354815107.67223">
+                <td>41.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393747&code=1354815107">
+                    SPA120026044_38 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:31 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393749.1354815159.67223">
+                <td>42.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393749&code=1354815159">
+                    SPA120026044_39 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:32 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393752.1354815211.67223">
+                <td>43.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393752&code=1354815211">
+                    SPA120026044_40 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:33 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393756.1354815257.67223">
+                <td>44.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393756&code=1354815257">
+                    SPA120026044_41 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:34 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393762.1354815312.67223">
+                <td>45.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393762&code=1354815312">
+                    SPA120026044_42 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:35 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393763.1354815367.67223">
+                <td>46.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393763&code=1354815367">
+                    SPA120026044_43 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:36 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393764.1354815416.67223">
+                <td>47.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393764&code=1354815416">
+                    SPA120026044_44 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:36 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393766.1354815476.67223">
+                <td>48.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393766&code=1354815476">
+                    SPA120026044_45 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:37 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393768.1354815516.67223">
+                <td>49.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393768&code=1354815516">
+                    SPA120026044_46 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:38 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393772.1354815566.67223">
+                <td>50.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393772&code=1354815566">
+                    SPA120026044_47 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:39 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393776.1354815621.67223">
+                <td>51.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393776&code=1354815621">
+                    SPA120026044_48 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:40 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393780.1354815670.67223">
+                <td>52.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393780&code=1354815670">
+                    SPA120026044_49 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:41 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393782.1354815715.67223">
+                <td>53.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393782&code=1354815715">
+                    SPA120026044_50 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:41 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393785.1354815756.67223">
+                <td>54.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393785&code=1354815756">
+                    SPA120026044_51 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:42 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393788.1354815805.67223">
+                <td>55.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393788&code=1354815805">
+                    SPA120026044_52 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:43 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393789.1354815852.67223">
+                <td>56.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393789&code=1354815852">
+                    SPA120026044_53 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:44 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393792.1354815896.67223">
+                <td>57.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393792&code=1354815896">
+                    SPA120026044_54 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:44 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393794.1354815930.67223">
+                <td>58.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393794&code=1354815930">
+                    SPA120026044_55 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:45 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393797.1354815974.67223">
+                <td>59.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393797&code=1354815974">
+                    SPA120026044_56 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:46 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393799.1354816022.67223">
+                <td>60.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393799&code=1354816022">
+                    SPA120026044_57 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:47 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393802.1354816072.67223">
+                <td>61.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393802&code=1354816072">
+                    SPA120026044_58 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:47 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393804.1354816124.67223">
+                <td>62.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393804&code=1354816124">
+                    SPA120026044_59 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:48 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393806.1354816173.67223">
+                <td>63.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393806&code=1354816173">
+                    SPA120026044_60 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:49 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393809.1354816222.67223">
+                <td>64.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393809&code=1354816222">
+                    SPA120026044_61 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:50 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393811.1354816271.67223">
+                <td>65.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393811&code=1354816271">
+                    SPA120026044_62 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:51 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393819.1354816334.67223">
+                <td>66.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393819&code=1354816334">
+                    SPA120026044_63 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:52 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393827.1354816381.67223">
+                <td>67.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393827&code=1354816381">
+                    SPA120026044_64 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:53 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393831.1354816436.67223">
+                <td>68.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393831&code=1354816436">
+                    SPA120026044_65 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:53 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393833.1354816485.67223">
+                <td>69.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393833&code=1354816485">
+                    SPA120026044_66 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:54 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393839.1354816522.67223">
+                <td>70.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393839&code=1354816522">
+                    SPA120026044_67 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:55 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393851.1354816573.67223">
+                <td>71.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393851&code=1354816573">
+                    SPA120026044_68 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:56 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393854.1354816620.67223">
+                <td>72.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393854&code=1354816620">
+                    SPA120026044_69 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:57 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393855.1354816670.67223">
+                <td>73.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393855&code=1354816670">
+                    SPA120026044_70 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:57 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393858.1354816727.67223">
+                <td>74.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393858&code=1354816727">
+                    SPA120026044_71 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:58 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393859.1354816773.67223">
+                <td>75.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393859&code=1354816773">
+                    SPA120026044_72 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 17:59 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393863.1354816826.67223">
+                <td>76.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393863&code=1354816826">
+                    SPA120026044_73 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:00 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393864.1354816862.67223">
+                <td>77.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393864&code=1354816862">
+                    SPA120026044_74 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:01 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393867.1354816918.67223">
+                <td>78.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393867&code=1354816918">
+                    SPA120026044_75 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:01 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393871.1354816964.67223">
+                <td>79.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393871&code=1354816964">
+                    SPA120026044_76 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:02 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393874.1354817013.67223">
+                <td>80.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393874&code=1354817013">
+                    SPA120026044_77 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:03 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393877.1354817061.67223">
+                <td>81.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393877&code=1354817061">
+                    SPA120026044_78 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:04 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393880.1354817112.67223">
+                <td>82.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393880&code=1354817112">
+                    SPA120026044_79 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:05 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393883.1354817151.67223">
+                <td>83.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393883&code=1354817151">
+                    SPA120026044_80 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:05 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393885.1354817199.67223">
+                <td>84.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393885&code=1354817199">
+                    SPA120026044_81 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:06 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393886.1354817249.67223">
+                <td>85.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393886&code=1354817249">
+                    SPA120026044_82 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:07 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393888.1354817309.67223">
+                <td>86.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393888&code=1354817309">
+                    SPA120026044_83 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:08 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393889.1354817356.67223">
+                <td>87.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393889&code=1354817356">
+                    SPA120026044_84 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:09 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393892.1354817408.67223">
+                <td>88.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393892&code=1354817408">
+                    SPA120026044_85 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:10 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393894.1354817453.67223">
+                <td>89.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393894&code=1354817453">
+                    SPA120026044_86 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:10 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393895.1354817490.67223">
+                <td>90.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393895&code=1354817490">
+                    SPA120026044_87 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:11 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393896.1354817545.67223">
+                <td>91.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393896&code=1354817545">
+                    SPA120026044_88 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:12 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393899.1354817588.67223">
+                <td>92.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393899&code=1354817588">
+                    SPA120026044_89 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:13 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393902.1354817634.67223">
+                <td>93.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393902&code=1354817634">
+                    SPA120026044_90 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:13 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393903.1354817675.67223">
+                <td>94.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393903&code=1354817675">
+                    SPA120026044_91 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:14 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393905.1354817727.67223">
+                <td>95.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393905&code=1354817727">
+                    SPA120026044_92 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:15 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393907.1354817774.67223">
+                <td>96.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393907&code=1354817774">
+                    SPA120026044_93 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:16 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393912.1354817819.67223">
+                <td>97.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393912&code=1354817819">
+                    SPA120026044_94 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:16 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393914.1354817868.67223">
+                <td>98.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393914&code=1354817868">
+                    SPA120026044_95 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:17 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393915.1354817908.67223">
+                <td>99.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393915&code=1354817908">
+                    SPA120026044_96 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:18 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393918.1354817955.67223">
+                <td>100.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393918&code=1354817955">
+                    SPA120026044_97 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:19 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393919.1354818000.67223">
+                <td>101.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393919&code=1354818000">
+                    SPA120026044_98 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:20 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393925.1354818044.67223">
+                <td>102.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393925&code=1354818044">
+                    SPA120026044_99 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:20 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393926.1354818105.67223">
+                <td>103.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393926&code=1354818105">
+                    SPA120026044_analogiuri.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:21 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393927.1354818153.67223">
+                <td>104.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393927&code=1354818153">
+                    SPA120026044_gegma 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:22 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393928.1354818189.67223">
+                <td>105.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393928&code=1354818189">
+                    SPA120026044_rekvizitebi 001.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:23 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393948.1354819100.67223">
+                <td>106.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393948&code=1354819100">
+                    SPA120026044_xel 1-1.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:38 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393949.1354819172.67223">
+                <td>107.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393949&code=1354819172">
+                    SPA120026044_xel 1-2.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:39 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393952.1354819372.67223">
+                <td>108.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393952&code=1354819372">
+                    SPA120026044_xel -2.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:42 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393957.1354819706.67223">
+                <td>109.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393957&code=1354819706">
+                    SPA120026044_xel 3-1.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:48 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="393959.1354819772.67223">
+                <td>110.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=393959&code=1354819772">
+                    SPA120026044_xel 3-2.pdf
+                    </a>
+                </td>
+                <td class="date">06.12.2012 18:49 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="394016.1354875062.67223">
+                <td>111.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=394016&code=1354875062">
+                    SPA120026044_xel 4-1.pdf
+                    </a>
+                </td>
+                <td class="date">07.12.2012 10:11 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="394017.1354875136.67223">
+                <td>112.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=394017&code=1354875136">
+                    SPA120026044_xel 4-2.pdf
+                    </a>
+                </td>
+                <td class="date">07.12.2012 10:12 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="394789.1355150807.67223">
+                <td>113.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=394789&code=1355150807">
+                    SPA120026044_ოქმი N3.pdf
+                    </a>
+                </td>
+                <td class="date">10.12.2012 14:46 :: ნინო  ქიტუაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="394791.1355150819.67223">
+                <td>114.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=394791&code=1355150819">
+                    SPA120026044_საკვალიფიკაციო დოკუმენტის მოთხოვნა.pdf
+                    </a>
+                </td>
+                <td class="date">10.12.2012 14:46 :: ნინო  ქიტუაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="395258.1355233687.67223">
+                <td>115.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=395258&code=1355233687">
+                    SPA120026044_neli 001.pdf
+                    </a>
+                </td>
+                <td class="date">11.12.2012 13:48 :: მერაბი ტარყაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="395398.1355243959.67223">
+                <td>116.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=395398&code=1355243959">
+                    SPA120026044_ოქმი N4.pdf
+                    </a>
+                </td>
+                <td class="date">11.12.2012 16:39 :: ნინო  ქიტუაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="395399.1355243972.67223">
+                <td>117.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=395399&code=1355243972">
+                    SPA120026044_მოწვევა ხელშეკრულების გაფორმებაზე.pdf
+                    </a>
+                </td>
+                <td class="date">11.12.2012 16:39 :: ნინო  ქიტუაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'67223'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg0" style="font-weight:bold"></span><br/>
+			<span class="date"> :: </span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(3867)"><img src="images/profile24.png"></a> <strong>მემონტაჟე ნიკა</strong><br/>
+				
+					ნომერი/თანხა: N117 / <span class="convertme" id="949500-GEL-14.12.2012 17:23">949500 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 14.12.2012 - 30.06.2013<br/>
+					<span class="date">14.12.2012 17:23</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=52462"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="67223">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="67223">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="67223">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 949`500.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 943`069.72 ლარი  (99%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>40`510.46 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2013</td>
+<td>3</td>
+<td>03.09.2013&nbsp;
+
+</td>
+<td class="date">09.09.2013<br>ეკატერინებაღაშვილი</td>
+</tr><tr class="activebid1">
+<td>50`532.00 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2013</td>
+<td>2</td>
+<td>14.06.2013&nbsp;
+
+</td>
+<td class="date">17.06.2013<br>ეკატერინებაღაშვილი</td>
+</tr><tr class="activebid1">
+<td>145`276.67 ლარი<br><span class="color-2"></span></td>
+<td>2013</td>
+<td>2</td>
+<td>08.05.2013&nbsp;
+
+</td>
+<td class="date">20.05.2013<br>ეკატერინებაღაშვილი</td>
+</tr><tr class="activebid1">
+<td>161`611.70 ლარი<br><span class="color-2"></span></td>
+<td>2013</td>
+<td>2</td>
+<td>04.04.2013&nbsp;
+
+</td>
+<td class="date">12.04.2013<br>ეკატერინებაღაშვილი</td>
+</tr><tr class="activebid1">
+<td>154`267.08 ლარი<br><span class="color-2"></span></td>
+<td>2013</td>
+<td>1</td>
+<td>14.03.2013&nbsp;
+
+</td>
+<td class="date">01.04.2013<br>ნინო დიდებაშვილი</td>
+</tr><tr class="activebid1">
+<td>200`971.81 ლარი<br><span class="color-2"></span></td>
+<td>2013</td>
+<td>1</td>
+<td>08.02.2013&nbsp;
+
+</td>
+<td class="date">13.02.2013<br>ნინო  ქიტუაშვილი</td>
+</tr><tr class="activebid1">
+<td>189`900.00 ლარი<br><span class="color-2"></span></td>
+<td>2012</td>
+<td>4</td>
+<td>24.12.2012&nbsp;
+
+</td>
+<td class="date">31.12.2012<br>ნინო  ქიტუაშვილი</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'67223'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

@@ -1,0 +1,2427 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA130002397</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv73730" /><label for="fv73730"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(3036)"><img src="images/profile24_0.png"> საქართველოს პარლამენტის აპარატი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>28.01.2013 19:11</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>14.02.2013 00:06</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>19.02.2013 12:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2013 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="1500000-GEL-28.01.2013 19:11">1`500`000.00 GEL</span> </td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;45400000 - შენობის დასრულების სამუშაოები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;45400000 - შენობის დასრულების სამუშაოები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">შესყიდვის ობიექტს წარმოადგენს ქ. თბილისში, რუსთაველის გამზირი 8-ში მდებარე საქართველოს პარლამენტის სასახლის შენობის მოწყობის სამუშაოები. დეტალური ინფორმაციისთვის იხილეთ სატენდერო დოკუმენტაცია.<br />
+ტენდერში გამოყენებული იქნება ხელშეკრულების შესრულების უზრუნველყოფის საბანკო გარანტია გაცემული საბანკო დაწესებულებიდან, ხელშეკრულების საერთო ღირებულების 5%–ის ოდენობით.</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან არაუგვიანეს 90 (ოთხმოცდაათი) კალენდარული დღისა.</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>6`000.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>15`000 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=73730&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="73730">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ზაური ჯიოშვილი :: 28.01.2013 18:07</li>
+	<li style="text-align:right">ბოლო შესწორება: ზაური ჯიოშვილი :: 28.01.2013 19:11</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:73730, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '73730'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="417202.1359396910.73730">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=417202&code=1359396910">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=417202&code=1359396910">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_satendero dokumentacia-shenobis mockobis samushaoebi.pdf
+						</a>
+					</td>
+					<td class="date" align="right">28.01.2013 18:15<br/>ზაური ჯიოშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		<div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_73730_4783" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">11.02.2013 15:18</span> შ.პ.ს &quot;პარმაღი&quot; :: თემურ შარიქაძე</p>
+			<p class="chatmessgase activebid1">გამარჯობათ<br />
+<br />
+რამდენად მიზანშეწონილია ზედამხედველისათვის მშენებლისაგან ხელფასის ანაზღაურება</p>
+			<div style="display: none" id="ANS4783">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">11.02.2013 15:08</span> შ.პ.ს &quot;პარმაღი&quot; :: თემურ შარიქაძე</p>
+			<p class="chatmessgase activebid0">გამარჯობათ<br />
+რამდენად მიზანშეწონილია ზედამხედველისათვის მშენებლისაგან ხელფასის ანაზრაურება.</p>
+			<div style="display: none" id="ANS4780">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">07.02.2013 21:04</span> შპს მერკური :: ზურაბ წითლაური</p>
+			<p class="chatmessgase activebid1">კარგია თუ შეფასებისას გათვალისწინებული იქნება აღნიშნული ინფორმაცია და არ მოხდება მხოლოდ დაბალი ფასის გათვალისწინება.</p>
+			<div style="display: none" id="ANS4670">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_73730_4613" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">07.02.2013 13:35</span> შპს მერკური :: ზურაბ წითლაური</p>
+			<p class="chatmessgase activebid1">გამარჯობათ<br />
+<br />
+გწერთ იმიტომ, რომ პარლამენტია და მოეთხოვება.<br />
+<br />
+თქვენს მიერ გამოცხადებულ ტენდერში მითიტებულია, რომ ნუდა მოხდეს მუხის პარტეტის და წაბლის კარებების მონტაჟი.<br />
+<br />
+ერთის მხრივ კარგია ითხოვთ ხარისხს, მაგრამ გასათვალისწინებელია ის გარემოება, რომ საქართველოში არსებულ საწარმოებს არ აქვთ ცაბლისა და მუხის მასალეზე მუშაობის ნებართვა და შესაბამისად მათ მიერ ვერ იქნება გამოწერილი საქონლის შესყიდვისას საგადასახადო დოკუმენტები. რეალურად კი ბაზარზე ხელმისაწვდომია უსაბითო ნასალის შესყიდვა რომლის ღირებულებაც ბევრად დაბალია უხცოეთიდან შემოთანილ მასალაზე. მაგალითად უსაბითოდ მუხის პარკეტს შეიძენთ კვადრატულს 35-40 ლარად, საბუთით კი მისი ღირებულება სულ მცირე 150-180 ლარია. <br />
+ თუ შემსყიდეველის მხრიდან არ გაკეთდა დოკუმენტაციაში მითითება იმისა, რომ მოთხოვნის შემთხვევაში მიმწოდებელი ვალდებულია წარმოადგინოს შესყიდვის და ხარისხის დამადასტურებელი დოკუმენტაცია, ამით ხელს შეუწყობთ  სისხლის სამართლის დანაშაულის ჩადენას. უკანონო სამეწარმეო საქმიანობას, ფულის გათეთრებას და სხვას.</p>
+			<div style="display: none" id="ANS4613">...</div>
+		</div>
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 1`500`000.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან არაუგვიანეს 90 (ოთხმოცდაათი) კალენდარული დღისა.</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B7373076229">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17183)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">მშენ-ელექტრო სერვისი</span>
+			</td>
+		<td class="activebid1"><strong>1`437`168.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:31</span></td>
+		<td class="activebid1">1`443`168.00&nbsp;<br/><span class="date">19.02.2013 11:56</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76229)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076126">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(10859)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">მონოლითმშენი</span>
+			</td>
+		<td class="activebid1"><strong>1`422`000.00</strong>&nbsp;<br/><span class="date">19.02.2013 11:53</span></td>
+		<td class="activebid1">1`435`524.00&nbsp;<br/><span class="date">18.02.2013 17:54</span></td>
+		<td align="center" class="activebid1">[3] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76126)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076169">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4690)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">დაგი</span>
+			</td>
+		<td class="activebid1"><strong>1`413`087.00</strong>&nbsp;<br/><span class="date">19.02.2013 10:25</span></td>
+		<td class="activebid1">1`413`087.00&nbsp;<br/><span class="date">19.02.2013 10:25</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76169)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076183">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(1910)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">გრუსია</span>
+			</td>
+		<td class="activebid1"><strong>1`412`717.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:34</span></td>
+		<td class="activebid1">1`458`717.00&nbsp;<br/><span class="date">19.02.2013 11:03</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76183)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076195">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11384)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ეს ეს ჰაუს დეკორი</span>
+			</td>
+		<td class="activebid1"><strong>1`345`000.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:30</span></td>
+		<td class="activebid1">1`500`000.00&nbsp;<br/><span class="date">19.02.2013 11:15</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76195)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076108">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3867)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">მემონტაჟე ნიკა</span>
+			</td>
+		<td class="activebid1"><strong>1`332`700.00</strong>&nbsp;<br/><span class="date">19.02.2013 11:35</span></td>
+		<td class="activebid1">1`436`921.00&nbsp;<br/><span class="date">18.02.2013 14:56</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76108)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076187">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(6211)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;რესტავრატორები და კომპანია&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`332`600.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:40</span></td>
+		<td class="activebid1">1`500`000.00&nbsp;<br/><span class="date">19.02.2013 11:07</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76187)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373075957">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7138)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კავკასუსინვესტ</span>
+			</td>
+		<td class="activebid1"><strong>1`332`500.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:42</span></td>
+		<td class="activebid1">1`500`000.00&nbsp;<br/><span class="date">16.02.2013 18:50</span></td>
+		<td align="center" class="activebid1">[6] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,75957)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076167">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2108)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ნოვა</span>
+			</td>
+		<td class="activebid1"><strong>1`330`459.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:45</span></td>
+		<td class="activebid1">1`336`459.00&nbsp;<br/><span class="date">19.02.2013 10:23</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76167)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076228">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(23320)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ჯენერალ ქონსთრაქშენ კომპანი</span>
+			</td>
+		<td class="activebid1"><strong>1`330`000.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:44</span></td>
+		<td class="activebid1">1`360`465.00&nbsp;<br/><span class="date">19.02.2013 11:56</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76228)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076197">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9825)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">პრიზმა</span>
+			</td>
+		<td class="activebid1"><strong>1`282`883.00</strong>&nbsp;<br/><span class="date">19.02.2013 11:21</span></td>
+		<td class="activebid1">1`282`883.00&nbsp;<br/><span class="date">19.02.2013 11:21</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76197)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076154">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2471)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ანაგი</span>
+			</td>
+		<td class="activebid1"><strong>1`183`500.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:53</span></td>
+		<td class="activebid1">1`235`549.00&nbsp;<br/><span class="date">18.02.2013 23:01</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76154)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076224">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3763)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს&quot;დ.გ.ევროკომპანი</span>
+			</td>
+		<td class="activebid1"><strong>1`182`573.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:56</span></td>
+		<td class="activebid1">1`374`715.00&nbsp;<br/><span class="date">19.02.2013 11:54</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76224)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076180">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(6173)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შ.პ.ს &quot;პარმაღი&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`144`000.00</strong>&nbsp;<br/><span class="date">19.02.2013 11:58</span></td>
+		<td class="activebid1">1`206`333.00&nbsp;<br/><span class="date">19.02.2013 10:52</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76180)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076155">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9534)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს. &quot;კერია&quot;</span>
+			</td>
+		<td class="activebid1"><strong>1`060`000.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:51</span></td>
+		<td class="activebid1">1`219`000.00&nbsp;<br/><span class="date">18.02.2013 23:16</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76155)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076152">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(1680)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ორნამენტი</span>
+			</td>
+		<td class="activebid1"><strong>1`050`000.00</strong>&nbsp;<br/><span class="date">19.02.2013 13:59</span></td>
+		<td class="activebid1">1`383`469.00&nbsp;<br/><span class="date">18.02.2013 22:35</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76152)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076156">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(10595)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ჭიათურმშენი</span>
+			</td>
+		<td class="activebid1"><strong>1`049`994.00</strong>&nbsp;<br/><span class="date">19.02.2013 14:02</span></td>
+		<td class="activebid1">1`500`000.00&nbsp;<br/><span class="date">18.02.2013 23:27</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76156)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076231">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11180)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ინტელექტი</span>
+			</td>
+		<td class="activebid1"><strong>950`000.00</strong>&nbsp;<br/><span class="date">19.02.2013 14:04</span></td>
+		<td class="activebid1">1`063`999.00&nbsp;<br/><span class="date">19.02.2013 11:59</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76231)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076172">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3562)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">დამბა</span>
+			</td>
+		<td class="activebid1"><strong>949`316.00</strong>&nbsp;<br/><span class="date">19.02.2013 14:08</span></td>
+		<td class="activebid1">955`316.00&nbsp;<br/><span class="date">19.02.2013 10:31</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76172)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B7373076182">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7124)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ს.ე.ნ.&quot;</span>
+			</td>
+		<td class="activebid1"><strong>838`625.00</strong>&nbsp;<br/><span class="date">19.02.2013 14:05</span></td>
+		<td class="activebid1">1`220`821.00&nbsp;<br/><span class="date">19.02.2013 11:02</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(73730,76182)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">ეს ეს ჰაუს დეკორი</td>
+		<td align="center" class="activebid1"><strong>1`494`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">მშენ-ელექტრო სერვისი</td>
+		<td align="center" class="activebid1"><strong>1`443`168.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:09</td>
+		<td align="center" class="activebid1">12:11</td>
+		<td class="activebid1">გრუსია</td>
+		<td align="center" class="activebid1"><strong>1`440`717.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:11</td>
+		<td align="center" class="activebid1">12:13</td>
+		<td class="activebid1">მონოლითმშენი</td>
+		<td align="center" class="activebid1"><strong>1`422`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">დაგი</td>
+		<td align="center" class="activebid1"><strong>1`413`087.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:15</td>
+		<td align="center" class="activebid1">12:17</td>
+		<td class="activebid1">შპს &quot;რესტავრატორები და კომპანია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`370`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">კავკასუსინვესტ</td>
+		<td align="center" class="activebid1"><strong>1`369`999.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:19</td>
+		<td align="center" class="activebid1">12:21</td>
+		<td class="activebid1">შპს ჯენერალ ქონსთრაქშენ კომპანი</td>
+		<td align="center" class="activebid1"><strong>1`350`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:21</td>
+		<td align="center" class="activebid1">12:23</td>
+		<td class="activebid1">ნოვა</td>
+		<td align="center" class="activebid1"><strong>1`336`459.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:23</td>
+		<td align="center" class="activebid1">12:25</td>
+		<td class="activebid1">მემონტაჟე ნიკა</td>
+		<td align="center" class="activebid1"><strong>1`332`700.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:25</td>
+		<td align="center" class="activebid1">12:27</td>
+		<td class="activebid1">პრიზმა</td>
+		<td align="center" class="activebid1"><strong>1`282`883.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:27</td>
+		<td align="center" class="activebid1">12:29</td>
+		<td class="activebid1">ანაგი</td>
+		<td align="center" class="activebid1"><strong>1`189`500.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:29</td>
+		<td align="center" class="activebid1">12:31</td>
+		<td class="activebid1">შპს. &quot;კერია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`219`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:31</td>
+		<td align="center" class="activebid1">12:33</td>
+		<td class="activebid1">შპს&quot;დ.გ.ევროკომპანი</td>
+		<td align="center" class="activebid1"><strong>1`188`573.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:33</td>
+		<td align="center" class="activebid1">12:35</td>
+		<td class="activebid1">შ.პ.ს &quot;პარმაღი&quot;</td>
+		<td align="center" class="activebid1"><strong>1`144`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:35</td>
+		<td align="center" class="activebid1">12:37</td>
+		<td class="activebid1">ორნამენტი</td>
+		<td align="center" class="activebid1"><strong>1`088`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:37</td>
+		<td align="center" class="activebid1">12:39</td>
+		<td class="activebid1">ჭიათურმშენი</td>
+		<td align="center" class="activebid1"><strong>1`083`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:39</td>
+		<td align="center" class="activebid1">12:41</td>
+		<td class="activebid1">ინტელექტი</td>
+		<td align="center" class="activebid1"><strong>1`063`999.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:41</td>
+		<td align="center" class="activebid1">12:43</td>
+		<td class="activebid1">&quot;ს.ე.ნ.&quot;</td>
+		<td align="center" class="activebid1"><strong>966`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:43</td>
+		<td align="center" class="activebid1">12:45</td>
+		<td class="activebid1">დამბა</td>
+		<td align="center" class="activebid1"><strong>955`316.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:47</td>
+		<td align="center" class="activebid1">12:49</td>
+		<td class="activebid1">ეს ეს ჰაუს დეკორი</td>
+		<td align="center" class="activebid1"><strong>1`494`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:49</td>
+		<td align="center" class="activebid1">12:51</td>
+		<td class="activebid1">მშენ-ელექტრო სერვისი</td>
+		<td align="center" class="activebid1"><strong>1`443`168.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:51</td>
+		<td align="center" class="activebid1">12:53</td>
+		<td class="activebid1">გრუსია</td>
+		<td align="center" class="activebid1"><strong>1`440`717.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:53</td>
+		<td align="center" class="activebid1">12:55</td>
+		<td class="activebid1">მონოლითმშენი</td>
+		<td align="center" class="activebid1"><strong>1`422`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:55</td>
+		<td align="center" class="activebid1">12:57</td>
+		<td class="activebid1">დაგი</td>
+		<td align="center" class="activebid1"><strong>1`413`087.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:57</td>
+		<td align="center" class="activebid1">12:59</td>
+		<td class="activebid1">შპს &quot;რესტავრატორები და კომპანია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`349`500.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:59</td>
+		<td align="center" class="activebid1">13:01</td>
+		<td class="activebid1">კავკასუსინვესტ</td>
+		<td align="center" class="activebid1"><strong>1`349`400.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:01</td>
+		<td align="center" class="activebid1">13:03</td>
+		<td class="activebid1">შპს ჯენერალ ქონსთრაქშენ კომპანი</td>
+		<td align="center" class="activebid1"><strong>1`340`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:03</td>
+		<td align="center" class="activebid1">13:05</td>
+		<td class="activebid1">ნოვა</td>
+		<td align="center" class="activebid1"><strong>1`336`459.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:05</td>
+		<td align="center" class="activebid1">13:07</td>
+		<td class="activebid1">მემონტაჟე ნიკა</td>
+		<td align="center" class="activebid1"><strong>1`332`700.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:07</td>
+		<td align="center" class="activebid1">13:09</td>
+		<td class="activebid1">პრიზმა</td>
+		<td align="center" class="activebid1"><strong>1`282`883.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:09</td>
+		<td align="center" class="activebid1">13:11</td>
+		<td class="activebid1">შპს. &quot;კერია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`219`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:11</td>
+		<td align="center" class="activebid1">13:13</td>
+		<td class="activebid1">ანაგი</td>
+		<td align="center" class="activebid1"><strong>1`189`500.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:13</td>
+		<td align="center" class="activebid1">13:15</td>
+		<td class="activebid1">შპს&quot;დ.გ.ევროკომპანი</td>
+		<td align="center" class="activebid1"><strong>1`188`573.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:15</td>
+		<td align="center" class="activebid1">13:17</td>
+		<td class="activebid1">შ.პ.ს &quot;პარმაღი&quot;</td>
+		<td align="center" class="activebid1"><strong>1`144`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:17</td>
+		<td align="center" class="activebid1">13:19</td>
+		<td class="activebid1">ორნამენტი</td>
+		<td align="center" class="activebid1"><strong>1`070`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:19</td>
+		<td align="center" class="activebid1">13:21</td>
+		<td class="activebid1">ჭიათურმშენი</td>
+		<td align="center" class="activebid1"><strong>1`069`996.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:21</td>
+		<td align="center" class="activebid1">13:23</td>
+		<td class="activebid1">ინტელექტი</td>
+		<td align="center" class="activebid1"><strong>1`063`999.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:23</td>
+		<td align="center" class="activebid1">13:25</td>
+		<td class="activebid1">&quot;ს.ე.ნ.&quot;</td>
+		<td align="center" class="activebid1"><strong>966`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:25</td>
+		<td align="center" class="activebid1">13:27</td>
+		<td class="activebid1">დამბა</td>
+		<td align="center" class="activebid1"><strong>955`316.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">13:29</td>
+		<td align="center" class="activebid1">13:31</td>
+		<td class="activebid1">ეს ეს ჰაუს დეკორი</td>
+		<td align="center" class="activebid1"><strong>1`345`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:31</td>
+		<td align="center" class="activebid1">13:33</td>
+		<td class="activebid1">მშენ-ელექტრო სერვისი</td>
+		<td align="center" class="activebid1"><strong>1`437`168.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:33</td>
+		<td align="center" class="activebid1">13:35</td>
+		<td class="activebid1">გრუსია</td>
+		<td align="center" class="activebid1"><strong>1`412`717.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:35</td>
+		<td align="center" class="activebid1">13:37</td>
+		<td class="activebid1">მონოლითმშენი</td>
+		<td align="center" class="activebid1"><strong>1`422`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:37</td>
+		<td align="center" class="activebid1">13:39</td>
+		<td class="activebid1">დაგი</td>
+		<td align="center" class="activebid1"><strong>1`413`087.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:39</td>
+		<td align="center" class="activebid1">13:41</td>
+		<td class="activebid1">შპს &quot;რესტავრატორები და კომპანია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`332`600.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:41</td>
+		<td align="center" class="activebid1">13:43</td>
+		<td class="activebid1">კავკასუსინვესტ</td>
+		<td align="center" class="activebid1"><strong>1`332`500.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:43</td>
+		<td align="center" class="activebid1">13:45</td>
+		<td class="activebid1">შპს ჯენერალ ქონსთრაქშენ კომპანი</td>
+		<td align="center" class="activebid1"><strong>1`330`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:45</td>
+		<td align="center" class="activebid1">13:47</td>
+		<td class="activebid1">ნოვა</td>
+		<td align="center" class="activebid1"><strong>1`330`459.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:47</td>
+		<td align="center" class="activebid1">13:49</td>
+		<td class="activebid1">მემონტაჟე ნიკა</td>
+		<td align="center" class="activebid1"><strong>1`332`700.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:49</td>
+		<td align="center" class="activebid1">13:51</td>
+		<td class="activebid1">პრიზმა</td>
+		<td align="center" class="activebid1"><strong>1`282`883.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:51</td>
+		<td align="center" class="activebid1">13:53</td>
+		<td class="activebid1">შპს. &quot;კერია&quot;</td>
+		<td align="center" class="activebid1"><strong>1`060`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:53</td>
+		<td align="center" class="activebid1">13:55</td>
+		<td class="activebid1">ანაგი</td>
+		<td align="center" class="activebid1"><strong>1`183`500.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:55</td>
+		<td align="center" class="activebid1">13:57</td>
+		<td class="activebid1">შპს&quot;დ.გ.ევროკომპანი</td>
+		<td align="center" class="activebid1"><strong>1`182`573.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:57</td>
+		<td align="center" class="activebid1">13:59</td>
+		<td class="activebid1">შ.პ.ს &quot;პარმაღი&quot;</td>
+		<td align="center" class="activebid1"><strong>1`144`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">13:59</td>
+		<td align="center" class="activebid1">14:01</td>
+		<td class="activebid1">ორნამენტი</td>
+		<td align="center" class="activebid1"><strong>1`050`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">14:01</td>
+		<td align="center" class="activebid1">14:03</td>
+		<td class="activebid1">ჭიათურმშენი</td>
+		<td align="center" class="activebid1"><strong>1`049`994.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">14:03</td>
+		<td align="center" class="activebid1">14:05</td>
+		<td class="activebid1">ინტელექტი</td>
+		<td align="center" class="activebid1"><strong>950`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">14:05</td>
+		<td align="center" class="activebid1">14:07</td>
+		<td class="activebid1">&quot;ს.ე.ნ.&quot;</td>
+		<td align="center" class="activebid1"><strong>838`625.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">14:07</td>
+		<td align="center" class="activebid1">14:09</td>
+		<td class="activebid1">დამბა</td>
+		<td align="center" class="activebid1"><strong>949`316.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11384)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ეს ეს ჰაუს დეკორი</span>
+		</td>
+		<td class="activebid1"><strong>1`500`000.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:15</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17183)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">მშენ-ელექტრო სერვისი</span>
+		</td>
+		<td class="activebid1"><strong>1`443`168.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:56</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(1910)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">გრუსია</span>
+		</td>
+		<td class="activebid1"><strong>1`440`717.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:58</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(10859)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">მონოლითმშენი</span>
+		</td>
+		<td class="activebid1"><strong>1`422`000.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:53</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4690)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">დაგი</span>
+		</td>
+		<td class="activebid1"><strong>1`413`087.00</strong></td>
+		<td class="date activebid1">19.02.2013 10:25</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(6211)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს &quot;რესტავრატორები და კომპანია&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`389`000.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:59</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7138)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კავკასუსინვესტ</span>
+		</td>
+		<td class="activebid1"><strong>1`377`444.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:47</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(23320)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ჯენერალ ქონსთრაქშენ კომპანი</span>
+		</td>
+		<td class="activebid1"><strong>1`360`465.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:56</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2108)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ნოვა</span>
+		</td>
+		<td class="activebid1"><strong>1`336`459.00</strong></td>
+		<td class="date activebid1">19.02.2013 10:23</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3867)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">მემონტაჟე ნიკა</span>
+		</td>
+		<td class="activebid1"><strong>1`332`700.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:35</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9825)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">პრიზმა</span>
+		</td>
+		<td class="activebid1"><strong>1`282`883.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:21</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2471)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ანაგი</span>
+		</td>
+		<td class="activebid1"><strong>1`235`549.00</strong></td>
+		<td class="date activebid1">18.02.2013 23:01</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9534)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს. &quot;კერია&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`219`000.00</strong></td>
+		<td class="date activebid1">18.02.2013 23:16</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3763)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს&quot;დ.გ.ევროკომპანი</span>
+		</td>
+		<td class="activebid1"><strong>1`195`655.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:57</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(6173)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შ.პ.ს &quot;პარმაღი&quot;</span>
+		</td>
+		<td class="activebid1"><strong>1`144`000.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:58</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(1680)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ორნამენტი</span>
+		</td>
+		<td class="activebid1"><strong>1`098`000.00</strong></td>
+		<td class="date activebid1">19.02.2013 10:34</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(10595)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ჭიათურმშენი</span>
+		</td>
+		<td class="activebid1"><strong>1`089`000.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:57</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(11180)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ინტელექტი</span>
+		</td>
+		<td class="activebid1"><strong>1`063`999.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:59</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7124)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ს.ე.ნ.&quot;</span>
+		</td>
+		<td class="activebid1"><strong>966`000.00</strong></td>
+		<td class="date activebid1">19.02.2013 11:54</td>
+	</tr><tr bgcolor="#ffffff" id="B73730">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3562)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">დამბა</span>
+		</td>
+		<td class="activebid1"><strong>955`316.00</strong></td>
+		<td class="date activebid1">19.02.2013 10:31</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'73730'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'73730'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="432967.1361817593.73730">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=432967&code=1361817593">
+                    SPA130002397_shenobis mockobis samushaoebi-xelcerili-oqmi2-shetkobineba s.e.n.pdf
+                    </a>
+                </td>
+                <td class="date">25.02.2013 18:39 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="435211.1362062653.73730">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=435211&code=1362062653">
+                    SPA130002397_წერილი.pdf
+                    </a>
+                </td>
+                <td class="date">28.02.2013 14:44 :: მედეაკევლიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="435212.1362062663.73730">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=435212&code=1362062663">
+                    SPA130002397_ინფორმაცია საგარანტიო ვადაზე.pdf
+                    </a>
+                </td>
+                <td class="date">28.02.2013 14:44 :: მედეაკევლიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="435213.1362062670.73730">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=435213&code=1362062670">
+                    SPA130002397_ინფორმაცია გამოსაყენებელი ძირითად მასალებზე.pdf
+                    </a>
+                </td>
+                <td class="date">28.02.2013 14:44 :: მედეაკევლიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="435214.1362062679.73730">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=435214&code=1362062679">
+                    SPA130002397_ხარჯთაღრიცხვა - დანართი2.pdf
+                    </a>
+                </td>
+                <td class="date">28.02.2013 14:44 :: მედეაკევლიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="435239.1362063520.73730">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=435239&code=1362063520">
+                    SPA130002397_მოდიფიცირებული ხარჯთაღრიცხვა.pdf
+                    </a>
+                </td>
+                <td class="date">28.02.2013 14:58 :: მედეაკევლიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="435249.1362063744.73730">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=435249&code=1362063744">
+                    SPA130002397_წერილი 2.pdf
+                    </a>
+                </td>
+                <td class="date">28.02.2013 15:02 :: მედეაკევლიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="435629.1362077990.73730">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=435629&code=1362077990">
+                    SPA130002397_წერილი 2.2.pdf
+                    </a>
+                </td>
+                <td class="date">28.02.2013 18:59 :: მედეაკევლიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="436248.1362160025.73730">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=436248&code=1362160025">
+                    SPA130002397_shenobis mockobis samushaoebi-oqmi3.pdf
+                    </a>
+                </td>
+                <td class="date">01.03.2013 17:47 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="436249.1362160038.73730">
+                <td>10.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=436249&code=1362160038">
+                    SPA130002397_shenobis mockobis samushaoebi-shetkobineba sens.pdf
+                    </a>
+                </td>
+                <td class="date">01.03.2013 17:47 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="436250.1362160048.73730">
+                <td>11.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=436250&code=1362160048">
+                    SPA130002397_shenobis mockobis samushaoebi-shetkobineba dambas.pdf
+                    </a>
+                </td>
+                <td class="date">01.03.2013 17:47 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="437514.1362485474.73730">
+                <td>12.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=437514&code=1362485474">
+                    SPA130002397_წერილი, დაზუსტებული ინფორმაცია_-.PDF
+                    </a>
+                </td>
+                <td class="date">05.03.2013 12:11 :: გიორგი ჯაბიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="443223.1363284023.73730">
+                <td>13.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=443223&code=1363284023">
+                    SPA130002397_shenobis mockobis samushaoebi-interesta konfliqti2.pdf
+                    </a>
+                </td>
+                <td class="date">14.03.2013 18:00 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="443226.1363284117.73730">
+                <td>14.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=443226&code=1363284117">
+                    SPA130002397_shenobis mockobis samushaoebi-oqmi4.pdf
+                    </a>
+                </td>
+                <td class="date">14.03.2013 18:01 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="443228.1363284149.73730">
+                <td>15.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=443228&code=1363284149">
+                    SPA130002397_shenobis mockobis samushaoebi-shetkobineba dambas2.pdf
+                    </a>
+                </td>
+                <td class="date">14.03.2013 18:02 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="443229.1363284159.73730">
+                <td>16.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=443229&code=1363284159">
+                    SPA130002397_shenobis mockobis samushaoebi-shetkobineba inteleqts.pdf
+                    </a>
+                </td>
+                <td class="date">14.03.2013 18:02 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="443426.1363290825.73730">
+                <td>17.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=443426&code=1363290825">
+                    SPA130002397_shenobis mockobis samushaoebi-oqmi5.pdf
+                    </a>
+                </td>
+                <td class="date">14.03.2013 19:53 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="443428.1363290861.73730">
+                <td>18.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=443428&code=1363290861">
+                    SPA130002397_shenobis mockobis samushaoebi-shetkobineba chiaturmshens.pdf
+                    </a>
+                </td>
+                <td class="date">14.03.2013 19:54 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="447689.1363973238.73730">
+                <td>19.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=447689&code=1363973238">
+                    SPA130002397_shenobis mockobis samushaoebi-oqmi6.pdf
+                    </a>
+                </td>
+                <td class="date">22.03.2013 17:27 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="447691.1363973252.73730">
+                <td>20.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=447691&code=1363973252">
+                    SPA130002397_shenobis mockobis samushaoebi-shetkobineba chiaturmshens2.pdf
+                    </a>
+                </td>
+                <td class="date">22.03.2013 17:27 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="447692.1363973259.73730">
+                <td>21.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=447692&code=1363973259">
+                    SPA130002397_shenobis mockobis samushaoebi-shetkobineba ornaments.pdf
+                    </a>
+                </td>
+                <td class="date">22.03.2013 17:27 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="449018.1364249977.73730">
+                <td>22.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=449018&code=1364249977">
+                    SPA130002397_პასუხი 2013 წლის 22 მარტის #141302-1 წერილზე.pdf
+                    </a>
+                </td>
+                <td class="date">25.03.2013 22:19 :: გიორგი ციცქიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="449059.1364292434.73730">
+                <td>23.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=449059&code=1364292434">
+                    SPA130002397_პასუხი 2013 წლის 22 მარტის #141302-1 წერილზე.pdf
+                    </a>
+                </td>
+                <td class="date">26.03.2013 10:07 :: გიორგი ციცქიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="454573.1365108973.73730">
+                <td>24.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=454573&code=1365108973">
+                    SPA130002397_shenobis mockobis samushaoebi-oqmi7-shetkobineba ornaments2.pdf
+                    </a>
+                </td>
+                <td class="date">04.04.2013 20:56 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="456589.1365603136.73730">
+                <td>25.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=456589&code=1365603136">
+                    SPA130002397_პასუხი  14697 2.1  04,04,2013 წერილზე.pdf
+                    </a>
+                </td>
+                <td class="date">10.04.2013 14:12 :: გიორგი ციცქიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="458374.1365787856.73730">
+                <td>26.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=458374&code=1365787856">
+                    SPA130002397_shenobis mockobis samushaoebi-oqmi8-shetkobineba ornaments3.pdf
+                    </a>
+                </td>
+                <td class="date">12.04.2013 17:30 :: ზაური ჯიოშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+        <td width="120">01.03.2013 17:47</td>
+        <td><strong>&quot;ს.ე.ნ.&quot;</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr><tr>
+        <td width="120">14.03.2013 18:01</td>
+        <td><strong>დამბა</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr><tr>
+        <td width="120">14.03.2013 18:02</td>
+        <td><strong>ინტელექტი</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr><tr>
+        <td width="120">22.03.2013 17:25</td>
+        <td><strong>ჭიათურმშენი</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr>
+</table>
+</div>
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'73730'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg0" style="font-weight:bold"></span><br/>
+			<span class="date"> :: </span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(1680)"><img src="images/profile24.png"></a> <strong>ორნამენტი</strong><br/>
+				
+					ნომერი/თანხა: N19/04/2 / <span class="convertme" id="1050000-GEL-23.04.2013 14:02">1050000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 19.04.2013 - 31.08.2013<br/>
+					<span class="date">23.04.2013 14:02</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=62487"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="73730">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;font-weight: bold;margin:1em">ხელშეკრულების ცვლილება</div>
+		<table width="100%">
+			<tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 1</u></span><br/>
+					ნომერი/თანხა: N19/04/2 / <span class="convertme" id="1050000-GEL-19.07.2013 18:54">1050000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 19.04.2013 - 31.08.2013<br/>
+					<span class="date">19.07.2013 18:54</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=68553"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+		</table>
+	</div>
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="73730">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="73730">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 1`050`000.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 1`049`999.99 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>117`963.90 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2013</td>
+<td>2013</td>
+<td>30.05.2013&nbsp;
+
+</td>
+<td class="date">24.07.2013<br>–</td>
+</tr><tr class="activebid1">
+<td>275`048.14 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2013</td>
+<td>2013</td>
+<td>17.06.2013&nbsp;
+
+</td>
+<td class="date">24.07.2013<br>–</td>
+</tr><tr class="activebid1">
+<td>35`550.00 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2013</td>
+<td>2013</td>
+<td>28.06.2013&nbsp;
+
+</td>
+<td class="date">24.07.2013<br>–</td>
+</tr><tr class="activebid1">
+<td>272`505.86 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2013</td>
+<td>2013</td>
+<td>28.06.2013&nbsp;
+
+</td>
+<td class="date">24.07.2013<br>–</td>
+</tr><tr class="activebid1">
+<td>152`115.62 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2013</td>
+<td>2013</td>
+<td>12.07.2013&nbsp;
+
+</td>
+<td class="date">24.07.2013<br>–</td>
+</tr><tr class="activebid1">
+<td>196`816.47 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2013</td>
+<td>2013</td>
+<td>24.07.2013&nbsp;
+
+</td>
+<td class="date">24.07.2013<br>–</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'73730'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

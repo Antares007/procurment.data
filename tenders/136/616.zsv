@@ -1,0 +1,4913 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA150003164</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv136616" /><label for="fv136616"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat40.png"> შერჩევა/შეფასება</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1704)"><img src="images/profile24_0.png"> ლევან სამხარაულის სახელობის სასამართლო ექსპერტიზის ეროვნული ბიურო</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>30.01.2015 20:55</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>04.02.2015 00:05</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>06.02.2015 12:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2015 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="40000-GEL-30.01.2015 20:55">40`000.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;79800000 - ბეჭდვა და მასთან დაკავშირებული მომსახურებები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;79800000 - ბეჭდვა და მასთან დაკავშირებული მომსახურებები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla"></div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ თანდართული დოკუმენტაცია.</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან 2015 წლის 31 დეკემბრის ჩათვლით.</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>800.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>400 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=136616&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="136616">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ნინო განჯელაშვილი :: 16.01.2015 12:35</li>
+	<li style="text-align:right">ბოლო შესწორება: ნოდარ ფოცხვერაშვილი :: 30.01.2015 20:55</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:136616, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+<button id="newclaim" class="btn_davebi ui-state-error" type="button">გასაჩივრება</button>
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '136616'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+<a href="http://procurement.gov.ge/dispute/?act=1&amp;hash=9RMOY7Y5" target="blank"><img src="images/thebutton_ge.png" /></a>
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="1023524.1421411763.136616">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1023524&code=1421411763">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1023524&code=1421411763">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მუდმივმოქმედი სატენდერო კომისია-ბრძანება.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.01.2015 12:36<br/>ნინო განჯელაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1023525.1421411767.136616">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1023525&code=1421411767">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1023525&code=1421411767">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი N1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.01.2015 12:36<br/>ნინო განჯელაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1023526.1421411770.136616">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1023526&code=1421411770">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1023526&code=1421411770">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი N2.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.01.2015 12:36<br/>ნინო განჯელაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1023528.1421411773.136616">
+					<td><span class="opgear">4.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1023528&code=1421411773">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1023528&code=1421411773">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი N3.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.01.2015 12:36<br/>ნინო განჯელაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1040953.1422650603.136616">
+					<td><span class="opgear">5.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1040953&code=1422650603">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1040953&code=1422650603">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ბეჭდვა ოქმი1+2.pdf
+						</a>
+					</td>
+					<td class="date" align="right">30.01.2015 20:43<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1041010.1422651259.136616">
+					<td><span class="opgear">6.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1041010&code=1422651259">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1041010&code=1422651259">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">30.01.2015 20:54<br/>ნოდარ ფოცხვერაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 40`000.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან 2015 წლის 31 დეკემბრის ჩათვლით.</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B136616168610">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7358)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ფრანი</span>
+			</td>
+		<td class="activebid1"><strong>34`343.00</strong>&nbsp;<br/><span class="date">06.02.2015 11:58</span></td>
+		<td class="activebid1">40`000.00&nbsp;<br/><span class="date">06.02.2015 11:58</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(136616,168610)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B136616168495">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2671)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სეზანი</span>
+			</td>
+		<td class="activebid1"><strong>29`700.00</strong>&nbsp;<br/><span class="date">06.02.2015 11:54</span></td>
+		<td class="activebid1">40`000.00&nbsp;<br/><span class="date">05.02.2015 22:48</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(136616,168495)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B136616168600">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(38330)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ჯეოპრინტი</span>
+			</td>
+		<td class="activebid1"><strong>25`000.00</strong>&nbsp;<br/><span class="date">06.02.2015 12:07</span></td>
+		<td class="activebid1">29`917.00&nbsp;<br/><span class="date">06.02.2015 11:51</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(136616,168600)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">ფრანი</td>
+		<td align="center" class="activebid1"><strong>34`343.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">შპს ჯეოპრინტი</td>
+		<td align="center" class="activebid1"><strong>25`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:09</td>
+		<td align="center" class="activebid1">12:11</td>
+		<td class="activebid1">სეზანი</td>
+		<td align="center" class="activebid1"><strong>29`700.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">ფრანი</td>
+		<td align="center" class="activebid1"><strong>34`343.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:15</td>
+		<td align="center" class="activebid1">12:17</td>
+		<td class="activebid1">სეზანი</td>
+		<td align="center" class="activebid1"><strong>29`700.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">შპს ჯეოპრინტი</td>
+		<td align="center" class="activebid1"><strong>25`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:21</td>
+		<td align="center" class="activebid1">12:23</td>
+		<td class="activebid1">ფრანი</td>
+		<td align="center" class="activebid1"><strong>34`343.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:23</td>
+		<td align="center" class="activebid1">12:25</td>
+		<td class="activebid1">სეზანი</td>
+		<td align="center" class="activebid1"><strong>29`700.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:25</td>
+		<td align="center" class="activebid1">12:27</td>
+		<td class="activebid1">შპს ჯეოპრინტი</td>
+		<td align="center" class="activebid1"><strong>25`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B136616">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(7358)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ფრანი</span>
+		</td>
+		<td class="activebid1"><strong>34`343.00</strong></td>
+		<td class="date activebid1">06.02.2015 11:58</td>
+	</tr><tr bgcolor="#ffffff" id="B136616">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(38330)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ჯეოპრინტი</span>
+		</td>
+		<td class="activebid1"><strong>29`917.00</strong></td>
+		<td class="date activebid1">06.02.2015 11:51</td>
+	</tr><tr bgcolor="#ffffff" id="B136616">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2671)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სეზანი</span>
+		</td>
+		<td class="activebid1"><strong>29`700.00</strong></td>
+		<td class="date activebid1">06.02.2015 11:54</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'136616'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'136616'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="1049469.1423262815.136616">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1049469&code=1423262815">
+                    SPA150003164_3164.pdf
+                    </a>
+                </td>
+                <td class="date">06.02.2015 22:46 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1051091.1423509666.136616">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1051091&code=1423509666">
+                    SPA150003164_წერილი დაზუსტებაზე.pdf
+                    </a>
+                </td>
+                <td class="date">09.02.2015 19:21 :: ნოდარ ფოცხვერაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1052514.1423590267.136616">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1052514&code=1423590267">
+                    SPA150003164_IRAKLIS XELSHEKRUL.pdf
+                    </a>
+                </td>
+                <td class="date">10.02.2015 17:44 :: ირაკლი ჩაჩანიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1052530.1423590444.136616">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1052530&code=1423590444">
+                    SPA150003164_რეკომენდაცია.pdf
+                    </a>
+                </td>
+                <td class="date">10.02.2015 17:47 :: ირაკლი ჩაჩანიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1052533.1423590486.136616">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1052533&code=1423590486">
+                    SPA150003164_სერთიფიკატი.pdf
+                    </a>
+                </td>
+                <td class="date">10.02.2015 17:48 :: ირაკლი ჩაჩანიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1052573.1423590957.136616">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1052573&code=1423590957">
+                    SPA150003164_ფასები.pdf
+                    </a>
+                </td>
+                <td class="date">10.02.2015 17:55 :: ირაკლი ჩაჩანიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1052600.1423591362.136616">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1052600&code=1423591362">
+                    SPA150003164_200000.pdf
+                    </a>
+                </td>
+                <td class="date">10.02.2015 18:02 :: ირაკლი ჩაჩანიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1052704.1423592952.136616">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1052704&code=1423592952">
+                    SPA150003164_rekomendacia.pdf
+                    </a>
+                </td>
+                <td class="date">10.02.2015 18:29 :: ირაკლი ჩაჩანიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1058718.1423860589.136616">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1058718&code=1423860589">
+                    SPA150003164_oqmi 4.PDF
+                    </a>
+                </td>
+                <td class="date">13.02.2015 20:49 :: ნოდარ ფოცხვერაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1058719.1423860624.136616">
+                <td>10.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1058719&code=1423860624">
+                    SPA150003164_werili.pdf
+                    </a>
+                </td>
+                <td class="date">13.02.2015 20:50 :: ნოდარ ფოცხვერაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061274.1424186138.136616">
+                <td>11.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061274&code=1424186138">
+                    SPA150003164_დაზუსტებული ფასი.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:15 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061275.1424186154.136616">
+                <td>12.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061275&code=1424186154">
+                    SPA150003164_სარეკომენდაციო წერილი კულტურული მემკვიდრეობა_სეზანი.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:15 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061276.1424186167.136616">
+                <td>13.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061276&code=1424186167">
+                    SPA150003164_რეკომენდაცია ოპერა თარიღებით.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:16 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061277.1424186186.136616">
+                <td>14.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061277&code=1424186186">
+                    SPA150003164_samoqalaqo reestris angarishfaqturebi (2014).pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:16 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061278.1424186197.136616">
+                <td>15.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061278&code=1424186197">
+                    SPA150003164_ხელშეკრულება 2010 (2).pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:16 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061280.1424186205.136616">
+                <td>16.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061280&code=1424186205">
+                    SPA150003164_ხელშეკრულება 2010.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:16 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061282.1424186215.136616">
+                <td>17.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061282&code=1424186215">
+                    SPA150003164_ხელშეკრულება 2011 (2).pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:16 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061284.1424186223.136616">
+                <td>18.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061284&code=1424186223">
+                    SPA150003164_ხელშეკრულება 2011.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:17 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061285.1424186236.136616">
+                <td>19.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061285&code=1424186236">
+                    SPA150003164_ხელშეკრულება 2012 (2).pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:17 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061286.1424186246.136616">
+                <td>20.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061286&code=1424186246">
+                    SPA150003164_ხელშეკრულება 2012.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:17 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061335.1424187311.136616">
+                <td>21.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061335&code=1424187311">
+                    SPA150003164_რეკომენდაცია კულტ.მემკვიდრეობა თარიღებით.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:35 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061861.1424194457.136616">
+                <td>22.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061861&code=1424194457">
+                    SPA150003164_სარეკომენდაციო წერილი.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 17:34 :: ლია გვასალია</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1068138.1424466556.136616">
+                <td>23.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1068138&code=1424466556">
+                    SPA150003164_ოქმი 5.PDF
+                    </a>
+                </td>
+                <td class="date">20.02.2015 21:09 :: ნატალია მეტრეველი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1068139.1424466588.136616">
+                <td>24.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1068139&code=1424466588">
+                    SPA150003164_წერილი.pdf
+                    </a>
+                </td>
+                <td class="date">20.02.2015 21:09 :: ნატალია მეტრეველი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071011.1424782430.136616">
+                <td>25.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071011&code=1424782430">
+                    SPA150003164_2010  migeba-chabareba.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 12:53 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071018.1424782671.136616">
+                <td>26.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071018&code=1424782671">
+                    SPA150003164_2010 - 1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 12:57 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071021.1424782711.136616">
+                <td>27.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071021&code=1424782711">
+                    SPA150003164_2010 - 2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 12:58 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071033.1424782843.136616">
+                <td>28.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071033&code=1424782843">
+                    SPA150003164_ფასების ცხრილი.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:00 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071034.1424782872.136616">
+                <td>29.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071034&code=1424782872">
+                    SPA150003164_ფასების ცხრილი - 1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:01 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071035.1424782905.136616">
+                <td>30.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071035&code=1424782905">
+                    SPA150003164_ფასების ცხრილი - 2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:01 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071036.1424782947.136616">
+                <td>31.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071036&code=1424782947">
+                    SPA150003164_ფასების ცხრილი - 3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:02 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071050.1424783408.136616">
+                <td>32.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071050&code=1424783408">
+                    SPA150003164_19750.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:10 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071058.1424783859.136616">
+                <td>33.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071058&code=1424783859">
+                    SPA150003164_12000.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:17 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071068.1424784113.136616">
+                <td>34.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071068&code=1424784113">
+                    SPA150003164_19750-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:21 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071074.1424784193.136616">
+                <td>35.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071074&code=1424784193">
+                    SPA150003164_19750-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071079.1424784229.136616">
+                <td>36.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071079&code=1424784229">
+                    SPA150003164_19750-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071082.1424784287.136616">
+                <td>37.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071082&code=1424784287">
+                    SPA150003164_12000-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:24 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071089.1424784324.136616">
+                <td>38.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071089&code=1424784324">
+                    SPA150003164_12000-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:25 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071107.1424784550.136616">
+                <td>39.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071107&code=1424784550">
+                    SPA150003164_12000-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:29 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071123.1424784762.136616">
+                <td>40.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071123&code=1424784762">
+                    SPA150003164_6720 tur.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:32 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071138.1424784882.136616">
+                <td>41.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071138&code=1424784882">
+                    SPA150003164_6720.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:34 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071166.1424785283.136616">
+                <td>42.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071166&code=1424785283">
+                    SPA150003164_7360 ser.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:41 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071169.1424785327.136616">
+                <td>43.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071169&code=1424785327">
+                    SPA150003164_7360-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:42 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071171.1424785354.136616">
+                <td>44.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071171&code=1424785354">
+                    SPA150003164_7360-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:42 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071174.1424785410.136616">
+                <td>45.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071174&code=1424785410">
+                    SPA150003164_7360-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:43 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071177.1424785472.136616">
+                <td>46.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071177&code=1424785472">
+                    SPA150003164_7360-4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:44 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071181.1424785512.136616">
+                <td>47.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071181&code=1424785512">
+                    SPA150003164_7360-5.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:45 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071193.1424785684.136616">
+                <td>48.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071193&code=1424785684">
+                    SPA150003164_7925 prob.PDF
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:48 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071201.1424785790.136616">
+                <td>49.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071201&code=1424785790">
+                    SPA150003164_7925.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:49 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071207.1424785871.136616">
+                <td>50.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071207&code=1424785871">
+                    SPA150003164_3770.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 13:51 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071271.1424787239.136616">
+                <td>51.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071271&code=1424787239">
+                    SPA150003164_3770-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:13 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071273.1424787296.136616">
+                <td>52.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071273&code=1424787296">
+                    SPA150003164_3770-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:14 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071276.1424787326.136616">
+                <td>53.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071276&code=1424787326">
+                    SPA150003164_3770-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:15 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071278.1424787359.136616">
+                <td>54.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071278&code=1424787359">
+                    SPA150003164_3770-4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:15 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071308.1424788034.136616">
+                <td>55.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071308&code=1424788034">
+                    SPA150003164_2000.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:27 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071313.1424788149.136616">
+                <td>56.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071313&code=1424788149">
+                    SPA150003164_2000-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:29 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071315.1424788212.136616">
+                <td>57.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071315&code=1424788212">
+                    SPA150003164_2000-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:30 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071317.1424788230.136616">
+                <td>58.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071317&code=1424788230">
+                    SPA150003164_2000-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:30 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071321.1424788391.136616">
+                <td>59.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071321&code=1424788391">
+                    SPA150003164_1390.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:33 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071327.1424788552.136616">
+                <td>60.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071327&code=1424788552">
+                    SPA150003164_1390-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:35 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071329.1424788595.136616">
+                <td>61.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071329&code=1424788595">
+                    SPA150003164_1390-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:36 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071342.1424788773.136616">
+                <td>62.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071342&code=1424788773">
+                    SPA150003164_1390-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:39 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071358.1424788981.136616">
+                <td>63.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071358&code=1424788981">
+                    SPA150003164_1390-4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:43 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071364.1424789084.136616">
+                <td>64.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071364&code=1424789084">
+                    SPA150003164_1390-5.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:44 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071365.1424789123.136616">
+                <td>65.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071365&code=1424789123">
+                    SPA150003164_5691.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:45 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071367.1424789167.136616">
+                <td>66.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071367&code=1424789167">
+                    SPA150003164_5691-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:46 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071371.1424789249.136616">
+                <td>67.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071371&code=1424789249">
+                    SPA150003164_5691-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:47 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071375.1424789380.136616">
+                <td>68.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071375&code=1424789380">
+                    SPA150003164_5691-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:49 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071380.1424789560.136616">
+                <td>69.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071380&code=1424789560">
+                    SPA150003164_5691-4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:52 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071382.1424789622.136616">
+                <td>70.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071382&code=1424789622">
+                    SPA150003164_2422.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 14:53 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071393.1424790063.136616">
+                <td>71.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071393&code=1424790063">
+                    SPA150003164_2422-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:01 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071397.1424790105.136616">
+                <td>72.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071397&code=1424790105">
+                    SPA150003164_2422-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:01 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071401.1424790180.136616">
+                <td>73.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071401&code=1424790180">
+                    SPA150003164_2422-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:03 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071412.1424790381.136616">
+                <td>74.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071412&code=1424790381">
+                    SPA150003164_19650.1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:06 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071420.1424790426.136616">
+                <td>75.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071420&code=1424790426">
+                    SPA150003164_19650.2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:07 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071427.1424790480.136616">
+                <td>76.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071427&code=1424790480">
+                    SPA150003164_19650.3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:08 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071432.1424790516.136616">
+                <td>77.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071432&code=1424790516">
+                    SPA150003164_19650.4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:08 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071436.1424790543.136616">
+                <td>78.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071436&code=1424790543">
+                    SPA150003164_19650.5.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:09 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071444.1424790593.136616">
+                <td>79.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071444&code=1424790593">
+                    SPA150003164_19650.6.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:09 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071449.1424790644.136616">
+                <td>80.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071449&code=1424790644">
+                    SPA150003164_19650-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:10 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071456.1424790740.136616">
+                <td>81.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071456&code=1424790740">
+                    SPA150003164_19650-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:12 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071458.1424790779.136616">
+                <td>82.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071458&code=1424790779">
+                    SPA150003164_19650-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:12 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071465.1424790893.136616">
+                <td>83.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071465&code=1424790893">
+                    SPA150003164_59650-4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:14 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071469.1424790980.136616">
+                <td>84.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071469&code=1424790980">
+                    SPA150003164_19650-5.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:16 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071474.1424791030.136616">
+                <td>85.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071474&code=1424791030">
+                    SPA150003164_19650-6.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:17 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071476.1424791067.136616">
+                <td>86.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071476&code=1424791067">
+                    SPA150003164_19650-7.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:17 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071477.1424791106.136616">
+                <td>87.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071477&code=1424791106">
+                    SPA150003164_19650-8.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:18 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071480.1424791122.136616">
+                <td>88.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071480&code=1424791122">
+                    SPA150003164_19650-9.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:18 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071481.1424791150.136616">
+                <td>89.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071481&code=1424791150">
+                    SPA150003164_19650-10.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:19 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071483.1424791173.136616">
+                <td>90.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071483&code=1424791173">
+                    SPA150003164_19650-11.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:19 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071487.1424791226.136616">
+                <td>91.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071487&code=1424791226">
+                    SPA150003164_19650-12.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:20 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071497.1424791527.136616">
+                <td>92.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071497&code=1424791527">
+                    SPA150003164_19650-13.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:25 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071501.1424791570.136616">
+                <td>93.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071501&code=1424791570">
+                    SPA150003164_19650-14.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:26 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071502.1424791583.136616">
+                <td>94.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071502&code=1424791583">
+                    SPA150003164_19650-15.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:26 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071503.1424791605.136616">
+                <td>95.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071503&code=1424791605">
+                    SPA150003164_19650-16.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:26 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071504.1424791639.136616">
+                <td>96.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071504&code=1424791639">
+                    SPA150003164_19650-17.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:27 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071506.1424791714.136616">
+                <td>97.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071506&code=1424791714">
+                    SPA150003164_19650-18.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:28 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071507.1424791730.136616">
+                <td>98.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071507&code=1424791730">
+                    SPA150003164_19650-19.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:28 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071518.1424792048.136616">
+                <td>99.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071518&code=1424792048">
+                    SPA150003164_1557.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:34 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071522.1424792108.136616">
+                <td>100.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071522&code=1424792108">
+                    SPA150003164_1557-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:35 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071525.1424792253.136616">
+                <td>101.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071525&code=1424792253">
+                    SPA150003164_1557-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:37 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071527.1424792309.136616">
+                <td>102.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071527&code=1424792309">
+                    SPA150003164_1557-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:38 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071537.1424792865.136616">
+                <td>103.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071537&code=1424792865">
+                    SPA150003164_1557-4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:47 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071538.1424792931.136616">
+                <td>104.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071538&code=1424792931">
+                    SPA150003164_1557-5.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 15:48 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071590.1424794567.136616">
+                <td>105.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071590&code=1424794567">
+                    SPA150003164_2667.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 16:16 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071599.1424794672.136616">
+                <td>106.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071599&code=1424794672">
+                    SPA150003164_2667-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 16:17 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071610.1424794730.136616">
+                <td>107.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071610&code=1424794730">
+                    SPA150003164_2667-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 16:18 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071615.1424794790.136616">
+                <td>108.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071615&code=1424794790">
+                    SPA150003164_2667-3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 16:19 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071617.1424794817.136616">
+                <td>109.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071617&code=1424794817">
+                    SPA150003164_2667-4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 16:20 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071664.1424795475.136616">
+                <td>110.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071664&code=1424795475">
+                    SPA150003164_5725-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 16:31 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071666.1424795490.136616">
+                <td>111.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071666&code=1424795490">
+                    SPA150003164_5725-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 16:31 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071750.1424797322.136616">
+                <td>112.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071750&code=1424797322">
+                    SPA150003164_5725.1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:02 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071756.1424797368.136616">
+                <td>113.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071756&code=1424797368">
+                    SPA150003164_5725.2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:02 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071758.1424797407.136616">
+                <td>114.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071758&code=1424797407">
+                    SPA150003164_5725.3.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:03 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071763.1424797446.136616">
+                <td>115.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071763&code=1424797446">
+                    SPA150003164_5725.4.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:04 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071776.1424797527.136616">
+                <td>116.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071776&code=1424797527">
+                    SPA150003164_6260.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:05 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071861.1424798247.136616">
+                <td>117.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071861&code=1424798247">
+                    SPA150003164_6260-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:17 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071868.1424798278.136616">
+                <td>118.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071868&code=1424798278">
+                    SPA150003164_6260-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:17 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071876.1424798317.136616">
+                <td>119.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071876&code=1424798317">
+                    SPA150003164_2084.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:18 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071952.1424798768.136616">
+                <td>120.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071952&code=1424798768">
+                    SPA150003164_xel 2084.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:26 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071963.1424798852.136616">
+                <td>121.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071963&code=1424798852">
+                    SPA150003164_3536.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:27 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071978.1424799042.136616">
+                <td>122.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071978&code=1424799042">
+                    SPA150003164_3536 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:30 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1071999.1424799600.136616">
+                <td>123.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1071999&code=1424799600">
+                    SPA150003164_2465.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:40 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072008.1424799741.136616">
+                <td>124.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072008&code=1424799741">
+                    SPA150003164_2465 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 17:42 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072363.1424806125.136616">
+                <td>125.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072363&code=1424806125">
+                    SPA150003164_13135.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 19:28 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072367.1424806255.136616">
+                <td>126.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072367&code=1424806255">
+                    SPA150003164_13135-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 19:30 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072370.1424806275.136616">
+                <td>127.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072370&code=1424806275">
+                    SPA150003164_13135-2.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 19:31 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072376.1424806406.136616">
+                <td>128.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072376&code=1424806406">
+                    SPA150003164_1435 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 19:33 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072378.1424806528.136616">
+                <td>129.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072378&code=1424806528">
+                    SPA150003164_1435.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 19:35 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072379.1424806581.136616">
+                <td>130.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072379&code=1424806581">
+                    SPA150003164_14528 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 19:36 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072382.1424806620.136616">
+                <td>131.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072382&code=1424806620">
+                    SPA150003164_14528.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 19:37 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072440.1424809064.136616">
+                <td>132.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072440&code=1424809064">
+                    SPA150003164_19512 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:17 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072441.1424809140.136616">
+                <td>133.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072441&code=1424809140">
+                    SPA150003164_Waybill_List (1).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:19 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072444.1424809303.136616">
+                <td>134.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072444&code=1424809303">
+                    SPA150003164_Waybill_List (2).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:21 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072445.1424809321.136616">
+                <td>135.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072445&code=1424809321">
+                    SPA150003164_Waybill_List (3).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:22 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072446.1424809347.136616">
+                <td>136.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072446&code=1424809347">
+                    SPA150003164_Waybill_List (4).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:22 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072447.1424809373.136616">
+                <td>137.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072447&code=1424809373">
+                    SPA150003164_Waybill_List (5).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:22 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072448.1424809387.136616">
+                <td>138.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072448&code=1424809387">
+                    SPA150003164_Waybill_List (6).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072450.1424809404.136616">
+                <td>139.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072450&code=1424809404">
+                    SPA150003164_Waybill_List (7).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072451.1424809418.136616">
+                <td>140.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072451&code=1424809418">
+                    SPA150003164_Waybill_List (8).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072453.1424809557.136616">
+                <td>141.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072453&code=1424809557">
+                    SPA150003164_Waybill_List (9).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:25 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072465.1424809938.136616">
+                <td>142.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072465&code=1424809938">
+                    SPA150003164_Waybill_List (10).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:32 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072467.1424809948.136616">
+                <td>143.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072467&code=1424809948">
+                    SPA150003164_Waybill_List (11).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:32 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072468.1424809961.136616">
+                <td>144.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072468&code=1424809961">
+                    SPA150003164_Waybill_List (12).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:32 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072470.1424809975.136616">
+                <td>145.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072470&code=1424809975">
+                    SPA150003164_Waybill_List (13).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:32 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072472.1424809991.136616">
+                <td>146.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072472&code=1424809991">
+                    SPA150003164_Waybill_List (14).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:33 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072473.1424810004.136616">
+                <td>147.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072473&code=1424810004">
+                    SPA150003164_Waybill_List (15).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:33 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072475.1424810028.136616">
+                <td>148.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072475&code=1424810028">
+                    SPA150003164_Waybill_List (16).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:33 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072476.1424810042.136616">
+                <td>149.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072476&code=1424810042">
+                    SPA150003164_Waybill_List (17).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:34 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072477.1424810056.136616">
+                <td>150.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072477&code=1424810056">
+                    SPA150003164_Waybill_List (18).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:34 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072478.1424810075.136616">
+                <td>151.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072478&code=1424810075">
+                    SPA150003164_Waybill_List (19).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:34 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072479.1424810092.136616">
+                <td>152.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072479&code=1424810092">
+                    SPA150003164_Waybill_List (20).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:34 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072481.1424810107.136616">
+                <td>153.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072481&code=1424810107">
+                    SPA150003164_Waybill_List.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 20:35 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072502.1424811627.136616">
+                <td>154.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072502&code=1424811627">
+                    SPA150003164_9900 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:00 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072504.1424811753.136616">
+                <td>155.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072504&code=1424811753">
+                    SPA150003164_300.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:02 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072505.1424811766.136616">
+                <td>156.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072505&code=1424811766">
+                    SPA150003164_320.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:02 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072507.1424811778.136616">
+                <td>157.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072507&code=1424811778">
+                    SPA150003164_370.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:02 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072509.1424811819.136616">
+                <td>158.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072509&code=1424811819">
+                    SPA150003164_450.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:03 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072510.1424811869.136616">
+                <td>159.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072510&code=1424811869">
+                    SPA150003164_600.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:04 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072511.1424811889.136616">
+                <td>160.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072511&code=1424811889">
+                    SPA150003164_750.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:04 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072512.1424811972.136616">
+                <td>161.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072512&code=1424811972">
+                    SPA150003164_750-1.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:06 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072513.1424812007.136616">
+                <td>162.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072513&code=1424812007">
+                    SPA150003164_1200.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:06 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072514.1424812035.136616">
+                <td>163.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072514&code=1424812035">
+                    SPA150003164_1420.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:07 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072516.1424812109.136616">
+                <td>164.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072516&code=1424812109">
+                    SPA150003164_1810.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:08 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072517.1424812125.136616">
+                <td>165.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072517&code=1424812125">
+                    SPA150003164_1950.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:08 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072518.1424812289.136616">
+                <td>166.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072518&code=1424812289">
+                    SPA150003164_13800 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:11 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072519.1424812302.136616">
+                <td>167.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072519&code=1424812302">
+                    SPA150003164_Waybill_List.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:11 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072520.1424812315.136616">
+                <td>168.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072520&code=1424812315">
+                    SPA150003164_Waybill_List (1).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:11 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072521.1424812372.136616">
+                <td>169.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072521&code=1424812372">
+                    SPA150003164_Waybill_List (2).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:12 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072522.1424812390.136616">
+                <td>170.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072522&code=1424812390">
+                    SPA150003164_Waybill_List (3).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:13 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072523.1424812431.136616">
+                <td>171.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072523&code=1424812431">
+                    SPA150003164_Waybill_List (4).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:13 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072524.1424812777.136616">
+                <td>172.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072524&code=1424812777">
+                    SPA150003164_Waybill_List (5).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:19 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072525.1424812835.136616">
+                <td>173.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072525&code=1424812835">
+                    SPA150003164_Waybill_List (6).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:20 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072526.1424812853.136616">
+                <td>174.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072526&code=1424812853">
+                    SPA150003164_Waybill_List (7).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:20 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072527.1424812874.136616">
+                <td>175.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072527&code=1424812874">
+                    SPA150003164_Waybill_List (8).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:21 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072528.1424812890.136616">
+                <td>176.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072528&code=1424812890">
+                    SPA150003164_Waybill_List (9).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:21 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072529.1424812915.136616">
+                <td>177.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072529&code=1424812915">
+                    SPA150003164_Waybill_List (10).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:21 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072530.1424812930.136616">
+                <td>178.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072530&code=1424812930">
+                    SPA150003164_Waybill_List (11).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:22 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072531.1424812947.136616">
+                <td>179.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072531&code=1424812947">
+                    SPA150003164_Waybill_List (12).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:22 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072532.1424812962.136616">
+                <td>180.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072532&code=1424812962">
+                    SPA150003164_Waybill_List (13).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:22 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072533.1424812984.136616">
+                <td>181.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072533&code=1424812984">
+                    SPA150003164_Waybill_List (14).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072534.1424813005.136616">
+                <td>182.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072534&code=1424813005">
+                    SPA150003164_Waybill_List (15).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072535.1424813029.136616">
+                <td>183.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072535&code=1424813029">
+                    SPA150003164_Waybill_List (16).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072536.1424813713.136616">
+                <td>184.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072536&code=1424813713">
+                    SPA150003164_9500 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:35 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072537.1424813738.136616">
+                <td>185.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072537&code=1424813738">
+                    SPA150003164_Waybill_List.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:35 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072538.1424813753.136616">
+                <td>186.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072538&code=1424813753">
+                    SPA150003164_Waybill_List (1).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:35 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072539.1424813770.136616">
+                <td>187.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072539&code=1424813770">
+                    SPA150003164_Waybill_List (2).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:36 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072540.1424813857.136616">
+                <td>188.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072540&code=1424813857">
+                    SPA150003164_Waybill_List (3).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:37 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072541.1424813871.136616">
+                <td>189.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072541&code=1424813871">
+                    SPA150003164_Waybill_List (4).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:37 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072542.1424813895.136616">
+                <td>190.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072542&code=1424813895">
+                    SPA150003164_Waybill_List (5).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:38 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072543.1424813917.136616">
+                <td>191.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072543&code=1424813917">
+                    SPA150003164_Waybill_List (6).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:38 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072544.1424813937.136616">
+                <td>192.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072544&code=1424813937">
+                    SPA150003164_Waybill_List (7).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:38 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072545.1424813950.136616">
+                <td>193.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072545&code=1424813950">
+                    SPA150003164_Waybill_List (8).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:39 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072546.1424813964.136616">
+                <td>194.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072546&code=1424813964">
+                    SPA150003164_Waybill_List (8).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:39 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072547.1424813987.136616">
+                <td>195.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072547&code=1424813987">
+                    SPA150003164_Waybill_List (9).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:39 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072548.1424814006.136616">
+                <td>196.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072548&code=1424814006">
+                    SPA150003164_Waybill_List (10).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:40 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072549.1424814023.136616">
+                <td>197.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072549&code=1424814023">
+                    SPA150003164_Waybill_List (11).pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 21:40 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072552.1424816455.136616">
+                <td>198.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072552&code=1424816455">
+                    SPA150003164_2870 xels.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 22:20 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072553.1424816470.136616">
+                <td>199.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072553&code=1424816470">
+                    SPA150003164_2870.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 22:21 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072557.1424816938.136616">
+                <td>200.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072557&code=1424816938">
+                    SPA150003164_1030 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 22:28 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072558.1424817402.136616">
+                <td>201.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072558&code=1424817402">
+                    SPA150003164_1030.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 22:36 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072559.1424818438.136616">
+                <td>202.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072559&code=1424818438">
+                    SPA150003164_xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 22:53 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072560.1424818474.136616">
+                <td>203.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072560&code=1424818474">
+                    SPA150003164_301.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 22:54 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072561.1424818652.136616">
+                <td>204.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072561&code=1424818652">
+                    SPA150003164_1800.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 22:57 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072562.1424818905.136616">
+                <td>205.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072562&code=1424818905">
+                    SPA150003164_1370 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:01 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072563.1424818927.136616">
+                <td>206.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072563&code=1424818927">
+                    SPA150003164_1370.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:02 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072564.1424819805.136616">
+                <td>207.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072564&code=1424819805">
+                    SPA150003164_1370 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:16 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072565.1424819861.136616">
+                <td>208.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072565&code=1424819861">
+                    SPA150003164_1432 xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:17 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072566.1424819961.136616">
+                <td>209.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072566&code=1424819961">
+                    SPA150003164_1432.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:19 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072567.1424820205.136616">
+                <td>210.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072567&code=1424820205">
+                    SPA150003164_xel.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:23 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072568.1424820263.136616">
+                <td>211.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072568&code=1424820263">
+                    SPA150003164_1300.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:24 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072571.1424820543.136616">
+                <td>212.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072571&code=1424820543">
+                    SPA150003164_3432.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:29 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072572.1424820639.136616">
+                <td>213.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072572&code=1424820639">
+                    SPA150003164_3433 shem.PDF
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:30 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072589.1424821362.136616">
+                <td>214.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072589&code=1424821362">
+                    SPA150003164_SPA140005537_1.145.PDF
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:42 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072591.1424821387.136616">
+                <td>215.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072591&code=1424821387">
+                    SPA150003164_1698.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:43 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072595.1424821466.136616">
+                <td>216.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072595&code=1424821466">
+                    SPA150003164_2340 xel.PDF
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:44 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1072596.1424821519.136616">
+                <td>217.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1072596&code=1424821519">
+                    SPA150003164_2340.pdf
+                    </a>
+                </td>
+                <td class="date">24.02.2015 23:45 :: ნიკოლოზ ფიროსმანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1110386.1427220138.136616">
+                <td>218.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1110386&code=1427220138">
+                    SPA150003164_ოქმი 6.pdf
+                    </a>
+                </td>
+                <td class="date">24.03.2015 18:02 :: თინათინ ჩანადირი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1110801.1427232714.136616">
+                <td>219.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1110801&code=1427232714">
+                    SPA150003164_werili nimushze.pdf
+                    </a>
+                </td>
+                <td class="date">24.03.2015 21:31 :: ნოდარ ფოცხვერაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+        <td width="120">13.02.2015 20:50</td>
+        <td><strong>შპს ჯეოპრინტი</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr><tr>
+        <td width="120">20.02.2015 21:09</td>
+        <td><strong>სეზანი</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr>
+</table>
+</div>
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'136616'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="136616">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="136616">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="136616">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="5" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'136616'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

@@ -1,0 +1,2073 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140004088</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv106732" /><label for="fv106732"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(3795)"><img src="images/profile24_0.png"> აბაშის მუნიციპალიტეტი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>10.02.2014 17:00</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>12.02.2014 00:09</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>14.02.2014 16:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="14595-GEL-10.02.2014 17:00">14`595.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">სხვადასხვა სახის საკანცელარიო საქონლის შესყიდვა</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხ. სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>მიწოდება ხორციელდება ეტაპობრივად, შემსყიდველის მოთხოვნიდან არაუმეტეს 7 (შვიდი) სამუშაო დღის განმავლობაში, 2014 წლის 31 დეკემბრამდე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>100.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>146 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=106732&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="106732">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ალექსანდრე კაჭარავა :: 10.02.2014 16:57</li>
+	<li style="text-align:right">ბოლო შესწორება: ალექსანდრე კაჭარავა :: 10.02.2014 17:00</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:106732, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '106732'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="677857.1392051544.106732">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=677857&code=1392051544">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=677857&code=1392051544">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია_satendero dokumentacia.pdf
+						</a>
+					</td>
+					<td class="date" align="right">10.02.2014 16:59<br/>ალექსანდრე კაჭარავა</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 14`595.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: მიწოდება ხორციელდება ეტაპობრივად, შემსყიდველის მოთხოვნიდან არაუმეტეს 7 (შვიდი) სამუშაო დღის განმავლობაში, 2014 წლის 31 დეკემბრამდე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B106732121849">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(39136)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ნანა კუცია</span>
+			</td>
+		<td class="activebid1"><strong>11`799.00</strong>&nbsp;<br/><span class="date">14.02.2014 16:07</span></td>
+		<td class="activebid1">12`612.00&nbsp;<br/><span class="date">14.02.2014 15:52</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(106732,121849)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B106732121781">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37158)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს მაიპისი</span>
+			</td>
+		<td class="activebid1"><strong>11`000.00</strong>&nbsp;<br/><span class="date">14.02.2014 16:11</span></td>
+		<td class="activebid1">14`235.00&nbsp;<br/><span class="date">14.02.2014 12:35</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(106732,121781)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">16:05</td>
+		<td align="center" class="activebid1">16:07</td>
+		<td class="activebid1">შპს მაიპისი</td>
+		<td align="center" class="activebid1"><strong>11`800.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">16:07</td>
+		<td align="center" class="activebid1">16:09</td>
+		<td class="activebid1">ნანა კუცია</td>
+		<td align="center" class="activebid1"><strong>11`799.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">16:11</td>
+		<td align="center" class="activebid1">16:13</td>
+		<td class="activebid1">შპს მაიპისი</td>
+		<td align="center" class="activebid1"><strong>11`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:13</td>
+		<td align="center" class="activebid1">16:15</td>
+		<td class="activebid1">ნანა კუცია</td>
+		<td align="center" class="activebid1"><strong>11`799.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">16:17</td>
+		<td align="center" class="activebid1">16:19</td>
+		<td class="activebid1">ნანა კუცია</td>
+		<td align="center" class="activebid1"><strong>11`799.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">16:19</td>
+		<td align="center" class="activebid1">16:21</td>
+		<td class="activebid1">შპს მაიპისი</td>
+		<td align="center" class="activebid1"><strong>11`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B106732">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37158)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს მაიპისი</span>
+		</td>
+		<td class="activebid1"><strong>13`980.00</strong></td>
+		<td class="date activebid1">14.02.2014 15:56</td>
+	</tr><tr bgcolor="#ffffff" id="B106732">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(39136)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ნანა კუცია</span>
+		</td>
+		<td class="activebid1"><strong>12`612.00</strong></td>
+		<td class="date activebid1">14.02.2014 15:52</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'106732'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'106732'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="688108.1392828252.106732">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=688108&code=1392828252">
+                    SPA140004088_ინტერესთა კონფლიქტი_interesta konfliqti.PDF
+                    </a>
+                </td>
+                <td class="date">19.02.2014 16:44 :: ალექსანდრე კაჭარავა</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="688111.1392828281.106732">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=688111&code=1392828281">
+                    SPA140004088_ოქმი#2_oqmi #2.PDF
+                    </a>
+                </td>
+                <td class="date">19.02.2014 16:44 :: ალექსანდრე კაჭარავა</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="688114.1392828328.106732">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=688114&code=1392828328">
+                    SPA140004088_წერილი გამაჯვებულს_werili gamarjvebuls.PDF
+                    </a>
+                </td>
+                <td class="date">19.02.2014 16:45 :: ალექსანდრე კაჭარავა</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="693236.1393332185.106732">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=693236&code=1393332185">
+                    SPA140004088_დაზუსტებული ფასების ცხრილი_3.Pdf
+                    </a>
+                </td>
+                <td class="date">25.02.2014 12:43 :: ნატალია ქვარიანი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A29199">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ჩასანიშნი ქაღალდის ფურცლები 95*95 მეტალის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:35 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">134 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;804.00 GEL</td>
+                <td title="ჩასანიშნი ქაღალდის ფურცლები">ჩასანიშნი ...</td>
+            </tr><tr id="A29231">
+                <td>
+                    &nbsp;
+                    <span title="30199792 - კალენდრები">30199792 - კალენდრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მაგიდაზე დასადგამი კალენდარი 2014 წლის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:58 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">73 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;219.00 GEL</td>
+                <td title="მაგიდის კალენდარი">მაგიდის კა...</td>
+            </tr><tr id="A29233">
+                <td>
+                    &nbsp;
+                    <span title="30199792 - კალენდრები">30199792 - კალენდრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კედლის კალენდარი,კვარტალური ,ზამბარით</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 20:01 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">55 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;220.00 GEL</td>
+                <td title="კედლის კალენდარი">კედლის კალ...</td>
+            </tr><tr id="A29167">
+                <td>
+                    &nbsp;
+                    <span title="30192133 - ფანქრის სათლელები">30192133 - ფანქრის სათლელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სათლელი ორი ნახვრეტით,დასადგმელი,მაღალი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:05 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">71 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;284.00 GEL</td>
+                <td title="სათლელი">სათლელი...</td>
+            </tr><tr id="A29181">
+                <td>
+                    &nbsp;
+                    <span title="30192110 - მელანი">30192110 - მელანი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მელანი ლურჯი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:14 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">21 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.60 GEL</td>
+                <td title="მელანი">მელანი...</td>
+            </tr><tr id="A29107">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფანქარი საშლელით შავი დერის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 17:58 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.15 GEL<br/>
+                <span class="color-2">425 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;63.75 GEL</td>
+                <td title="ფანქარი">ფანქარი...</td>
+            </tr><tr id="A29235">
+                <td>
+                    &nbsp;
+                    <span title="30192150 - თარიღის დასასმელი შტამპები">30192150 - თარიღის დასასმელი შტამპები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბეწედი ცილინდრისებრი მოძრავი მუხლით</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 20:03 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">40.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;200.00 GEL</td>
+                <td title="ბეჭედი">ბეჭედი...</td>
+            </tr><tr id="A29243">
+                <td>
+                    &nbsp;
+                    <span title="30195920 - მაგნიტური დაფები">30195920 - მაგნიტური დაფები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ჩამოსაკიდი მაგნიტური დაფა ზომა: 90სმ*120სმ</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 20:12 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">65.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;130.00 GEL</td>
+                <td title="მაგნიტური დაფა">მაგნიტური ...</td>
+            </tr><tr id="A29189">
+                <td>
+                    &nbsp;
+                    <span title="30197120 - ჭიკარტები">30197120 - ჭიკარტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ჭიკარტი მეტალის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:22 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">39 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;15.60 GEL</td>
+                <td title="ჭიკარტი">ჭიკარტი...</td>
+            </tr><tr id="A29187">
+                <td>
+                    &nbsp;
+                    <span title="30197120 - ჭიკარტები">30197120 - ჭიკარტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ჭიკარტი პლასტმასის თავით</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:21 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">39 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;19.50 GEL</td>
+                <td title="ჭიკარტები">ჭიკარტები...</td>
+            </tr><tr id="A29185">
+                <td>
+                    &nbsp;
+                    <span title="30197330 - სახვრეტელები">30197330 - სახვრეტელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;დირაკოლი(40 ფურცლის)</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:18 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">14 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;84.00 GEL</td>
+                <td title="სახვრეტელა">სახვრეტელა...</td>
+            </tr><tr id="A29165">
+                <td>
+                    &nbsp;
+                    <span title="30192100 - საშლელები">30192100 - საშლელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საშლელები რბილი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:01 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">97 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;19.40 GEL</td>
+                <td title="საშლელები">საშლელები...</td>
+            </tr><tr id="A29171">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო წებო მშრალი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:07 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">122 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;24.40 GEL</td>
+                <td title="საკანცელარიო წებო მშრალი">საკანცელარ...</td>
+            </tr><tr id="A29175">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საწერი კალამი ლურჯი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:10 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.10 GEL<br/>
+                <span class="color-2">680 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;68.00 GEL</td>
+                <td title="საწერი კალამი">საწერი კალ...</td>
+            </tr><tr id="A29183">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკოჩი დიდი(45მმ/100მმ)პატარა გამჭირვალე პატარა სამაგრით</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:17 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">110 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;440.00 GEL</td>
+                <td title="სკოჩი">სკოჩი...</td>
+            </tr><tr id="A29191">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ორგანაიზერი,11საგნით,დიდი,ბზრიალა</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:25 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">67 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;268.00 GEL</td>
+                <td title="ორგანაიზერი">ორგანაიზერ...</td>
+            </tr><tr id="A29173">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო წებო ტხევადი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:08 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">93 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;27.90 GEL</td>
+                <td title="საკანცელარიო წებო">საკანცელარ...</td>
+            </tr><tr id="A29239">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საქართველოს გერბი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 20:07 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">20.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title="საქართველოს გერბი">საქართველო...</td>
+            </tr><tr id="A29241">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მაგიდის ალამი ევრო-საქართველო</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 20:09 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">19 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;57.00 GEL</td>
+                <td title="მაგიდის ალამი">მაგიდის ალ...</td>
+            </tr><tr id="A29177">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო ძაფი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:11 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">13 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;52.00 GEL</td>
+                <td title="საკანცელარიო ძაფი">საკანცელარ...</td>
+            </tr><tr id="A29245">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ასაკინძი ზამბარები პლასტმასის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 20:14 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">20.00 GEL<br/>
+                <span class="color-2">4 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.00 GEL</td>
+                <td title="ასაკინძი ზამბარები">ასაკინძი ზ...</td>
+            </tr><tr id="A29229">
+                <td>
+                    &nbsp;
+                    <span title="30199000 - ქაღალდის საკანცელარიო ნივთები">30199000 - ქაღალდის საკანცელარიო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მანეჯერის დაფა</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:55 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">2.50 GEL<br/>
+                <span class="color-2">9 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;22.50 GEL</td>
+                <td title="მენეჯერის დაფა">მენეჯერის ...</td>
+            </tr><tr id="A29223">
+                <td>
+                    &nbsp;
+                    <span title="30199000 - ქაღალდის საკანცელარიო ნივთები">30199000 - ქაღალდის საკანცელარიო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფაქსის ქაღალდი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:50 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">6 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title="ფაქსის ქაღალდი">ფაქსის ქაღ...</td>
+            </tr><tr id="A29137">
+                <td>
+                    &nbsp;
+                    <span title="30193000 - ორგანაიზერები და აქსესუარები">30193000 - ორგანაიზერები და აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კლიფსი სხვადასხვა ზომის:მეტალის  25მმ,41მმ,51მმ,19მმ</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:23 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">433 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;86.60 GEL</td>
+                <td title="კლიფსი">კლიფსი...</td>
+            </tr><tr id="A29179">
+                <td>
+                    &nbsp;
+                    <span title="30192111 - სამელნე ბალიშები ბეჭდებისა და შტამპებისთვის ">30192111 - სამელნე ბალიშები ბეჭდებისა და შტამპებისთვის ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბეჭდის ბალიში</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:12 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title="ბეჭდის ბალიში">ბეჭდის ბალ...</td>
+            </tr><tr id="A29201">
+                <td>
+                    &nbsp;
+                    <span title="30195921 - საშლელები მაგნიტური დაფებისთვის">30195921 - საშლელები მაგნიტური დაფებისთვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მაგნიტური დაფის საწმენდი ქეჩით</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:37 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">1.20 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.00 GEL</td>
+                <td title="მაგნიტური დაფის საწმენდი">მაგნიტური ...</td>
+            </tr><tr id="A29203">
+                <td>
+                    &nbsp;
+                    <span title="30195921 - საშლელები მაგნიტური დაფებისთვის">30195921 - საშლელები მაგნიტური დაფებისთვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მაგნიტური დაფის მარკერი სხვადასხვა ფერის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:38 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.45 GEL<br/>
+                <span class="color-2">80 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;36.00 GEL</td>
+                <td title="მაგნიტური დაფის მარკერი">მაგნიტური ...</td>
+            </tr><tr id="A29225">
+                <td>
+                    &nbsp;
+                    <span title="30125110 - ტონერი ლაზერული პრინტერებისთვის/ფაქსის აპარატებისთვის">30125110 - ტონერი ლაზერული პრინტერებისთვის/ფაქსის აპარატებისთვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კარტრიჯის ტონერი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:52 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;160.00 GEL</td>
+                <td title="კარტრიჯის ტონერი">კარტრიჯის ...</td>
+            </tr><tr id="A29207">
+                <td>
+                    &nbsp;
+                    <span title="30197620 - საწერი ქაღალდი">30197620 - საწერი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ქსეროქსის ქაღალდი A 4 უმაღლესი ხარისხის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:42 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">5.80 GEL<br/>
+                <span class="color-2">670 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;3`886.00 GEL</td>
+                <td title="საწერი ქაღალდი">საწერი ქაღ...</td>
+            </tr><tr id="A29209">
+                <td>
+                    &nbsp;
+                    <span title="30197620 - საწერი ქაღალდი">30197620 - საწერი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ქსეროქსის ქაღალდი A 3</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:44 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">30 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;450.00 GEL</td>
+                <td title="საწერი ქაღალდი">საწერი ქაღ...</td>
+            </tr><tr id="A29211">
+                <td>
+                    &nbsp;
+                    <span title="30197620 - საწერი ქაღალდი">30197620 - საწერი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ცარცის ქაღალდი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:45 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">42 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;210.00 GEL</td>
+                <td title="საწერი ქაღალდი">საწერი ქაღ...</td>
+            </tr><tr id="A29217">
+                <td>
+                    &nbsp;
+                    <span title="30197620 - საწერი ქაღალდი">30197620 - საწერი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;რუხი ქაღალდი A 4</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:47 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">65 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;97.50 GEL</td>
+                <td title="საწერი ქაღალდი">საწერი ქაღ...</td>
+            </tr><tr id="A29221">
+                <td>
+                    &nbsp;
+                    <span title="30197620 - საწერი ქაღალდი">30197620 - საწერი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფერადი ქაღალდები სხვადასხვა ფერის A 4</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:49 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">57 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;171.00 GEL</td>
+                <td title="საწერი ქაღალდი">საწერი ქაღ...</td>
+            </tr><tr id="A29205">
+                <td>
+                    &nbsp;
+                    <span title="30199230 - კონვერტები">30199230 - კონვერტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კონვერტები მოსაწვევთან ერთად</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:40 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">1.70 GEL<br/>
+                <span class="color-2">370 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;629.00 GEL</td>
+                <td title="კონვერტები">კონვერტები...</td>
+            </tr><tr id="A29123">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ქაღალდის სკრეპი მეთალის პატარა  ზომის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:08 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">120 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;36.00 GEL</td>
+                <td title="ქაღალდის სკრეპი">ქაღალდის ს...</td>
+            </tr><tr id="A29121">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მეტალის დიდი ზომის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:06 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">66 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;52.80 GEL</td>
+                <td title="ქაღალდის სკრეპი">ქაღალდის ს...</td>
+            </tr><tr id="A27264">
+                <td>
+                    &nbsp;
+                    <span title="30191100 - დასაარქივებელი მოწყობილობები ">30191100 - დასაარქივებელი მოწყობილობები ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>არ არის მითითებული</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ქაღალდის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2014 10:35 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">385 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;96.25 GEL</td>
+                <td title="სწრაფჩამკერი">სწრაფჩამკე...</td>
+            </tr><tr id="A27268">
+                <td>
+                    &nbsp;
+                    <span title="30191100 - დასაარქივებელი მოწყობილობები ">30191100 - დასაარქივებელი მოწყობილობები ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>არ არის მითითებული</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ცელოფნის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2014 10:36 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">310 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;77.50 GEL</td>
+                <td title="სწრაფჩამკერი">სწრაფჩამკე...</td>
+            </tr><tr id="A27280">
+                <td>
+                    &nbsp;
+                    <span title="30191100 - დასაარქივებელი მოწყობილობები ">30191100 - დასაარქივებელი მოწყობილობები ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>არ არის მითითებული</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;პლასმასის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2014 10:43 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">1.30 GEL<br/>
+                <span class="color-2">135 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;175.50 GEL</td>
+                <td title="სწრაფჩამკერი">სწრაფჩამკე...</td>
+            </tr><tr id="A29131">
+                <td>
+                    &nbsp;
+                    <span title="30197100 - სტეპლერები, ჭიკარტები, საკანცელარიო სარჭები">30197100 - სტეპლერები, ჭიკარტები, საკანცელარიო სარჭები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერი პატარა #10</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:14 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">43 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;64.50 GEL</td>
+                <td title="სტეპლერი">სტეპლერი...</td>
+            </tr><tr id="A29133">
+                <td>
+                    &nbsp;
+                    <span title="30197100 - სტეპლერები, ჭიკარტები, საკანცელარიო სარჭები">30197100 - სტეპლერები, ჭიკარტები, საკანცელარიო სარჭები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერი,საშუალო მეტალის მექანიზმი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:16 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">44 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;88.00 GEL</td>
+                <td title="სტეპლერი">სტეპლერი...</td>
+            </tr><tr id="A29169">
+                <td>
+                    &nbsp;
+                    <span title="30197300 - კონვერტის გასახსნელი დანები, სტეპლერები და სახვრეტელები">30197300 - კონვერტის გასახსნელი დანები, სტეპლერები და სახვრეტელები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო დანა დიდი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:06 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.35 GEL<br/>
+                <span class="color-2">74 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;25.90 GEL</td>
+                <td title="საკანცელარიო დანა">საკანცელარ...</td>
+            </tr><tr id="A29237">
+                <td>
+                    &nbsp;
+                    <span title="30141000 - გამომთვლელი მანქანები/კალკულატორები">30141000 - გამომთვლელი მანქანები/კალკულატორები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამომთვლელი მანქანა მაგიდის, 35 ღილაკიანი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 20:04 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">58 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;580.00 GEL</td>
+                <td title="გამომთვლელი მანქანა">გამომთვლელ...</td>
+            </tr><tr id="A29111">
+                <td>
+                    &nbsp;
+                    <span title="30191000 - საოფისე მოწყობილობები, ავეჯის გარდა">30191000 - საოფისე მოწყობილობები, ავეჯის გარდა...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მარკერი დისკზე საწერი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:00 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">104 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;41.60 GEL</td>
+                <td title="მარკერი">მარკერი...</td>
+            </tr><tr id="A29113">
+                <td>
+                    &nbsp;
+                    <span title="30191000 - საოფისე მოწყობილობები, ავეჯის გარდა">30191000 - საოფისე მოწყობილობები, ავეჯის გარდა...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტექსტმარკერი სხვადასხვა ფერის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:02 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">116 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.40 GEL</td>
+                <td title="ტექსტმაეკრი">ტექსტმაეკრ...</td>
+            </tr><tr id="A29125">
+                <td>
+                    &nbsp;
+                    <span title="30197000 - მცირე საოფისე მოწყობილობები">30197000 - მცირე საოფისე მოწყობილობები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერის ტყვია საშუალო ზომის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:10 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">153 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;45.90 GEL</td>
+                <td title="სტეპლერის ტყვია">სტეპლერის ...</td>
+            </tr><tr id="A29127">
+                <td>
+                    &nbsp;
+                    <span title="30197000 - მცირე საოფისე მოწყობილობები">30197000 - მცირე საოფისე მოწყობილობები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერის ტყვია #10 პატარა</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:11 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">135 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;27.00 GEL</td>
+                <td title="სტეპლერის ტყვია">სტეპლერის ...</td>
+            </tr><tr id="A29227">
+                <td>
+                    &nbsp;
+                    <span title="30193200 - სამაგიდე თაროები ან ორგანაიზერები">30193200 - სამაგიდე თაროები ან ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მაგიდაზე დასადები თარო ლითონის სამ სართულიანი ბადე</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:54 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">9.00 GEL<br/>
+                <span class="color-2">16 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;144.00 GEL</td>
+                <td title="საკანცელარიო ჯამი">საკანცელარ...</td>
+            </tr><tr id="A29247">
+                <td>
+                    &nbsp;
+                    <span title="30193200 - სამაგიდე თაროები ან ორგანაიზერები">30193200 - სამაგიდე თაროები ან ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ორგანაიზერი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 20:15 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">60.00 GEL<br/>
+                <span class="color-2">7 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;420.00 GEL</td>
+                <td title="ორგანაიზერი">ორგანაიზერ...</td>
+            </tr><tr id="A29197">
+                <td>
+                    &nbsp;
+                    <span title="30197321 - ანტისტეპლერები">30197321 - ანტისტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ანტისტეპლერი #10 სტეპლერის ტყვიისათვის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:33 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">24 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;19.20 GEL</td>
+                <td title="ანტისტეპლერი">ანტისტეპლე...</td>
+            </tr><tr id="A29195">
+                <td>
+                    &nbsp;
+                    <span title="30197321 - ანტისტეპლერები">30197321 - ანტისტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ანტისტეპლერი 24/6 სტეპლერის ტყვიისათვის</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 19:32 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">29 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;23.20 GEL</td>
+                <td title="ანტისტეპლერი">ანტისტეპლე...</td>
+            </tr><tr id="A29117">
+                <td>
+                    &nbsp;
+                    <span title="30192126 - ტექნიკური კალმები">30192126 - ტექნიკური კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კორექტორი კალამი 7მმ</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:05 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">128 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;64.00 GEL</td>
+                <td title="კორექტორი">კორექტორი...</td>
+            </tr><tr id="A29115">
+                <td>
+                    &nbsp;
+                    <span title="30192126 - ტექნიკური კალმები">30192126 - ტექნიკური კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კორექტორი ფუნჯიანი</span><br/>
+                    <div style="text-align:right" class="date">06.03.2014 18:03 :: ალექსანდრე კაჭარავა</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">109 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.50 GEL</td>
+                <td title="კორექტორი">კორექტორი...</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'106732'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg20" style="font-weight:bold">შესრულებული ხელშეკრულება</span><br/>
+			<span class="date">ალექსანდრე კაჭარავა :: 23.01.2015</span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(37158)"><img src="images/profile24.png"></a> <strong>შპს მაიპისი</strong><br/>
+				
+					ნომერი/თანხა: N8 / <span class="convertme" id="11000-GEL-05.03.2014 10:15">11000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 25.02.2014 - 31.01.2015<br/>
+					<span class="date">05.03.2014 10:15</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=88473"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="106732">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="106732">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="106732">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="730930.1396628382.106732">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=730930&code=1396628382">
+SPA140004088_ანგარიშსწორების დოკუმენტაცია_maipisi.PDF
+</a>
+</td>
+<td class="date">04.04.2014 16:19 :: ალექსანდრე კაჭარავა</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="735405.1397128718.106732">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=735405&code=1397128718">
+SPA140004088_ანგარისშწორების დოკუმენტაცია_maipisi.PDF
+</a>
+</td>
+<td class="date">10.04.2014 11:18 :: ალექსანდრე კაჭარავა</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="945167.1415629119.106732">
+<td>3.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=945167&code=1415629119">
+SPA140004088_ანგარიშსწორების დოკუმენტაცია_maipisi #8.PDF
+</a>
+</td>
+<td class="date">10.11.2014 14:18 :: ალექსანდრე კაჭარავა</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1014165.1420725341.106732">
+<td>4.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1014165&code=1420725341">
+SPA140004088_ანგარიშსწორების დოკუმენტაცია_maipisi #8.PDF
+</a>
+</td>
+<td class="date">08.01.2015 13:55 :: ალექსანდრე კაჭარავა</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 11`000.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 9`342.00 ლარი  (85%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>990.40 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>26.12.2014&nbsp;
+
+</td>
+<td class="date">08.01.2015<br>ალექსანდრე კაჭარავა</td>
+</tr><tr class="activebid1">
+<td>170.00 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>30.10.2014&nbsp;
+
+</td>
+<td class="date">10.11.2014<br>ალექსანდრე კაჭარავა</td>
+</tr><tr class="activebid1">
+<td>4`434.90 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2</td>
+<td>03.04.2014&nbsp;
+
+</td>
+<td class="date">10.04.2014<br>ალექსანდრე კაჭარავა</td>
+</tr><tr class="activebid1">
+<td>3`746.70 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>1</td>
+<td>26.03.2014&nbsp;
+
+</td>
+<td class="date">04.04.2014<br>ალექსანდრე კაჭარავა</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'106732'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

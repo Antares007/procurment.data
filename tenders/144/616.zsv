@@ -1,0 +1,4866 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA150009093</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv144616" /><label for="fv144616"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat20.png"> წინადადებების მიღება დაწყებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1762)"><img src="images/profile24_0.png"> სს &quot;საქართველოს ნავთობისა და გაზის კორპორაცია&quot;</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>20.03.2015 20:00</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>10.04.2015 00:03</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>15.04.2015 15:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2015 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="2953508-GEL-20.03.2015 20:00">2`953`508.00 GEL</span> </td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გარეშე</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;45200000 - მთლიანი ან ნაწილობრივი სამშენებლო სამუშაოები და სამოქალაქო მშენებლობის სამუშაოები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;45231220 - გაზსადენების მშენებლობა
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">Tender type: Electronic Tender;<br />
+Estimated value of procurement: 2 953 508.00 GEL;<br />
+Bid should be submitted Excluding VAT;<br />
+Procuring category: 45200000-Works for complete or part construction and civil engineering work;<br />
+CPV codes: 45231220 – Construction work for gas pipelines;<br />
+Amount or Volume of Procurements: Please see attached bidding documentation;<br />
+Supply Period: The Contractor shall complete the works no later than 7 months from the signing of the contract;<br />
+Bid reduction step: 29`535.00 GEL;<br />
+Guarantee amount: 29`535.00  GEL;<br />
+Guarantee validity period 160 Day<br />
+</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან 7 თვე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>29`535.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>29`535 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=144616&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="144616">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: გიორგი ჩიღვინაძე :: 20.03.2015 15:55</li>
+	<li style="text-align:right">ბოლო შესწორება: გიორგი ჩიღვინაძე :: 20.03.2015 19:57</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:144616, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+<button id="newclaim" class="btn_davebi ui-state-error" type="button">გასაჩივრება</button>
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '144616'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+<a href="http://procurement.gov.ge/dispute/?act=1&amp;hash=N4N9VUY6" target="blank"><img src="images/thebutton_ge.png" /></a>
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="1105638.1426867221.144616">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105638&code=1426867221">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105638&code=1426867221">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.1. განმარტებითი ბარათი (GOKA13-GE07-PU-BID-00002) -  GOKA13-GE07-GE-SOW-00001-GEO-A01_GOKA13-GE07-GE-SOW-00001-GEO-A01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:00<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105647.1426867346.144616">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105647&code=1426867346">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105647&code=1426867346">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.2. (GOKA13-GE07-PU-BID-00003) - GOGC001-GA00-GE-PRO-00001_A01 Document and Data Control Procedure_GEO_GOGC001-GA00-GE-PRO-00001_A01 Document and Data Control Procedure_GEO.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:02<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105655.1426867421.144616">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105655&code=1426867421">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105655&code=1426867421">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.3. (GOKA13-GE07-PU-BID-00004) - GOGC001-GA00-QC-SPE-00001_A01 Specification for QA-QC Inspection_GEO_GOGC001-GA00-QC-SPE-00001_A01 Specification for QA-QC Inspection_GEO.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:03<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105660.1426867508.144616">
+					<td><span class="opgear">4.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105660&code=1426867508">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105660&code=1426867508">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.4. (GOKA13-GE07-PU-BID-00005) - GOGC-GA-HS-PLN- A HS Management Plan_GEO_GOGC-GA-HS-PLN- A HS Management Plan_GEO.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:05<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105663.1426867539.144616">
+					<td><span class="opgear">5.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105663&code=1426867539">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105663&code=1426867539">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.4. (GOKA13-GE07-PU-BID-00005) - GOGC-GA-HS-PRO- A Personal Protective Equipment_GEO_GOGC-GA-HS-PRO- A Personal Protective Equipment_GEO.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:05<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105666.1426867562.144616">
+					<td><span class="opgear">6.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105666&code=1426867562">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105666&code=1426867562">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.4. (GOKA13-GE07-PU-BID-00005) - GOKA13-GW007-HS-PLN - A Emergency Response Plan_GEO_GOKA13-GW007-HS-PLN - A Emergency Response Plan_GEO.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:06<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105672.1426867688.144616">
+					<td><span class="opgear">7.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105672&code=1426867688">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105672&code=1426867688">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.5.(GOKA13-GE07-PU-BID-00006)-GOKA13-GE07-ES-PLN-00001-GEO-A01_Site-Specific_Environmental_Management_Plan_GOKA13-GE07-ES-PLN-00001-GEO-A01_Site-Specific_Environmental_Management_Plan.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:08<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105674.1426867727.144616">
+					<td><span class="opgear">8.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105674&code=1426867727">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105674&code=1426867727">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.5. (GOKA13-GE07-PU-BID-00006) - GOKA13-GE07-ES-PLN-00003-GEO-A01_Environmental_Emergency_Response_Plan_GOKA13-GE07-ES-PLN-00003-GEO-A01_Environmental_Emergency_Response_Plan.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:08<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105676.1426867764.144616">
+					<td><span class="opgear">9.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105676&code=1426867764">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105676&code=1426867764">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.5. (GOKA13-GE07-PU-BID-00006) - GOKA13-GE07-ES-PLN-00004-GEO-A01_Waste_Management_Plan_GOKA13-GE07-ES-PLN-00004-GEO-A01_Waste_Management_Plan.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:09<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105688.1426867948.144616">
+					<td><span class="opgear">10.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105688&code=1426867948">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105688&code=1426867948">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00007_C04.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:12<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105690.1426867957.144616">
+					<td><span class="opgear">11.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105690&code=1426867957">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105690&code=1426867957">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00008_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:12<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105691.1426867963.144616">
+					<td><span class="opgear">12.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105691&code=1426867963">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105691&code=1426867963">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00009_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:12<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105692.1426867972.144616">
+					<td><span class="opgear">13.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105692&code=1426867972">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105692&code=1426867972">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00010_C04.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:12<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105693.1426867980.144616">
+					<td><span class="opgear">14.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105693&code=1426867980">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105693&code=1426867980">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00011_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:13<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105697.1426868058.144616">
+					<td><span class="opgear">15.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105697&code=1426868058">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105697&code=1426868058">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00012_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:14<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105700.1426868067.144616">
+					<td><span class="opgear">16.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105700&code=1426868067">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105700&code=1426868067">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00013_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:14<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105702.1426868076.144616">
+					<td><span class="opgear">17.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105702&code=1426868076">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105702&code=1426868076">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00014_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:14<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105704.1426868095.144616">
+					<td><span class="opgear">18.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105704&code=1426868095">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105704&code=1426868095">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00015_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:14<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105705.1426868101.144616">
+					<td><span class="opgear">19.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105705&code=1426868101">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105705&code=1426868101">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00016_C06.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:15<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105706.1426868108.144616">
+					<td><span class="opgear">20.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105706&code=1426868108">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105706&code=1426868108">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00017_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:15<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105708.1426868114.144616">
+					<td><span class="opgear">21.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105708&code=1426868114">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105708&code=1426868114">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00018_C04.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:15<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105709.1426868121.144616">
+					<td><span class="opgear">22.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105709&code=1426868121">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105709&code=1426868121">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00019_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:15<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105710.1426868126.144616">
+					<td><span class="opgear">23.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105710&code=1426868126">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105710&code=1426868126">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - ALS _GOKA25-GW07-PL-ALS-00020_C06.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:15<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105719.1426868199.144616">
+					<td><span class="opgear">24.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105719&code=1426868199">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105719&code=1426868199">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA25-GW07-PL-CPR-00001_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:16<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105721.1426868217.144616">
+					<td><span class="opgear">25.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105721&code=1426868217">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105721&code=1426868217">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA25-GW07-PL-CPR-00003_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:16<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105722.1426868224.144616">
+					<td><span class="opgear">26.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105722&code=1426868224">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105722&code=1426868224">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA25-GW07-PL-CPR-00006_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:17<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105724.1426868245.144616">
+					<td><span class="opgear">27.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105724&code=1426868245">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105724&code=1426868245">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00002_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:17<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105725.1426868253.144616">
+					<td><span class="opgear">28.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105725&code=1426868253">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105725&code=1426868253">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00003_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:17<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105727.1426868259.144616">
+					<td><span class="opgear">29.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105727&code=1426868259">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105727&code=1426868259">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00004_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:17<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105729.1426868264.144616">
+					<td><span class="opgear">30.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105729&code=1426868264">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105729&code=1426868264">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00005_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:17<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105731.1426868270.144616">
+					<td><span class="opgear">31.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105731&code=1426868270">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105731&code=1426868270">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00006_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:17<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105733.1426868287.144616">
+					<td><span class="opgear">32.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105733&code=1426868287">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105733&code=1426868287">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00007_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105734.1426868292.144616">
+					<td><span class="opgear">33.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105734&code=1426868292">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105734&code=1426868292">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00008_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105736.1426868298.144616">
+					<td><span class="opgear">34.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105736&code=1426868298">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105736&code=1426868298">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00009_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105738.1426868304.144616">
+					<td><span class="opgear">35.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105738&code=1426868304">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105738&code=1426868304">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00010_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105740.1426868310.144616">
+					<td><span class="opgear">36.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105740&code=1426868310">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105740&code=1426868310">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00011_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105741.1426868315.144616">
+					<td><span class="opgear">37.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105741&code=1426868315">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105741&code=1426868315">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00012_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105744.1426868320.144616">
+					<td><span class="opgear">38.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105744&code=1426868320">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105744&code=1426868320">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00013_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105745.1426868325.144616">
+					<td><span class="opgear">39.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105745&code=1426868325">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105745&code=1426868325">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00014_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105746.1426868330.144616">
+					<td><span class="opgear">40.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105746&code=1426868330">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105746&code=1426868330">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00015_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105748.1426868334.144616">
+					<td><span class="opgear">41.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105748&code=1426868334">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105748&code=1426868334">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00016_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105749.1426868339.144616">
+					<td><span class="opgear">42.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105749&code=1426868339">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105749&code=1426868339">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00017_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:18<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105750.1426868345.144616">
+					<td><span class="opgear">43.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105750&code=1426868345">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105750&code=1426868345">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00018_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:19<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105751.1426868351.144616">
+					<td><span class="opgear">44.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105751&code=1426868351">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105751&code=1426868351">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00019_C02_1(2).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:19<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105752.1426868357.144616">
+					<td><span class="opgear">45.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105752&code=1426868357">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105752&code=1426868357">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CPR_GOKA-GW07-PL-CPR-00019_C02_2(2).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:19<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105757.1426868401.144616">
+					<td><span class="opgear">46.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105757&code=1426868401">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105757&code=1426868401">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00003_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105761.1426868408.144616">
+					<td><span class="opgear">47.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105761&code=1426868408">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105761&code=1426868408">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00004_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105762.1426868413.144616">
+					<td><span class="opgear">48.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105762&code=1426868413">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105762&code=1426868413">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00005_C05.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105764.1426868420.144616">
+					<td><span class="opgear">49.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105764&code=1426868420">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105764&code=1426868420">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00006_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105765.1426868427.144616">
+					<td><span class="opgear">50.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105765&code=1426868427">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105765&code=1426868427">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00007_C05.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105766.1426868433.144616">
+					<td><span class="opgear">51.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105766&code=1426868433">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105766&code=1426868433">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00008_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105767.1426868439.144616">
+					<td><span class="opgear">52.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105767&code=1426868439">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105767&code=1426868439">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00009_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105769.1426868445.144616">
+					<td><span class="opgear">53.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105769&code=1426868445">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105769&code=1426868445">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00010_C05.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105770.1426868452.144616">
+					<td><span class="opgear">54.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105770&code=1426868452">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105770&code=1426868452">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - CRD_GOKA25-GW07-PL-CRD-00011_C05.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:20<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105862.1426869395.144616">
+					<td><span class="opgear">55.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105862&code=1426869395">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105862&code=1426869395">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA25-GW07-PL-DTL-00001_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:36<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105864.1426869400.144616">
+					<td><span class="opgear">56.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105864&code=1426869400">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105864&code=1426869400">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00001_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:36<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105873.1426869440.144616">
+					<td><span class="opgear">57.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105873&code=1426869440">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105873&code=1426869440">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00002_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:37<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105874.1426869448.144616">
+					<td><span class="opgear">58.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105874&code=1426869448">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105874&code=1426869448">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00003_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:37<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105876.1426869456.144616">
+					<td><span class="opgear">59.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105876&code=1426869456">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105876&code=1426869456">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00004_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:37<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105878.1426869462.144616">
+					<td><span class="opgear">60.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105878&code=1426869462">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105878&code=1426869462">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00013_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:37<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105879.1426869468.144616">
+					<td><span class="opgear">61.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105879&code=1426869468">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105879&code=1426869468">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00014_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:37<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105880.1426869473.144616">
+					<td><span class="opgear">62.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105880&code=1426869473">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105880&code=1426869473">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00015_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:37<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105881.1426869479.144616">
+					<td><span class="opgear">63.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105881&code=1426869479">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105881&code=1426869479">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00016_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:37<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105882.1426869486.144616">
+					<td><span class="opgear">64.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105882&code=1426869486">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105882&code=1426869486">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00020_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:38<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105883.1426869492.144616">
+					<td><span class="opgear">65.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105883&code=1426869492">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105883&code=1426869492">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00026_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:38<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105884.1426869498.144616">
+					<td><span class="opgear">66.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105884&code=1426869498">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105884&code=1426869498">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00027_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:38<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105885.1426869504.144616">
+					<td><span class="opgear">67.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105885&code=1426869504">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105885&code=1426869504">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00028_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:38<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105886.1426869509.144616">
+					<td><span class="opgear">68.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105886&code=1426869509">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105886&code=1426869509">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00029_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:38<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105887.1426869515.144616">
+					<td><span class="opgear">69.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105887&code=1426869515">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105887&code=1426869515">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00031_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:38<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105888.1426869520.144616">
+					<td><span class="opgear">70.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105888&code=1426869520">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105888&code=1426869520">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00032_C01_1(2).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:38<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105889.1426869525.144616">
+					<td><span class="opgear">71.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105889&code=1426869525">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105889&code=1426869525">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - DTL_GOKA-GW07-PL-DTL-00032_C01_2(2).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:38<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105893.1426869561.144616">
+					<td><span class="opgear">72.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105893&code=1426869561">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105893&code=1426869561">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00001-C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:39<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105894.1426869572.144616">
+					<td><span class="opgear">73.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105894&code=1426869572">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105894&code=1426869572">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00002-C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:39<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105899.1426869620.144616">
+					<td><span class="opgear">74.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105899&code=1426869620">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105899&code=1426869620">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00003_1(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:40<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105901.1426869626.144616">
+					<td><span class="opgear">75.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105901&code=1426869626">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105901&code=1426869626">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00003_2(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:40<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105902.1426869631.144616">
+					<td><span class="opgear">76.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105902&code=1426869631">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105902&code=1426869631">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00003_3(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:40<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105903.1426869636.144616">
+					<td><span class="opgear">77.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105903&code=1426869636">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105903&code=1426869636">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00003_4(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:40<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105904.1426869641.144616">
+					<td><span class="opgear">78.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105904&code=1426869641">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105904&code=1426869641">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00003_5(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:40<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105906.1426869646.144616">
+					<td><span class="opgear">79.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105906&code=1426869646">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105906&code=1426869646">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00003_6(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:40<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105909.1426869651.144616">
+					<td><span class="opgear">80.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105909&code=1426869651">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105909&code=1426869651">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00003_7(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:40<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105911.1426869656.144616">
+					<td><span class="opgear">81.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105911&code=1426869656">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105911&code=1426869656">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - GIS_GOKA25-GW07-PL-GIS-00003_8(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:40<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105913.1426869687.144616">
+					<td><span class="opgear">82.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105913&code=1426869687">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105913&code=1426869687">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - SCM_GOKA-GW07-PL-SCM-00001_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:41<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105914.1426869692.144616">
+					<td><span class="opgear">83.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105914&code=1426869692">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105914&code=1426869692">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - SCM_GOKA-GW07-PL-SCM-00002_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:41<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105915.1426869698.144616">
+					<td><span class="opgear">84.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105915&code=1426869698">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105915&code=1426869698">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - SCM_GOKA-GW07-PL-SCM-00003_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:41<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105917.1426869704.144616">
+					<td><span class="opgear">85.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105917&code=1426869704">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105917&code=1426869704">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - SCM_GOKA-GW07-PL-SCM-00004_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:41<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105924.1426869750.144616">
+					<td><span class="opgear">86.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105924&code=1426869750">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105924&code=1426869750">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00001_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:42<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105925.1426869755.144616">
+					<td><span class="opgear">87.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105925&code=1426869755">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105925&code=1426869755">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00002_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:42<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105926.1426869761.144616">
+					<td><span class="opgear">88.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105926&code=1426869761">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105926&code=1426869761">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00003_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:42<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105928.1426869767.144616">
+					<td><span class="opgear">89.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105928&code=1426869767">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105928&code=1426869767">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00004_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:42<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105929.1426869771.144616">
+					<td><span class="opgear">90.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105929&code=1426869771">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105929&code=1426869771">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00005_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:42<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105930.1426869777.144616">
+					<td><span class="opgear">91.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105930&code=1426869777">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105930&code=1426869777">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00006_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:42<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105931.1426869785.144616">
+					<td><span class="opgear">92.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105931&code=1426869785">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105931&code=1426869785">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00007_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:43<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105932.1426869789.144616">
+					<td><span class="opgear">93.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105932&code=1426869789">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105932&code=1426869789">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00008_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:43<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105933.1426869794.144616">
+					<td><span class="opgear">94.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105933&code=1426869794">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105933&code=1426869794">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00009_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:43<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105934.1426869799.144616">
+					<td><span class="opgear">95.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105934&code=1426869799">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105934&code=1426869799">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.1.6. ნახაზები (GOKA13-GE07-PU-BID-00007) - STD_GOKA-GW07-PL-STD-00010_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:43<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105978.1426870101.144616">
+					<td><span class="opgear">96.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105978&code=1426870101">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105978&code=1426870101">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.1. – Scope Of Work (GOKA13-GE07-PU-BID-00002) _GOKA13-GE07-CM-SOW-00001-ENG-A01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:48<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105984.1426870157.144616">
+					<td><span class="opgear">97.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105984&code=1426870157">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105984&code=1426870157">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.2. – Document and Data Control (GOKA13-GE07-PU-BID-00003) _GOGC001-GA00-GE-PRO-00001_A01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:49<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105990.1426870200.144616">
+					<td><span class="opgear">98.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105990&code=1426870200">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105990&code=1426870200">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.3. - QA/QC  (GOKA13-GE07-PU-BID-00004) _GOGC001-GA00-QC-SPE-00001-A01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:50<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105997.1426870229.144616">
+					<td><span class="opgear">99.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105997&code=1426870229">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105997&code=1426870229">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.4. – Health &amp; Safety - (GOKA13-GE07-PU-BID-00005)_GOGC-GA-HS-PLN.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:50<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1105999.1426870235.144616">
+					<td><span class="opgear">100.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1105999&code=1426870235">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1105999&code=1426870235">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.4. – Health &amp; Safety - (GOKA13-GE07-PU-BID-00005)_GOGC-GA-HS-PRO.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:50<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106000.1426870241.144616">
+					<td><span class="opgear">101.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106000&code=1426870241">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106000&code=1426870241">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.4. – Health &amp; Safety - (GOKA13-GE07-PU-BID-00005)_GOKA13-GE07-HS-PLN.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:50<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106007.1426870303.144616">
+					<td><span class="opgear">102.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106007&code=1426870303">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106007&code=1426870303">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.5. – Environment &amp; Social (GOKA13-GE07-PU-BID-00006)_GOKA13-GE07-ES-PLN-00001-ENG-A01_Site-Specific_Environmental_Management_Plan.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:51<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106008.1426870310.144616">
+					<td><span class="opgear">103.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106008&code=1426870310">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106008&code=1426870310">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.5. – Environment &amp; Social (GOKA13-GE07-PU-BID-00006)_GOKA13-GE07-ES-PLN-00003-ENG-A01_Environmental_Emergency_Response_Plan.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:51<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106009.1426870319.144616">
+					<td><span class="opgear">104.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106009&code=1426870319">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106009&code=1426870319">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.5. – Environment &amp; Social (GOKA13-GE07-PU-BID-00006)_GOKA13-GE07-ES-PLN-00004-ENG-A01_Waste_Management_Plan.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:51<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106025.1426870476.144616">
+					<td><span class="opgear">105.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106025&code=1426870476">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106025&code=1426870476">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00007_C04.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:54<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106032.1426870543.144616">
+					<td><span class="opgear">106.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106032&code=1426870543">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106032&code=1426870543">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00008_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:55<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106034.1426870549.144616">
+					<td><span class="opgear">107.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106034&code=1426870549">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106034&code=1426870549">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00009_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:55<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106035.1426870555.144616">
+					<td><span class="opgear">108.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106035&code=1426870555">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106035&code=1426870555">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00010_C04.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:55<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106036.1426870561.144616">
+					<td><span class="opgear">109.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106036&code=1426870561">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106036&code=1426870561">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00011_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106039.1426870568.144616">
+					<td><span class="opgear">110.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106039&code=1426870568">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106039&code=1426870568">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00012_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106041.1426870574.144616">
+					<td><span class="opgear">111.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106041&code=1426870574">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106041&code=1426870574">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00013_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106045.1426870580.144616">
+					<td><span class="opgear">112.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106045&code=1426870580">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106045&code=1426870580">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00014_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106048.1426870586.144616">
+					<td><span class="opgear">113.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106048&code=1426870586">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106048&code=1426870586">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00015_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106051.1426870593.144616">
+					<td><span class="opgear">114.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106051&code=1426870593">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106051&code=1426870593">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00016_C06.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106053.1426870602.144616">
+					<td><span class="opgear">115.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106053&code=1426870602">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106053&code=1426870602">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00017_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106056.1426870608.144616">
+					<td><span class="opgear">116.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106056&code=1426870608">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106056&code=1426870608">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00018_C04.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106058.1426870615.144616">
+					<td><span class="opgear">117.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106058&code=1426870615">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106058&code=1426870615">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00019_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:56<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106059.1426870621.144616">
+					<td><span class="opgear">118.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106059&code=1426870621">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106059&code=1426870621">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - ALS_GOKA25-GW07-PL-ALS-00020_C06.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:57<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106070.1426870679.144616">
+					<td><span class="opgear">119.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106070&code=1426870679">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106070&code=1426870679">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA25-GW07-PL-CPR-00001_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:57<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106072.1426870687.144616">
+					<td><span class="opgear">120.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106072&code=1426870687">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106072&code=1426870687">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA25-GW07-PL-CPR-00003_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106073.1426870694.144616">
+					<td><span class="opgear">121.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106073&code=1426870694">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106073&code=1426870694">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA25-GW07-PL-CPR-00006_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106076.1426870700.144616">
+					<td><span class="opgear">122.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106076&code=1426870700">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106076&code=1426870700">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00002_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106077.1426870706.144616">
+					<td><span class="opgear">123.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106077&code=1426870706">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106077&code=1426870706">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00003_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106078.1426870711.144616">
+					<td><span class="opgear">124.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106078&code=1426870711">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106078&code=1426870711">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00004_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106079.1426870717.144616">
+					<td><span class="opgear">125.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106079&code=1426870717">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106079&code=1426870717">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00005_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106082.1426870723.144616">
+					<td><span class="opgear">126.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106082&code=1426870723">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106082&code=1426870723">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00006_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106084.1426870731.144616">
+					<td><span class="opgear">127.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106084&code=1426870731">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106084&code=1426870731">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00007_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106085.1426870737.144616">
+					<td><span class="opgear">128.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106085&code=1426870737">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106085&code=1426870737">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00008_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:58<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106088.1426870743.144616">
+					<td><span class="opgear">129.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106088&code=1426870743">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106088&code=1426870743">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00009_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106089.1426870749.144616">
+					<td><span class="opgear">130.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106089&code=1426870749">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106089&code=1426870749">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00010_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106090.1426870755.144616">
+					<td><span class="opgear">131.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106090&code=1426870755">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106090&code=1426870755">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00011_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106091.1426870762.144616">
+					<td><span class="opgear">132.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106091&code=1426870762">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106091&code=1426870762">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00012_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106093.1426870768.144616">
+					<td><span class="opgear">133.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106093&code=1426870768">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106093&code=1426870768">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00013_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106094.1426870773.144616">
+					<td><span class="opgear">134.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106094&code=1426870773">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106094&code=1426870773">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00014_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106096.1426870780.144616">
+					<td><span class="opgear">135.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106096&code=1426870780">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106096&code=1426870780">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00015_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106097.1426870785.144616">
+					<td><span class="opgear">136.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106097&code=1426870785">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106097&code=1426870785">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00016_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106098.1426870791.144616">
+					<td><span class="opgear">137.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106098&code=1426870791">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106098&code=1426870791">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00017_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106099.1426870796.144616">
+					<td><span class="opgear">138.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106099&code=1426870796">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106099&code=1426870796">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00018_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 16:59<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106100.1426870802.144616">
+					<td><span class="opgear">139.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106100&code=1426870802">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106100&code=1426870802">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00019_C02_1(2).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:00<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106101.1426870808.144616">
+					<td><span class="opgear">140.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106101&code=1426870808">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106101&code=1426870808">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CPR_GOKA-GW07-PL-CPR-00019_C02_2(2).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:00<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106109.1426870867.144616">
+					<td><span class="opgear">141.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106109&code=1426870867">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106109&code=1426870867">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00003_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:01<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106111.1426870873.144616">
+					<td><span class="opgear">142.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106111&code=1426870873">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106111&code=1426870873">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00004_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:01<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106113.1426870880.144616">
+					<td><span class="opgear">143.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106113&code=1426870880">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106113&code=1426870880">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00005_C05.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:01<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106114.1426870885.144616">
+					<td><span class="opgear">144.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106114&code=1426870885">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106114&code=1426870885">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00006_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:01<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106115.1426870891.144616">
+					<td><span class="opgear">145.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106115&code=1426870891">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106115&code=1426870891">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00007_C05.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:01<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106123.1426870923.144616">
+					<td><span class="opgear">146.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106123&code=1426870923">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106123&code=1426870923">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00008_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:02<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106124.1426870929.144616">
+					<td><span class="opgear">147.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106124&code=1426870929">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106124&code=1426870929">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00009_C03.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:02<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106125.1426870934.144616">
+					<td><span class="opgear">148.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106125&code=1426870934">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106125&code=1426870934">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00010_C05.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:02<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106127.1426870942.144616">
+					<td><span class="opgear">149.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106127&code=1426870942">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106127&code=1426870942">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - CRD _GOKA25-GW07-PL-CRD-00011_C05.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:02<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106132.1426870997.144616">
+					<td><span class="opgear">150.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106132&code=1426870997">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106132&code=1426870997">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA25-GW07-PL-DTL-00001_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:03<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106135.1426871005.144616">
+					<td><span class="opgear">151.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106135&code=1426871005">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106135&code=1426871005">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00001_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:03<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106138.1426871013.144616">
+					<td><span class="opgear">152.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106138&code=1426871013">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106138&code=1426871013">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00002_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:03<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106140.1426871021.144616">
+					<td><span class="opgear">153.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106140&code=1426871021">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106140&code=1426871021">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00003_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:03<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106143.1426871028.144616">
+					<td><span class="opgear">154.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106143&code=1426871028">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106143&code=1426871028">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00004_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:03<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106146.1426871048.144616">
+					<td><span class="opgear">155.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106146&code=1426871048">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106146&code=1426871048">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00013_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:04<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106147.1426871054.144616">
+					<td><span class="opgear">156.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106147&code=1426871054">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106147&code=1426871054">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00014_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:04<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106148.1426871061.144616">
+					<td><span class="opgear">157.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106148&code=1426871061">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106148&code=1426871061">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00015_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:04<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106149.1426871067.144616">
+					<td><span class="opgear">158.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106149&code=1426871067">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106149&code=1426871067">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00016_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:04<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106150.1426871074.144616">
+					<td><span class="opgear">159.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106150&code=1426871074">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106150&code=1426871074">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00020_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:04<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106152.1426871081.144616">
+					<td><span class="opgear">160.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106152&code=1426871081">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106152&code=1426871081">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00026_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:04<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106153.1426871087.144616">
+					<td><span class="opgear">161.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106153&code=1426871087">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106153&code=1426871087">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00027_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:04<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106156.1426871099.144616">
+					<td><span class="opgear">162.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106156&code=1426871099">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106156&code=1426871099">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00028_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:04<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106159.1426871105.144616">
+					<td><span class="opgear">163.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106159&code=1426871105">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106159&code=1426871105">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00029_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:05<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106160.1426871113.144616">
+					<td><span class="opgear">164.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106160&code=1426871113">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106160&code=1426871113">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00031_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:05<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106161.1426871118.144616">
+					<td><span class="opgear">165.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106161&code=1426871118">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106161&code=1426871118">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00032_C01_1(2).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:05<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106162.1426871126.144616">
+					<td><span class="opgear">166.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106162&code=1426871126">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106162&code=1426871126">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - DTL_GOKA-GW07-PL-DTL-00032_C01_2(2).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:05<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106165.1426871165.144616">
+					<td><span class="opgear">167.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106165&code=1426871165">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106165&code=1426871165">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00001_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:06<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106166.1426871180.144616">
+					<td><span class="opgear">168.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106166&code=1426871180">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106166&code=1426871180">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00002_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:06<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106171.1426871210.144616">
+					<td><span class="opgear">169.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106171&code=1426871210">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106171&code=1426871210">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00003_1(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:06<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106173.1426871216.144616">
+					<td><span class="opgear">170.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106173&code=1426871216">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106173&code=1426871216">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00003_2(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:06<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106174.1426871228.144616">
+					<td><span class="opgear">171.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106174&code=1426871228">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106174&code=1426871228">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00003_3(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:07<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106175.1426871236.144616">
+					<td><span class="opgear">172.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106175&code=1426871236">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106175&code=1426871236">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00003_4(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:07<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106176.1426871242.144616">
+					<td><span class="opgear">173.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106176&code=1426871242">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106176&code=1426871242">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00003_5(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:07<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106177.1426871248.144616">
+					<td><span class="opgear">174.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106177&code=1426871248">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106177&code=1426871248">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00003_6(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:07<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106178.1426871254.144616">
+					<td><span class="opgear">175.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106178&code=1426871254">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106178&code=1426871254">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00003_7(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:07<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106179.1426871260.144616">
+					<td><span class="opgear">176.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106179&code=1426871260">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106179&code=1426871260">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - GIS_GOKA25-GW07-PL-GIS-00003_8(8).pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:07<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106185.1426871304.144616">
+					<td><span class="opgear">177.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106185&code=1426871304">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106185&code=1426871304">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - SCM _GOKA-GW07-PL-SCM-00001_C02.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:08<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106188.1426871310.144616">
+					<td><span class="opgear">178.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106188&code=1426871310">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106188&code=1426871310">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - SCM _GOKA-GW07-PL-SCM-00002_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:08<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106189.1426871316.144616">
+					<td><span class="opgear">179.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106189&code=1426871316">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106189&code=1426871316">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - SCM _GOKA-GW07-PL-SCM-00003_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:08<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106192.1426871323.144616">
+					<td><span class="opgear">180.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106192&code=1426871323">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106192&code=1426871323">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - SCM _GOKA-GW07-PL-SCM-00004_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:08<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106197.1426871356.144616">
+					<td><span class="opgear">181.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106197&code=1426871356">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106197&code=1426871356">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00001_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:09<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106198.1426871363.144616">
+					<td><span class="opgear">182.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106198&code=1426871363">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106198&code=1426871363">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00002_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:09<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106199.1426871370.144616">
+					<td><span class="opgear">183.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106199&code=1426871370">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106199&code=1426871370">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00003_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:09<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106201.1426871376.144616">
+					<td><span class="opgear">184.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106201&code=1426871376">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106201&code=1426871376">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00004_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:09<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106203.1426871382.144616">
+					<td><span class="opgear">185.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106203&code=1426871382">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106203&code=1426871382">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00005_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:09<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106206.1426871390.144616">
+					<td><span class="opgear">186.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106206&code=1426871390">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106206&code=1426871390">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00006_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:09<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106208.1426871396.144616">
+					<td><span class="opgear">187.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106208&code=1426871396">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106208&code=1426871396">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00007_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:09<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106210.1426871402.144616">
+					<td><span class="opgear">188.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106210&code=1426871402">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106210&code=1426871402">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00008_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:10<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106211.1426871411.144616">
+					<td><span class="opgear">189.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106211&code=1426871411">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106211&code=1426871411">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00009_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:10<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106212.1426871418.144616">
+					<td><span class="opgear">190.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106212&code=1426871418">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106212&code=1426871418">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.1.6. – Drawings  (GOKA13-GE07-PU-BID-00007 ) - STD_GOKA-GW07-PL-STD-00010_C01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 17:10<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106746.1426880640.144616">
+					<td><span class="opgear">191.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106746&code=1426880640">
+						
+						<span><img src="images/excel.png"></span>
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106746&code=1426880640">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 2.2 მოცულობათა ცხრილი GOKA13-GE07-CM-BOQ-0001-GEO-A02_GOKA13-GE07-CM-BOQ-0001-GEO-A02.xls
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 19:44<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106749.1426880726.144616">
+					<td><span class="opgear">192.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106749&code=1426880726">
+						
+						<span><img src="images/excel.png"></span>
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106749&code=1426880726">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Annex 2.2 Bill of Quantities GOKA20-GE07-CM-BOQ-0001-ENG-A02_GOKA13-GE07-CM-BOQ-0001-ENG-A02.xls
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 19:45<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106758.1426881238.144616">
+					<td><span class="opgear">193.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106758&code=1426881238">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106758&code=1426881238">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_tender documentation_573 - GOKA13-BID-ENG-A01.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 19:53<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1106759.1426881267.144616">
+					<td><span class="opgear">194.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1106759&code=1426881267">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1106759&code=1426881267">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია_573 - GOKA13-BID-GEO-AO1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">20.03.2015 19:54<br/>გიორგი ჩიღვინაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"><button id="a_144616_-1_0" class="new_question_btn ans" type="button">ახალი კითხვა</button></p>
+		<div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_144616_34858" class="show_reply">გამოხმაურება (1)</button>
+			
+			<button class="new_answer_btn ans" id="a_144616_34858_0" type="button">კომენტარი</button>
+			
+			</p>
+			<p class="author color-1"><span class="date">25.03.2015 17:16</span> მიმწოდებელი1 :: </p>
+			<p class="chatmessgase activebid1">მოგესალმებით. შესაძლებელია თუ არა ტენდერში მონაწილეობა მიიღოს ორმა ან მეტმა კომპანიამ ერთდროულად, გაერთიანებულმა კონსორციუმის ან ამხანაგობის ფორმით ამ ტენდერის მიზნებისათვის.</p>
+			<div style="display: none" id="ANS34858">...</div>
+		</div>
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+<div id="TenderCountdown" class="ui-corner-all">
+<script type="text/javascript">
+
+function highlightLast(periods) { 
+    if ($.countdown.periodsToSeconds(periods) < 60) {
+        $(this).addClass('lastseconds'); 
+    } 
+}
+
+function RefreshBids() {
+    setTimeout(function(){$('#application_tabs').tabs('load', 2);},1000);
+}
+
+$('#TenderCountdown').countdown({until: +279335 ,onExpiry: RefreshBids, onTick:highlightLast, alwaysExpire: false, description:'მიმდინარეობს ძირითადი დრო'}); 
+
+</script>
+</div>
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 2`953`508.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან 7 თვე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">შემოთავაზების გაკეთებამდე გთხოვთ დაეთანხმოთ აფიდატივის პირობებს</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+<div id="affd" class="ui-state-highlight ui-corner-all" style="padding:1em">
+<p align="center"><strong>აფიდავიტი</strong></p><p align="center"><strong>სატენდერო წინადადების დამოუკიდებლად განსაზღვრის თაობაზე</strong></p><p>გამოცხადებულ ტენდერში მონაწილეობის მიღების მიზნით, ვადასტურებ, რომ ჩემს მიერ წარმოდგენილი სატენდერო წინადადება შემუშავებულია კონკურენტისგან დამოუკიდებლად. ასევე ვადასტურებ, რომ:</p><p>* ჩემთვის ცნობილია, რომ სატენდერო წინადადება დისკვალიფიცირებულ იქნება, თუ აღმოჩნდა, რომ აფიდავიტში მოცემული ინფორმაცია არის ყალბი ან/და ცრუ;</p><p>* უფლებამოსილი ვარ პრეტენდენტის მიერ, ხელი მოვაწერო ამ აფიდავიტს და წარვადგინო ეს სატენდერო წინადადება;</p><p>* ნებისმიერ პირი, რომლის ხელმოწერაც დაფიქსირებულია სატენდერო წინადადებაზე, შესაბამისად უფლებამოსილია  პრეტენდენტის მიერ;</p><p>* ჩემთვის ცნობილია რომ ტერმინი „კონკურენტი“ აფიდავიტის მიზნებიდან გამომდინარე, გულისხმობს ნებისმიერ პირს, რომელიც შესაძლებელია იყოს პრეტენდენტი ან/და  წარადგინოს სატენდერო წინადადება ამ ტენდერში;</p><p>* მატერიალური გამორჩენის ან უპირატესობის მიღების მიზნით პრეტენდენტსა და კონკურენტს შორის არ წარმოებულა კონსულტაცია, კომუნიკაცია, შეთანხმება ან მოლაპარაკება შემდეგ საკითხებთან დაკავშირებით:</p><ul><li>სატენდერო წინადადების ფასი;</li><li>სატენდერო წინადადების ფასის გამოთვლის მეთოდი, კოეფიციენტი ან ფორმულა;</li><li>სატენდერო წინადადების წარდგენა ან წარდგენისგან თავის შეკავება; </li><li>ისეთი სატენდერო წინადადების განზრახ წარდგენა, რომელიც არ აკმაყოფილებს გამოცხადებული ტენდერის პირობებს;</li><li>შესყიდვის ობიექტის ხარისხი, მოცულობა, ტექნიკური პირობები ან მიწოდების დეტალები, რომელთაც ეხება სატენდერო წინადადება;</li></ul> <p>* სატენდერო წინადადების პირობები პრეტენდენტს წინასწარი განზრახვით, პირდაპირ ან არაპირდაპირ, არ გაუმჟღავნებია ან/და არ გაუმჟღავნებს კონკურენტს სატენდერო წინადადების განსაჯაროების მომენტამდე.</p>
+
+<p><input type="checkbox" id="confirmaff"> გავეცანი ამ აფიდავიტის შინაარსს და ვადასტურებ წარმოდგენილი ინფორმაციის უტყუარობას.</p>
+<p style="text-align:center;"><button id="aff" type="button">თანხმობა</button></p>
+<div class="hr"><hr></div>
+<p>სახელმწიფო შესყიდვების მიზნებისთვის, აფიდავიტი წარმოადგენს  სატენდერო წინადადების დამოუკიდებლად განსაზღვრის თაობაზე წერილობით დოკუმენტს, რომლის ხელმომწერი, პრეტენდენტის სახელით, ადასტურებს დოკუმენტში მითითებული ინფორმაციისა და გარემოებების უტყუარობას და საქართველოს კანონმდებლობით დადგენილი წესით პასუხს აგებს აღნიშნული ინფორმაციისა და გარემოებების უტყუარობაზე. აფიდავიტით განსაზღვრული პირობების დარღვევა იწვევს სისხლისსამართლებრივ პასუხისმგებლობას საქართველოს სისხლის სამართლის კოდექსის 195<sup>1</sup> მუხლის შესაბამისად.</p>
+
+<script type="text/javascript">
+    //$('#aff').button("disable");
+	$('#aff').button({icons:{primary: "ui-icon-star"}}).button("disable").click(function(){
+		 $.get('engine/controller.php', {action:'accept_aff', app_id:'144616'}, function(){$('#application_tabs').tabs( 'load' , 2 );});})	
+		 
+	$('#confirmaff').click(function() {if($(this).is(':checked')) {$('#aff').button("enable")} else {$('#aff').button("disable")}} );
+</script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	
+</tbody>
+</table>
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'144616'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'144616'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="5" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'144616'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="144616">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="144616">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="144616">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="5" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'144616'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

@@ -1,0 +1,3094 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA150001928</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv137118" /><label for="fv137118"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1704)"><img src="images/profile24_0.png"> ლევან სამხარაულის სახელობის სასამართლო ექსპერტიზის ეროვნული ბიურო</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>21.01.2015 23:34</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td><span class='subject_name'>07.02.2015 00:08</span></td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>12.02.2015 13:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2015 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="29500-GEL-21.01.2015 23:34">29`500.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">იხილეთ თანდართული დოკუმენტაცია</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ თანდართული დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>იხილეთ თანდართული დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>590.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>295 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=137118&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="137118">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ეთერი ჩოხელი :: 21.01.2015 17:23</li>
+	<li style="text-align:right">ბოლო შესწორება: ნოდარ ფოცხვერაშვილი :: 21.01.2015 23:34</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:137118, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '137118'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="1028428.1421861054.137118">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1028428&code=1421861054">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1028428&code=1421861054">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მუდმივმოქმედი სატენდერო კომისია-ბრძანება.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.01.2015 17:24<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1028429.1421861058.137118">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1028429&code=1421861058">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1028429&code=1421861058">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ცვლილების ბრძანება.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.01.2015 17:24<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1028430.1421861061.137118">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1028430&code=1421861061">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1028430&code=1421861061">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი N1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.01.2015 17:24<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1028432.1421861066.137118">
+					<td><span class="opgear">4.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1028432&code=1421861066">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1028432&code=1421861066">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_951717_დანართი N2.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.01.2015 17:24<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1028433.1421861072.137118">
+					<td><span class="opgear">5.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1028433&code=1421861072">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1028433&code=1421861072">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი N3.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.01.2015 17:24<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1028436.1421861093.137118">
+					<td><span class="opgear">6.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1028436&code=1421861093">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1028436&code=1421861093">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ოქმი 1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.01.2015 17:24<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1028542.1421862622.137118">
+					<td><span class="opgear">7.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1028542&code=1421862622">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1028542&code=1421862622">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.01.2015 17:50<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 29`500.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: იხილეთ თანდართული დოკუმენტაცია</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B137118169656">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Geosm</span>
+			</td>
+		<td class="activebid1"><strong>27`841.00</strong>&nbsp;<br/><span class="date">12.02.2015 12:49</span></td>
+		<td class="activebid1">29`500.00&nbsp;<br/><span class="date">12.02.2015 11:32</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(137118,169656)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:05</td>
+		<td align="center" class="activebid1">13:07</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>27`841.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:09</td>
+		<td align="center" class="activebid1">13:11</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>27`841.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:13</td>
+		<td align="center" class="activebid1">13:15</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>27`841.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B137118">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Geosm</span>
+		</td>
+		<td class="activebid1"><strong>27`841.00</strong></td>
+		<td class="date activebid1">12.02.2015 12:49</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'137118'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'137118'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="1056333.1423766978.137118">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1056333&code=1423766978">
+                    SPA150001928_ოქმი 3+ინტერესთა.pdf
+                    </a>
+                </td>
+                <td class="date">12.02.2015 18:49 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1056335.1423766996.137118">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1056335&code=1423766996">
+                    SPA150001928_წერილი დაზუსტებაზე.pdf
+                    </a>
+                </td>
+                <td class="date">12.02.2015 18:49 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1060161.1424110308.137118">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1060161&code=1424110308">
+                    SPA150001928_ინტერესთა კონფლიქტი -ზამბახიძე.pdf
+                    </a>
+                </td>
+                <td class="date">16.02.2015 18:11 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1060590.1424119810.137118">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1060590&code=1424119810">
+                    SPA150001928_150001928-ფასების ცხრილი.pdf
+                    </a>
+                </td>
+                <td class="date">16.02.2015 20:50 :: არჩილ სადუნიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1060591.1424119818.137118">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1060591&code=1424119818">
+                    SPA150001928_დღგ-ს გადამხდელად რეგისტრაცია.pdf
+                    </a>
+                </td>
+                <td class="date">16.02.2015 20:50 :: არჩილ სადუნიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061113.1424181455.137118">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061113&code=1424181455">
+                    SPA150001928_საკვალიფიკაციო.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 13:57 :: არჩილ სადუნიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061385.1424187885.137118">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061385&code=1424187885">
+                    SPA150001928_ოქმი 4.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:44 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1061389.1424187990.137118">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1061389&code=1424187990">
+                    SPA150001928_წერილი გამარჯვებულს.pdf
+                    </a>
+                </td>
+                <td class="date">17.02.2015 15:46 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A221727">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">LU-1000 (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამადიდებელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:25 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">21.62 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;108.10 GEL</td>
+                <td title="ლუპა, ათჯერადი გადიდებით">ლუპა, ათჯე...</td>
+            </tr><tr id="A222843">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ROMA (უკრაინა)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სალაროს ლენტა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:01 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;250.00 GEL</td>
+                <td title="80/12/80.">80/12/80.</td>
+            </tr><tr id="A221850">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს „GEOSM“ (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო  რვეული</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:07 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.89 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;283.50 GEL</td>
+                <td title="A4 უჯრიანი,  80 გვერდიანი">A4 უჯრიანი...</td>
+            </tr><tr id="A221780">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">SPECTRA (ინდონეზია)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ჩასანიშნი ფურცელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:47 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">4.32 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;432.00 GEL</td>
+                <td title="ფერადი, 90x90x90მმ-ზე, ცალი მხარე წებოთი,<br />
+870 ცალიანი">ფერადი, 90...</td>
+            </tr><tr id="A221767">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">SPECTRA (ინდონეზია)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამყოფი ფურცელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:43 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.70 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;17.00 GEL</td>
+                <td title="5 ფერიანი წებოვანი ჩასანიშნი, 80x80მმ,  400<br />
+ცალიანი შეფუთვით">5 ფერიანი ...</td>
+            </tr><tr id="A222971">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">BESTAR (ტაივანი, ჩინეთის პროვინცია)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სამაგიდე ნაკრები</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:30 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">149.82 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;149.82 GEL</td>
+                <td title="წითელი ფერის ხისგან დამზადებული სამაგიდე ნაკრები  8 საგნით">წითელი ფერ...</td>
+            </tr><tr id="A221848">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;GEOSM&quot; (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო  რვეული</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:06 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.89 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;378.00 GEL</td>
+                <td title="A4 უჯრიანი,  100 გვერდიანი">A4 უჯრიანი...</td>
+            </tr><tr id="A221751">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">YIDOO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამყოფი ფურცელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:37 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.74 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;185.00 GEL</td>
+                <td title="წებოვანი ჩასანიშნი, ხუთფერიანი, ქაღალდის<br />
+15მმx75მმ, შეკვრაში 100 ცალი">წებოვანი ჩ...</td>
+            </tr><tr id="A221753">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">YIDOO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;წებოვანი გამყოფი დივაიდერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:38 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;10.00 GEL</td>
+                <td title="პლასტიკური, გვერდის მოსანიშნი, 5 ფერიანი, ზომით 50X12 მმ. თითო ფერი 20 ცალი">პლასტიკური...</td>
+            </tr><tr id="A221757">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">YIDOO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;წებოვანი ჩასანიშნი ფორმები</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:41 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.53 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;253.00 GEL</td>
+                <td title="400 ფურცლიანი (სხვადასხვა ფორმებით: ისარი, გული, ყვავილი, ბურთი) 75*75მმ">400 ფურცლი...</td>
+            </tr><tr id="A221761">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">YIDOO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;წებოვანი ჩასანიშნი<br />
+ფურცელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:41 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.38 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;95.00 GEL</td>
+                <td title="50X75მმ (ნეონის ფერები)">50X75მმ (ნ...</td>
+            </tr><tr id="A221763">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">YIDOO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;წებოვანი ჩასანიშნი<br />
+ფურცელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:42 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;150.00 GEL</td>
+                <td title="75X75მმ  (ნეონის ფერები)">75X75მმ  (...</td>
+            </tr><tr id="A222746">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ARK (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო ჯამი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:46 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.26 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;652.00 GEL</td>
+                <td title="გამჭვირვალე, პლასტმასის, სისქე 4მმ,<br />
+მისაწებებელი რეზინის სადგამებით">გამჭვირვალ...</td>
+            </tr><tr id="A222907">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ARK (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტრანსპორტირი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:12 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.15 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;5.75 GEL</td>
+                <td title="გამჭვირვალე 360/101">გამჭვირვალ...</td>
+            </tr><tr id="A222871">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">CASSA (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკრეპი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:06 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.87 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;187.00 GEL</td>
+                <td title="70მმ. 1/25">70მმ. 1/25...</td>
+            </tr><tr id="A222955">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">VERBATIM (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;DVD-RW დისკი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:25 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.73 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;865.00 GEL</td>
+                <td title="12სმ, 4,7 GB. ჩაწერის სიჩქარე 4X. მრავალჯერადი ჩაწერით. ახალი ინფორმაციის ჩაწერა 1000-ჯერ. 25ც. შეფუთვაში">12სმ, 4,7 ...</td>
+            </tr><tr id="A222567">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">OYAL (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კონვერტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:16 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.08 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.00 GEL</td>
+                <td title="110 გრ. 114X162">110 გრ. 11...</td>
+            </tr><tr id="A222575">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">OYAL (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კონვერტი საშუალო<br />
+ზომის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:17 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.06 GEL<br/>
+                <span class="color-2">8000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;480.00 GEL</td>
+                <td title="დიპლომატიური  114X240">დიპლომატიუ...</td>
+            </tr><tr id="A222587">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">OYAL (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კონვერტი დიდი ზომის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:18 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.14 GEL<br/>
+                <span class="color-2">2000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;280.00 GEL</td>
+                <td title="A4">A4</td>
+            </tr><tr id="A222665">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">OYAL (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კონვერტი დიდი ზომის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:33 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.28 GEL<br/>
+                <span class="color-2">700 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;196.00 GEL</td>
+                <td title="A3">A3</td>
+            </tr><tr id="A222673">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">OYAL (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კონვერტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:34 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;27.00 GEL</td>
+                <td title="162X230">162X230</td>
+            </tr><tr id="A222679">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">OYAL (თურქეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კონვერტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:35 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;90.00 GEL</td>
+                <td title="A5">A5</td>
+            </tr><tr id="A221733">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELL (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კლიპსი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:28 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.13 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;390.00 GEL</td>
+                <td title="პატარა ზომის 32 მმ">პატარა ზომ...</td>
+            </tr><tr id="A221784">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELL (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო<br />
+მაკრატელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:49 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.89 GEL<br/>
+                <span class="color-2">102 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;192.78 GEL</td>
+                <td title="21სმ">21სმ</td>
+            </tr><tr id="A221812">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELL (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;პერმანენტმარკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:57 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.39 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7.80 GEL</td>
+                <td title="ლურჯი, კორპუსის სიგრძე 120მმ; თავის<br />
+სიგრძე 5მმ/დიამეტრი  3მმ">ლურჯი, კორ...</td>
+            </tr><tr id="A221816">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELL (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;პერმანენტმარკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:58 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.39 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7.80 GEL</td>
+                <td title="წითელი, კორპუსის სიგრძე 120მმ; თავის<br />
+სიგრძე 5მმ/დიამეტრი 3მმ">წითელი, კო...</td>
+            </tr><tr id="A222718">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELL (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კალამი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:40 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.33 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;33.00 GEL</td>
+                <td title="გელით, ერგონომიული ხელსაკიდით, 0.5მმ,<br />
+წვერით, წითელი">გელით, ერგ...</td>
+            </tr><tr id="A221719">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">FOSKA (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო დანა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:21 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;25.00 GEL</td>
+                <td title="სიგრძე 143მმ, სიგანე 18მმ">სიგრძე 143...</td>
+            </tr><tr id="A222813">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">FOSKA (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფასთმაჩვენებელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:57 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.39 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;19.50 GEL</td>
+                <td title="ფერადი 12მმX21მმ">ფერადი 12მ...</td>
+            </tr><tr id="A219819">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერი</span><br/>
+                    <div style="text-align:right" class="date">02.03.2015 17:57 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">30.85 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;308.50 GEL</td>
+                <td title="ენერგიის დამზოგველი, დასასტეპლერი ადგილის მარეგულირებელი მექანიზმით, ერთდროულად 210-250 ფურცლის ასაკინძად">ენერგიის დ...</td>
+            </tr><tr id="A219823">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერის ტყვია</span><br/>
+                    <div style="text-align:right" class="date">02.03.2015 17:58 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.61 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.50 GEL</td>
+                <td title="ზომა 23/23">ზომა 23/23...</td>
+            </tr><tr id="A219829">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერი პატარა</span><br/>
+                    <div style="text-align:right" class="date">02.03.2015 17:59 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.01 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.50 GEL</td>
+                <td title="№10, მეტალის მექანიზმით, მეტალის მყარი<br />
+ხიდით">№10, მეტალ...</td>
+            </tr><tr id="A222730">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კალამი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:41 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.33 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;99.00 GEL</td>
+                <td title="გელით, ეგონომიული ხელსაკიდით, 0.5მმ,<br />
+წვერით, შავი">გელით, ეგო...</td>
+            </tr><tr id="A222736">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;პლანშეტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:43 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.41 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;170.50 GEL</td>
+                <td title="სამაგრით, A4 ფურცლებისათვის, პლასტმასის მყარი ზედაპირით, სახაზავით.">სამაგრით, ...</td>
+            </tr><tr id="A222740">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;პლანშეტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:44 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">6.77 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;338.50 GEL</td>
+                <td title="სამაგრით-გამომთვლელი  მანქანით">სამაგრით-გ...</td>
+            </tr><tr id="A222757">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;თარო სასაბუთე</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:47 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">11.52 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;576.00 GEL</td>
+                <td title="თარო ჰორიზონტალური, შავი ფერის მეტალის<br />
+ბადის. 2 თაროთი">თარო ჰორიზ...</td>
+            </tr><tr id="A222763">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სახაზავი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:48 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.35 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;67.50 GEL</td>
+                <td title="1მმ, სისქის მასალისაგან,პლასტიკურ<br />
+შალითაში, უკანა მხარეს, ინჩების და მილიმეტრების თანაფარდობის ამსახველი ცხრილით, 30სმ- იანი">1მმ, სისქი...</td>
+            </tr><tr id="A222769">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სახაზავი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:50 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.49 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;49.80 GEL</td>
+                <td title="1მმ, სისქის მასალისაგან,პლასტიკურ<br />
+შალითაში, უკანა მხარეს, ინჩების და მილიმეტრების თანაფარდობის ამსახველი ცხრილით, 50სმ- იანი">1მმ, სისქი...</td>
+            </tr><tr id="A222771">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სახაზავი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:51 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.42 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;42.00 GEL</td>
+                <td title="გამჭვირვალე 30 სმ, პლასტიკური შალითით">გამჭვირვალ...</td>
+            </tr><tr id="A222775">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სახვრეტელა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:51 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">4.18 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.90 GEL</td>
+                <td title="25 ფურცლიანი, მეტალის კორპუსით<br />
+სახაზავით">25 ფურცლია...</td>
+            </tr><tr id="A222791">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბლოკნოტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:54 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.59 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;15.90 GEL</td>
+                <td title="სპირალით ზევით, A5, 40 ფურცელი,<br />
+უჯრიანი">სპირალით ზ...</td>
+            </tr><tr id="A221705">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკოჩი დიდი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:15 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.91 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;455.00 GEL</td>
+                <td title="სიგანე  45მმ, სიგრძე  40 მეტრი, გამჭვირვალე">სიგანე  45...</td>
+            </tr><tr id="A221713">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მელანი ბეჭდისათვის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:18 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.58 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;11.60 GEL</td>
+                <td title="60 მლ-იანი შეფუთვით">60 მლ-იანი...</td>
+            </tr><tr id="A221715">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო დანა დიდი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:18 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.73 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;86.50 GEL</td>
+                <td title="მეტალის კომბინირებული კორპუსით,<br />
+რეზინის ხელსაკიდით, სიგრძე 164მმ, სიგანე<br />
+38მმ, ერთი სათადარიგო პირით, კომპლექტში, ბლისტერში">მეტალის კო...</td>
+            </tr><tr id="A221701">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:12 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.73 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;519.00 GEL</td>
+                <td title="№24/6, მეტალის კომბინირებული კორპუსით">№24/6, მეტ...</td>
+            </tr><tr id="A221703">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერის ტყვია</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:13 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;300.00 GEL</td>
+                <td title="ზომა №24/6">ზომა №24/6...</td>
+            </tr><tr id="A221709">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკოჩი პატარა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:17 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.13 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;39.00 GEL</td>
+                <td title="სიგანე  12მმ, სიგრძე  15 მეტრი">სიგანე  12...</td>
+            </tr><tr id="A221721">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამომთვლელი<br />
+,,კალკულატორი&quot;</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:22 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">12.25 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;612.50 GEL</td>
+                <td title="14 თანრიგი; 185x136x39მმ ; ორმაგი კვების წყაროთი, მეტალის კორპუსით, CORRECT, DISP, AUTO REPLAY და CHECK ფუნქციებით">14 თანრიგი...</td>
+            </tr><tr id="A221725">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამადიდებელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:23 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">7.79 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;38.95 GEL</td>
+                <td title="ლუპა, დიამეტრი  60მმ ოთხჯერადი<br />
+გადიდებით, კორპუსი მეტალის და ხის კომბინაცია">ლუპა, დიამ...</td>
+            </tr><tr id="A221729">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კლიპსი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:26 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">600 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;150.00 GEL</td>
+                <td title="დიდი ზომის 51 მმ">დიდი ზომის...</td>
+            </tr><tr id="A221731">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კლიპსი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:27 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.16 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.00 GEL</td>
+                <td title="საშუალო ზომი 41 მმ">საშუალო ზო...</td>
+            </tr><tr id="A221737">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კლიპსი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:30 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.10 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;300.00 GEL</td>
+                <td title="პატარა ზომის 25 მმ">პატარა ზომ...</td>
+            </tr><tr id="A221739">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კლიპსი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:31 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.06 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;180.00 GEL</td>
+                <td title="პატარა ზომის 19 მმ">პატარა ზომ...</td>
+            </tr><tr id="A221749">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კორექტორი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:36 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.91 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;91.00 GEL</td>
+                <td title="ლენტით 5მმx8მ; დამჭიმი მექანიზმით და<br />
+წვერის დამცავი ხუფით, ქარხნულად შეფუთული ბლისტერში">ლენტით 5მმ...</td>
+            </tr><tr id="A221769">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;დივაიდერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:44 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.80 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;9.00 GEL</td>
+                <td title="12 ფერიანი, პლასტიკური">12 ფერიანი...</td>
+            </tr><tr id="A221774">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ჩასანიშნი ფურცელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:45 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.58 GEL<br/>
+                <span class="color-2">350 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;903.00 GEL</td>
+                <td title="თეთრი ფერის, 107x98 მმ-ზე, პლასმასის<br />
+ჩასადებით,  300 ცალიანი">თეთრი ფერი...</td>
+            </tr><tr id="A221717">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო დანა საშუალო</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:19 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.48 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;148.00 GEL</td>
+                <td title="მეტალის კომბინირებული კორპუსით, სიგრძე 156მმ, სიგანე 22მმ, ექვსი სათადარიგო პირით, კომპლექტში, კორპუსის დაბოლოება ენისებრი ჩამკეტით, ქარხნულად დაფასოებული ბლისტერში">მეტალის კო...</td>
+            </tr><tr id="A221788">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საკანცელარიო მაკრატელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:49 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.40 GEL<br/>
+                <span class="color-2">101 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;141.40 GEL</td>
+                <td title="მჭრელი პირის სიგრძე  7,5სმ, პირზე ერთ<br />
+სანტიმეტრიანი    დანაყოფებით, ქარხნულად შუფუთული ბლისტერში">მჭრელი პირ...</td>
+            </tr><tr id="A221790">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტექსტგამრკვევი<br />
+(მარკერები)</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:50 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title="სტაფილოსფერი, წაკვეთილი თავით;<br />
+კორპუსის სიგრძე 120მმ; თავის სიგრძე<br />
+5მმ/დიამეტრი 3მმ">სტაფილოსფე...</td>
+            </tr><tr id="A221794">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტექსტგამრკვევი<br />
+(მარკერები)</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:51 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title="ცისფერი, წაკვეთილი თავით; კორპუსის სიგრძე 120მმ; თავის სიგრძე 5მმ/დიამეტრი 3მმ">ცისფერი, წ...</td>
+            </tr><tr id="A221796">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტექსტგამრკვევი<br />
+(მარკერები)</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:52 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title="ვარდისფერი, წაკვეთილი თავით; კორპუსის სიგრძე 120მმ; თავის სიგრძე 5მმ/დიამეტრი 3მმ">ვარდისფერი...</td>
+            </tr><tr id="A221798">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტექსტგამრკვევი<br />
+(მარკერები)</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:53 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title="მწვანე, წაკვეთილი თავით; კორპუსის სიგრძე 120მმ; თავის სიგრძე 5მმ/დიამეტრი 3მმ">მწვანე, წა...</td>
+            </tr><tr id="A221802">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტექსტგამრკვევი<br />
+(მარკერები)</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:54 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title="ყვითელი, წაკვეთილი თავით; კორპუსის სიგრძე 120მმ; თავის სიგრძე 5მმ/დიამეტრი 3მმ">ყვითელი, წ...</td>
+            </tr><tr id="A221806">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;CD-მარკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:55 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.39 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;117.00 GEL</td>
+                <td title="ლურჯი, ორმხრივი წვერით, ორი ხუფით,<br />
+ერთერთზე ჯიბეზე საკიდით.">ლურჯი, ორმ...</td>
+            </tr><tr id="A221808">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;CD-მარკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:56 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.39 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;78.00 GEL</td>
+                <td title="შავი, ორმხრივი წვერით, ორი ხუფით,<br />
+ერთერთზე ჯიბეზე საკიდით.">შავი, ორმხ...</td>
+            </tr><tr id="A221818">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბორდმარკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:59 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;23.00 GEL</td>
+                <td title="შავი, მრგვალთავიანი, კორპუსის სიგრძე 120მმ;<br />
+თავის სიგრძე 5მმ/დიამეტრი 3მმ">შავი, მრგვ...</td>
+            </tr><tr id="A221824">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მშრალი წებო</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:01 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.74 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;185.00 GEL</td>
+                <td title="36 გრამიანი, PVP">36 გრამიან...</td>
+            </tr><tr id="A221830">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საქაღალდე 2 რეზინით</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:02 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.59 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;159.00 GEL</td>
+                <td title="პლასტიკური, A4 ფორმატის">პლასტიკური...</td>
+            </tr><tr id="A221832">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საქაღალდე</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:03 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.94 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;582.00 GEL</td>
+                <td title="კლიპ-ფაილი, ზამბარით">კლიპ-ფაილი...</td>
+            </tr><tr id="A221838">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სწრაფჩამკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:04 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.50 GEL</td>
+                <td title="A4, მეტალის მექანიზმით, შავი">A4, მეტალი...</td>
+            </tr><tr id="A221723">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამადიდებელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:22 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.27 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;22.70 GEL</td>
+                <td title="ლუპა, დიამეტრი  60მმ  სამჯერადი<br />
+გადიდებით">ლუპა, დიამ...</td>
+            </tr><tr id="A221822">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბორდმარკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:00 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">60 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;27.60 GEL</td>
+                <td title="ლურჯი, მრგვალთავიანი, კორპუსის სიგრძე 120მმ; თავის სიგრძე 5მმ/დიამეტრი 3მმ">ლურჯი, მრგ...</td>
+            </tr><tr id="A221707">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკოჩი დიდი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:16 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.05 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;52.50 GEL</td>
+                <td title="სიგანე  45მმ, სიგრძე  30 მეტრი, ყავისფერი">სიგანე  45...</td>
+            </tr><tr id="A221826">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;წებო თხევადი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:02 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.43 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;21.50 GEL</td>
+                <td title="35მლ, ცალი მხრიდან საწვეთურით, მეორე<br />
+მხრიდან გასასმელი თავით">35მლ, ცალი...</td>
+            </tr><tr id="A222549">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მაგიდის ორგანაიზერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:13 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">9.65 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;482.50 GEL</td>
+                <td title="დიდი, მბრუნავი მექანიზმით, პრიალა ზედაპირით, 17 საგნიანი, სტეპლერი #10, სტეპლერის ტყვია #10, ფანქარი - 2ცალი, კალამი ბურთულიანი 0.7მმ - 2 ცალი, სახაზავი 15მმ-იანი, ფანქრის სათლელი,<br />
+საშლელი, კლიპი 19მმ ( 4ც. შეკვრა), სკრეპი  3 ( 20ც. შეკვრა), ჭიკარტი ლურსმანი ( 10ც.<br />
+შეკვრა), დანა, მაკრატელი 17სმ-იანი, სკოჩი<br />
+18მმ, სკოჩის დისპენსერი.">დიდი, მბრუ...</td>
+            </tr><tr id="A222687">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საშლელი რეზინის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:36 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.11 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;55.00 GEL</td>
+                <td title="35x36x11მმ; სირბილე 4B">35x36x11მმ...</td>
+            </tr><tr id="A222703">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ჭიკარტი რუქისათვის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:38 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.55 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;165.00 GEL</td>
+                <td title="ლურსმანი, პლასტმასის შეფუთვით; შეკვრაში<br />
+35 ცალი">ლურსმანი, ...</td>
+            </tr><tr id="A222712">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კალამი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:39 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.33 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;165.00 GEL</td>
+                <td title="გელით, ერგონომიული ხელსაკიდით, 0.5მმ<br />
+წვერით, ლურჯი">გელით, ერგ...</td>
+            </tr><tr id="A222835">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;თითის დასასველებელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:00 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.42 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;28.40 GEL</td>
+                <td title="ბალიში ბურთულით">ბალიში ბურ...</td>
+            </tr><tr id="A222847">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;რეზინა (ფულის)</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:02 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.35 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;6.75 GEL</td>
+                <td title="50 გრ. პლასტიკის შეფუთვით">50 გრ. პლა...</td>
+            </tr><tr id="A222873">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკრეპის ჭიქა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:07 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.93 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.50 GEL</td>
+                <td title="პლასმასის, გამჭვირვალე, მაგნიტით">პლასმასის,...</td>
+            </tr><tr id="A222877">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ანტისტეპლერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:08 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.59 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;59.00 GEL</td>
+                <td title="ჩამკეტით, უჟანგავი მეტალის">ჩამკეტით, ...</td>
+            </tr><tr id="A222887">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფანქარი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:09 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.86 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;86.00 GEL</td>
+                <td title="მექანიკური 0,7 მმ">მექანიკური...</td>
+            </tr><tr id="A222927">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ასაკინძი ჯოხი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:18 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.14 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;14.00 GEL</td>
+                <td title="დ20მმ. 30სმ ( 165ფ. 80გრ).">დ20მმ. 30ს...</td>
+            </tr><tr id="A222945">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;დაფა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:22 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">152.75 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;305.50 GEL</td>
+                <td title="მაგნიტური დაფა თეთრი; გორგოლაჭებიანი სადგამით; ოთხივე გორგოლაჭზე მუხრუჭით; ალუმინის ჩარჩოთი; სიმაღლის სარეგულირებელი მექანიზმით; მარკერების დასადებით. ზომა; 90x150სმ.">მაგნიტური ...</td>
+            </tr><tr id="A222957">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;CD-R დისკი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:25 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.37 GEL<br/>
+                <span class="color-2">2000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;740.00 GEL</td>
+                <td title="13 სმ დიამეტრით, ტევადობა  700 MB ჩაწერის სიჩქარე 52x, ზედაპირი: კრისტალური, მედეგობა ულტრაიისფერი სხივების მიმართ, შეფუთვაში  100 დისკი">13 სმ დიამ...</td>
+            </tr><tr id="A222859">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკრეპი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:05 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.39 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;390.00 GEL</td>
+                <td title="33მმ. 1/100">33მმ. 1/10...</td>
+            </tr><tr id="A222883">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფანქარი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:08 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.11 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;55.00 GEL</td>
+                <td title="საშლელით (უბრალო)">საშლელით (...</td>
+            </tr><tr id="A222931">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ასაკინძი ჯოხი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:19 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.36 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;36.00 GEL</td>
+                <td title="დ45მმ. 30სმ ( 430ფ. 80გრ).">დ45მმ. 30ს...</td>
+            </tr><tr id="A222951">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფლომასტერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:24 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.80 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title="13 ფერიანი">13 ფერიანი...</td>
+            </tr><tr id="A222855">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სათლელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:04 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.38 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;38.00 GEL</td>
+                <td title="დასადგამი დაბალი 2 ნახვრეტით, მეტალის">დასადგამი ...</td>
+            </tr><tr id="A222893">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფანქრის წევერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:10 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.43 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;43.00 GEL</td>
+                <td title="გლიფერო 0,7 მმ">გლიფერო 0,...</td>
+            </tr><tr id="A222909">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სამკუთხა სახაზავის<br />
+კომპლექტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:13 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.15 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;11.50 GEL</td>
+                <td title="თითო ცალი 30 სმ-იანი, 45 და 30 გრადუსიანი<br />
+სახაზავებით">თითო ცალი ...</td>
+            </tr><tr id="A222925">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ასაკინძი ჯოხი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:17 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title="დ12მმ. 30სმ (105ფ. 80გრ).">დ12მმ. 30ს...</td>
+            </tr><tr id="A222949">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;დაფაზე  დასამაგრებელი მაგნიტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:23 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.90 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title="ფერადები  12 ფერიანი">ფერადები  ...</td>
+            </tr><tr id="A222961">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;DVD-R დისკი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:26 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.43 GEL<br/>
+                <span class="color-2">600 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;258.00 GEL</td>
+                <td title="12სმ,  4.7GB. ჩაწერის სიჩქარე 16X. ერთჯერადი ჩაწერით,  120 min. შეფუთვაში  50 დისკი">12სმ,  4.7...</td>
+            </tr><tr id="A222913">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სამკუთხა სახაზავის<br />
+კომპლექტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:13 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.15 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;23.00 GEL</td>
+                <td title="თითო ცალი 20 სმ-იანი, 45 და 30 გრადუსიანი<br />
+სახაზავებით">თითო ცალი ...</td>
+            </tr><tr id="A222921">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ასაკინძი ჯოხი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:16 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title="დ10მმ. 30სმ (65ფ. 80გრ)">დ10მმ. 30ს...</td>
+            </tr><tr id="A222865">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკრეპი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:05 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.95 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;95.00 GEL</td>
+                <td title="50მმ. 1/100">50მმ. 1/10...</td>
+            </tr><tr id="A222919">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ასაკინძი ჯოხი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:16 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.08 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;16.00 GEL</td>
+                <td title="დ8მმ. 30სმ ( 45ფ. 80გრ)">დ8მმ. 30სმ...</td>
+            </tr><tr id="A222943">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;დაფა კედლის</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:22 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">24.49 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;122.45 GEL</td>
+                <td title="თეთრი, მაგნიტური 60X90. საშლელით, სამი<br />
+მარკერით და საწმენდით">თეთრი, მაგ...</td>
+            </tr><tr id="A222963">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სკოჩის მოსახევი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:27 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.48 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;74.00 GEL</td>
+                <td title="მაგიდის დისპენსერი">მაგიდის დი...</td>
+            </tr><tr id="A222853">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სავიზიტე</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:03 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.01 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.50 GEL</td>
+                <td title="სამაგიდე, გამჭვირვალე კორპუსით, ხუფით.">სამაგიდე, ...</td>
+            </tr><tr id="A222903">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტრანსპორტირი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:12 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.72 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3.60 GEL</td>
+                <td title="გამჭვირვალე 180/126">გამჭვირვალ...</td>
+            </tr><tr id="A222933">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ასაკინძი ყდა<br />
+გამჭვირვალე<br />
+(პლასტიკური)</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:19 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.17 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;17.00 GEL</td>
+                <td title="A4 ზომის, 210 მკრ">A4 ზომის, ...</td>
+            </tr><tr id="A222823">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფასთმაჩვენებელი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:58 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.86 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;43.00 GEL</td>
+                <td title="თეთრი 12მმX21მმ">თეთრი 12მმ...</td>
+            </tr><tr id="A222897">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ფარგალი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:11 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.70 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.50 GEL</td>
+                <td title="ლითონის, სამხაზველო, ნაკრებში 2 ცალი, ერთი ფიქსირებული მეორე რეგულირებადი, სათადარიგო წვერებით და გლიფერებით">ლითონის, ს...</td>
+            </tr><tr id="A219833">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">DELI (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სტეპლერის ტყვია</span><br/>
+                    <div style="text-align:right" class="date">02.03.2015 18:00 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">100 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title="№10 ზომისათვის">№10 ზომისა...</td>
+            </tr><tr id="A219805">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საწერი კალმები ლურჯი</span><br/>
+                    <div style="text-align:right" class="date">02.03.2015 17:53 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.11 GEL<br/>
+                <span class="color-2">4000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;440.00 GEL</td>
+                <td title="ბურთულიანი, წახნაგოვანი კორპუსით,<br />
+თავსახურით, 0,7მმ წვერით">ბურთულიანი...</td>
+            </tr><tr id="A219811">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საწერი კალმები წითელი</span><br/>
+                    <div style="text-align:right" class="date">02.03.2015 17:55 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.11 GEL<br/>
+                <span class="color-2">400 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;44.00 GEL</td>
+                <td title="ბურთულიანი, წახნაგოვანი კორპუსით,<br />
+თავსახურით, 0,7მმ წვერით">ბურთულიანი...</td>
+            </tr><tr id="A219815">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;საწერი კალმები შავი</span><br/>
+                    <div style="text-align:right" class="date">02.03.2015 17:55 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.11 GEL<br/>
+                <span class="color-2">400 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;44.00 GEL</td>
+                <td title="ბურთულიანი, წახნაგოვანი კორპუსით,<br />
+თავსახურით, 0,7მმ წვერით">ბურთულიანი...</td>
+            </tr><tr id="A222750">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;თარო სასაბუთე</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:46 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">6.42 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;128.40 GEL</td>
+                <td title="ვერტიკალური, შავი ფერის ბადის.">ვერტიკალურ...</td>
+            </tr><tr id="A222779">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მარკირების ქაღალდი, რულონი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:52 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">6.19 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;61.90 GEL</td>
+                <td title="ფლიპჩარტის ქაღალდი, 20 ფურცლიანი შეკვრა, ფერადი თავფურცლით">ფლიპჩარტის...</td>
+            </tr><tr id="A222787">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბლოკნოტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:53 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.45 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;24.50 GEL</td>
+                <td title="სპირალით გვერდზე, A4, 80 ფურცელი,<br />
+უჯრიანი">სპირალით გ...</td>
+            </tr><tr id="A221743">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კორექტორი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:33 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.65 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;13.00 GEL</td>
+                <td title="0.8მმ მეტალის წვერით; 7მლ;">0.8მმ მეტა...</td>
+            </tr><tr id="A221842">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სწრაფჩამკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:05 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;37.50 GEL</td>
+                <td title="A4, მეტალის მექანიზმით, წითელი">A4, მეტალი...</td>
+            </tr><tr id="A221741">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კორექტორი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 10:32 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.65 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;97.50 GEL</td>
+                <td title="ფუნჯიანი, 20მლ">ფუნჯიანი, ...</td>
+            </tr><tr id="A221844">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სწრაფჩამკერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 11:05 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.50 GEL</td>
+                <td title="A4, მეტალის მექანიზმით, ლურჯი">A4, მეტალი...</td>
+            </tr><tr id="A222559">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ცელოფნის ფაილი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:14 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.24 GEL<br/>
+                <span class="color-2">600 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`944.00 GEL</td>
+                <td title="A4, გამჭვირვალე  100 ცალიანი შეფუთვით,  35<br />
+მიკრონი, ერთი შეფუთვის წონა  360 გრამი">A4, გამჭვი...</td>
+            </tr><tr id="A222699">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბაინდერი განიერი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:37 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.46 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7`380.00 GEL</td>
+                <td title="სქელი მუყაო, ფურცლების სამაგრი სისტემა<br />
+ფიქსირებული.">სქელი მუყა...</td>
+            </tr><tr id="A222797">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბლოკნოტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:55 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.89 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;289.00 GEL</td>
+                <td title="ტყავის მყარი ყდით 210X160მმ, შესაკრავის გარეშე, უჯრიანი A5, ტონირებული ფურცლებით, შემოკერილი კიდეებით, სანიშნით,  168 ფურცლიანი">ტყავის მყა...</td>
+            </tr><tr id="A222805">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ბლოკნოტი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 15:56 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.32 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;166.00 GEL</td>
+                <td title="2015 წლის ყოველდღიური ბლოკნოტი, A5 ფორმატის, შიგთავსი 70 გრ.-იანი ყვითელი ფურცლებით, ბეჭდვა 1 ფერში, 168 ფურცლიანი, თვეები დივაიდერებით, ქართულ-ინგლისური, ტყავის ყდითა, სანიშნით და საქართველოს რუქით.">2015 წლის ...</td>
+            </tr><tr id="A222915">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ურნა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:14 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">4.61 GEL<br/>
+                <span class="color-2">60 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;276.60 GEL</td>
+                <td title="საოფისე, შავი მეტალის ბადე, სიმაღლე 32მმ,<br />
+დიამეტრი 28მმ">საოფისე, შ...</td>
+            </tr><tr id="A222917">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კალამი</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:15 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.65 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.50 GEL</td>
+                <td title="მაგიდაზე სამაგრი, ბურთულიანი, ლურჯი,<br />
+სპირალით">მაგიდაზე ს...</td>
+            </tr><tr id="A222935">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მუყაოს ასაკინძი ყდა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:20 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.11 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;11.00 GEL</td>
+                <td title="A4 ზომის, 230გრ">A4 ზომის, ...</td>
+            </tr><tr id="A222937">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ასაკინძი ყდა<br />
+გამჭვირვალე<br />
+(პლასტიკური)</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:21 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.36 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title="A3 ზომის">A3 ზომის...</td>
+            </tr><tr id="A222939">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">HELIO (ჩინეთი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მუყაოს ასაკინძი ყდა</span><br/>
+                    <div style="text-align:right" class="date">05.03.2015 16:21 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;25.00 GEL</td>
+                <td title="A3 ზომის">A3 ზომის...</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'137118'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg10" style="font-weight:bold">მიმდინარე ხელშეკრულება</span><br/>
+			<span class="date">ეთერი ჩოხელი :: 05.03.2015</span><br/>
+			<span><strong>294</strong> დღე ხელშეკრულების მოქმედების ვადის ამოწურვამდე</span>
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a> <strong>Geosm</strong><br/>
+				
+					ნომერი/თანხა: N86 / <span class="convertme" id="27841-GEL-02.03.2015 17:50">27841 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 24.02.2015 - 31.01.2016<br/>
+					<span class="date">02.03.2015 17:50</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=121547"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="137118">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="137118">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="137118">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="1108346.1427130639.137118">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1108346&code=1427130639">
+SPA150001928_GEOSM ხელშ.86.pdf
+</a>
+</td>
+<td class="date">23.03.2015 17:10 :: სოფიო მეტივიშვილი</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="5" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'137118'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

@@ -1,0 +1,3416 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA130009122</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv81241" /><label for="fv81241"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat100.png"> დასრულებულია უარყოფითი შედეგით</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1664)"><img src="images/profile24_0.png"> დედოფლისწყაროს მუნიციპალიტეტი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>22.04.2013 18:32</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>08.05.2013 00:05</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>13.05.2013 15:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2013 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="11116-GEL-22.04.2013 18:32">11`116.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;45200000 - მთლიანი ან ნაწილობრივი სამშენებლო სამუშაოები და სამოქალაქო მშენებლობის სამუშაოები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;45261000 - სახურავის კარკასისა და საფარის მონტაჟი და მასთან დაკავშირებული სამუშაოები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">დედოფლისწყაროს მუნიციპალიტეტის ქ. დედოფლისწყაროში 19 მრავალსართულიანი საცხოვრებელი სახლის სახურავის რეაბილიტაციის (სახურავის კონსტრუქციის დამაგრება შენობაზე) სამუშაოები.შესრულებულ სამუშაოებზე საგარანტიო ვადაა 3 წელი </div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>მითითებულია სატენდერო დოკუმენტაციაში</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან 45 კალენდარული დღე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>100.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>111 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=81241&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="81241">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ილია ზურიკაშვილი :: 22.04.2013 17:08</li>
+	<li style="text-align:right">ბოლო შესწორება: ილია ზურიკაშვილი :: 22.04.2013 18:32</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:81241, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+<button id="newclaim" class="btn_davebi ui-state-error" type="button">გასაჩივრება</button>
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '81241'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+<a href="http://procurement.gov.ge/dispute/?act=1&amp;hash=U79W8HRT" target="blank"><img src="images/thebutton_ge.png" /></a>
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="463398.1366650593.81241">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463398&code=1366650593">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463398&code=1366650593">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია_saxuravebi 2013.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:09<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463403.1366650693.81241">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463403&code=1366650693">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463403&code=1366650693">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k49 ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:11<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463409.1366650829.81241">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463409&code=1366650829">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463409&code=1366650829">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k49(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:13<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463413.1366650908.81241">
+					<td><span class="opgear">4.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463413&code=1366650908">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463413&code=1366650908">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k49(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:15<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463422.1366651031.81241">
+					<td><span class="opgear">5.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463422&code=1366651031">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463422&code=1366651031">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k49ნივნივიი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:17<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463426.1366651079.81241">
+					<td><span class="opgear">6.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463426&code=1366651079">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463426&code=1366651079">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_korp.12ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:17<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463428.1366651187.81241">
+					<td><span class="opgear">7.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463428&code=1366651187">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463428&code=1366651187">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_kor12(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:19<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463430.1366651268.81241">
+					<td><span class="opgear">8.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463430&code=1366651268">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463430&code=1366651268">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_.krp.12კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:21<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463431.1366651338.81241">
+					<td><span class="opgear">9.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463431&code=1366651338">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463431&code=1366651338">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_korp.12(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:22<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463432.1366651366.81241">
+					<td><span class="opgear">10.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463432&code=1366651366">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463432&code=1366651366">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_korp.11ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:22<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463438.1366651432.81241">
+					<td><span class="opgear">11.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463438&code=1366651432">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463438&code=1366651432">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_.krp.11კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:23<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463440.1366651531.81241">
+					<td><span class="opgear">12.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463440&code=1366651531">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463440&code=1366651531">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_kor11(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:25<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463447.1366651604.81241">
+					<td><span class="opgear">13.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463447&code=1366651604">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463447&code=1366651604">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_korp.11(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:26<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463448.1366651639.81241">
+					<td><span class="opgear">14.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463448&code=1366651639">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463448&code=1366651639">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k47ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:27<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463454.1366651701.81241">
+					<td><span class="opgear">15.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463454&code=1366651701">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463454&code=1366651701">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k47(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:28<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463458.1366651775.81241">
+					<td><span class="opgear">16.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463458&code=1366651775">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463458&code=1366651775">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k47(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:29<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463461.1366651842.81241">
+					<td><span class="opgear">17.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463461&code=1366651842">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463461&code=1366651842">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k47(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:30<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463463.1366651862.81241">
+					<td><span class="opgear">18.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463463&code=1366651862">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463463&code=1366651862">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_K46ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:31<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463466.1366651923.81241">
+					<td><span class="opgear">19.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463466&code=1366651923">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463466&code=1366651923">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k46(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:32<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463471.1366651995.81241">
+					<td><span class="opgear">20.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463471&code=1366651995">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463471&code=1366651995">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_K46(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:33<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463473.1366652065.81241">
+					<td><span class="opgear">21.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463473&code=1366652065">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463473&code=1366652065">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k46(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:34<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463475.1366652093.81241">
+					<td><span class="opgear">22.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463475&code=1366652093">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463475&code=1366652093">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_korp.48ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:34<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463477.1366652176.81241">
+					<td><span class="opgear">23.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463477&code=1366652176">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463477&code=1366652176">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_.krp.48(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:36<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463479.1366652240.81241">
+					<td><span class="opgear">24.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463479&code=1366652240">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463479&code=1366652240">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_kor48(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:37<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463481.1366652318.81241">
+					<td><span class="opgear">25.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463481&code=1366652318">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463481&code=1366652318">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_korp.48(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:38<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463483.1366652350.81241">
+					<td><span class="opgear">26.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463483&code=1366652350">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463483&code=1366652350">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k15ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:39<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463486.1366652408.81241">
+					<td><span class="opgear">27.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463486&code=1366652408">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463486&code=1366652408">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k15(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:40<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463491.1366652476.81241">
+					<td><span class="opgear">28.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463491&code=1366652476">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463491&code=1366652476">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k15(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:41<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463499.1366652550.81241">
+					<td><span class="opgear">29.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463499&code=1366652550">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463499&code=1366652550">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k15(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:42<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463500.1366652591.81241">
+					<td><span class="opgear">30.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463500&code=1366652591">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463500&code=1366652591">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k14ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:43<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463503.1366652664.81241">
+					<td><span class="opgear">31.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463503&code=1366652664">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463503&code=1366652664">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k14(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:44<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463505.1366652742.81241">
+					<td><span class="opgear">32.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463505&code=1366652742">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463505&code=1366652742">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k14(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:45<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463506.1366652806.81241">
+					<td><span class="opgear">33.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463506&code=1366652806">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463506&code=1366652806">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k14(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:46<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463507.1366652826.81241">
+					<td><span class="opgear">34.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463507&code=1366652826">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463507&code=1366652826">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მტპ1ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:47<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463511.1366652892.81241">
+					<td><span class="opgear">35.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463511&code=1366652892">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463511&code=1366652892">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მტპ1(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:48<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463518.1366652984.81241">
+					<td><span class="opgear">36.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463518&code=1366652984">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463518&code=1366652984">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მტპ1(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:49<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463524.1366653090.81241">
+					<td><span class="opgear">37.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463524&code=1366653090">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463524&code=1366653090">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მტპ1(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:51<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463528.1366653109.81241">
+					<td><span class="opgear">38.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463528&code=1366653109">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463528&code=1366653109">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მტპ2ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:51<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463530.1366653177.81241">
+					<td><span class="opgear">39.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463530&code=1366653177">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463530&code=1366653177">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მტპ2(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:52<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463539.1366653363.81241">
+					<td><span class="opgear">40.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463539&code=1366653363">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463539&code=1366653363">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მტპ2(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:56<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463540.1366653436.81241">
+					<td><span class="opgear">41.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463540&code=1366653436">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463540&code=1366653436">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მტპ2(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:57<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463543.1366653467.81241">
+					<td><span class="opgear">42.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463543&code=1366653467">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463543&code=1366653467">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_st.sw.krpხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:57<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463551.1366653532.81241">
+					<td><span class="opgear">43.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463551&code=1366653532">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463551&code=1366653532">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_st.sw.kor.(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 17:58<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463553.1366653600.81241">
+					<td><span class="opgear">44.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463553&code=1366653600">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463553&code=1366653600">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_st.sw.korp.(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:00<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463558.1366653677.81241">
+					<td><span class="opgear">45.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463558&code=1366653677">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463558&code=1366653677">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_st.sw.krp.(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:01<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463559.1366653697.81241">
+					<td><span class="opgear">46.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463559&code=1366653697">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463559&code=1366653697">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k32ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:01<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463562.1366653757.81241">
+					<td><span class="opgear">47.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463562&code=1366653757">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463562&code=1366653757">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k32(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:02<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463569.1366653818.81241">
+					<td><span class="opgear">48.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463569&code=1366653818">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463569&code=1366653818">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k32(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:03<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463571.1366653877.81241">
+					<td><span class="opgear">49.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463571&code=1366653877">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463571&code=1366653877">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k32(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:04<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463573.1366653893.81241">
+					<td><span class="opgear">50.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463573&code=1366653893">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463573&code=1366653893">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k31ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:04<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463577.1366653954.81241">
+					<td><span class="opgear">51.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463577&code=1366653954">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463577&code=1366653954">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k31(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:05<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463583.1366654023.81241">
+					<td><span class="opgear">52.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463583&code=1366654023">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463583&code=1366654023">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k31(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:07<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463591.1366654087.81241">
+					<td><span class="opgear">53.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463591&code=1366654087">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463591&code=1366654087">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k31(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:08<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463593.1366654106.81241">
+					<td><span class="opgear">54.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463593&code=1366654106">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463593&code=1366654106">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_mmk14ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:08<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463596.1366654202.81241">
+					<td><span class="opgear">55.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463596&code=1366654202">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463596&code=1366654202">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_mmk14(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:10<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463600.1366654269.81241">
+					<td><span class="opgear">56.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463600&code=1366654269">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463600&code=1366654269">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_mmk14(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:11<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463603.1366654335.81241">
+					<td><span class="opgear">57.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463603&code=1366654335">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463603&code=1366654335">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_mmk14(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:12<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463604.1366654356.81241">
+					<td><span class="opgear">58.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463604&code=1366654356">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463604&code=1366654356">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k37ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:12<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463605.1366654433.81241">
+					<td><span class="opgear">59.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463605&code=1366654433">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463605&code=1366654433">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k37(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:13<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463609.1366654513.81241">
+					<td><span class="opgear">60.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463609&code=1366654513">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463609&code=1366654513">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k37(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:15<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463611.1366654579.81241">
+					<td><span class="opgear">61.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463611&code=1366654579">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463611&code=1366654579">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k37(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:16<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463612.1366654596.81241">
+					<td><span class="opgear">62.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463612&code=1366654596">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463612&code=1366654596">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k40ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:16<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463613.1366654657.81241">
+					<td><span class="opgear">63.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463613&code=1366654657">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463613&code=1366654657">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k40(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:17<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463617.1366654723.81241">
+					<td><span class="opgear">64.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463617&code=1366654723">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463617&code=1366654723">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k40(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:18<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463620.1366654784.81241">
+					<td><span class="opgear">65.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463620&code=1366654784">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463620&code=1366654784">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k40(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:19<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463623.1366654806.81241">
+					<td><span class="opgear">66.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463623&code=1366654806">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463623&code=1366654806">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_wevis qves. korpხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:20<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463630.1366654873.81241">
+					<td><span class="opgear">67.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463630&code=1366654873">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463630&code=1366654873">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_wev.qvesad.krp.(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:21<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463632.1366654938.81241">
+					<td><span class="opgear">68.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463632&code=1366654938">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463632&code=1366654938">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_wevis q.(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:22<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463636.1366655014.81241">
+					<td><span class="opgear">69.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463636&code=1366655014">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463636&code=1366655014">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_wevis qves. korp(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:23<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463638.1366655035.81241">
+					<td><span class="opgear">70.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463638&code=1366655035">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463638&code=1366655035">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k44ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:23<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463641.1366655099.81241">
+					<td><span class="opgear">71.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463641&code=1366655099">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463641&code=1366655099">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k-44(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:24<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463643.1366655163.81241">
+					<td><span class="opgear">72.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463643&code=1366655163">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463643&code=1366655163">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k44(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:26<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463645.1366655226.81241">
+					<td><span class="opgear">73.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463645&code=1366655226">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463645&code=1366655226">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k44(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:27<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463646.1366655244.81241">
+					<td><span class="opgear">74.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463646&code=1366655244">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463646&code=1366655244">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k37aხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:27<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463651.1366655308.81241">
+					<td><span class="opgear">75.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463651&code=1366655308">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463651&code=1366655308">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k37a(კვანძი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:28<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463655.1366655372.81241">
+					<td><span class="opgear">76.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463655&code=1366655372">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463655&code=1366655372">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k37a(ნივნივები}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:29<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463658.1366655448.81241">
+					<td><span class="opgear">77.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463658&code=1366655448">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463658&code=1366655448">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_k37a(ჭრილი}.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:30<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="463662.1366655463.81241">
+					<td><span class="opgear">78.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=463662&code=1366655463">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=463662&code=1366655463">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_კრებსითი ხარჯთაღრიცხვა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">22.04.2013 18:31<br/>ილია ზურიკაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 11`116.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან 45 კალენდარული დღე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B8124186289">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9216)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">დიდოსტატი-1</span>
+			</td>
+		<td class="activebid1"><strong>8`990.00</strong>&nbsp;<br/><span class="date">13.05.2013 15:18</span></td>
+		<td class="activebid1">11`116.00&nbsp;<br/><span class="date">10.05.2013 17:47</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(81241,86289)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B8124186425">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3229)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ბაკა+</span>
+			</td>
+		<td class="activebid1"><strong>8`989.00</strong>&nbsp;<br/><span class="date">13.05.2013 15:20</span></td>
+		<td class="activebid1">11`116.00&nbsp;<br/><span class="date">13.05.2013 12:40</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(81241,86425)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">15:05</td>
+		<td align="center" class="activebid1">15:07</td>
+		<td class="activebid1">დიდოსტატი-1</td>
+		<td align="center" class="activebid1"><strong>9`400.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:07</td>
+		<td align="center" class="activebid1">15:09</td>
+		<td class="activebid1">ბაკა+</td>
+		<td align="center" class="activebid1"><strong>9`399.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">15:11</td>
+		<td align="center" class="activebid1">15:13</td>
+		<td class="activebid1">დიდოსტატი-1</td>
+		<td align="center" class="activebid1"><strong>9`400.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:13</td>
+		<td align="center" class="activebid1">15:15</td>
+		<td class="activebid1">ბაკა+</td>
+		<td align="center" class="activebid1"><strong>9`399.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">15:17</td>
+		<td align="center" class="activebid1">15:19</td>
+		<td class="activebid1">დიდოსტატი-1</td>
+		<td align="center" class="activebid1"><strong>8`990.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">15:19</td>
+		<td align="center" class="activebid1">15:21</td>
+		<td class="activebid1">ბაკა+</td>
+		<td align="center" class="activebid1"><strong>8`989.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B81241">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9216)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">დიდოსტატი-1</span>
+		</td>
+		<td class="activebid1"><strong>10`990.00</strong></td>
+		<td class="date activebid1">13.05.2013 14:57</td>
+	</tr><tr bgcolor="#ffffff" id="B81241">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3229)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ბაკა+</span>
+		</td>
+		<td class="activebid1"><strong>9`499.00</strong></td>
+		<td class="date activebid1">13.05.2013 14:58</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'81241'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'81241'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="473678.1368467010.81241">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=473678&code=1368467010">
+                    SPA130009122_ხელწერილი_xeltserili.PDF
+                    </a>
+                </td>
+                <td class="date">13.05.2013 17:43 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="473680.1368467079.81241">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=473680&code=1368467079">
+                    SPA130009122_სატენდერო კომისიის სხდომის ოქმი #2_oqmi #2.PDF
+                    </a>
+                </td>
+                <td class="date">13.05.2013 17:44 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="473681.1368467163.81241">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=473681&code=1368467163">
+                    SPA130009122_მიმართვა შ.პ.ს. ,,ბაკა +&quot;-ს_mimartva.PDF
+                    </a>
+                </td>
+                <td class="date">13.05.2013 17:46 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="474059.1368525513.81241">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=474059&code=1368525513">
+                    SPA130009122_ხელწერილი_xeltserili.PDF
+                    </a>
+                </td>
+                <td class="date">14.05.2013 09:58 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="476529.1368756438.81241">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=476529&code=1368756438">
+                    SPA130009122_dazusteebuli xarjtagricxva.PDF
+                    </a>
+                </td>
+                <td class="date">17.05.2013 02:07 :: თამაზ ბაკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="476530.1368756468.81241">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=476530&code=1368756468">
+                    SPA130009122_cnobebi.PDF
+                    </a>
+                </td>
+                <td class="date">17.05.2013 02:07 :: თამაზ ბაკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="476531.1368756497.81241">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=476531&code=1368756497">
+                    SPA130009122_krebsiti.PDF
+                    </a>
+                </td>
+                <td class="date">17.05.2013 02:08 :: თამაზ ბაკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="477554.1369046801.81241">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=477554&code=1369046801">
+                    SPA130009122_სატენდერო კომისიის სხდომის ოქმი #3_oqmi #3.PDF
+                    </a>
+                </td>
+                <td class="date">20.05.2013 10:46 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="477557.1369046909.81241">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=477557&code=1369046909">
+                    SPA130009122_მიმართვა შ.პ.ს. ,,ბაკა +&quot;-ს_mimartva bakas.PDF
+                    </a>
+                </td>
+                <td class="date">20.05.2013 10:48 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="477558.1369047016.81241">
+                <td>10.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=477558&code=1369047016">
+                    SPA130009122_მიმართვა შ.პ.ს. ,,დიდოსტატი-1&quot;-ს_mimartva didostats.PDF
+                    </a>
+                </td>
+                <td class="date">20.05.2013 10:50 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479402.1369209561.81241">
+                <td>11.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479402&code=1369209561">
+                    SPA130009122_Документ (2).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 07:59 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479403.1369209583.81241">
+                <td>12.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479403&code=1369209583">
+                    SPA130009122_Документ (3).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 07:59 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479404.1369209620.81241">
+                <td>13.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479404&code=1369209620">
+                    SPA130009122_Документ (4).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:00 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479405.1369209645.81241">
+                <td>14.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479405&code=1369209645">
+                    SPA130009122_Документ (5).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:00 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479406.1369209665.81241">
+                <td>15.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479406&code=1369209665">
+                    SPA130009122_Документ (6).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:01 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479407.1369209690.81241">
+                <td>16.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479407&code=1369209690">
+                    SPA130009122_Документ (7).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:01 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479408.1369209710.81241">
+                <td>17.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479408&code=1369209710">
+                    SPA130009122_Документ (8).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:01 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479409.1369209733.81241">
+                <td>18.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479409&code=1369209733">
+                    SPA130009122_Документ (9).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:02 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479410.1369209749.81241">
+                <td>19.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479410&code=1369209749">
+                    SPA130009122_Документ (10).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:02 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479411.1369209766.81241">
+                <td>20.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479411&code=1369209766">
+                    SPA130009122_Документ (11).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:02 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479412.1369209787.81241">
+                <td>21.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479412&code=1369209787">
+                    SPA130009122_Документ (12).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:03 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479413.1369209803.81241">
+                <td>22.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479413&code=1369209803">
+                    SPA130009122_Документ (13).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:03 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479414.1369209824.81241">
+                <td>23.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479414&code=1369209824">
+                    SPA130009122_Документ (14).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:03 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479415.1369209852.81241">
+                <td>24.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479415&code=1369209852">
+                    SPA130009122_Документ (15).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:04 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479416.1369209872.81241">
+                <td>25.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479416&code=1369209872">
+                    SPA130009122_Документ (16).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:04 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479417.1369209895.81241">
+                <td>26.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479417&code=1369209895">
+                    SPA130009122_Документ (17).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:04 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479418.1369209911.81241">
+                <td>27.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479418&code=1369209911">
+                    SPA130009122_Документ (18).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:05 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479419.1369209940.81241">
+                <td>28.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479419&code=1369209940">
+                    SPA130009122_Документ (19).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:05 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479420.1369209971.81241">
+                <td>29.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479420&code=1369209971">
+                    SPA130009122_Документ (20).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:06 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479421.1369209992.81241">
+                <td>30.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479421&code=1369209992">
+                    SPA130009122_Документ.pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:06 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479422.1369210419.81241">
+                <td>31.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479422&code=1369210419">
+                    SPA130009122_Документ (2).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:13 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479423.1369210444.81241">
+                <td>32.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479423&code=1369210444">
+                    SPA130009122_Документ (3).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:14 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479424.1369210462.81241">
+                <td>33.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479424&code=1369210462">
+                    SPA130009122_Документ (4).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:14 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479425.1369210558.81241">
+                <td>34.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479425&code=1369210558">
+                    SPA130009122_Документ (5).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:15 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479426.1369210581.81241">
+                <td>35.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479426&code=1369210581">
+                    SPA130009122_Документ (6).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:16 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479427.1369210601.81241">
+                <td>36.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479427&code=1369210601">
+                    SPA130009122_Документ (7).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:16 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479428.1369210619.81241">
+                <td>37.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479428&code=1369210619">
+                    SPA130009122_Документ (8).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:16 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479429.1369210644.81241">
+                <td>38.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479429&code=1369210644">
+                    SPA130009122_Документ (9).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:17 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479430.1369210663.81241">
+                <td>39.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479430&code=1369210663">
+                    SPA130009122_Документ (10).pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:17 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="479431.1369210680.81241">
+                <td>40.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=479431&code=1369210680">
+                    SPA130009122_Документ.pdf
+                    </a>
+                </td>
+                <td class="date">22.05.2013 08:18 :: ილია ჯინაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="480283.1369305076.81241">
+                <td>41.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=480283&code=1369305076">
+                    SPA130009122_სატენდერო კომისიის სხდომის ოქმი #4_oqmi #4.PDF
+                    </a>
+                </td>
+                <td class="date">23.05.2013 10:31 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="480284.1369305149.81241">
+                <td>42.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=480284&code=1369305149">
+                    SPA130009122_მიმართვა შ.პ.ს. ,,დიდოსტატი-1&quot;-ს_mimartva.PDF
+                    </a>
+                </td>
+                <td class="date">23.05.2013 10:32 :: ილია ზურიკაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+        <td width="120">20.05.2013 10:47</td>
+        <td><strong>ბაკა+</strong></td>
+        <td align="right">დისკვალიფიკაცია საკვალიფიკაციო დოკუმენტების გამო</td>
+    </tr><tr>
+        <td width="120">23.05.2013 10:33</td>
+        <td><strong>დიდოსტატი-1</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr>
+</table>
+</div>
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'81241'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="81241">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="81241">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="81241">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="5" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'81241'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

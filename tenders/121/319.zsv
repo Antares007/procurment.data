@@ -1,0 +1,3541 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140018187</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv121319" /><label for="fv121319"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1440)"><img src="images/profile24_0.png"> შპს საქართველოს გაერთიანებული წყალმომარაგების კომპანია</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>25.07.2014 22:02</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>14.08.2014 00:03</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>19.08.2014 12:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="230000-GEL-25.07.2014 22:02">230`000.00 GEL</span> </td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გარეშე</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;44100000 - სამშენებლო მასალები და დამხმარე სამშენებლო მასალები </li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;44163160 - გამანაწილებელი მილები და აქსესუარები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44163200 - მილსადენების არმატურა 
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44165300 - მილის ქუროები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44167100 - შემაერთებელი ქუროები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44167110 - მილტუჩები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44167111 - მილტუჩას გადამყვანები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44167300 - მუხლები, სამკაპები და მილების არმატურა 
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla"></div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>სატენდერო დოკუმენტაციის შესაბამისად</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან 40 (ორმოცი) კალენდარული დღის განმავლობაში</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>3`000.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>2`300 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=121319&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="121319">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ნინო ტყებუჩავა :: 25.07.2014 17:58</li>
+	<li style="text-align:right">ბოლო შესწორება: ნანა გახოკიძე :: 25.07.2014 21:21</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:121319, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '121319'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="847721.1406325726.121319">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=847721&code=1406325726">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=847721&code=1406325726">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">25.07.2014 22:02<br/>ნანა გახოკიძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		<div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_121319_24264" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">06.08.2014 13:23</span> ჯეოტურანი :: პაატა რუსაძე</p>
+			<p class="chatmessgase activebid1">გამარჯობათ,<br />
+ ტენდერის გამოცხადებიდან  უამრავი კითხვებია დაგროვებული  სატენდერო დოკუმენტაციაში წარმოდგენილ მასალასთან დაკავშირებით.<br />
+არის ისეთი პოზიციები შეყვანილი რომლებიც რეალურად არ იწარმოება არცეთი მწარმოებლის მიერ.<br />
+<br />
+როგორ უნდა გადაიჭრას ეს პოზიცია?<br />
+<br />
+თუმცა ეს იმდენად მიზერული კითხვაა დასმაც არ ღირს იმასთან შედარებით რაც არის მთავარი პრობლემა.<br />
+<br />
+მაინტერესებს როგორ აპირებს შესრულებას?  &quot;მომწოდებელი 1&quot; მაშინ, როდესაც ტენდერის საერთო ღირებულება , რეალურ თვითღირებულებასთან შედარებითაც კი ნაკლებია და ასევე საინტერესოა  რა კვლევის შედეგად მიანიჭეთ  აღნიშნულ ტენდერს ეს ღირებულება?<br />
+<br />
+მზად ვართ წარვადგინოთ ყველა ინვოისები და დოკუმენტაცია იმის შესახებ რომ მოცემული ფასი არის რეალობისგან ძალიან შორს!<br />
+<br />
+პასუხს ვითხოვთ როგორც სატენდერო კომიისაგან ასევე მომწოდებლებისაგან.</p>
+			<div style="display: none" id="ANS24264">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_121319_24011" class="show_reply">გამოხმაურება (2)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">29.07.2014 15:38</span> ო და კ ბილდინგ კომპანი :: ქენან ოსმან ილდირიმი</p>
+			<p class="chatmessgase activebid1">ტექნიკური პირობების მე-12-15 პოზიციები პოლიეთილენის ფოლადზე გადამყვანი (გარე ხრახნი) რომელია ფოლადის დიამეტრი და რომელი პოლიეთილენის  ლითონის მხარე უნდაა იყოს მითითებული დიუმებში<br />
+ასევე  16-26 პოზიციები პოლიეთილენის ფოლადზე გადამყვანებე სასურველია მიეთითოს ლითონის დიამეტრები დიუმებში</p>
+			<div style="display: none" id="ANS24011">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_121319_24006" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">29.07.2014 15:15</span> ო და კ ბილდინგ კომპანი :: ქენან ოსმან ილდირიმი</p>
+			<p class="chatmessgase activebid1">ტექნიკური პირობების მე-118-134პოზიციები  ფოლადის მილტუჩები  ზომები მოცემულია ლითონის ნომისანურ დიამეტრებით სასურველია დაზუსტდეს პოლიეთილენის ექვივალენტი დიამეტრები</p>
+			<div style="display: none" id="ANS24006">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_121319_24005" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">29.07.2014 15:04</span> ო და კ ბილდინგ კომპანი :: ქენან ოსმან ილდირიმი</p>
+			<p class="chatmessgase activebid1">დასაშვებია თუ არა ტექნიკური პირობების მე-17 პოზიცია პოლიეთილენიდან ლითონზე გადამყვანი D75 ფიტინგის ნაცვლად შემოგთავაზოთ პოლიეთილენიდან ლითონზე გადამყვანი ფიტინგი D75X2.1/2'' გარე ხრახნით<br />
+შეგიძლიათ გამოიყენოთ როგორც ხრახნით გადასაბმელად ისე შედუღებით</p>
+			<div style="display: none" id="ANS24005">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">29.07.2014 15:03</span> ო და კ ბილდინგ კომპანი :: ქენან ოსმან ილდირიმი</p>
+			<p class="chatmessgase activebid0">დასაშვებია თუ არა ტექნიკური პირობების მე-16 პოზიცია პოლიეთილენიდან ლითონზე გადამყვანი D75 ფიტინგის   ნაცვლად შემოგთავაზოთ პოლიეთილენიდან ლითონზე გადამყვანი ფიტინგი D75X2.1/2'' გარე ხრახნით<br />
+შეგიძლიათ გამოიყენოთ როგორც ხრახნით გადასაბმელად ისე შედუღებით</p>
+			<div style="display: none" id="ANS24004">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_121319_23987" class="show_reply">გამოხმაურება (4)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">29.07.2014 13:14</span> ო და კ ბილდინგ კომპანი :: ქენან ოსმან ილდირიმი</p>
+			<p class="chatmessgase activebid1">ტექნიკურ პირობებით მოთხოვნილი ზოგიერთი ფიტინგი არ არის სტანდარტული ან არაა აქვს ყველა მწარმოებელს დასაშვებია თუ არა რომ ასეთი ფიტინგები შემოგთავაზოთ რამდენიმე ფიტინგისაგან აწყობილი <br />
+მაგალითად ტექნიკური პირობების 76- ე პოზიცია  სამკაპი 200X63 <br />
+აეწყობა შემდეგნაირად სამკაპი 200X90  + 90 ელ ქურო + 90X63 გადამყვანი<br />
+ამით თქვენი მოთხოვნა სრულდება ანუ ფიტინგი შეასრულებს თავის ფუნქციას <br />
+და შესაბამის წნევას და მახასიათებლებს დააკმაყოფილებს <br />
+ეს პრაქტიკა საკმაოდ გავრცელებული პრაქტიკაა</p>
+			<div style="display: none" id="ANS23987">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_121319_23958" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">28.07.2014 16:54</span> ო და კ ბილდინგ კომპანი :: ქენან ოსმან ილდირიმი</p>
+			<p class="chatmessgase activebid1">ტექნიკური პირობებოს პოზ120 პოლიეთილენის ელექტრო უნაგირი 160X75<br />
+ეს ზომა იმ ნიმუშის (სურათის)რომელიც მითითებულია ტექნიკურ პირობებში<br />
+ჩვენი ინფორმაციით საერთოდ არ იწარმოება ამ ნიმუშის უნაგირების გამომსვლელების დიამეტრები როგორც წესი არის 20;32;25;32;40;50;63 უფრო დიდი დიამეტრის გამომსვლელით უნაგირები იწარმოება ჩამხვრეტის გარეშე ე.წ &quot;ბრენჩი&quot;  ან 'სემერ&quot; გთხოვთ გვიპასუხოთ დასაშვებია თუ არა  აღნიშნული ზომის უნაგირები მოწოდებული იქნეს ჩამხვრეტის გარეშე</p>
+			<div style="display: none" id="ANS23958">...</div>
+		</div>
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 230`000.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან 40 (ორმოცი) კალენდარული დღის განმავლობაში</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B121319145918">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4503)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ფიტინგი</span>
+			</td>
+		<td class="activebid1"><strong>230`000.00</strong>&nbsp;<br/><span class="date">19.08.2014 11:38</span></td>
+		<td class="activebid1">230`000.00&nbsp;<br/><span class="date">19.08.2014 11:38</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(121319,145918)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B121319145852">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(41616)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">shps SERMELLI TRANSPORT COMPANY</span>
+			</td>
+		<td class="activebid1"><strong>184`900.00</strong>&nbsp;<br/><span class="date">19.08.2014 12:32</span></td>
+		<td class="activebid1">230`000.00&nbsp;<br/><span class="date">18.08.2014 17:57</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(121319,145852)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B121319145884">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(36531)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ვალ-მურ პლასტ ჯორჯია</span>
+			</td>
+		<td class="activebid1"><strong>184`800.00</strong>&nbsp;<br/><span class="date">19.08.2014 12:34</span></td>
+		<td class="activebid1">219`604.00&nbsp;<br/><span class="date">19.08.2014 10:26</span></td>
+		<td align="center" class="activebid1">[4] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(121319,145884)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B121319145927">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4650)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ჯეოტურანი</span>
+			</td>
+		<td class="activebid1"><strong>179`999.00</strong>&nbsp;<br/><span class="date">19.08.2014 12:24</span></td>
+		<td class="activebid1">217`999.00&nbsp;<br/><span class="date">19.08.2014 11:55</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star2.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(121319,145927)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B121319145932">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(5601)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ო და კ ბილდინგ კომპანი</span>
+			</td>
+		<td class="activebid1"><strong>179`000.00</strong>&nbsp;<br/><span class="date">19.08.2014 12:25</span></td>
+		<td class="activebid1">185`000.00&nbsp;<br/><span class="date">19.08.2014 11:58</span></td>
+		<td align="center" class="activebid1">[2] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(121319,145932)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">ფიტინგი</td>
+		<td align="center" class="activebid1"><strong>230`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">shps SERMELLI TRANSPORT COMPANY</td>
+		<td align="center" class="activebid1"><strong>217`990.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:09</td>
+		<td align="center" class="activebid1">12:11</td>
+		<td class="activebid1">შპს ვალ-მურ პლასტ ჯორჯია</td>
+		<td align="center" class="activebid1"><strong>215`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:11</td>
+		<td align="center" class="activebid1">12:13</td>
+		<td class="activebid1">ჯეოტურანი</td>
+		<td align="center" class="activebid1"><strong>211`111.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">ო და კ ბილდინგ კომპანი</td>
+		<td align="center" class="activebid1"><strong>185`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">ფიტინგი</td>
+		<td align="center" class="activebid1"><strong>230`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:19</td>
+		<td align="center" class="activebid1">12:21</td>
+		<td class="activebid1">shps SERMELLI TRANSPORT COMPANY</td>
+		<td align="center" class="activebid1"><strong>211`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:21</td>
+		<td align="center" class="activebid1">12:23</td>
+		<td class="activebid1">შპს ვალ-მურ პლასტ ჯორჯია</td>
+		<td align="center" class="activebid1"><strong>207`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:23</td>
+		<td align="center" class="activebid1">12:25</td>
+		<td class="activebid1">ჯეოტურანი</td>
+		<td align="center" class="activebid1"><strong>179`999.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:25</td>
+		<td align="center" class="activebid1">12:27</td>
+		<td class="activebid1">ო და კ ბილდინგ კომპანი</td>
+		<td align="center" class="activebid1"><strong>179`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:29</td>
+		<td align="center" class="activebid1">12:31</td>
+		<td class="activebid1">ფიტინგი</td>
+		<td align="center" class="activebid1"><strong>230`000.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:31</td>
+		<td align="center" class="activebid1">12:33</td>
+		<td class="activebid1">shps SERMELLI TRANSPORT COMPANY</td>
+		<td align="center" class="activebid1"><strong>184`900.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:33</td>
+		<td align="center" class="activebid1">12:35</td>
+		<td class="activebid1">შპს ვალ-მურ პლასტ ჯორჯია</td>
+		<td align="center" class="activebid1"><strong>184`800.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:35</td>
+		<td align="center" class="activebid1">12:37</td>
+		<td class="activebid1">ჯეოტურანი</td>
+		<td align="center" class="activebid1"><strong>179`999.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:37</td>
+		<td align="center" class="activebid1">12:39</td>
+		<td class="activebid1">ო და კ ბილდინგ კომპანი</td>
+		<td align="center" class="activebid1"><strong>179`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B121319">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4503)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ფიტინგი</span>
+		</td>
+		<td class="activebid1"><strong>230`000.00</strong></td>
+		<td class="date activebid1">19.08.2014 11:38</td>
+	</tr><tr bgcolor="#ffffff" id="B121319">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(41616)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">shps SERMELLI TRANSPORT COMPANY</span>
+		</td>
+		<td class="activebid1"><strong>230`000.00</strong></td>
+		<td class="date activebid1">18.08.2014 17:57</td>
+	</tr><tr bgcolor="#ffffff" id="B121319">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(36531)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ვალ-მურ პლასტ ჯორჯია</span>
+		</td>
+		<td class="activebid1"><strong>219`604.00</strong></td>
+		<td class="date activebid1">19.08.2014 10:26</td>
+	</tr><tr bgcolor="#ffffff" id="B121319">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(4650)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ჯეოტურანი</span>
+		</td>
+		<td class="activebid1"><strong>217`999.00</strong></td>
+		<td class="date activebid1">19.08.2014 11:55</td>
+	</tr><tr bgcolor="#ffffff" id="B121319">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(5601)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ო და კ ბილდინგ კომპანი</span>
+		</td>
+		<td class="activebid1"><strong>185`000.00</strong></td>
+		<td class="date activebid1">19.08.2014 11:58</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'121319'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'121319'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="875058.1409079257.121319">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=875058&code=1409079257">
+                    SPA140018187_ოქმი N2.pdf
+                    </a>
+                </td>
+                <td class="date">26.08.2014 18:54 :: ნანა გახოკიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="875059.1409079262.121319">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=875059&code=1409079262">
+                    SPA140018187_წერილი.pdf
+                    </a>
+                </td>
+                <td class="date">26.08.2014 18:54 :: ნანა გახოკიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878011.1409585301.121319">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=878011&code=1409585301">
+                    SPA140018187_TEGAS CERILI.pdf
+                    </a>
+                </td>
+                <td class="date">01.09.2014 15:28 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878012.1409585312.121319">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=878012&code=1409585312">
+                    SPA140018187_sertifikati TEGA.pdf
+                    </a>
+                </td>
+                <td class="date">01.09.2014 15:28 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878013.1409585336.121319">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=878013&code=1409585336">
+                    SPA140018187_PAsebis Cxrili.pdf
+                    </a>
+                </td>
+                <td class="date">01.09.2014 15:28 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878014.1409585355.121319">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=878014&code=1409585355">
+                    SPA140018187_danarti 2.PDF
+                    </a>
+                </td>
+                <td class="date">01.09.2014 15:29 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878015.1409585363.121319">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=878015&code=1409585363">
+                    SPA140018187_borpas kompresiuli fitingebi.pdf
+                    </a>
+                </td>
+                <td class="date">01.09.2014 15:29 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878016.1409585378.121319">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=878016&code=1409585378">
+                    SPA140018187_borbas flianecebi.PDF
+                    </a>
+                </td>
+                <td class="date">01.09.2014 15:29 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878071.1409587753.121319">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=878071&code=1409587753">
+                    SPA140018187_TEGAS CERILI.pdf
+                    </a>
+                </td>
+                <td class="date">01.09.2014 16:09 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878082.1409587856.121319">
+                <td>10.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=878082&code=1409587856">
+                    SPA140018187_TEGAS INVOISI.pdf
+                    </a>
+                </td>
+                <td class="date">01.09.2014 16:10 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878083.1409587877.121319">
+                <td>11.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=878083&code=1409587877">
+                    SPA140018187_FASEBIS DASABUTEBA.PDF
+                    </a>
+                </td>
+                <td class="date">01.09.2014 16:11 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="878154.1409589431.121319">
+                <td>12.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=878154&code=1409589431">
+                    SPA140018187_DANARTI #2.PDF
+                    </a>
+                </td>
+                <td class="date">01.09.2014 16:37 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="892064.1410891942.121319">
+                <td>13.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=892064&code=1410891942">
+                    SPA140018187_ოქმი N3.PDF
+                    </a>
+                </td>
+                <td class="date">16.09.2014 18:25 :: მარიამ ბახუტაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="892067.1410892073.121319">
+                <td>14.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=892067&code=1410892073">
+                    SPA140018187_წერილი.pdf
+                    </a>
+                </td>
+                <td class="date">16.09.2014 18:27 :: მარიამ ბახუტაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="892107.1410893078.121319">
+                <td>15.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=892107&code=1410893078">
+                    SPA140018187_TETRI SIA.pdf
+                    </a>
+                </td>
+                <td class="date">16.09.2014 18:44 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="893258.1410980211.121319">
+                <td>16.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=893258&code=1410980211">
+                    SPA140018187_ოქმი N4.pdf
+                    </a>
+                </td>
+                <td class="date">17.09.2014 18:56 :: ნინო ტყებუჩავა</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="893262.1410980243.121319">
+                <td>17.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=893262&code=1410980243">
+                    SPA140018187_წერილი.pdf
+                    </a>
+                </td>
+                <td class="date">17.09.2014 18:57 :: ნინო ტყებუჩავა</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="898404.1411473266.121319">
+                <td>18.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=898404&code=1411473266">
+                    SPA140018187_DRG-ES GADAMXDELIS CNOBACNOBA.pdf
+                    </a>
+                </td>
+                <td class="date">23.09.2014 11:54 :: ქენან ოსმან ილდირიმი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A130415">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული გადამყვანი (ხრახნიანი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 09:35 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.13 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;625.40 GEL</td>
+                <td title="40x20 PN16, SDR-11">40x20 PN16...</td>
+            </tr><tr id="A130419">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული გადამყვანი (ხრახნიანი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 09:38 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">6.05 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`210.68 GEL</td>
+                <td title="63x32 PN16, SDR-11">63x32 PN16...</td>
+            </tr><tr id="A130425">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული გადამყვანი (ხრახნიანი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 09:42 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">6.05 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`210.68 GEL</td>
+                <td title="63x50 PN16, SDR-11">63x50 PN16...</td>
+            </tr><tr id="A130417">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული გადამყვანი (ხრახნიანი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 09:37 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">7.27 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`453.76 GEL</td>
+                <td title="50x20 PN16, SDR-11">50x20 PN16...</td>
+            </tr><tr id="A130421">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული გადამყვანი (ხრახნიანი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 09:39 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">6.05 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`210.68 GEL</td>
+                <td title="63x40 PN16, SDR-11">63x40 PN16...</td>
+            </tr><tr id="A129655">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პოლიეთილენზე გადამყვანი (გარე ხრახნი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:32 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">9.39 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4`696.40 GEL</td>
+                <td title="25*20 PN16 SDR -11, PE-100">25*20 PN16...</td>
+            </tr><tr id="A129659">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პოლიეთილენზე გადამყვანი (გარე ხრახნი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:33 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">17.95 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;5`384.34 GEL</td>
+                <td title="40*32 PN16 SDR -11, PE-100">40*32 PN16...</td>
+            </tr><tr id="A129663">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პოლიეთილენზე გადამყვანი (გარე ხრახნი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:34 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">20.89 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;6`265.80 GEL</td>
+                <td title="50*40 PN16 SDR -11, PE-100">50*40 PN16...</td>
+            </tr><tr id="A129665">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პოლიეთილენზე გადამყვანი (გარე ხრახნი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:35 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">25.65 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7`695.96 GEL</td>
+                <td title="63*50 PN16 SDR-11,  PE-100">63*50 PN16...</td>
+            </tr><tr id="A129667">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:37 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">27.82 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;834.73 GEL</td>
+                <td title="D=63, PN16 SDR-11, PE-100">D=63, PN16...</td>
+            </tr><tr id="A129683">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:03 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">79.01 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`370.38 GEL</td>
+                <td title="D=75, PN16 SDR-11, PE-100">D=75, PN16...</td>
+            </tr><tr id="A129685">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:04 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">84.24 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`527.21 GEL</td>
+                <td title="D=90, PN16 SDR-11, PE-100">D=90, PN16...</td>
+            </tr><tr id="A129687">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:04 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">129.16 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`874.88 GEL</td>
+                <td title="D=110, PN16 SDR-11, PE-100">D=110, PN1...</td>
+            </tr><tr id="A129689">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:14 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">164.75 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;659.01 GEL</td>
+                <td title="D=125, PN16 SDR-11, PE-100">D=125, PN1...</td>
+            </tr><tr id="A129691">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:15 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">333.86 GEL<br/>
+                <span class="color-2">12 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4`006.29 GEL</td>
+                <td title="D=160, PN16 SDR-11, PE-100">D=160, PN1...</td>
+            </tr><tr id="A129695">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:16 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">662.97 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`651.88 GEL</td>
+                <td title="D=200, PN16 SDR-11, PE-100">D=200, PN1...</td>
+            </tr><tr id="A129697">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:17 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">674.57 GEL<br/>
+                <span class="color-2">6 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4`047.42 GEL</td>
+                <td title="D=225, PN16 SDR-11, PE-100">D=225, PN1...</td>
+            </tr><tr id="A129699">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:18 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">780.05 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`120.20 GEL</td>
+                <td title="D=250, PN16 SDR-11, PE-100">D=250, PN1...</td>
+            </tr><tr id="A129701">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:22 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">1`634.38 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;6`537.53 GEL</td>
+                <td title="D=315, PN16 SDR-11, PE-100">D=315, PN1...</td>
+            </tr><tr id="A129703">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>ლითონიდან პილიეთილენზე გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:23 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">1`842.38 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7`369.52 GEL</td>
+                <td title="D=355, PN16 SDR-11, PE-100">D=355, PN1...</td>
+            </tr><tr id="A129856">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 16:51 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.37 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;94.87 GEL</td>
+                <td title="D =50, PN16">D =50, PN1...</td>
+            </tr><tr id="A129858">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 16:55 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.04 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;304.44 GEL</td>
+                <td title="D =63, PN16">D =63, PN1...</td>
+            </tr><tr id="A129865">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:01 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">5.03 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;100.54 GEL</td>
+                <td title="D =75, PN16">D =75, PN1...</td>
+            </tr><tr id="A129869">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:03 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">5.27 GEL<br/>
+                <span class="color-2">60 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;316.48 GEL</td>
+                <td title="D =90, PN16">D =90, PN1...</td>
+            </tr><tr id="A129875">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:12 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">8.80 GEL<br/>
+                <span class="color-2">80 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;704.22 GEL</td>
+                <td title="D =110, PN16">D =110, PN...</td>
+            </tr><tr id="A129879">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:13 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">10.02 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;40.07 GEL</td>
+                <td title="D =125, PN16">D =125, PN...</td>
+            </tr><tr id="A129881">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:14 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">19.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;379.96 GEL</td>
+                <td title="D =160, PN16">D =160, PN...</td>
+            </tr><tr id="A129885">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:15 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">28.87 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;115.50 GEL</td>
+                <td title="D =200, PN16">D =200, PN...</td>
+            </tr><tr id="A129889">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:17 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">57.45 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;229.82 GEL</td>
+                <td title="D =250, PN16">D =250, PN...</td>
+            </tr><tr id="A129891">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:18 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">81.93 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;327.71 GEL</td>
+                <td title="D =315, PN16">D =315, PN...</td>
+            </tr><tr id="A129895">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთ.მილტუჩა ადაპტორი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 17:18 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">142.43 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;284.85 GEL</td>
+                <td title="D =355, PN16">D =355, PN...</td>
+            </tr><tr id="A130463">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:09 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">51.90 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;518.96 GEL</td>
+                <td title="160x75x160 PN16, SDR-11, PE-100">160x75x160...</td>
+            </tr><tr id="A130651">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:34 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">7.13 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`138.16 GEL</td>
+                <td title="50x25 PN16, sdr-11, PE-100">50x25 PN16...</td>
+            </tr><tr id="A130657">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:36 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.95 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;737.50 GEL</td>
+                <td title="50x32 PN16, sdr-11, PE-100">50x32 PN16...</td>
+            </tr><tr id="A130663">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:37 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.95 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;737.50 GEL</td>
+                <td title="50x40 PN16, sdr-11, PE-100">50x40 PN16...</td>
+            </tr><tr id="A130667">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:37 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.49 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`047.84 GEL</td>
+                <td title="63x50 PN16, sdr-11, PE-100">63x50 PN16...</td>
+            </tr><tr id="A130669">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:38 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.49 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;698.56 GEL</td>
+                <td title="63x40 PN16, sdr-11, PE-100">63x40 PN16...</td>
+            </tr><tr id="A130673">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:39 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.49 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;523.92 GEL</td>
+                <td title="63x32 PN16, sdr-11, PE-100">63x32 PN16...</td>
+            </tr><tr id="A130681">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:43 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.58 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;516.84 GEL</td>
+                <td title="40x25 PN16, sdr-11, PE-100">40x25 PN16...</td>
+            </tr><tr id="A130687">
+                <td>
+                    &nbsp;
+                    <span title="44167111 - მილტუჩას გადამყვანები">44167111 - მილტუჩას გადამყვანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის გადამყვანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:44 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.58 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;516.84 GEL</td>
+                <td title="40x32 PN16, sdr-11, PE-100">40x32 PN16...</td>
+            </tr><tr id="A130523">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:28 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">14.99 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`997.20 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A130529">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:31 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4`956.00 GEL</td>
+                <td title="63x40 PN16, sdr-11, PE-100">63x40 PN16...</td>
+            </tr><tr id="A130533">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:36 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">14.99 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`247.90 GEL</td>
+                <td title="75x25 PN16, sdr-11, PE-100">75x25 PN16...</td>
+            </tr><tr id="A130535">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:39 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">14.99 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`247.90 GEL</td>
+                <td title="75x32 PN16, sdr-11, PE-100">75x32 PN16...</td>
+            </tr><tr id="A130543">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:45 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">16.53 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`306.36 GEL</td>
+                <td title="90x20 PN16, sdr-11, PE-100">90x20 PN16...</td>
+            </tr><tr id="A130567">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:55 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">16.53 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`306.36 GEL</td>
+                <td title="110x20 PN16, sdr-11, PE-100">110x20 PN1...</td>
+            </tr><tr id="A130571">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:58 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">16.53 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`653.18 GEL</td>
+                <td title="110x32 PN16, sdr-11, PE-100">110x32 PN1...</td>
+            </tr><tr id="A130577">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:02 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`478.00 GEL</td>
+                <td title="110x63 PN16, sdr-11, PE-100">110x63 PN1...</td>
+            </tr><tr id="A130585">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:05 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">18.11 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`622.60 GEL</td>
+                <td title="160x25 PN16, sdr-11, PE-100">160x25 PN1...</td>
+            </tr><tr id="A130605">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:12 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">20.30 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;405.92 GEL</td>
+                <td title="225x25 PN16, sdr-11, PE-100">225x25 PN1...</td>
+            </tr><tr id="A130615">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:17 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`717.00 GEL</td>
+                <td title="160x50 PN16, sdr-11, PE-100">160x50 PN1...</td>
+            </tr><tr id="A130537">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:41 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`717.00 GEL</td>
+                <td title="75x40 PN16, sdr-11, PE-100">75x40 PN16...</td>
+            </tr><tr id="A130553">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:49 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">16.53 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`653.18 GEL</td>
+                <td title="90x25 PN16, sdr-11, PE-100">90x25 PN16...</td>
+            </tr><tr id="A130555">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:50 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">16.53 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`306.36 GEL</td>
+                <td title="90x32 PN16, sdr-11, PE-100">90x32 PN16...</td>
+            </tr><tr id="A130569">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:57 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">16.53 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`479.77 GEL</td>
+                <td title="110x25 PN16, sdr-11, PE-100">110x25 PN1...</td>
+            </tr><tr id="A130573">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:59 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`478.00 GEL</td>
+                <td title="110x40 PN16, sdr-11, PE-100">110x40 PN1...</td>
+            </tr><tr id="A130581">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:03 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">16.53 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;661.27 GEL</td>
+                <td title="125x25 PN16, sdr-11, PE-100">125x25 PN1...</td>
+            </tr><tr id="A130591">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:07 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4`956.00 GEL</td>
+                <td title="160x40 PN16, sdr-11, PE-100">160x40 PN1...</td>
+            </tr><tr id="A130597">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:09 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">58.88 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;883.23 GEL</td>
+                <td title="160x75 PN16, sdr-11, PE-100">160x75 PN1...</td>
+            </tr><tr id="A130599">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:11 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">20.30 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;304.44 GEL</td>
+                <td title="200x25 PN16, sdr-11, PE-100">200x25 PN1...</td>
+            </tr><tr id="A130611">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:17 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">31.55 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`262.13 GEL</td>
+                <td title="250x40 PN16, sdr-11, PE-100">250x40 PN1...</td>
+            </tr><tr id="A130623">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:22 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">135.20 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`704.09 GEL</td>
+                <td title="315x40 PN16, sdr-11, PE-100">315x40 PN1...</td>
+            </tr><tr id="A130541">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:44 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`478.00 GEL</td>
+                <td title="75x50 PN16, sdr-11, PE-100">75x50 PN16...</td>
+            </tr><tr id="A130561">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:52 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`239.00 GEL</td>
+                <td title="90x40 PN16, sdr-11, PE-100">90x40 PN16...</td>
+            </tr><tr id="A130583">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:04 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;991.20 GEL</td>
+                <td title="125x40 PN16, sdr-11, PE-100">125x40 PN1...</td>
+            </tr><tr id="A130587">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:06 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">18.11 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`622.60 GEL</td>
+                <td title="160x32 PN16, sdr-11, PE-100">160x32 PN1...</td>
+            </tr><tr id="A130601">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:11 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">30.62 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;306.21 GEL</td>
+                <td title="200x40 PN16, sdr-11, PE-100">200x40 PN1...</td>
+            </tr><tr id="A130703">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 13:10 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">135.20 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;676.02 GEL</td>
+                <td title="355x40 PN16, sdr-11, PE-100">355x40 PN1...</td>
+            </tr><tr id="A130525">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:30 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">14.99 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`997.20 GEL</td>
+                <td title="63x25 PN16, sdr-11, PE-100">63x25 PN16...</td>
+            </tr><tr id="A130563">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:53 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`478.00 GEL</td>
+                <td title="90x50 PN16, sdr-11, PE-100">90x50 PN16...</td>
+            </tr><tr id="A130575">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:00 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`478.00 GEL</td>
+                <td title="110x50 PN16, sdr-11, PE-100">110x50 PN1...</td>
+            </tr><tr id="A130595">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:08 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">24.78 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`478.00 GEL</td>
+                <td title="160x63 PN16, sdr-11, PE-100">160x63 PN1...</td>
+            </tr><tr id="A130527">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:31 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">14.99 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`997.20 GEL</td>
+                <td title="63x32 PN16, sdr-11, PE-100">63x32 PN16...</td>
+            </tr><tr id="A130531">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:32 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">14.99 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`247.90 GEL</td>
+                <td title="75x20 PN16, sdr-11, PE-100">75x20 PN16...</td>
+            </tr><tr id="A130607">
+                <td>
+                    &nbsp;
+                    <span title="44163200 - მილსადენების არმატურა ">44163200 - მილსადენების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო უნაგირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:13 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">31.55 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;631.06 GEL</td>
+                <td title="225x40 PN16, sdr-11, PE-100">225x40 PN1...</td>
+            </tr><tr id="A129605">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:08 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.03 GEL<br/>
+                <span class="color-2">700 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`420.72 GEL</td>
+                <td title="D=25, PN16 SDR -11">D=25, PN16...</td>
+            </tr><tr id="A129613">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:10 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.11 GEL<br/>
+                <span class="color-2">800 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`689.76 GEL</td>
+                <td title="D=32, PN16 SDR -11">D=32, PN16...</td>
+            </tr><tr id="A129617">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:11 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.48 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;495.60 GEL</td>
+                <td title="D=40, PN16 SDR -11">D=40, PN16...</td>
+            </tr><tr id="A129621">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:12 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.53 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;352.82 GEL</td>
+                <td title="D=50, PN16 SDR -11">D=50, PN16...</td>
+            </tr><tr id="A129623">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:13 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.69 GEL<br/>
+                <span class="color-2">400 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`477.36 GEL</td>
+                <td title="D=63, PN16 SDR -11">D=63, PN16...</td>
+            </tr><tr id="A129627">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:14 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">5.03 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;502.68 GEL</td>
+                <td title="D=75, PN16 SDR -11">D=75, PN16...</td>
+            </tr><tr id="A129631">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:15 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">9.29 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`392.99 GEL</td>
+                <td title="D=110, PN16 SDR -11">D=110, PN1...</td>
+            </tr><tr id="A129635">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:16 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">12.87 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;257.48 GEL</td>
+                <td title="D=125, PN16 SDR -11">D=125, PN1...</td>
+            </tr><tr id="A129639">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:17 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">19.89 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`984.22 GEL</td>
+                <td title="D=160, PN16 SDR -11">D=160, PN1...</td>
+            </tr><tr id="A129643">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:18 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">42.28 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;845.59 GEL</td>
+                <td title="D=225, PN16 SDR -11">D=225, PN1...</td>
+            </tr><tr id="A129645">
+                <td>
+                    &nbsp;
+                    <span title="44167100 - შემაერთებელი ქუროები">44167100 - შემაერთებელი ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის ელექტრო ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 11:19 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">81.16 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`623.21 GEL</td>
+                <td title="D=250, PN16 SDR -11">D=250, PN1...</td>
+            </tr><tr id="A130649">
+                <td>
+                    &nbsp;
+                    <span title="44167110 - მილტუჩები">44167110 - მილტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">(URAS) (თურქეთი)<br/>მილტუჩი ფოლადის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:32 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">232.80 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`328.02 GEL</td>
+                <td title="D =400, PN16">D =400, PN...</td>
+            </tr><tr id="A130637">
+                <td>
+                    &nbsp;
+                    <span title="44167110 - მილტუჩები">44167110 - მილტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">(URAS) (თურქეთი)<br/>მილტუჩი ფოლადის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:26 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">21.91 GEL<br/>
+                <span class="color-2">80 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`753.01 GEL</td>
+                <td title="D =100, PN16">D =100, PN...</td>
+            </tr><tr id="A130645">
+                <td>
+                    &nbsp;
+                    <span title="44167110 - მილტუჩები">44167110 - მილტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">(URAS) (თურქეთი)<br/>მილტუჩი ფოლადის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:30 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">89.15 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`674.47 GEL</td>
+                <td title="D =250, PN16">D =250, PN...</td>
+            </tr><tr id="A130641">
+                <td>
+                    &nbsp;
+                    <span title="44167110 - მილტუჩები">44167110 - მილტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">(URAS) (თურქეთი)<br/>მილტუჩი ფოლადის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:29 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">40.67 GEL<br/>
+                <span class="color-2">70 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`847.22 GEL</td>
+                <td title="D =150, PN16">D =150, PN...</td>
+            </tr><tr id="A130643">
+                <td>
+                    &nbsp;
+                    <span title="44167110 - მილტუჩები">44167110 - მილტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">(URAS) (თურქეთი)<br/>მილტუჩი ფოლადის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:30 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">53.17 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`658.54 GEL</td>
+                <td title="D =200, PN16">D =200, PN...</td>
+            </tr><tr id="A130647">
+                <td>
+                    &nbsp;
+                    <span title="44167110 - მილტუჩები">44167110 - მილტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">(URAS) (თურქეთი)<br/>მილტუჩი ფოლადის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:31 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">114.17 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`283.30 GEL</td>
+                <td title="D =300, PN16">D =300, PN...</td>
+            </tr><tr id="A130633">
+                <td>
+                    &nbsp;
+                    <span title="44167110 - მილტუჩები">44167110 - მილტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">(URAS) (თურქეთი)<br/>მილტუჩი ფოლადის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:25 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">20.37 GEL<br/>
+                <span class="color-2">80 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`629.34 GEL</td>
+                <td title="D =80, PN16">D =80, PN1...</td>
+            </tr><tr id="A130691">
+                <td>
+                    &nbsp;
+                    <span title="44165300 - მილის ქუროები">44165300 - მილის ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული ხრახნიანი ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:49 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.39 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;507.99 GEL</td>
+                <td title="D=40, PN16 SDR-11">D=40, PN16...</td>
+            </tr><tr id="A130693">
+                <td>
+                    &nbsp;
+                    <span title="44165300 - მილის ქუროები">44165300 - მილის ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული ხრახნიანი ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 12:50 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">4.60 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;920.40 GEL</td>
+                <td title="D=50, PN16 SDR-11">D=50, PN16...</td>
+            </tr><tr id="A130695">
+                <td>
+                    &nbsp;
+                    <span title="44165300 - მილის ქუროები">44165300 - მილის ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული ხრახნიანი ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 13:02 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">6.42 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`283.84 GEL</td>
+                <td title="D=63, PN16 SDR-11">D=63, PN16...</td>
+            </tr><tr id="A130697">
+                <td>
+                    &nbsp;
+                    <span title="44165300 - მილის ქუროები">44165300 - მილის ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული ხრახნიანი ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 13:03 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">13.61 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;272.11 GEL</td>
+                <td title="D=75, PN16 SDR-11">D=75, PN16...</td>
+            </tr><tr id="A130701">
+                <td>
+                    &nbsp;
+                    <span title="44165300 - მილის ქუროები">44165300 - მილის ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული ხრახნიანი ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 13:05 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">31.54 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`577.07 GEL</td>
+                <td title="D=110, PN16 SDR-11">D=110, PN1...</td>
+            </tr><tr id="A130699">
+                <td>
+                    &nbsp;
+                    <span title="44165300 - მილის ქუროები">44165300 - მილის ქუროები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული ხრახნიანი ქურო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 13:04 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">19.22 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;961.11 GEL</td>
+                <td title="D=90, PN16 SDR-11">D=90, PN16...</td>
+            </tr><tr id="A130501">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">პოლიეთილენის სამკაპი (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:54 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">99.14 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;198.29 GEL</td>
+                <td title="250x160x250 PN16, sdr-11, PE-100">250x160x25...</td>
+            </tr><tr id="A129737">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:51 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.19 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;109.74 GEL</td>
+                <td title="20x20x20 PN16, SDR-11">20x20x20 P...</td>
+            </tr><tr id="A129739">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:52 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.29 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;164.61 GEL</td>
+                <td title="25x20x25 PN16, SDR-11">25x20x25 P...</td>
+            </tr><tr id="A129741">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:53 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">2.61 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;130.39 GEL</td>
+                <td title="25x25x25 PN16, SDR-11">25x25x25 P...</td>
+            </tr><tr id="A129743">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:54 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.60 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;179.95 GEL</td>
+                <td title="32x20x32 PN16, SDR-11">32x20x32 P...</td>
+            </tr><tr id="A129745">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 12:56 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.60 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;179.95 GEL</td>
+                <td title="32x25x32 PN16, SDR-11">32x25x32 P...</td>
+            </tr><tr id="A129747">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 13:08 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">3.78 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;113.28 GEL</td>
+                <td title="32x32x32 PN16, SDR-11">32x32x32 P...</td>
+            </tr><tr id="A129749">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 13:09 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">5.14 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;514.48 GEL</td>
+                <td title="40x20x40 PN16, SDR-11">40x20x40 P...</td>
+            </tr><tr id="A129751">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 13:10 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">5.46 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;109.27 GEL</td>
+                <td title="40x40x40 PN16, SDR-11">40x40x40 P...</td>
+            </tr><tr id="A129753">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 13:11 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">10.24 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`024.24 GEL</td>
+                <td title="50x20x50 PN16, SDR-11">50x20x50 P...</td>
+            </tr><tr id="A129755">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 13:14 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">9.78 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;978.22 GEL</td>
+                <td title="50x25x50 PN16, SDR-11">50x25x50 P...</td>
+            </tr><tr id="A129757">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 13:18 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">7.35 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;367.57 GEL</td>
+                <td title="50x40x50 PN16, SDR-11">50x40x50 P...</td>
+            </tr><tr id="A129773">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 14:58 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">7.81 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;156.23 GEL</td>
+                <td title="50x50x50 PN16, SDR-11">50x50x50 P...</td>
+            </tr><tr id="A129775">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 14:59 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">14.57 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`185.95 GEL</td>
+                <td title="63x20x63 PN16, SDR-11">63x20x63 P...</td>
+            </tr><tr id="A129777">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 15:00 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">14.23 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`134.62 GEL</td>
+                <td title="63x25x63 PN16, SDR-11">63x25x63 P...</td>
+            </tr><tr id="A129779">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 15:03 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">10.87 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`630.17 GEL</td>
+                <td title="63x32x63 PN16, SDR-11">63x32x63 P...</td>
+            </tr><tr id="A129781">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 15:04 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">10.87 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;543.39 GEL</td>
+                <td title="63x40x63 PN16, SDR-11">63x40x63 P...</td>
+            </tr><tr id="A129783">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 15:06 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">10.87 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;326.03 GEL</td>
+                <td title="63x50x63 PN16, SDR-11">63x50x63 P...</td>
+            </tr><tr id="A129785">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GUR KALIP (თურქეთი)<br/>კომპრესიული (ხრახნიანი)სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">29.09.2014 15:06 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">11.62 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;232.46 GEL</td>
+                <td title="63x63x63 PN16, SDR-11">63x63x63 P...</td>
+            </tr><tr id="A130451">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:03 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">18.46 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;369.10 GEL</td>
+                <td title="75x63x75 PN16, SDR-11, PE-100">75x63x75 P...</td>
+            </tr><tr id="A130461">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:08 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">16.79 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;167.91 GEL</td>
+                <td title="110x110x110 PN16, SDR-11, PE-100">110x110x11...</td>
+            </tr><tr id="A130465">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:09 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">66.29 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;132.58 GEL</td>
+                <td title="200x63x200 PN16, SDR-11, PE-100">200x63x200...</td>
+            </tr><tr id="A130473">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:21 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">70.84 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;141.67 GEL</td>
+                <td title="200x160x200 PN16, SDR-11, PE-100">200x160x20...</td>
+            </tr><tr id="A130503">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:55 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">134.59 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;269.18 GEL</td>
+                <td title="250x225x250 PN16, sdr-11, PE-100">250x225x25...</td>
+            </tr><tr id="A130509">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:59 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">168.06 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;336.11 GEL</td>
+                <td title="315x160x315 PN16, sdr-11, PE-100">315x160x31...</td>
+            </tr><tr id="A130515">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:01 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">223.91 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;447.81 GEL</td>
+                <td title="355x160x355 PN16, sdr-11, PE-100">355x160x35...</td>
+            </tr><tr id="A130449">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:02 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">4.57 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;91.33 GEL</td>
+                <td title="63x63x63 PN16, SDR-11, PE-100">63x63x63 P...</td>
+            </tr><tr id="A130453">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:04 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">9.94 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;198.71 GEL</td>
+                <td title="75x75x75 PN16, SDR-11, PE-100">75x75x75 P...</td>
+            </tr><tr id="A130457">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:06 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">10.44 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;208.86 GEL</td>
+                <td title="90x90x90 PN16, SDR-11, PE-100">90x90x90 P...</td>
+            </tr><tr id="A130459">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:07 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">31.15 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;623.04 GEL</td>
+                <td title="110x75x110 PN16, SDR-11, PE-100">110x75x110...</td>
+            </tr><tr id="A130467">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:16 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">66.80 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;133.60 GEL</td>
+                <td title="200x75x200 PN16, SDR-11, PE-100">200x75x200...</td>
+            </tr><tr id="A130469">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:19 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">55.77 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;111.53 GEL</td>
+                <td title="200x90x200 PN16, SDR-11, PE-100">200x90x200...</td>
+            </tr><tr id="A130475">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:22 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">75.86 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;151.72 GEL</td>
+                <td title="200x200x200 PN16, SDR-11, PE-100">200x200x20...</td>
+            </tr><tr id="A130477">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:23 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">82.29 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;164.59 GEL</td>
+                <td title="225x160x225 PN16, SDR-11, PE-100">225x160x22...</td>
+            </tr><tr id="A130479">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:24 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">173.37 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;346.73 GEL</td>
+                <td title="225x200x225 PN16, SDR-11, PE-100">225x200x22...</td>
+            </tr><tr id="A130495">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:50 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">96.77 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;193.54 GEL</td>
+                <td title="225x225x225 PN16, sdr-11, PE-100">225x225x22...</td>
+            </tr><tr id="A130447">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:01 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">9.94 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;198.71 GEL</td>
+                <td title="63x50x63 PN16, SDR-11, PE-100">63x50x63 P...</td>
+            </tr><tr id="A130455">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:05 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">21.48 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;429.52 GEL</td>
+                <td title="90x75x90 PN16, SDR-11, PE-100">90x75x90 P...</td>
+            </tr><tr id="A130471">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:20 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">59.46 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;118.92 GEL</td>
+                <td title="200x110x200 PN16, sdr-11, PE-100">200x110x20...</td>
+            </tr><tr id="A130511">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:00 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">216.62 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;433.25 GEL</td>
+                <td title="315x200x315 PN16, sdr-11, PE-100">315x200x31...</td>
+            </tr><tr id="A130497">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:53 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">79.58 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;159.16 GEL</td>
+                <td title="250x110x250 PN16, sdr-11, PE-100">250x110x25...</td>
+            </tr><tr id="A130507">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 10:56 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">139.38 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;278.76 GEL</td>
+                <td title="250x250x250 PN16, sdr-11, PE-100">250x250x25...</td>
+            </tr><tr id="A130513">
+                <td>
+                    &nbsp;
+                    <span title="44167300 - მუხლები, სამკაპები და მილების არმატურა ">44167300 - მუხლები, სამკაპები და მილების არმატურა ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თეგა (თურქეთი)<br/>პოლიეთილენის სამკაპი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">01.10.2014 11:01 :: ნინო ტყებუჩავა</div>
+                </td>
+                <td align="right">222.16 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;444.32 GEL</td>
+                <td title="315x225x315 PN16, sdr-11, PE-100">315x225x31...</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'121319'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg20" style="font-weight:bold">შესრულებული ხელშეკრულება</span><br/>
+			<span class="date">ლიზა ჭოველიძე :: 19.11.2014</span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(5601)"><img src="images/profile24.png"></a> <strong>ო და კ ბილდინგ კომპანი</strong><br/>
+				
+					ნომერი/თანხა: NT-092301 / <span class="convertme" id="211220-GEL-03.10.2014 16:23">211220 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 23.09.2014 - 02.12.2014<br/>
+					<span class="date">03.10.2014 16:23</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=106605"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="121319">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="121319">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="121319">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="909757.1412353776.121319">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=909757&code=1412353776">
+SPA140018187_საავანსო საბანკო გარანტია T-092301.pdf
+</a>
+</td>
+<td class="date">03.10.2014 16:29 :: ნინო ტყებუჩავა</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="949606.1415889988.121319">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=949606&code=1415889988">
+SPA140018187_შესრულება T-092301 I ნაწილი.pdf
+</a>
+</td>
+<td class="date">13.11.2014 14:46 :: ნათია ელიავა</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="949607.1415890002.121319">
+<td>3.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=949607&code=1415890002">
+SPA140018187_შესრულება T-092301 II ნაწილი.pdf
+</a>
+</td>
+<td class="date">13.11.2014 14:46 :: ნათია ელიავა</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 211`220.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 211`220.00 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>147`854.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>14.11.2014&nbsp;
+
+</td>
+<td class="date">19.11.2014<br>ლიზა ჭოველიძე</td>
+</tr><tr class="activebid1">
+<td>63`366.00 ლარი<span class="color-1">&nbsp;(ავანსი)</span><br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>30.09.2014&nbsp;
+
+</td>
+<td class="date">08.10.2014<br>ნინო ტყებუჩავა</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'121319'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

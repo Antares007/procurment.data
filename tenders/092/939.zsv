@@ -1,0 +1,4130 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA130020331</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv92939" /><label for="fv92939"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1929)"><img src="images/profile24_0.png"> ბოლნისის მუნიციპალიტეტი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>16.09.2013 17:40</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>02.10.2013 00:04</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>07.10.2013 18:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2013 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="629850-GEL-16.09.2013 17:40">629`850.00 GEL</span> </td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;45200000 - მთლიანი ან ნაწილობრივი სამშენებლო სამუშაოები და სამოქალაქო მშენებლობის სამუშაოები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;45200000 - მთლიანი ან ნაწილობრივი სამშენებლო სამუშაოები და სამოქალაქო მშენებლობის სამუშაოები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">ქ. ბოლნისის  ქუჩების  მოასფალტებისა  და  ქ. ბოლნისში დ. აღმაშენებლის ქ.#43-ში  მდებარე  კორპუსის ეზოს  მოასფალტება - ტროტუარის  მოწყობის  სამუშაოები </div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაციაში</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან 40 კალენდარული დღე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>6`299.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>6`299 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=92939&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="92939">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: გიორგი მათეშვილი :: 16.09.2013 16:54</li>
+	<li style="text-align:right">ბოლო შესწორება: გიორგი მათეშვილი :: 16.09.2013 16:54</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:92939, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '92939'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="560137.1379350497.92939">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560137&code=1379350497">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560137&code=1379350497">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაქცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:54<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560140.1379350539.92939">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560140&code=1379350539">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560140&code=1379350539">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი #1 -- რეკვიზიტები.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:55<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560142.1379350550.92939">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560142&code=1379350550">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560142&code=1379350550">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი #2 -- სატენდერო წინადადების განფასება.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:55<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560144.1379350580.92939">
+					<td><span class="opgear">4.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560144&code=1379350580">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560144&code=1379350580">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი 3 -- სამუშაოს შესრულების გეგმა-გრაფიკი.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:56<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560146.1379350611.92939">
+					<td><span class="opgear">5.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560146&code=1379350611">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560146&code=1379350611">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_დანართი #4 -- ინფორმაცია გამოცდილების შესახებ.pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:56<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560148.1379350644.92939">
+					<td><span class="opgear">6.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560148&code=1379350644">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560148&code=1379350644">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:57<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560149.1379350664.92939">
+					<td><span class="opgear">7.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560149&code=1379350664">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560149&code=1379350664">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:57<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560151.1379350676.92939">
+					<td><span class="opgear">8.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560151&code=1379350676">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560151&code=1379350676">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:57<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560152.1379350687.92939">
+					<td><span class="opgear">9.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560152&code=1379350687">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560152&code=1379350687">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:58<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560153.1379350696.92939">
+					<td><span class="opgear">10.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560153&code=1379350696">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560153&code=1379350696">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:58<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560155.1379350705.92939">
+					<td><span class="opgear">11.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560155&code=1379350705">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560155&code=1379350705">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:58<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560156.1379350716.92939">
+					<td><span class="opgear">12.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560156&code=1379350716">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560156&code=1379350716">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:58<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560157.1379350724.92939">
+					<td><span class="opgear">13.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560157&code=1379350724">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560157&code=1379350724">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:58<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560158.1379350732.92939">
+					<td><span class="opgear">14.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560158&code=1379350732">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560158&code=1379350732">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 9 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:58<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560159.1379350749.92939">
+					<td><span class="opgear">15.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560159&code=1379350749">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560159&code=1379350749">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 10 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:59<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560160.1379350764.92939">
+					<td><span class="opgear">16.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560160&code=1379350764">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560160&code=1379350764">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 11 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:59<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560161.1379350774.92939">
+					<td><span class="opgear">17.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560161&code=1379350774">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560161&code=1379350774">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 12 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:59<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560163.1379350786.92939">
+					<td><span class="opgear">18.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560163&code=1379350786">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560163&code=1379350786">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 13 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:59<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560165.1379350798.92939">
+					<td><span class="opgear">19.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560165&code=1379350798">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560165&code=1379350798">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 14 - დადიანის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 16:59<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560166.1379350847.92939">
+					<td><span class="opgear">20.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560166&code=1379350847">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560166&code=1379350847">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:00<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560167.1379350862.92939">
+					<td><span class="opgear">21.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560167&code=1379350862">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560167&code=1379350862">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:01<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560169.1379350873.92939">
+					<td><span class="opgear">22.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560169&code=1379350873">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560169&code=1379350873">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:01<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560170.1379350885.92939">
+					<td><span class="opgear">23.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560170&code=1379350885">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560170&code=1379350885">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:01<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560171.1379350895.92939">
+					<td><span class="opgear">24.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560171&code=1379350895">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560171&code=1379350895">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:01<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560172.1379350907.92939">
+					<td><span class="opgear">25.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560172&code=1379350907">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560172&code=1379350907">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:01<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560174.1379350916.92939">
+					<td><span class="opgear">26.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560174&code=1379350916">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560174&code=1379350916">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:01<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560175.1379350929.92939">
+					<td><span class="opgear">27.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560175&code=1379350929">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560175&code=1379350929">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:02<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560183.1379351045.92939">
+					<td><span class="opgear">28.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560183&code=1379351045">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560183&code=1379351045">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 9 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:04<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560184.1379351054.92939">
+					<td><span class="opgear">29.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560184&code=1379351054">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560184&code=1379351054">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 10 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:04<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560186.1379351063.92939">
+					<td><span class="opgear">30.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560186&code=1379351063">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560186&code=1379351063">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 11 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:04<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560188.1379351072.92939">
+					<td><span class="opgear">31.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560188&code=1379351072">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560188&code=1379351072">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 12 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:04<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560190.1379351083.92939">
+					<td><span class="opgear">32.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560190&code=1379351083">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560190&code=1379351083">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 13 - ფიროსმ, და სარაჯ. დამაკ).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:04<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560197.1379351119.92939">
+					<td><span class="opgear">33.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560197&code=1379351119">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560197&code=1379351119">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - გუდიაშვილის ქ. #15-მდე მისასვლელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:05<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560199.1379351138.92939">
+					<td><span class="opgear">34.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560199&code=1379351138">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560199&code=1379351138">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - გუდიაშვილის ქ. #15-მდე მისასვლელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:05<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560200.1379351158.92939">
+					<td><span class="opgear">35.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560200&code=1379351158">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560200&code=1379351158">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - გუდიაშვილის ქ. #15-მდე მისასვლელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:05<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560201.1379351169.92939">
+					<td><span class="opgear">36.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560201&code=1379351169">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560201&code=1379351169">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - გუდიაშვილის ქ. #15-მდე მისასვლელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:06<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560203.1379351202.92939">
+					<td><span class="opgear">37.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560203&code=1379351202">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560203&code=1379351202">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:06<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560207.1379351215.92939">
+					<td><span class="opgear">38.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560207&code=1379351215">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560207&code=1379351215">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:06<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560210.1379351225.92939">
+					<td><span class="opgear">39.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560210&code=1379351225">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560210&code=1379351225">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:07<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560212.1379351235.92939">
+					<td><span class="opgear">40.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560212&code=1379351235">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560212&code=1379351235">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:07<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560213.1379351244.92939">
+					<td><span class="opgear">41.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560213&code=1379351244">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560213&code=1379351244">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:07<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560214.1379351252.92939">
+					<td><span class="opgear">42.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560214&code=1379351252">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560214&code=1379351252">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:07<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560215.1379351260.92939">
+					<td><span class="opgear">43.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560215&code=1379351260">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560215&code=1379351260">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:07<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560216.1379351272.92939">
+					<td><span class="opgear">44.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560216&code=1379351272">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560216&code=1379351272">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:07<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560217.1379351280.92939">
+					<td><span class="opgear">45.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560217&code=1379351280">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560217&code=1379351280">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 9 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:08<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560221.1379351292.92939">
+					<td><span class="opgear">46.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560221&code=1379351292">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560221&code=1379351292">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 10 - გუდიაშვილის  ქ. დასასრული).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:08<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560222.1379351325.92939">
+					<td><span class="opgear">47.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560222&code=1379351325">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560222&code=1379351325">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:08<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560223.1379351339.92939">
+					<td><span class="opgear">48.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560223&code=1379351339">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560223&code=1379351339">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:08<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560224.1379351351.92939">
+					<td><span class="opgear">49.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560224&code=1379351351">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560224&code=1379351351">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:09<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560226.1379351364.92939">
+					<td><span class="opgear">50.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560226&code=1379351364">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560226&code=1379351364">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:09<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560227.1379351375.92939">
+					<td><span class="opgear">51.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560227&code=1379351375">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560227&code=1379351375">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:09<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560228.1379351385.92939">
+					<td><span class="opgear">52.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560228&code=1379351385">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560228&code=1379351385">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:09<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560230.1379351394.92939">
+					<td><span class="opgear">53.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560230&code=1379351394">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560230&code=1379351394">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:09<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560231.1379351401.92939">
+					<td><span class="opgear">54.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560231&code=1379351401">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560231&code=1379351401">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:10<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560233.1379351409.92939">
+					<td><span class="opgear">55.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560233&code=1379351409">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560233&code=1379351409">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 9 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:10<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560235.1379351416.92939">
+					<td><span class="opgear">56.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560235&code=1379351416">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560235&code=1379351416">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 10 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:10<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560236.1379351428.92939">
+					<td><span class="opgear">57.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560236&code=1379351428">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560236&code=1379351428">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 11 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:10<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560238.1379351439.92939">
+					<td><span class="opgear">58.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560238&code=1379351439">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560238&code=1379351439">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 12 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:10<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560239.1379351449.92939">
+					<td><span class="opgear">59.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560239&code=1379351449">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560239&code=1379351449">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 13 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:10<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560240.1379351460.92939">
+					<td><span class="opgear">60.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560240&code=1379351460">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560240&code=1379351460">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 14 - ლ.ასათიანის #35-დან #50-მდე და ასათიანის #34-მდე მისასვ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:11<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560245.1379351595.92939">
+					<td><span class="opgear">61.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560245&code=1379351595">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560245&code=1379351595">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - სარაჯიშვილის #1-თან და დადიანის #2-თან მისასვლელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:13<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560246.1379351612.92939">
+					<td><span class="opgear">62.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560246&code=1379351612">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560246&code=1379351612">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - სარაჯიშვილის #1-თან და დადიანის #2-თან მისასვლელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:13<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560248.1379351621.92939">
+					<td><span class="opgear">63.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560248&code=1379351621">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560248&code=1379351621">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - სარაჯიშვილის #1-თან და დადიანის #2-თან მისასვლელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:13<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560250.1379351629.92939">
+					<td><span class="opgear">64.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560250&code=1379351629">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560250&code=1379351629">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - სარაჯიშვილის #1-თან და დადიანის #2-თან მისასვლელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:13<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560252.1379351667.92939">
+					<td><span class="opgear">65.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560252&code=1379351667">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560252&code=1379351667">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:14<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560253.1379351677.92939">
+					<td><span class="opgear">66.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560253&code=1379351677">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560253&code=1379351677">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:14<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560254.1379351684.92939">
+					<td><span class="opgear">67.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560254&code=1379351684">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560254&code=1379351684">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:14<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560255.1379351691.92939">
+					<td><span class="opgear">68.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560255&code=1379351691">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560255&code=1379351691">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:14<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560258.1379351699.92939">
+					<td><span class="opgear">69.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560258&code=1379351699">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560258&code=1379351699">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:14<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560259.1379351708.92939">
+					<td><span class="opgear">70.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560259&code=1379351708">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560259&code=1379351708">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:15<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560260.1379351715.92939">
+					<td><span class="opgear">71.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560260&code=1379351715">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560260&code=1379351715">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:15<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560261.1379351722.92939">
+					<td><span class="opgear">72.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560261&code=1379351722">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560261&code=1379351722">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:15<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560263.1379351731.92939">
+					<td><span class="opgear">73.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560263&code=1379351731">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560263&code=1379351731">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 9 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:15<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560264.1379351741.92939">
+					<td><span class="opgear">74.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560264&code=1379351741">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560264&code=1379351741">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 10 - გ. ბრწყინვალის ჩიხები).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:15<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560267.1379351782.92939">
+					<td><span class="opgear">75.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560267&code=1379351782">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560267&code=1379351782">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - გოგებაშვილის, ბესიკისა და ბარათაშვილის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:16<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560268.1379351793.92939">
+					<td><span class="opgear">76.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560268&code=1379351793">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560268&code=1379351793">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - გოგებაშვილის, ბესიკისა და ბარათაშვილის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:16<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560270.1379351802.92939">
+					<td><span class="opgear">77.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560270&code=1379351802">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560270&code=1379351802">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - გოგებაშვილის, ბესიკისა და ბარათაშვილის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:16<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560271.1379351812.92939">
+					<td><span class="opgear">78.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560271&code=1379351812">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560271&code=1379351812">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - გოგებაშვილის, ბესიკისა და ბარათაშვილის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:16<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560272.1379351821.92939">
+					<td><span class="opgear">79.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560272&code=1379351821">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560272&code=1379351821">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - გოგებაშვილის, ბესიკისა და ბარათაშვილის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:17<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560274.1379351832.92939">
+					<td><span class="opgear">80.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560274&code=1379351832">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560274&code=1379351832">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - გოგებაშვილის, ბესიკისა და ბარათაშვილის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:17<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560276.1379351841.92939">
+					<td><span class="opgear">81.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560276&code=1379351841">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560276&code=1379351841">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - გოგებაშვილის, ბესიკისა და ბარათაშვილის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:17<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560281.1379351875.92939">
+					<td><span class="opgear">82.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560281&code=1379351875">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560281&code=1379351875">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:17<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560282.1379351884.92939">
+					<td><span class="opgear">83.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560282&code=1379351884">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560282&code=1379351884">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:18<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560284.1379351895.92939">
+					<td><span class="opgear">84.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560284&code=1379351895">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560284&code=1379351895">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:18<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560285.1379351903.92939">
+					<td><span class="opgear">85.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560285&code=1379351903">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560285&code=1379351903">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:18<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560286.1379351911.92939">
+					<td><span class="opgear">86.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560286&code=1379351911">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560286&code=1379351911">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:18<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560287.1379351918.92939">
+					<td><span class="opgear">87.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560287&code=1379351918">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560287&code=1379351918">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:18<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560288.1379351930.92939">
+					<td><span class="opgear">88.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560288&code=1379351930">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560288&code=1379351930">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:18<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560290.1379351939.92939">
+					<td><span class="opgear">89.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560290&code=1379351939">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560290&code=1379351939">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:18<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560291.1379351947.92939">
+					<td><span class="opgear">90.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560291&code=1379351947">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560291&code=1379351947">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 9 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:19<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560292.1379351956.92939">
+					<td><span class="opgear">91.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560292&code=1379351956">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560292&code=1379351956">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 10 - გურამიშვილის ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:19<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560293.1379351989.92939">
+					<td><span class="opgear">92.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560293&code=1379351989">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560293&code=1379351989">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - ლეჩხუმისა და ყაზბეგის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:19<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560299.1379352003.92939">
+					<td><span class="opgear">93.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560299&code=1379352003">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560299&code=1379352003">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - ლეჩხუმისა და ყაზბეგის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:20<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560300.1379352014.92939">
+					<td><span class="opgear">94.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560300&code=1379352014">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560300&code=1379352014">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - ლეჩხუმისა და ყაზბეგის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:20<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560302.1379352023.92939">
+					<td><span class="opgear">95.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560302&code=1379352023">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560302&code=1379352023">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - ლეჩხუმისა და ყაზბეგის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:20<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560305.1379352032.92939">
+					<td><span class="opgear">96.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560305&code=1379352032">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560305&code=1379352032">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - ლეჩხუმისა და ყაზბეგის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:20<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560306.1379352040.92939">
+					<td><span class="opgear">97.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560306&code=1379352040">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560306&code=1379352040">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - ლეჩხუმისა და ყაზბეგის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:20<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560309.1379352049.92939">
+					<td><span class="opgear">98.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560309&code=1379352049">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560309&code=1379352049">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - ლეჩხუმისა და ყაზბეგის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:20<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560311.1379352058.92939">
+					<td><span class="opgear">99.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560311&code=1379352058">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560311&code=1379352058">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - ლეჩხუმისა და ყაზბეგის ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:20<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560314.1379352097.92939">
+					<td><span class="opgear">100.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560314&code=1379352097">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560314&code=1379352097">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - ოპიზრების ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:21<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560315.1379352107.92939">
+					<td><span class="opgear">101.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560315&code=1379352107">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560315&code=1379352107">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - ოპიზრების ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:21<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560317.1379352116.92939">
+					<td><span class="opgear">102.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560317&code=1379352116">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560317&code=1379352116">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - ოპიზრების ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:21<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560318.1379352124.92939">
+					<td><span class="opgear">103.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560318&code=1379352124">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560318&code=1379352124">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - ოპიზრების ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:22<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560319.1379352131.92939">
+					<td><span class="opgear">104.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560319&code=1379352131">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560319&code=1379352131">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - ოპიზრების ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:22<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560322.1379352141.92939">
+					<td><span class="opgear">105.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560322&code=1379352141">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560322&code=1379352141">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - ოპიზრების ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:22<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560324.1379352152.92939">
+					<td><span class="opgear">106.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560324&code=1379352152">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560324&code=1379352152">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - ოპიზრების ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:22<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560325.1379352164.92939">
+					<td><span class="opgear">107.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560325&code=1379352164">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560325&code=1379352164">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - ოპიზრების ქუჩა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:22<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560326.1379352198.92939">
+					<td><span class="opgear">108.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560326&code=1379352198">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560326&code=1379352198">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:23<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560327.1379352209.92939">
+					<td><span class="opgear">109.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560327&code=1379352209">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560327&code=1379352209">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:23<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560329.1379352220.92939">
+					<td><span class="opgear">110.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560329&code=1379352220">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560329&code=1379352220">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:23<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560330.1379352230.92939">
+					<td><span class="opgear">111.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560330&code=1379352230">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560330&code=1379352230">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:23<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560331.1379352238.92939">
+					<td><span class="opgear">112.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560331&code=1379352238">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560331&code=1379352238">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:23<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560332.1379352247.92939">
+					<td><span class="opgear">113.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560332&code=1379352247">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560332&code=1379352247">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:24<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560333.1379352255.92939">
+					<td><span class="opgear">114.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560333&code=1379352255">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560333&code=1379352255">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:24<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560334.1379352265.92939">
+					<td><span class="opgear">115.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560334&code=1379352265">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560334&code=1379352265">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:24<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560336.1379352273.92939">
+					<td><span class="opgear">116.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560336&code=1379352273">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560336&code=1379352273">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 9 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:24<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560337.1379352282.92939">
+					<td><span class="opgear">117.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560337&code=1379352282">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560337&code=1379352282">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 10 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:24<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560338.1379352291.92939">
+					<td><span class="opgear">118.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560338&code=1379352291">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560338&code=1379352291">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 11 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:24<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560339.1379352299.92939">
+					<td><span class="opgear">119.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560339&code=1379352299">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560339&code=1379352299">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 12 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:24<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560340.1379352308.92939">
+					<td><span class="opgear">120.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560340&code=1379352308">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560340&code=1379352308">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 13 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:25<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560342.1379352317.92939">
+					<td><span class="opgear">121.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560342&code=1379352317">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560342&code=1379352317">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 14 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:25<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560343.1379352328.92939">
+					<td><span class="opgear">122.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560343&code=1379352328">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560343&code=1379352328">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 15 - სარაჯიშვილისა და გამსახურდიას ქუჩების დამაკავშირებელი გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:25<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560344.1379352357.92939">
+					<td><span class="opgear">123.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560344&code=1379352357">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560344&code=1379352357">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 1 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:25<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560346.1379352391.92939">
+					<td><span class="opgear">124.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560346&code=1379352391">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560346&code=1379352391">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 2 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:26<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560347.1379352399.92939">
+					<td><span class="opgear">125.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560347&code=1379352399">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560347&code=1379352399">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 3 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:26<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560348.1379352407.92939">
+					<td><span class="opgear">126.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560348&code=1379352407">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560348&code=1379352407">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 4 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:26<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560349.1379352416.92939">
+					<td><span class="opgear">127.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560349&code=1379352416">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560349&code=1379352416">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 5 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:26<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560350.1379352424.92939">
+					<td><span class="opgear">128.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560350&code=1379352424">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560350&code=1379352424">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 6 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:27<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560351.1379352431.92939">
+					<td><span class="opgear">129.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560351&code=1379352431">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560351&code=1379352431">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 7 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:27<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560352.1379352439.92939">
+					<td><span class="opgear">130.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560352&code=1379352439">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560352&code=1379352439">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 8 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:27<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560353.1379352450.92939">
+					<td><span class="opgear">131.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560353&code=1379352450">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560353&code=1379352450">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 9 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:27<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560354.1379352459.92939">
+					<td><span class="opgear">132.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560354&code=1379352459">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560354&code=1379352459">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 10 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:27<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560355.1379352470.92939">
+					<td><span class="opgear">133.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560355&code=1379352470">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560355&code=1379352470">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 11 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:27<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560356.1379352480.92939">
+					<td><span class="opgear">134.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560356&code=1379352480">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560356&code=1379352480">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 12 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:28<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560357.1379352490.92939">
+					<td><span class="opgear">135.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560357&code=1379352490">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560357&code=1379352490">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 13 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:28<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560358.1379352499.92939">
+					<td><span class="opgear">136.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560358&code=1379352499">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560358&code=1379352499">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 14 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:28<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560359.1379352508.92939">
+					<td><span class="opgear">137.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560359&code=1379352508">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560359&code=1379352508">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 15 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:28<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560361.1379352518.92939">
+					<td><span class="opgear">138.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560361&code=1379352518">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560361&code=1379352518">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 16 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:28<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560362.1379352528.92939">
+					<td><span class="opgear">139.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560362&code=1379352528">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560362&code=1379352528">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 17 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:28<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560363.1379352541.92939">
+					<td><span class="opgear">140.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560363&code=1379352541">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560363&code=1379352541">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 18 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:29<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560364.1379352555.92939">
+					<td><span class="opgear">141.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560364&code=1379352555">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560364&code=1379352555">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნახაზები და სპეციფიკაციები (ნაწილი 19 - სტალინის, ფალიაშვილის, .... დამაკავშ. გზა).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:29<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="560366.1379352594.92939">
+					<td><span class="opgear">142.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=560366&code=1379352594">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=560366&code=1379352594">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაზახები და სპეციფიკაციები  (#34 კორპუსის ეზო).pdf
+						</a>
+					</td>
+					<td class="date" align="right">16.09.2013 17:29<br/>გიორგი მათეშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 629`850.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან 40 კალენდარული დღე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B92939103379">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(20064)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სპს ქვენიფნელი</span>
+			</td>
+		<td class="activebid1"><strong>580`000.00</strong>&nbsp;<br/><span class="date">07.10.2013 17:53</span></td>
+		<td class="activebid1">618`932.00&nbsp;<br/><span class="date">07.10.2013 13:58</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(92939,103379)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">18:05</td>
+		<td align="center" class="activebid1">18:07</td>
+		<td class="activebid1">სპს ქვენიფნელი</td>
+		<td align="center" class="activebid1"><strong>580`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">18:09</td>
+		<td align="center" class="activebid1">18:11</td>
+		<td class="activebid1">სპს ქვენიფნელი</td>
+		<td align="center" class="activebid1"><strong>580`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">18:13</td>
+		<td align="center" class="activebid1">18:15</td>
+		<td class="activebid1">სპს ქვენიფნელი</td>
+		<td align="center" class="activebid1"><strong>580`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B92939">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(20064)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სპს ქვენიფნელი</span>
+		</td>
+		<td class="activebid1"><strong>580`000.00</strong></td>
+		<td class="date activebid1">07.10.2013 17:53</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'92939'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'92939'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="577503.1381267026.92939">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=577503&code=1381267026">
+                    SPA130020331_ინტერესთა კონფლიქტი (ქალაქის გზა).pdf
+                    </a>
+                </td>
+                <td class="date">08.10.2013 21:17 :: გიორგი მათეშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="577504.1381267048.92939">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=577504&code=1381267048">
+                    SPA130020331_ოქმი N2 (ქალაქის  გზა).pdf
+                    </a>
+                </td>
+                <td class="date">08.10.2013 21:17 :: გიორგი მათეშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="577505.1381267070.92939">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=577505&code=1381267070">
+                    SPA130020331_წერილი ტექნიკური დოკუმენტაციის დაზუსტებაზე (ქალაქის გზა).pdf
+                    </a>
+                </td>
+                <td class="date">08.10.2013 21:17 :: გიორგი მათეშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="579160.1381423920.92939">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=579160&code=1381423920">
+                    SPA130020331_bolnisis quchebis xarjtagricxva.pdf
+                    </a>
+                </td>
+                <td class="date">10.10.2013 16:52 :: ივანე ბიბილური</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="579163.1381423935.92939">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=579163&code=1381423935">
+                    SPA130020331_bolnisis quchebi gegma-grafiki.pdf
+                    </a>
+                </td>
+                <td class="date">10.10.2013 16:52 :: ივანე ბიბილური</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="579164.1381423943.92939">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=579164&code=1381423943">
+                    SPA130020331_agmasheneblis quchis xarjtagricxva.pdf
+                    </a>
+                </td>
+                <td class="date">10.10.2013 16:52 :: ივანე ბიბილური</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="579165.1381423950.92939">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=579165&code=1381423950">
+                    SPA130020331_agmasheneblis quchis --gegma-grafiki.pdf
+                    </a>
+                </td>
+                <td class="date">10.10.2013 16:52 :: ივანე ბიბილური</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="580684.1381519702.92939">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=580684&code=1381519702">
+                    SPA130020331_ოქმი N3.pdf
+                    </a>
+                </td>
+                <td class="date">11.10.2013 19:28 :: გიორგი მათეშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="580686.1381519743.92939">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=580686&code=1381519743">
+                    SPA130020331_წერილი ხელშეკრულების გაფორმებაზე.pdf
+                    </a>
+                </td>
+                <td class="date">11.10.2013 19:29 :: გიორგი მათეშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'92939'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg20" style="font-weight:bold">შესრულებული ხელშეკრულება</span><br/>
+			<span class="date">გიორგი მათეშვილი :: 09.01.2014</span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(20064)"><img src="images/profile24.png"></a> <strong>სპს ქვენიფნელი</strong><br/>
+				
+					ნომერი/თანხა: N162/03/13 / <span class="convertme" id="579999.44-GEL-24.10.2013 17:56">579999.44 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 23.10.2013 - 10.01.2014<br/>
+					<span class="date">24.10.2013 17:56</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=75786"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="92939">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;font-weight: bold;margin:1em">ხელშეკრულების ცვლილება</div>
+		<table width="100%">
+			<tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 1</u></span><br/>
+					ნომერი/თანხა: N162/03/13 / <span class="convertme" id="579999.44-GEL-11.12.2013 18:35">579999.44 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 23.10.2013 - 20.01.2014<br/>
+					<span class="date">11.12.2013 18:35</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=79976"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+		</table>
+	</div>
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="92939">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="92939">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="637475.1387893917.92939">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=637475&code=1387893917">
+SPA130020331_შესრულების ეტაპი (535639,76).pdf
+</a>
+</td>
+<td class="date">24.12.2013 14:05 :: გიორგი მათეშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="649868.1389290720.92939">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=649868&code=1389290720">
+SPA130020331_შესრულება (სრული).pdf
+</a>
+</td>
+<td class="date">09.01.2014 18:05 :: გიორგი მათეშვილი</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 579`999.44 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 579`297.76 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>43`658.00 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2013</td>
+<td>4</td>
+<td>31.12.2013&nbsp;
+
+</td>
+<td class="date">09.01.2014<br>გიორგი მათეშვილი</td>
+</tr><tr class="activebid1">
+<td>535`639.76 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2013</td>
+<td>4</td>
+<td>17.12.2013&nbsp;
+
+</td>
+<td class="date">24.12.2013<br>გიორგი მათეშვილი</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'92939'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

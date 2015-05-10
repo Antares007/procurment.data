@@ -1,0 +1,4874 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140000074</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv102498" /><label for="fv102498"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(3522)"><img src="images/profile24_1.png"> ბორჯომის სკოლამდელი აღზრდის დაწესებულება</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>03.01.2014 17:37</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>09.01.2014 00:03</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>13.01.2014 18:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="26250-GEL-03.01.2014 17:37">26`250.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;15800000 - სხვადასხვა საკვები პროდუქტი</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;15800000 - სხვადასხვა საკვები პროდუქტი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;15811100 - პური 
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">სხვადასხვა  საკვები პროდუქტების(პურის)შესყიდვა</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელსეკრულების გაფორმებიდან 2014 წლის 31 დეკემბრის ჩათვლით</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>110.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>263 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=102498&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="102498">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: შორენა ქურდაძე :: 03.01.2014 17:36</li>
+	<li style="text-align:right">ბოლო შესწორება: შორენა ქურდაძე :: 04.01.2014 19:14</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+<span>
+<button id="btn_apphistory" type="button">განცხადების ისტორია</button>
+<script type="text/javascript">
+$('#btn_apphistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){$.get('engine/controller.php',{app_id:102498, action:'app_versions'}, function(data) {$('#history').html(data);})});
+</script>
+</span>
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:102498, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '102498'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="646353.1388770657.102498">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=646353&code=1388770657">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=646353&code=1388770657">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_პურის სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">03.01.2014 17:37<br/>შორენა ქურდაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 26`250.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელსეკრულების გაფორმებიდან 2014 წლის 31 დეკემბრის ჩათვლით</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B102498115589">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(30124)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">თეიმურაზ გელაშვილი</span>
+			</td>
+		<td class="activebid1"><strong>24`150.00</strong>&nbsp;<br/><span class="date">13.01.2014 17:18</span></td>
+		<td class="activebid1">24`150.00&nbsp;<br/><span class="date">13.01.2014 17:18</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(102498,115589)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">18:05</td>
+		<td align="center" class="activebid1">18:07</td>
+		<td class="activebid1">თეიმურაზ გელაშვილი</td>
+		<td align="center" class="activebid1"><strong>24`150.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">18:09</td>
+		<td align="center" class="activebid1">18:11</td>
+		<td class="activebid1">თეიმურაზ გელაშვილი</td>
+		<td align="center" class="activebid1"><strong>24`150.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">18:13</td>
+		<td align="center" class="activebid1">18:15</td>
+		<td class="activebid1">თეიმურაზ გელაშვილი</td>
+		<td align="center" class="activebid1"><strong>24`150.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B102498">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(30124)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">თეიმურაზ გელაშვილი</span>
+		</td>
+		<td class="activebid1"><strong>24`150.00</strong></td>
+		<td class="date activebid1">13.01.2014 17:18</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'102498'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'102498'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="656059.1389897334.102498">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=656059&code=1389897334">
+                    SPA140000074_ოქმი 2-გელაშვილი.pdf
+                    </a>
+                </td>
+                <td class="date">16.01.2014 18:35 :: შორენა ქურდაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="656060.1389897349.102498">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=656060&code=1389897349">
+                    SPA140000074_ინტერესტა კონფლიქტი--გელაშვილი.pdf
+                    </a>
+                </td>
+                <td class="date">16.01.2014 18:35 :: შორენა ქურდაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="656061.1389897365.102498">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=656061&code=1389897365">
+                    SPA140000074_წერილი-გელასვილს.pdf
+                    </a>
+                </td>
+                <td class="date">16.01.2014 18:36 :: შორენა ქურდაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="658462.1390238737.102498">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=658462&code=1390238737">
+                    SPA140000074_werili--gelasvils.pdf
+                    </a>
+                </td>
+                <td class="date">20.01.2014 17:25 :: შორენა ქურდაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A12465">
+                <td>
+                    &nbsp;
+                    <span title="15811100 - პური ">15811100 - პური </span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;პური</span><br/>
+                    <div style="text-align:right" class="date">24.01.2014 10:37 :: შორენა ქურდაძე</div>
+                </td>
+                <td align="right">1.15 GEL<br/>
+                <span class="color-2">21000 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;24`150.00 GEL</td>
+                <td title="-">-</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'102498'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg20" style="font-weight:bold">შესრულებული ხელშეკრულება</span><br/>
+			<span class="date">შორენა ქურდაძე :: 05.01.2015</span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(30124)"><img src="images/profile24.png"></a> <strong>თეიმურაზ გელაშვილი</strong><br/>
+				
+					ნომერი/თანხა: N6 / <span class="convertme" id="24150-GEL-24.01.2014 09:46">24150 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 24.01.2014 - 31.12.2014<br/>
+					<span class="date">24.01.2014 09:46</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=84701"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="102498">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;font-weight: bold;margin:1em">ხელშეკრულების ცვლილება</div>
+		<table width="100%">
+			<tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 1</u></span><br/>
+					ნომერი/თანხა: N6 / <span class="convertme" id="21774-GEL-20.11.2014 18:15">21774 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 24.01.2014 - 31.12.2014<br/>
+					<span class="date">20.11.2014 18:15</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=110830"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr><tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 2</u></span><br/>
+					ნომერი/თანხა: N6 / <span class="convertme" id="13774-GEL-29.12.2014 15:46">13774 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 24.01.2014 - 31.12.2014<br/>
+					<span class="date">29.12.2014 15:46</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=114892"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+		</table>
+	</div>
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="102498">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="102498">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="669307.1391185952.102498">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=669307&code=1391185952">
+SPA140000074_27იანვარი-ფაქტურა პური.pdf
+</a>
+</td>
+<td class="date">31.01.2014 16:32 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="669327.1391186336.102498">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=669327&code=1391186336">
+SPA140000074_28 იანვარი-ფაქტურა პური.pdf
+</a>
+</td>
+<td class="date">31.01.2014 16:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="669343.1391186668.102498">
+<td>3.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=669343&code=1391186668">
+SPA140000074_29იანვარიფაქტურები პური.pdf
+</a>
+</td>
+<td class="date">31.01.2014 16:44 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="669361.1391186955.102498">
+<td>4.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=669361&code=1391186955">
+SPA140000074_30იანვარი-ფაქტურა პური.pdf
+</a>
+</td>
+<td class="date">31.01.2014 16:49 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="669404.1391187340.102498">
+<td>5.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=669404&code=1391187340">
+SPA140000074_31 იანვარი--ფაქტურა პური.pdf
+</a>
+</td>
+<td class="date">31.01.2014 16:55 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="669408.1391187423.102498">
+<td>6.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=669408&code=1391187423">
+SPA140000074_27-31იანვარი მიღება-ჩაბარების აქტი.pdf
+</a>
+</td>
+<td class="date">31.01.2014 16:57 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="678768.1392122148.102498">
+<td>7.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=678768&code=1392122148">
+SPA140000074_პური-3 თებერვალი.pdf
+</a>
+</td>
+<td class="date">11.02.2014 12:35 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="678776.1392122243.102498">
+<td>8.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=678776&code=1392122243">
+SPA140000074_პური-4 თებერვალი.pdf
+</a>
+</td>
+<td class="date">11.02.2014 12:37 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="678783.1392122309.102498">
+<td>9.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=678783&code=1392122309">
+SPA140000074_პური 5-თებერვალი.pdf
+</a>
+</td>
+<td class="date">11.02.2014 12:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="678786.1392122368.102498">
+<td>10.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=678786&code=1392122368">
+SPA140000074_პური 6-თებერვალი.pdf
+</a>
+</td>
+<td class="date">11.02.2014 12:39 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="678790.1392122438.102498">
+<td>11.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=678790&code=1392122438">
+SPA140000074_პური 7თებერვალი.pdf
+</a>
+</td>
+<td class="date">11.02.2014 12:40 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="678796.1392122481.102498">
+<td>12.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=678796&code=1392122481">
+SPA140000074_პური-მირებაჩაბარების აქტი 3--7 თებერვალი.pdf
+</a>
+</td>
+<td class="date">11.02.2014 12:41 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="684986.1392646219.102498">
+<td>13.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=684986&code=1392646219">
+SPA140000074_გადარიცხვა-პური.pdf
+</a>
+</td>
+<td class="date">17.02.2014 14:10 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="687971.1392825089.102498">
+<td>14.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=687971&code=1392825089">
+SPA140000074_პური-10 თებერვალი.pdf
+</a>
+</td>
+<td class="date">19.02.2014 15:51 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="687983.1392825381.102498">
+<td>15.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=687983&code=1392825381">
+SPA140000074_11-თებერვალი.pdf
+</a>
+</td>
+<td class="date">19.02.2014 15:56 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="687993.1392825749.102498">
+<td>16.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=687993&code=1392825749">
+SPA140000074_12-თებერვალი.pdf
+</a>
+</td>
+<td class="date">19.02.2014 16:02 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="688000.1392826002.102498">
+<td>17.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=688000&code=1392826002">
+SPA140000074_13-თებერვალი.pdf
+</a>
+</td>
+<td class="date">19.02.2014 16:06 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="688020.1392826283.102498">
+<td>18.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=688020&code=1392826283">
+SPA140000074_14-თებერვალი.pdf
+</a>
+</td>
+<td class="date">19.02.2014 16:11 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="688023.1392826350.102498">
+<td>19.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete1">
+<a target="blank" href="engine/files.php?mode=app&file=688023&code=1392826350">
+SPA140000074_მიღება-ჩაბარების აქტი 10--14 თებერვალი.pdf
+</a>
+</td>
+<td class="date">19.02.2014 16:12 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="695400.1393436338.102498">
+<td>20.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=695400&code=1393436338">
+SPA140000074_17 თებერვალი-პური.pdf
+</a>
+</td>
+<td class="date">26.02.2014 17:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="695402.1393436415.102498">
+<td>21.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=695402&code=1393436415">
+SPA140000074_თებერვალი-18 პური.pdf
+</a>
+</td>
+<td class="date">26.02.2014 17:40 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="695406.1393436516.102498">
+<td>22.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=695406&code=1393436516">
+SPA140000074_თებერვალი 19 პური.pdf
+</a>
+</td>
+<td class="date">26.02.2014 17:41 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="695413.1393436596.102498">
+<td>23.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=695413&code=1393436596">
+SPA140000074_ტებერვალი 20 პური.pdf
+</a>
+</td>
+<td class="date">26.02.2014 17:43 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="695420.1393436712.102498">
+<td>24.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=695420&code=1393436712">
+SPA140000074_თებერვალი 21-პური.pdf
+</a>
+</td>
+<td class="date">26.02.2014 17:45 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="695423.1393436791.102498">
+<td>25.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete1">
+<a target="blank" href="engine/files.php?mode=app&file=695423&code=1393436791">
+SPA140000074_მიღება-ჩაბარების აქტი 17--21 ტებერვალი.pdf
+</a>
+</td>
+<td class="date">26.02.2014 17:46 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="695438.1393436967.102498">
+<td>26.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=695438&code=1393436967">
+SPA140000074_გადარიცხვა პური-გელაშვილი.pdf
+</a>
+</td>
+<td class="date">26.02.2014 17:49 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="699181.1393952547.102498">
+<td>27.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=699181&code=1393952547">
+SPA140000074_მიღება-ჩაბარების აქტი 10-14 თებერვლის ჩათვლით.pdf
+</a>
+</td>
+<td class="date">04.03.2014 17:02 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="699187.1393952666.102498">
+<td>28.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=699187&code=1393952666">
+SPA140000074_მიღებაცაბარების აქტი 17-21 თებერვალი.pdf
+</a>
+</td>
+<td class="date">04.03.2014 17:04 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="700939.1394041522.102498">
+<td>29.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=700939&code=1394041522">
+SPA140000074_ფაქტურა პური-24 თებერვალი.pdf
+</a>
+</td>
+<td class="date">05.03.2014 17:45 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="700946.1394041601.102498">
+<td>30.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=700946&code=1394041601">
+SPA140000074_ფაქტურა პური-25 თებერვალი.pdf
+</a>
+</td>
+<td class="date">05.03.2014 17:46 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="700951.1394041665.102498">
+<td>31.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=700951&code=1394041665">
+SPA140000074_ფაქტურა პური--26 თებერვალი.pdf
+</a>
+</td>
+<td class="date">05.03.2014 17:47 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="700957.1394041771.102498">
+<td>32.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=700957&code=1394041771">
+SPA140000074_ფაქტურა პური 27 თებერვალი.pdf
+</a>
+</td>
+<td class="date">05.03.2014 17:49 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="700962.1394041860.102498">
+<td>33.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=700962&code=1394041860">
+SPA140000074_ფაქტურა პური -28 თებერვალი.pdf
+</a>
+</td>
+<td class="date">05.03.2014 17:51 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="700965.1394041882.102498">
+<td>34.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=700965&code=1394041882">
+SPA140000074_მიღება-ჩაბარების აქტი 24--28 თებერვალი.pdf
+</a>
+</td>
+<td class="date">05.03.2014 17:51 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="706692.1394558349.102498">
+<td>35.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=706692&code=1394558349">
+SPA140000074_ფაქტურა პური -4 მარტი.pdf
+</a>
+</td>
+<td class="date">11.03.2014 17:19 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="706700.1394558458.102498">
+<td>36.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=706700&code=1394558458">
+SPA140000074_ფაქტურა პური 5 მარტი.pdf
+</a>
+</td>
+<td class="date">11.03.2014 17:20 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="706711.1394558521.102498">
+<td>37.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=706711&code=1394558521">
+SPA140000074_ფაქტურა პური 6 მარტი.pdf
+</a>
+</td>
+<td class="date">11.03.2014 17:22 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="706720.1394558596.102498">
+<td>38.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=706720&code=1394558596">
+SPA140000074_ფაქტურა პური 7 მარტი.pdf
+</a>
+</td>
+<td class="date">11.03.2014 17:23 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="706724.1394558619.102498">
+<td>39.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=706724&code=1394558619">
+SPA140000074_მიღებაჩაბარების აქტი.pdf
+</a>
+</td>
+<td class="date">11.03.2014 17:23 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="712581.1395141941.102498">
+<td>40.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=712581&code=1395141941">
+SPA140000074_პური10 მარტი.pdf
+</a>
+</td>
+<td class="date">18.03.2014 11:25 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="712584.1395142017.102498">
+<td>41.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=712584&code=1395142017">
+SPA140000074_ფაქტურა პური-11 მარტი.pdf
+</a>
+</td>
+<td class="date">18.03.2014 11:26 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="712585.1395142098.102498">
+<td>42.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=712585&code=1395142098">
+SPA140000074_ფაქტურა პური 12 მარტი.pdf
+</a>
+</td>
+<td class="date">18.03.2014 11:28 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="712586.1395142171.102498">
+<td>43.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=712586&code=1395142171">
+SPA140000074_ფაქტურა პური 13 მარტი.pdf
+</a>
+</td>
+<td class="date">18.03.2014 11:29 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="712589.1395142236.102498">
+<td>44.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=712589&code=1395142236">
+SPA140000074_ფაქტურა პური 14 მარტი.pdf
+</a>
+</td>
+<td class="date">18.03.2014 11:30 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="712594.1395142421.102498">
+<td>45.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=712594&code=1395142421">
+SPA140000074_მიღება-ჩაბარების აქტი 10-14 მარტი.pdf
+</a>
+</td>
+<td class="date">18.03.2014 11:33 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="712595.1395142554.102498">
+<td>46.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=712595&code=1395142554">
+SPA140000074_გადარიცხვა პური გელაშვილი 14  მარტი.pdf
+</a>
+</td>
+<td class="date">18.03.2014 11:35 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="721466.1395854894.102498">
+<td>47.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=721466&code=1395854894">
+SPA140000074_ფაქტურა 17 მარტი პური.pdf
+</a>
+</td>
+<td class="date">26.03.2014 17:28 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="721470.1395854987.102498">
+<td>48.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=721470&code=1395854987">
+SPA140000074_ფაქტურა პური-18 მარტი.pdf
+</a>
+</td>
+<td class="date">26.03.2014 17:29 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="721473.1395855115.102498">
+<td>49.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=721473&code=1395855115">
+SPA140000074_ფაქტურა პური 19 მარტი.pdf
+</a>
+</td>
+<td class="date">26.03.2014 17:31 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="721477.1395855217.102498">
+<td>50.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=721477&code=1395855217">
+SPA140000074_ფაქტურა პური 20 მარტი.pdf
+</a>
+</td>
+<td class="date">26.03.2014 17:33 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="721482.1395855278.102498">
+<td>51.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=721482&code=1395855278">
+SPA140000074_ფაქტურა პური  21 მარტი.pdf
+</a>
+</td>
+<td class="date">26.03.2014 17:34 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="721484.1395855332.102498">
+<td>52.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=721484&code=1395855332">
+SPA140000074_მიღება - ჩაბარების აქტუი 17-21 მარტი.pdf
+</a>
+</td>
+<td class="date">26.03.2014 17:35 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="725298.1396285601.102498">
+<td>53.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=725298&code=1396285601">
+SPA140000074_ფაქტურა პური 24 მარტი.pdf
+</a>
+</td>
+<td class="date">31.03.2014 17:06 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="725303.1396285674.102498">
+<td>54.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=725303&code=1396285674">
+SPA140000074_ფაქტურა პური 25 მარტი.pdf
+</a>
+</td>
+<td class="date">31.03.2014 17:07 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="725309.1396285739.102498">
+<td>55.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=725309&code=1396285739">
+SPA140000074_ფაქტურა პური  26 მარტი.pdf
+</a>
+</td>
+<td class="date">31.03.2014 17:08 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="725317.1396285801.102498">
+<td>56.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=725317&code=1396285801">
+SPA140000074_ფაქტურა პური  27 მარტი.pdf
+</a>
+</td>
+<td class="date">31.03.2014 17:10 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="725327.1396285889.102498">
+<td>57.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=725327&code=1396285889">
+SPA140000074_ფაქტურები პური 28 მარტი.pdf
+</a>
+</td>
+<td class="date">31.03.2014 17:11 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="725338.1396285995.102498">
+<td>58.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=725338&code=1396285995">
+SPA140000074_ფაქტურები პური 31 მარტი.pdf
+</a>
+</td>
+<td class="date">31.03.2014 17:13 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="725348.1396286054.102498">
+<td>59.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=725348&code=1396286054">
+SPA140000074_მიღება-ჩაბარების აქტი პური 24-31 მარტი.pdf
+</a>
+</td>
+<td class="date">31.03.2014 17:14 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="732264.1396872396.102498">
+<td>60.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=732264&code=1396872396">
+SPA140000074_გადარიცხვა პური 1 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">07.04.2014 12:06 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="736583.1397152810.102498">
+<td>61.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=736583&code=1397152810">
+SPA140000074_ფაქტურა პური 1 აპრილი.pdf
+</a>
+</td>
+<td class="date">10.04.2014 18:00 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="736586.1397152899.102498">
+<td>62.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=736586&code=1397152899">
+SPA140000074_ფაქტურა პური 2 აპრილი.pdf
+</a>
+</td>
+<td class="date">10.04.2014 18:01 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="736593.1397153007.102498">
+<td>63.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=736593&code=1397153007">
+SPA140000074_ფაქტურა პური 3 აპრილი.pdf
+</a>
+</td>
+<td class="date">10.04.2014 18:03 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="736597.1397153092.102498">
+<td>64.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=736597&code=1397153092">
+SPA140000074_ფაქტურა პური 4 აპრილი.pdf
+</a>
+</td>
+<td class="date">10.04.2014 18:04 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="736604.1397153222.102498">
+<td>65.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=736604&code=1397153222">
+SPA140000074_ფაქტურა პური  7 აპრილი.pdf
+</a>
+</td>
+<td class="date">10.04.2014 18:07 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="736610.1397153300.102498">
+<td>66.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=736610&code=1397153300">
+SPA140000074_ფაქტურა პური 8 აპრილი.pdf
+</a>
+</td>
+<td class="date">10.04.2014 18:08 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="736612.1397153364.102498">
+<td>67.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=736612&code=1397153364">
+SPA140000074_მირება-ჩაბარების აქტი პური 1-8 აპრილი.pdf
+</a>
+</td>
+<td class="date">10.04.2014 18:09 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="742006.1397656854.102498">
+<td>68.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=742006&code=1397656854">
+SPA140000074_პური 10 აპრილიგელაშვილი.pdf
+</a>
+</td>
+<td class="date">16.04.2014 14:00 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="742009.1397657071.102498">
+<td>69.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=742009&code=1397657071">
+SPA140000074_ფაქტურა პური -11 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">16.04.2014 14:04 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="742014.1397657345.102498">
+<td>70.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=742014&code=1397657345">
+SPA140000074_ფაქტურა პური 14 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">16.04.2014 14:09 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="742019.1397657609.102498">
+<td>71.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=742019&code=1397657609">
+SPA140000074_ფაქტურა პური 15 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">16.04.2014 14:13 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="742020.1397657715.102498">
+<td>72.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=742020&code=1397657715">
+SPA140000074_მიღება-ჩაბარების აქტი პური გელაშვილი 10-15 აპრილი.pdf
+</a>
+</td>
+<td class="date">16.04.2014 14:15 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="749617.1398353180.102498">
+<td>73.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=749617&code=1398353180">
+SPA140000074_გადარიცხვა პური 14 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">24.04.2014 15:26 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="752043.1398447191.102498">
+<td>74.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=752043&code=1398447191">
+SPA140000074_ფაქტურა პური 16 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">25.04.2014 17:33 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="752060.1398447465.102498">
+<td>75.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=752060&code=1398447465">
+SPA140000074_ფაქტურა პური 17 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">25.04.2014 17:37 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="752083.1398447710.102498">
+<td>76.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=752083&code=1398447710">
+SPA140000074_ფაქტურა პური 22აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">25.04.2014 17:41 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="752119.1398447919.102498">
+<td>77.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=752119&code=1398447919">
+SPA140000074_ფაქტურა პური  23 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">25.04.2014 17:45 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="752147.1398448213.102498">
+<td>78.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=752147&code=1398448213">
+SPA140000074_ფაქტურა პური 24 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">25.04.2014 17:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="752196.1398448590.102498">
+<td>79.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=752196&code=1398448590">
+SPA140000074_ფაქტურა პური  25 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">25.04.2014 17:56 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="752206.1398448676.102498">
+<td>80.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=752206&code=1398448676">
+SPA140000074_მიღება-ჩაბარების აქტი 25 აპრილი.pdf
+</a>
+</td>
+<td class="date">25.04.2014 17:57 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="758106.1398963185.102498">
+<td>81.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=758106&code=1398963185">
+SPA140000074_გადარიცხვა პური 24 აპრილი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">01.05.2014 16:53 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="763773.1399461242.102498">
+<td>82.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=763773&code=1399461242">
+SPA140000074_პური ფაქტურა 28 აპრილი.pdf
+</a>
+</td>
+<td class="date">07.05.2014 11:14 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="763774.1399461303.102498">
+<td>83.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=763774&code=1399461303">
+SPA140000074_პური ფაქტურა 29 აპრილი.pdf
+</a>
+</td>
+<td class="date">07.05.2014 11:15 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="763775.1399461322.102498">
+<td>84.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=763775&code=1399461322">
+SPA140000074_პური მიღება ჩაბარების აქტი  30 აპრილი.pdf
+</a>
+</td>
+<td class="date">07.05.2014 11:15 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="763781.1399461434.102498">
+<td>85.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=763781&code=1399461434">
+SPA140000074_პური მიღება ჩაბარების აქტი  30 აპრილი.pdf
+</a>
+</td>
+<td class="date">07.05.2014 11:17 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="775022.1400515935.102498">
+<td>86.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=775022&code=1400515935">
+SPA140000074_1 მაისი ფაქტურა პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">19.05.2014 16:12 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="775024.1400516009.102498">
+<td>87.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=775024&code=1400516009">
+SPA140000074_2 მაისი ფაქტურა პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">19.05.2014 16:13 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="775027.1400516084.102498">
+<td>88.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=775027&code=1400516084">
+SPA140000074_5 მაისი ფაქტურა პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">19.05.2014 16:14 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="775035.1400516163.102498">
+<td>89.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=775035&code=1400516163">
+SPA140000074_6 მაისი ფაქტურა პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">19.05.2014 16:16 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="775046.1400516211.102498">
+<td>90.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=775046&code=1400516211">
+SPA140000074_7 მაისი ფაქტურა პური  გელაშვილი.pdf
+</a>
+</td>
+<td class="date">19.05.2014 16:16 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="775051.1400516284.102498">
+<td>91.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=775051&code=1400516284">
+SPA140000074_8 მაისი ფაქტურა პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">19.05.2014 16:18 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="775053.1400516314.102498">
+<td>92.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=775053&code=1400516314">
+SPA140000074_მიღება-ჩაბარების აქტი 1-8 მაისი.pdf
+</a>
+</td>
+<td class="date">19.05.2014 16:18 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="778353.1400674299.102498">
+<td>93.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=778353&code=1400674299">
+SPA140000074_გადარიცხვა პური-გელაშვილი 15 მაისი.pdf
+</a>
+</td>
+<td class="date">21.05.2014 12:11 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="779859.1400760118.102498">
+<td>94.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=779859&code=1400760118">
+SPA140000074_ფაქტურა 13 მაისი პური.pdf
+</a>
+</td>
+<td class="date">22.05.2014 12:01 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="779870.1400760172.102498">
+<td>95.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=779870&code=1400760172">
+SPA140000074_ფაქტურა 14 მაისი პური.pdf
+</a>
+</td>
+<td class="date">22.05.2014 12:02 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="779879.1400760238.102498">
+<td>96.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=779879&code=1400760238">
+SPA140000074_ფაქტურა 15 მაისი პური.pdf
+</a>
+</td>
+<td class="date">22.05.2014 12:03 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="779884.1400760293.102498">
+<td>97.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=779884&code=1400760293">
+SPA140000074_ფაქტურა 16 მაისი პური.pdf
+</a>
+</td>
+<td class="date">22.05.2014 12:04 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="779887.1400760326.102498">
+<td>98.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=779887&code=1400760326">
+SPA140000074_მიღებაჩაბარების აქტი 13-16 მაისი.pdf
+</a>
+</td>
+<td class="date">22.05.2014 12:05 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="794747.1401894750.102498">
+<td>99.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=794747&code=1401894750">
+SPA140000074_მირება--ჩაბარების აქტი 19-21 მაისი პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">04.06.2014 15:12 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="794754.1401894988.102498">
+<td>100.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=794754&code=1401894988">
+SPA140000074_ფაქტურა პური 19 მაისი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">04.06.2014 15:16 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="794759.1401895066.102498">
+<td>101.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=794759&code=1401895066">
+SPA140000074_ფაქტურა 20 მაისი პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">04.06.2014 15:17 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="794761.1401895123.102498">
+<td>102.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=794761&code=1401895123">
+SPA140000074_ფაქტურა 21 მაისი პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">04.06.2014 15:18 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="804762.1402591735.102498">
+<td>103.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=804762&code=1402591735">
+SPA140000074_ფაქტურა 2 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">12.06.2014 16:48 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="804767.1402591791.102498">
+<td>104.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=804767&code=1402591791">
+SPA140000074_ფაქტურა 3 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">12.06.2014 16:49 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="804769.1402591855.102498">
+<td>105.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=804769&code=1402591855">
+SPA140000074_ფაქტურა 4  ივნისი პური.pdf
+</a>
+</td>
+<td class="date">12.06.2014 16:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="804772.1402591909.102498">
+<td>106.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=804772&code=1402591909">
+SPA140000074_ფაქტურა 5 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">12.06.2014 16:51 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="804775.1402591961.102498">
+<td>107.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=804775&code=1402591961">
+SPA140000074_ფაქტურქა პური 6 ივნისი.pdf
+</a>
+</td>
+<td class="date">12.06.2014 16:52 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="804780.1402592162.102498">
+<td>108.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=804780&code=1402592162">
+SPA140000074_მიღება-ჩაბარების აქტი 2-6 ივნისი.pdf
+</a>
+</td>
+<td class="date">12.06.2014 16:56 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="805599.1402670019.102498">
+<td>109.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=805599&code=1402670019">
+SPA140000074_გადარიცხვა პური გელაშვილი 13 ივნისი.pdf
+</a>
+</td>
+<td class="date">13.06.2014 14:33 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="811525.1403187531.102498">
+<td>110.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=811525&code=1403187531">
+SPA140000074_ფაქტურა 9 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">19.06.2014 14:18 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="811537.1403187653.102498">
+<td>111.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=811537&code=1403187653">
+SPA140000074_ფაქტურა 10 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">19.06.2014 14:20 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="811539.1403187767.102498">
+<td>112.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=811539&code=1403187767">
+SPA140000074_ფაქტურა 11 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">19.06.2014 14:22 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="811544.1403187822.102498">
+<td>113.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=811544&code=1403187822">
+SPA140000074_ფაქრურა 12 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">19.06.2014 14:23 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="811545.1403187866.102498">
+<td>114.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=811545&code=1403187866">
+SPA140000074_ფაქტურა 13 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">19.06.2014 14:24 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="811546.1403187888.102498">
+<td>115.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=811546&code=1403187888">
+SPA140000074_მირებაჩაბარებია აქტი 9-13 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">19.06.2014 14:24 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="816611.1403635844.102498">
+<td>116.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=816611&code=1403635844">
+SPA140000074_ფაქტურა პური 16 ივნისი გელასვილი.pdf
+</a>
+</td>
+<td class="date">24.06.2014 18:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="816614.1403635894.102498">
+<td>117.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=816614&code=1403635894">
+SPA140000074_ფაქტურა პური 17 ივნისი გელასვილი (1).pdf
+</a>
+</td>
+<td class="date">24.06.2014 18:51 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="816621.1403635957.102498">
+<td>118.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=816621&code=1403635957">
+SPA140000074_ფაქტურა 18 ივნისი პური გელასვილი.pdf
+</a>
+</td>
+<td class="date">24.06.2014 18:52 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="816628.1403636006.102498">
+<td>119.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=816628&code=1403636006">
+SPA140000074_ფაქტურა 19 ივნისი პური გელასვილი.pdf
+</a>
+</td>
+<td class="date">24.06.2014 18:53 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="816636.1403636056.102498">
+<td>120.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=816636&code=1403636056">
+SPA140000074_ფაქტურა 20 ივნისი პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">24.06.2014 18:54 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="816639.1403636072.102498">
+<td>121.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=816639&code=1403636072">
+SPA140000074_მიღება-ჩაბარების აქტი 16-20 ივნისი პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">24.06.2014 18:54 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="824271.1404316402.102498">
+<td>122.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=824271&code=1404316402">
+SPA140000074_ფაქტურა 23 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">02.07.2014 15:53 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="824277.1404316614.102498">
+<td>123.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=824277&code=1404316614">
+SPA140000074_ფაქტურა 24 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">02.07.2014 15:56 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="824279.1404316782.102498">
+<td>124.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=824279&code=1404316782">
+SPA140000074_ფაქტურა 25 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">02.07.2014 15:59 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="824286.1404316979.102498">
+<td>125.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=824286&code=1404316979">
+SPA140000074_ფაქტურა 26 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">02.07.2014 16:02 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="824290.1404317168.102498">
+<td>126.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=824290&code=1404317168">
+SPA140000074_ფაქტურა 27 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">02.07.2014 16:06 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="824292.1404317249.102498">
+<td>127.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=824292&code=1404317249">
+SPA140000074_ფაქტურა 30ივნისი პური.pdf
+</a>
+</td>
+<td class="date">02.07.2014 16:07 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="824293.1404317271.102498">
+<td>128.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=824293&code=1404317271">
+SPA140000074_მიღება-ჩაბარების აქტი 23-30 ივნისი პური.pdf
+</a>
+</td>
+<td class="date">02.07.2014 16:07 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="833097.1405017185.102498">
+<td>129.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=833097&code=1405017185">
+SPA140000074_ფაქტურა  პური 1 ივლისი.pdf
+</a>
+</td>
+<td class="date">10.07.2014 18:33 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="833102.1405017259.102498">
+<td>130.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=833102&code=1405017259">
+SPA140000074_ფაქტურა პური 2 ივლისი.pdf
+</a>
+</td>
+<td class="date">10.07.2014 18:34 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="833106.1405017325.102498">
+<td>131.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=833106&code=1405017325">
+SPA140000074_ფაქტურა პური 3 ივლისი.pdf
+</a>
+</td>
+<td class="date">10.07.2014 18:35 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="833109.1405017388.102498">
+<td>132.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=833109&code=1405017388">
+SPA140000074_ფაქტურა პური 4 ივლისი.pdf
+</a>
+</td>
+<td class="date">10.07.2014 18:36 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="833113.1405017535.102498">
+<td>133.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=833113&code=1405017535">
+SPA140000074_მიღება-ჩაბარების აქტი პური 1-4 ივლისი.pdf
+</a>
+</td>
+<td class="date">10.07.2014 18:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="838194.1405515508.102498">
+<td>134.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=838194&code=1405515508">
+SPA140000074_გადარიცხვა პური გელაშვილი.pdf
+</a>
+</td>
+<td class="date">16.07.2014 12:58 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="838378.1405520647.102498">
+<td>135.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=838378&code=1405520647">
+SPA140000074_ფაქტურა პური 7 ივლისი.pdf
+</a>
+</td>
+<td class="date">16.07.2014 14:24 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="838380.1405520695.102498">
+<td>136.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=838380&code=1405520695">
+SPA140000074_ფაქტურა პური 8 ივლისი.pdf
+</a>
+</td>
+<td class="date">16.07.2014 14:24 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="838382.1405520748.102498">
+<td>137.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=838382&code=1405520748">
+SPA140000074_ფაქტურა პური 9 ივლისი.pdf
+</a>
+</td>
+<td class="date">16.07.2014 14:25 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="838383.1405520811.102498">
+<td>138.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=838383&code=1405520811">
+SPA140000074_ფაქტურა პური 10 ივლისი.pdf
+</a>
+</td>
+<td class="date">16.07.2014 14:26 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="838384.1405520871.102498">
+<td>139.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=838384&code=1405520871">
+SPA140000074_ფაქტურა პური 11 ივლისი.pdf
+</a>
+</td>
+<td class="date">16.07.2014 14:27 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="838386.1405520898.102498">
+<td>140.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=838386&code=1405520898">
+SPA140000074_მიღება--ჩაბარების აქტი 7-11 ივლისი პური.pdf
+</a>
+</td>
+<td class="date">16.07.2014 14:28 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844889.1406131792.102498">
+<td>141.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844889&code=1406131792">
+SPA140000074_ფაქტურა პური 14 ივლისი.pdf
+</a>
+</td>
+<td class="date">23.07.2014 16:09 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844894.1406131865.102498">
+<td>142.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844894&code=1406131865">
+SPA140000074_ფაქტურა პური 15 ივლისი.pdf
+</a>
+</td>
+<td class="date">23.07.2014 16:11 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844895.1406131918.102498">
+<td>143.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844895&code=1406131918">
+SPA140000074_ფაქტურა პური 16 ივლისი.pdf
+</a>
+</td>
+<td class="date">23.07.2014 16:11 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844924.1406132622.102498">
+<td>144.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844924&code=1406132622">
+SPA140000074_ფაქტურა პური  17 ივლისი.pdf
+</a>
+</td>
+<td class="date">23.07.2014 16:23 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844928.1406132682.102498">
+<td>145.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844928&code=1406132682">
+SPA140000074_ფაქტურა პური 18 ივლისი.pdf
+</a>
+</td>
+<td class="date">23.07.2014 16:24 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="844930.1406132702.102498">
+<td>146.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=844930&code=1406132702">
+SPA140000074_მირება-ჩაბარების აქტი 14-18 ივლისი.pdf
+</a>
+</td>
+<td class="date">23.07.2014 16:25 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="850777.1406732246.102498">
+<td>147.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=850777&code=1406732246">
+SPA140000074_ფაქტურა პური  21 ივლისი.pdf
+</a>
+</td>
+<td class="date">30.07.2014 14:57 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="850780.1406732358.102498">
+<td>148.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=850780&code=1406732358">
+SPA140000074_ფაქტურა პური  22 ივლისი.pdf
+</a>
+</td>
+<td class="date">30.07.2014 14:59 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="850783.1406732436.102498">
+<td>149.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=850783&code=1406732436">
+SPA140000074_ფაქტურა პური  23 ივლისი გელაშვილი.pdf
+</a>
+</td>
+<td class="date">30.07.2014 15:00 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="850788.1406732488.102498">
+<td>150.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=850788&code=1406732488">
+SPA140000074_ფაქტურა პური  24 ივლისი.pdf
+</a>
+</td>
+<td class="date">30.07.2014 15:01 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="850791.1406732538.102498">
+<td>151.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=850791&code=1406732538">
+SPA140000074_ფაქტურა პური 25 ივლისი.pdf
+</a>
+</td>
+<td class="date">30.07.2014 15:02 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="850796.1406732565.102498">
+<td>152.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=850796&code=1406732565">
+SPA140000074_მიღება-ჩაბარების აქტი  21-25 ივლისი პური.pdf
+</a>
+</td>
+<td class="date">30.07.2014 15:02 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="852971.1406900010.102498">
+<td>153.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=852971&code=1406900010">
+SPA140000074_ფაქტურა პური 28 ივლისი.pdf
+</a>
+</td>
+<td class="date">01.08.2014 13:33 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="852974.1406900108.102498">
+<td>154.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=852974&code=1406900108">
+SPA140000074_ფაქტურა პური 29 ივლისი.pdf
+</a>
+</td>
+<td class="date">01.08.2014 13:35 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="852978.1406900250.102498">
+<td>155.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=852978&code=1406900250">
+SPA140000074_ფაქტურა პური  30 ივლისი.pdf
+</a>
+</td>
+<td class="date">01.08.2014 13:37 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="852985.1406900325.102498">
+<td>156.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=852985&code=1406900325">
+SPA140000074_ფაქტურა პური 31 ივლისი.pdf
+</a>
+</td>
+<td class="date">01.08.2014 13:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="852990.1406900368.102498">
+<td>157.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=852990&code=1406900368">
+SPA140000074_მიღება-ჩაბარების აქტი 28-31 ივლისი.pdf
+</a>
+</td>
+<td class="date">01.08.2014 13:39 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="861051.1407769172.102498">
+<td>158.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=861051&code=1407769172">
+SPA140000074_ფაქტურა პური  გელაშვილი.pdf
+</a>
+</td>
+<td class="date">11.08.2014 14:59 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="861053.1407769203.102498">
+<td>159.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=861053&code=1407769203">
+SPA140000074_მიღება-ჩაბარების აქტი პური 1-8 აგვისტო.pdf
+</a>
+</td>
+<td class="date">11.08.2014 15:00 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869328.1408542162.102498">
+<td>160.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869328&code=1408542162">
+SPA140000074_პური 11-15 აგვისტო გელაშვილი.pdf
+</a>
+</td>
+<td class="date">20.08.2014 13:42 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869329.1408542208.102498">
+<td>161.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869329&code=1408542208">
+SPA140000074_მიღება-ჩაბარების აქტი 11-15 აგვისტო.pdf
+</a>
+</td>
+<td class="date">20.08.2014 13:43 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="869334.1408542423.102498">
+<td>162.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=869334&code=1408542423">
+SPA140000074_გადარიცხვა.pdf
+</a>
+</td>
+<td class="date">20.08.2014 13:47 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="873148.1408973928.102498">
+<td>163.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=873148&code=1408973928">
+SPA140000074_ზედნადები პური გელაშვილი 25 აგვისტო.pdf
+</a>
+</td>
+<td class="date">25.08.2014 13:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="873150.1408973948.102498">
+<td>164.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=873150&code=1408973948">
+SPA140000074_მიღება-ჩაბარება პური გელაშვილი 25 აგვისტო.pdf
+</a>
+</td>
+<td class="date">25.08.2014 13:39 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="878362.1409592764.102498">
+<td>165.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=878362&code=1409592764">
+SPA140000074_puri 28 agvisto.pdf
+</a>
+</td>
+<td class="date">01.09.2014 17:32 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="878367.1409592818.102498">
+<td>166.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=878367&code=1409592818">
+SPA140000074_migeba cabareba puri 28 agvisto.pdf
+</a>
+</td>
+<td class="date">01.09.2014 17:33 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="892639.1410965637.102498">
+<td>167.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=892639&code=1410965637">
+SPA140000074_გადარიცხვა პური.pdf
+</a>
+</td>
+<td class="date">17.09.2014 14:53 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="898290.1411468683.102498">
+<td>168.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=898290&code=1411468683">
+SPA140000074_პური 15 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">23.09.2014 10:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="898291.1411468719.102498">
+<td>169.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=898291&code=1411468719">
+SPA140000074_პური 16 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">23.09.2014 10:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="898292.1411468754.102498">
+<td>170.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=898292&code=1411468754">
+SPA140000074_პური  17 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">23.09.2014 10:39 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="898296.1411468850.102498">
+<td>171.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=898296&code=1411468850">
+SPA140000074_პური  18 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">23.09.2014 10:40 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="898299.1411468888.102498">
+<td>172.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=898299&code=1411468888">
+SPA140000074_პური 19 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">23.09.2014 10:41 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="898304.1411468919.102498">
+<td>173.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=898304&code=1411468919">
+SPA140000074_მიღება-ჩაბარების აქტი 15-19 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">23.09.2014 10:41 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="906864.1412175494.102498">
+<td>174.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=906864&code=1412175494">
+SPA140000074_პური 22 სეწტემბერი.pdf
+</a>
+</td>
+<td class="date">01.10.2014 14:58 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="906870.1412175536.102498">
+<td>175.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=906870&code=1412175536">
+SPA140000074_პური 23 სეწტემბერი.pdf
+</a>
+</td>
+<td class="date">01.10.2014 14:58 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="906872.1412175597.102498">
+<td>176.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=906872&code=1412175597">
+SPA140000074_პური 24 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">01.10.2014 14:59 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="906873.1412175639.102498">
+<td>177.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=906873&code=1412175639">
+SPA140000074_პური 25 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">01.10.2014 15:00 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="906874.1412175699.102498">
+<td>178.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=906874&code=1412175699">
+SPA140000074_პური 26 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">01.10.2014 15:01 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="906877.1412175757.102498">
+<td>179.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=906877&code=1412175757">
+SPA140000074_პური 29 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">01.10.2014 15:02 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="906879.1412175796.102498">
+<td>180.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=906879&code=1412175796">
+SPA140000074_პური 30 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">01.10.2014 15:03 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="906881.1412175843.102498">
+<td>181.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=906881&code=1412175843">
+SPA140000074_მიღება-ჩაბარების აქტი 22-30 სექტემბერი.pdf
+</a>
+</td>
+<td class="date">01.10.2014 15:04 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="913801.1412779737.102498">
+<td>182.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=913801&code=1412779737">
+SPA140000074_ა.ფაქტურა პური 1 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">08.10.2014 14:48 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="913805.1412779780.102498">
+<td>183.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=913805&code=1412779780">
+SPA140000074_ა.ფაქტურა პური 2 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">08.10.2014 14:49 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="913806.1412779815.102498">
+<td>184.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=913806&code=1412779815">
+SPA140000074_ა.ფაქტურა პური 3 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">08.10.2014 14:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="913808.1412779836.102498">
+<td>185.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=913808&code=1412779836">
+SPA140000074_მიღება-ჩაბარების აქტი 1-3 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">08.10.2014 14:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="920677.1413392977.102498">
+<td>186.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=920677&code=1413392977">
+SPA140000074_ს.ზედნადები პური გელაშვილი 6 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">15.10.2014 17:09 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="920679.1413393015.102498">
+<td>187.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=920679&code=1413393015">
+SPA140000074_ს.ზედნადები პური გელაშვილი 7 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">15.10.2014 17:10 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="920683.1413393054.102498">
+<td>188.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=920683&code=1413393054">
+SPA140000074_ს.ზედნადები პური გელაშვილი 8 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">15.10.2014 17:10 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="920687.1413393096.102498">
+<td>189.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=920687&code=1413393096">
+SPA140000074_ს.ზედნადები პური გელაშვილი 9 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">15.10.2014 17:11 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="920692.1413393132.102498">
+<td>190.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=920692&code=1413393132">
+SPA140000074_ს.ზედნადები პური გელაშვილი 10 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">15.10.2014 17:12 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="920694.1413393151.102498">
+<td>191.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=920694&code=1413393151">
+SPA140000074_მიღება-ჩაბარების აქტი პური გელაშვილი  6-10 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">15.10.2014 17:12 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="925821.1413889516.102498">
+<td>192.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=925821&code=1413889516">
+SPA140000074_გადარიცხვა პური გელაშვილი 16 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">21.10.2014 11:05 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="927147.1413979155.102498">
+<td>193.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=927147&code=1413979155">
+SPA140000074_ს.ზედნადები პური 13 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">22.10.2014 11:59 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="927154.1413979199.102498">
+<td>194.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=927154&code=1413979199">
+SPA140000074_ს.ზედნადები პური 15 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">22.10.2014 11:59 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="927156.1413979244.102498">
+<td>195.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=927156&code=1413979244">
+SPA140000074_ს.ზედნადები პური 16 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">22.10.2014 12:00 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="927159.1413979285.102498">
+<td>196.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=927159&code=1413979285">
+SPA140000074_ს.ზედნადები პური 17 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">22.10.2014 12:01 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="927160.1413979316.102498">
+<td>197.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=927160&code=1413979316">
+SPA140000074_მიღება-ჩაბარების აქტი პური 13-17 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">22.10.2014 12:01 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="934392.1414601409.102498">
+<td>198.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=934392&code=1414601409">
+SPA140000074_ს.ზედნადები პური 21 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">29.10.2014 16:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="934398.1414601454.102498">
+<td>199.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=934398&code=1414601454">
+SPA140000074_ს.ზედნადები პური 22 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">29.10.2014 16:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="934404.1414601498.102498">
+<td>200.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=934404&code=1414601498">
+SPA140000074_ს.ზედნადები პური 20 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">29.10.2014 16:51 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="934405.1414601538.102498">
+<td>201.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=934405&code=1414601538">
+SPA140000074_ს.ზედნადები პური 23 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">29.10.2014 16:52 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="934410.1414601580.102498">
+<td>202.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=934410&code=1414601580">
+SPA140000074_ს.ზედნადები პური 24 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">29.10.2014 16:53 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="934414.1414601621.102498">
+<td>203.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=934414&code=1414601621">
+SPA140000074_მიღება-ჩაბარების აქტი პური 20-24 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">29.10.2014 16:53 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="942264.1415289140.102498">
+<td>204.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=942264&code=1415289140">
+SPA140000074_ს.ზედნადები პური 27 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">06.11.2014 15:52 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="942268.1415289190.102498">
+<td>205.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=942268&code=1415289190">
+SPA140000074_ს.ზედნადები პური 28 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">06.11.2014 15:53 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="942272.1415289231.102498">
+<td>206.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=942272&code=1415289231">
+SPA140000074_ს.ზედნადები პური 29 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">06.11.2014 15:53 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="942277.1415289276.102498">
+<td>207.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=942277&code=1415289276">
+SPA140000074_ს.ზედნადები პური 30 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">06.11.2014 15:54 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="942280.1415289316.102498">
+<td>208.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=942280&code=1415289316">
+SPA140000074_ს.ზედნადები პური 31 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">06.11.2014 15:55 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="942283.1415289389.102498">
+<td>209.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=942283&code=1415289389">
+SPA140000074_პური მირება-ჩაბარების აქტი 27-31 ოქტომბერი.pdf
+</a>
+</td>
+<td class="date">06.11.2014 15:56 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="945462.1415635499.102498">
+<td>210.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=945462&code=1415635499">
+SPA140000074_ს.ზედნადები პური 4 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">10.11.2014 16:04 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="945463.1415635559.102498">
+<td>211.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=945463&code=1415635559">
+SPA140000074_ს.ზედნადები პური 3 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">10.11.2014 16:05 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="945469.1415635615.102498">
+<td>212.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=945469&code=1415635615">
+SPA140000074_ს.ზედნადები პური 5 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">10.11.2014 16:06 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="945471.1415635657.102498">
+<td>213.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=945471&code=1415635657">
+SPA140000074_ს.ზედნადები პური 6 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">10.11.2014 16:07 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="945473.1415635732.102498">
+<td>214.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=945473&code=1415635732">
+SPA140000074_ს.ზედნადები პური 7ნოემბერი.pdf
+</a>
+</td>
+<td class="date">10.11.2014 16:08 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="945475.1415635749.102498">
+<td>215.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=945475&code=1415635749">
+SPA140000074_მიღება-ჩაბარების აქტი 3-7 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">10.11.2014 16:09 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="955888.1416406380.102498">
+<td>216.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=955888&code=1416406380">
+SPA140000074_ს.ზედნადები 10 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">19.11.2014 14:13 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="955889.1416406449.102498">
+<td>217.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=955889&code=1416406449">
+SPA140000074_ს.ზედნადები 11 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">19.11.2014 14:14 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="955890.1416406494.102498">
+<td>218.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=955890&code=1416406494">
+SPA140000074_ს.ზედნადები 12 ნომბერი.pdf
+</a>
+</td>
+<td class="date">19.11.2014 14:14 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="955891.1416406537.102498">
+<td>219.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=955891&code=1416406537">
+SPA140000074_ს.ზედნადები 13 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">19.11.2014 14:15 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="955892.1416406591.102498">
+<td>220.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=955892&code=1416406591">
+SPA140000074_ს.ზედნადები 14 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">19.11.2014 14:16 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="955896.1416406619.102498">
+<td>221.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete1">
+<a target="blank" href="engine/files.php?mode=app&file=955896&code=1416406619">
+SPA140000074_მირება-ჩაბარების აქტი პური 10-14 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">19.11.2014 14:16 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="955902.1416406862.102498">
+<td>222.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=955902&code=1416406862">
+SPA140000074_მიღება-ჩაბარების აქტი 10-14 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">19.11.2014 14:21 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="955911.1416407044.102498">
+<td>223.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=955911&code=1416407044">
+SPA140000074_გადარიცხვა.pdf
+</a>
+</td>
+<td class="date">19.11.2014 14:24 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="965193.1417106980.102498">
+<td>224.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=965193&code=1417106980">
+SPA140000074_ს.ზედნადები 17 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">27.11.2014 16:49 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="965198.1417107033.102498">
+<td>225.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=965198&code=1417107033">
+SPA140000074_ს.ზედნადები 18 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">27.11.2014 16:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="965201.1417107072.102498">
+<td>226.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=965201&code=1417107072">
+SPA140000074_ს.ზედნადები 19 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">27.11.2014 16:51 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="965203.1417107111.102498">
+<td>227.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=965203&code=1417107111">
+SPA140000074_ს.ზედნადები 20 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">27.11.2014 16:51 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="965206.1417107143.102498">
+<td>228.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=965206&code=1417107143">
+SPA140000074_ს.ზედნადები 21 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">27.11.2014 16:52 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="965209.1417107164.102498">
+<td>229.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=965209&code=1417107164">
+SPA140000074_მიღება-ცაბარების აქტი პური 17-21 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">27.11.2014 16:52 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="969909.1417541343.102498">
+<td>230.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=969909&code=1417541343">
+SPA140000074_პური ს.ზედნადებიაქტი 24 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">02.12.2014 17:29 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="969913.1417541372.102498">
+<td>231.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=969913&code=1417541372">
+SPA140000074_პური ს.ზედნადები 25 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">02.12.2014 17:29 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="969918.1417541395.102498">
+<td>232.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=969918&code=1417541395">
+SPA140000074_პური ს.ზედნადები 26 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">02.12.2014 17:29 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="969919.1417541419.102498">
+<td>233.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=969919&code=1417541419">
+SPA140000074_პური ს.ზედნადები 27 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">02.12.2014 17:30 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="969922.1417541447.102498">
+<td>234.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=969922&code=1417541447">
+SPA140000074_პური ს.ზედნადები 28 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">02.12.2014 17:30 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="969923.1417541468.102498">
+<td>235.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=969923&code=1417541468">
+SPA140000074_პური მიღება--ჩაბარების აქტი 24-28 ნოემბერი.pdf
+</a>
+</td>
+<td class="date">02.12.2014 17:31 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="977884.1418134547.102498">
+<td>236.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=977884&code=1418134547">
+SPA140000074_ს.ზედნადები პური 1 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">09.12.2014 14:15 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="977887.1418134597.102498">
+<td>237.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=977887&code=1418134597">
+SPA140000074_ს.ზედნადები პური 2 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">09.12.2014 14:16 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="977892.1418134686.102498">
+<td>238.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=977892&code=1418134686">
+SPA140000074_ს.ზედნადები პური 3 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">09.12.2014 14:18 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="977895.1418134741.102498">
+<td>239.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=977895&code=1418134741">
+SPA140000074_ს.ზედნადები პური 4 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">09.12.2014 14:19 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="977898.1418134794.102498">
+<td>240.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=977898&code=1418134794">
+SPA140000074_ს.ზედნადები პური 5 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">09.12.2014 14:19 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="977899.1418134822.102498">
+<td>241.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=977899&code=1418134822">
+SPA140000074_მიღება-ცაბარების აქტი პური 1-5 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">09.12.2014 14:20 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988231.1418832752.102498">
+<td>242.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988231&code=1418832752">
+SPA140000074_ს.ზედნადები პური 8 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">17.12.2014 16:12 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988250.1418833006.102498">
+<td>243.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988250&code=1418833006">
+SPA140000074_ს.ზედნადები პური 9 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">17.12.2014 16:16 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988298.1418834012.102498">
+<td>244.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988298&code=1418834012">
+SPA140000074_ს.ზედნადები პური  10 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">17.12.2014 16:33 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988315.1418834346.102498">
+<td>245.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988315&code=1418834346">
+SPA140000074_ს.ზედნადები პური 11 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">17.12.2014 16:39 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988323.1418834417.102498">
+<td>246.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988323&code=1418834417">
+SPA140000074_ს.ზედნადები პური 12 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">17.12.2014 16:40 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="988326.1418834458.102498">
+<td>247.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=988326&code=1418834458">
+SPA140000074_მიღება-ცაბარების აქტი--პური,8-12 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">17.12.2014 16:40 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="996040.1419338103.102498">
+<td>248.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=996040&code=1419338103">
+SPA140000074_გადარიცხვა პური 16 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">23.12.2014 12:35 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="998270.1419424728.102498">
+<td>249.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=998270&code=1419424728">
+SPA140000074_პური 15 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">24.12.2014 12:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="998272.1419424921.102498">
+<td>250.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=998272&code=1419424921">
+SPA140000074_პური 16 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">24.12.2014 12:42 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="998274.1419424949.102498">
+<td>251.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=998274&code=1419424949">
+SPA140000074_პური 17 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">24.12.2014 12:42 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="998276.1419424972.102498">
+<td>252.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=998276&code=1419424972">
+SPA140000074_პური 18 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">24.12.2014 12:42 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="998279.1419424997.102498">
+<td>253.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=998279&code=1419424997">
+SPA140000074_პური 19 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">24.12.2014 12:43 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="998280.1419425035.102498">
+<td>254.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=998280&code=1419425035">
+SPA140000074_მიღება-ჩაბარების აქტი პური 15-19 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">24.12.2014 12:43 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1005416.1419868141.102498">
+<td>255.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1005416&code=1419868141">
+SPA140000074_გადარიცხვა პური 29 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">29.12.2014 15:49 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1006824.1419939511.102498">
+<td>256.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1006824&code=1419939511">
+SPA140000074_ს.ზედნადები პური 22 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">30.12.2014 11:38 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1006834.1419939757.102498">
+<td>257.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1006834&code=1419939757">
+SPA140000074_ს.ზედნადები,პური 23 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">30.12.2014 11:42 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1006848.1419940008.102498">
+<td>258.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1006848&code=1419940008">
+SPA140000074_ს.ზედნადები,პური 24 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">30.12.2014 11:46 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1006862.1419940211.102498">
+<td>259.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1006862&code=1419940211">
+SPA140000074_ს.ზედნადები პური 25 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">30.12.2014 11:50 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1006872.1419940450.102498">
+<td>260.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1006872&code=1419940450">
+SPA140000074_ს.ზედნადები პური 26 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">30.12.2014 11:54 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1006885.1419940764.102498">
+<td>261.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1006885&code=1419940764">
+SPA140000074_მიღება-ჩაბარების აქტი 22-26 დეკემბერი.pdf
+</a>
+</td>
+<td class="date">30.12.2014 11:59 :: შორენა ქურდაძე</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 13`774.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 12`814.68 ლარი  (93%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>1`660.14 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>29.12.2014&nbsp;
+
+</td>
+<td class="date">29.12.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>1`012.46 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>16.12.2014&nbsp;
+
+</td>
+<td class="date">23.12.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>1`216.70 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>14.11.2014&nbsp;
+
+</td>
+<td class="date">19.11.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>568.56 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>4</td>
+<td>16.10.2014&nbsp;
+
+</td>
+<td class="date">21.10.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>129.26 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>3</td>
+<td>15.09.2014&nbsp;
+
+</td>
+<td class="date">21.10.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>1`059.38 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>3</td>
+<td>15.08.2014&nbsp;
+
+</td>
+<td class="date">20.08.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>1`503.28 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>3</td>
+<td>11.07.2014&nbsp;
+
+</td>
+<td class="date">16.07.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>1`098.02 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2</td>
+<td>13.06.2014&nbsp;
+
+</td>
+<td class="date">13.06.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>503.24 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2</td>
+<td>15.05.2014&nbsp;
+
+</td>
+<td class="date">21.05.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>476.56 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2</td>
+<td>24.04.2014&nbsp;
+
+</td>
+<td class="date">01.05.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>932.42 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2</td>
+<td>16.04.2014&nbsp;
+
+</td>
+<td class="date">24.04.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>698.74 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2</td>
+<td>01.04.2014&nbsp;
+
+</td>
+<td class="date">07.04.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>673.44 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>1</td>
+<td>14.03.2014&nbsp;
+
+</td>
+<td class="date">31.03.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>653.66 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>1</td>
+<td>26.02.2014&nbsp;
+
+</td>
+<td class="date">31.03.2014<br>შორენა ქურდაძე</td>
+</tr><tr class="activebid1">
+<td>628.82 ლარი<br><span class="color-2">ადგილობრივი თვითმართველი ერთეულის ბიუჯეტი</span></td>
+<td>2014</td>
+<td>1</td>
+<td>13.02.2014&nbsp;
+
+</td>
+<td class="date">17.02.2014<br>შორენა ქურდაძე</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'102498'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

@@ -1,0 +1,2786 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი <span>პრეისკურანტით</span></td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140027075</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv130693" /><label for="fv130693"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1495)"><img src="images/profile24_0.png"> შსს საპატრულო პოლიციის დეპარტამენტი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>24.11.2014 11:46</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>10.12.2014 00:05</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>15.12.2014 12:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2015 წლის სახსრები</td>
+	</tr>
+
+	<tr>
+		<td><span class='color-1'>პრეისკურანტის სავარაუდო ღირებულება</span></td>
+		<td><span>6`629.00 GEL</span></td>
+	</tr>
+	<tr>
+		<td><span class='color-1'>შესყიდვის ობიექტის სახელშეკრულებო ღირებულება</span></td>
+		<td><span>40`000.00 GEL</span> <span class="color-1">ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+
+	
+
+	
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;50700000 - შენობის მოწყობილობების შეკეთება და ტექნიკური მომსახურება</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;50700000 - შენობის მოწყობილობების შეკეთება და ტექნიკური მომსახურება
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">სხვადასხვა სახის კონდენციონერების ტექნიკური მომსახურების შესყიდვა  ელექტრონული ტენდერის საშუალებით</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>მოცემულია სატენდერო დოკუმენტაციაში</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმების დღიდან _ 2016 წლის 31 იანვრის ჩათვლით ან/და მხარეთა მიერ თავისი ვალდებულებების სრულ შესრულებამდე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>30.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>66 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=130693&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="130693">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: მარინა აბაშიძე :: 24.11.2014 11:28</li>
+	<li style="text-align:right">ბოლო შესწორება: მარინა აბაშიძე :: 24.11.2014 11:28</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:130693, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '130693'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="960051.1416829454.130693">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=960051&code=1416829454">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=960051&code=1416829454">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია_DOKUMENTACIA.pdf
+						</a>
+					</td>
+					<td class="date" align="right">24.11.2014 11:44<br/>მარინა აბაშიძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 6`629.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმების დღიდან _ 2016 წლის 31 იანვრის ჩათვლით ან/და მხარეთა მიერ თავისი ვალდებულებების სრულ შესრულებამდე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B130693159705">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(8870)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ჯეოონო</span>
+			</td>
+		<td class="activebid1"><strong>2`622.00</strong>&nbsp;<br/><span class="date">15.12.2014 12:17</span></td>
+		<td class="activebid1">6`629.00&nbsp;<br/><span class="date">15.12.2014 11:52</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(130693,159705)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B130693159652">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37440)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს  გიო 2011</span>
+			</td>
+		<td class="activebid1"><strong>2`620.00</strong>&nbsp;<br/><span class="date">15.12.2014 12:19</span></td>
+		<td class="activebid1">6`629.00&nbsp;<br/><span class="date">15.12.2014 11:17</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(130693,159652)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">ჯეოონო</td>
+		<td align="center" class="activebid1"><strong>3`978.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">შპს  გიო 2011</td>
+		<td align="center" class="activebid1"><strong>3`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">12:11</td>
+		<td align="center" class="activebid1">12:13</td>
+		<td class="activebid1">ჯეოონო</td>
+		<td align="center" class="activebid1"><strong>2`652.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">შპს  გიო 2011</td>
+		<td align="center" class="activebid1"><strong>2`651.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">ჯეოონო</td>
+		<td align="center" class="activebid1"><strong>2`622.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:19</td>
+		<td align="center" class="activebid1">12:21</td>
+		<td class="activebid1">შპს  გიო 2011</td>
+		<td align="center" class="activebid1"><strong>2`620.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B130693">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(8870)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ჯეოონო</span>
+		</td>
+		<td class="activebid1"><strong>5`236.00</strong></td>
+		<td class="date activebid1">15.12.2014 11:56</td>
+	</tr><tr bgcolor="#ffffff" id="B130693">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(37440)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს  გიო 2011</span>
+		</td>
+		<td class="activebid1"><strong>4`630.00</strong></td>
+		<td class="date activebid1">15.12.2014 11:59</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'130693'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'130693'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="989697.1418914671.130693">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=989697&code=1418914671">
+                    SPA140027075_ოქმი #2_oqmi #2.pdf
+                    </a>
+                </td>
+                <td class="date">18.12.2014 14:57 :: მარინა აბაშიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="989700.1418914728.130693">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=989700&code=1418914728">
+                    SPA140027075_შეტყობინება პრეტენდენტს დასაზუსტებელი დოკუმენტების შესახებ_shetyobineba.pdf
+                    </a>
+                </td>
+                <td class="date">18.12.2014 14:58 :: მარინა აბაშიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="989703.1418914772.130693">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=989703&code=1418914772">
+                    SPA140027075_ხელწერილი ინტერესთა კონფლიქტის თავიდან აცილების შესახებ_int.kon.pdf
+                    </a>
+                </td>
+                <td class="date">18.12.2014 14:59 :: მარინა აბაშიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992945.1419192535.130693">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992945&code=1419192535">
+                    SPA140027075_საპატრულო პრეისკურანტი(1).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:08 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992946.1419192551.130693">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992946&code=1419192551">
+                    SPA140027075_საპატრულო დანართი#3.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:09 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992947.1419192589.130693">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992947&code=1419192589">
+                    SPA140027075_ხელშეკრულება აჭარის არ მთავარი სამმართველო.PDF
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:09 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992948.1419192619.130693">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992948&code=1419192619">
+                    SPA140027075_ანგარისფაქტურა აჭარის არ მთავარი სამმართველო (2).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:10 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992949.1419192631.130693">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992949&code=1419192631">
+                    SPA140027075_ანგარისფაქტურა აჭარის არ მთავარი სამმართველო (3).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:10 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992950.1419192647.130693">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992950&code=1419192647">
+                    SPA140027075_ანგარისფაქტურა აჭარის არ მთავარი სამმართველო (5).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:10 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992951.1419192672.130693">
+                <td>10.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992951&code=1419192672">
+                    SPA140027075_ანგარისფაქტურა აჭარის არ მთავარი სამმართველო.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:11 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992952.1419192797.130693">
+                <td>11.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992952&code=1419192797">
+                    SPA140027075_ანგარისფაქტურა აჭარის არ მთავარი სამმართველო (4).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:13 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992953.1419192902.130693">
+                <td>12.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992953&code=1419192902">
+                    SPA140027075_ხელშეკრულება ლტოლვილთა სამინისტრო.PDF
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:15 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992954.1419192929.130693">
+                <td>13.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992954&code=1419192929">
+                    SPA140027075_ანგარისფაქტურა ლტოლვილთა სამინისტრო.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:15 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992955.1419192970.130693">
+                <td>14.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992955&code=1419192970">
+                    SPA140027075_ხელშეკრულება დაცვის პოლიციის დეპარტამენტი.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:16 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992956.1419192987.130693">
+                <td>15.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992956&code=1419192987">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(1).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:16 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992957.1419192996.130693">
+                <td>16.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992957&code=1419192996">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(2).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:16 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992958.1419193007.130693">
+                <td>17.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992958&code=1419193007">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(3).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:16 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992959.1419193021.130693">
+                <td>18.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992959&code=1419193021">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(4).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:17 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992960.1419193032.130693">
+                <td>19.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992960&code=1419193032">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(5).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:17 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992961.1419193043.130693">
+                <td>20.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992961&code=1419193043">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(6).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:17 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992962.1419193054.130693">
+                <td>21.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992962&code=1419193054">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(7).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:17 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992963.1419193069.130693">
+                <td>22.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992963&code=1419193069">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(8).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:17 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992964.1419193086.130693">
+                <td>23.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992964&code=1419193086">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(10).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:18 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992965.1419193113.130693">
+                <td>24.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992965&code=1419193113">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(11).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:18 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992966.1419193169.130693">
+                <td>25.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992966&code=1419193169">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(12).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:19 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992967.1419193186.130693">
+                <td>26.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992967&code=1419193186">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(13).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:19 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992968.1419193199.130693">
+                <td>27.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992968&code=1419193199">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(14).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:19 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992969.1419193219.130693">
+                <td>28.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992969&code=1419193219">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(15).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:20 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992970.1419193234.130693">
+                <td>29.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992970&code=1419193234">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9)(16).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:20 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992971.1419193252.130693">
+                <td>30.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992971&code=1419193252">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(9).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:20 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992972.1419193266.130693">
+                <td>31.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992972&code=1419193266">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი(10).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:21 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992973.1419193618.130693">
+                <td>32.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992973&code=1419193618">
+                    SPA140027075_ხელშეკრულება თბილისის სახელმწიფო სამედიცინო უნუვერსიტეტი.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:26 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992974.1419193659.130693">
+                <td>33.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992974&code=1419193659">
+                    SPA140027075_მიღება-ჩაბარება თბილისის სახელწიფო სამედიცინო უნივერსიტეტი.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:27 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992975.1419193715.130693">
+                <td>34.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992975&code=1419193715">
+                    SPA140027075_ხელშეკრულება საპატრულო პოლიციის დეპარტამენტი.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:28 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992976.1419193779.130693">
+                <td>35.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992976&code=1419193779">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(6).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:29 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992977.1419193794.130693">
+                <td>36.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992977&code=1419193794">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(2).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:29 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992978.1419193807.130693">
+                <td>37.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992978&code=1419193807">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(3).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:30 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992979.1419193836.130693">
+                <td>38.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992979&code=1419193836">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(4).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:30 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992980.1419193859.130693">
+                <td>39.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992980&code=1419193859">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(5).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:30 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992981.1419193879.130693">
+                <td>40.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=992981&code=1419193879">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(6).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:31 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992982.1419193896.130693">
+                <td>41.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992982&code=1419193896">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(7).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:31 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992983.1419193971.130693">
+                <td>42.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992983&code=1419193971">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(8).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:32 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992984.1419193990.130693">
+                <td>43.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992984&code=1419193990">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(9).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:33 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992985.1419194024.130693">
+                <td>44.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992985&code=1419194024">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(10).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:33 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992986.1419194092.130693">
+                <td>45.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992986&code=1419194092">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(11).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:34 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992987.1419194164.130693">
+                <td>46.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992987&code=1419194164">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(12).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:36 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992988.1419194330.130693">
+                <td>47.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992988&code=1419194330">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(13).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:38 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992989.1419194363.130693">
+                <td>48.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992989&code=1419194363">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(14).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:39 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992990.1419194389.130693">
+                <td>49.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992990&code=1419194389">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(15).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:39 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992991.1419194413.130693">
+                <td>50.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992991&code=1419194413">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(16).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:40 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992992.1419194435.130693">
+                <td>51.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992992&code=1419194435">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(17).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:40 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992993.1419194466.130693">
+                <td>52.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992993&code=1419194466">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(18).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:41 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992996.1419195000.130693">
+                <td>53.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992996&code=1419195000">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(19).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:50 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992997.1419195034.130693">
+                <td>54.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992997&code=1419195034">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(20).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:50 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992998.1419195064.130693">
+                <td>55.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992998&code=1419195064">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(21).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:51 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="992999.1419195105.130693">
+                <td>56.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=992999&code=1419195105">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(22).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:51 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993000.1419195133.130693">
+                <td>57.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993000&code=1419195133">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(23).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:52 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993001.1419195164.130693">
+                <td>58.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993001&code=1419195164">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(24).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:52 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993002.1419195187.130693">
+                <td>59.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993002&code=1419195187">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(25).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:53 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993003.1419195214.130693">
+                <td>60.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993003&code=1419195214">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(26).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:53 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993004.1419195240.130693">
+                <td>61.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993004&code=1419195240">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(27).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:54 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993005.1419195265.130693">
+                <td>62.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993005&code=1419195265">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(28).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:54 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993006.1419195293.130693">
+                <td>63.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993006&code=1419195293">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(29).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:54 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993007.1419195380.130693">
+                <td>64.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993007&code=1419195380">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი(1).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:56 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993008.1419195416.130693">
+                <td>65.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993008&code=1419195416">
+                    SPA140027075_ანგარიშფაქტურა საპატრულო პოლიციის დეპარტამენტი.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 20:56 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993011.1419195896.130693">
+                <td>66.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993011&code=1419195896">
+                    SPA140027075_ხელშეკრულება საქართველოს ფინანსთა სამინისტრო.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:04 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993012.1419195974.130693">
+                <td>67.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993012&code=1419195974">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო (2).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:06 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993013.1419196004.130693">
+                <td>68.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993013&code=1419196004">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(1).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:06 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993014.1419196022.130693">
+                <td>69.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993014&code=1419196022">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(10).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:07 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993015.1419196043.130693">
+                <td>70.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993015&code=1419196043">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(11).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:07 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993016.1419196065.130693">
+                <td>71.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993016&code=1419196065">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(12).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:07 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993017.1419196086.130693">
+                <td>72.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993017&code=1419196086">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(2).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:08 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993019.1419196125.130693">
+                <td>73.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993019&code=1419196125">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(3).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:08 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993020.1419196153.130693">
+                <td>74.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993020&code=1419196153">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(4).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:09 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993021.1419196192.130693">
+                <td>75.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993021&code=1419196192">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(5).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:09 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993022.1419196219.130693">
+                <td>76.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993022&code=1419196219">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(6).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:10 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993023.1419196238.130693">
+                <td>77.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993023&code=1419196238">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(7).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:10 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993024.1419196258.130693">
+                <td>78.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993024&code=1419196258">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(8).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:10 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993025.1419196293.130693">
+                <td>79.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993025&code=1419196293">
+                    SPA140027075_ანგარიშფაქტურა საქართველოს ფინანსთა სამინისტრო(9).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:11 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993028.1419197163.130693">
+                <td>80.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993028&code=1419197163">
+                    SPA140027075_ხელშეკრულება შემოსავლების სამსახური.PDF
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:26 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993029.1419197220.130693">
+                <td>81.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993029&code=1419197220">
+                    SPA140027075_ანგარიშფაქტურა შემოსავლების სამსახური(1).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:27 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993030.1419197239.130693">
+                <td>82.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993030&code=1419197239">
+                    SPA140027075_ანგარიშფაქტურა შემოსავლების სამსახური(2).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:27 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993031.1419197273.130693">
+                <td>83.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993031&code=1419197273">
+                    SPA140027075_ანგარიშფაქტურა შემოსავლების სამსახური(3).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:27 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993032.1419197293.130693">
+                <td>84.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993032&code=1419197293">
+                    SPA140027075_ანგარიშფაქტურა შემოსავლების სამსახური(4).pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:28 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="993033.1419197320.130693">
+                <td>85.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=993033&code=1419197320">
+                    SPA140027075_ანგარიშფაქტურა შემოსავლების სამსახური.pdf
+                    </a>
+                </td>
+                <td class="date">21.12.2014 21:28 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="994855.1419265190.130693">
+                <td>86.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=994855&code=1419265190">
+                    SPA140027075_ანგარიშფაქტურა შემოსავლების სამსახური.pdf
+                    </a>
+                </td>
+                <td class="date">22.12.2014 16:19 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="994858.1419265216.130693">
+                <td>87.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=994858&code=1419265216">
+                    SPA140027075_ანგარიში-ლიბერტი.pdf
+                    </a>
+                </td>
+                <td class="date">22.12.2014 16:20 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="996206.1419342891.130693">
+                <td>88.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=996206&code=1419342891">
+                    SPA140027075_ანგარიშფაქტურა დაცვის პოლიციის დეპარტამენტი.pdf
+                    </a>
+                </td>
+                <td class="date">23.12.2014 13:54 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="996330.1419346164.130693">
+                <td>89.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=996330&code=1419346164">
+                    SPA140027075_რეესტრი 100000 ლარზე მსგავსი სამუშაოები (საერთო).pdf
+                    </a>
+                </td>
+                <td class="date">23.12.2014 14:49 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="996351.1419346486.130693">
+                <td>90.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=996351&code=1419346486">
+                    SPA140027075_ანგარიშფაქტურა შემოსავლების სამსახური.pdf
+                    </a>
+                </td>
+                <td class="date">23.12.2014 14:54 :: გენო სოლომონიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1001951.1419590653.130693">
+                <td>91.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1001951&code=1419590653">
+                    SPA140027075_ოქმი #3_oqmi #3.pdf
+                    </a>
+                </td>
+                <td class="date">26.12.2014 10:44 :: მარინა აბაშიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1001953.1419590730.130693">
+                <td>92.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1001953&code=1419590730">
+                    SPA140027075_შეტყობინება პრეტენდენტს ხელშეკრულების გასაფორმებლად მოწვევის შესახებ_shetyobineba.pdf
+                    </a>
+                </td>
+                <td class="date">26.12.2014 10:45 :: მარინა აბაშიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'130693'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg10" style="font-weight:bold">მიმდინარე ხელშეკრულება</span><br/>
+			<span class="date">მარინა აბაშიძე :: 14.01.2015</span><br/>
+			<span><strong>294</strong> დღე ხელშეკრულების მოქმედების ვადის ამოწურვამდე</span>
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(37440)"><img src="images/profile24.png"></a> <strong>შპს  გიო 2011</strong><br/>
+				
+					ნომერი/თანხა: N19 / <span class="convertme" id="40000-GEL-14.01.2015 13:05">40000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 05.01.2015 - 31.01.2016<br/>
+					<span class="date">14.01.2015 13:05</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=116423"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="130693">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="130693">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="130693">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="1113287.1427382228.130693">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1113287&code=1427382228">
+SPA140027075_19 მიღება ჩაბარება.pdf
+</a>
+</td>
+<td class="date">26.03.2015 15:03 :: დავით ზანდარაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 40`000.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 1`608.70 ლარი  (4%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>1`332.60 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2015</td>
+<td>2015</td>
+<td>27.03.2015&nbsp;
+
+</td>
+<td class="date">27.03.2015<br>–</td>
+</tr><tr class="activebid1">
+<td>276.10 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2015</td>
+<td>2015</td>
+<td>27.03.2015&nbsp;
+
+</td>
+<td class="date">27.03.2015<br>–</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'130693'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

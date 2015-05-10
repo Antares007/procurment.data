@@ -1,0 +1,2746 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140024500</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv127987" /><label for="fv127987"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(29822)"><img src="images/profile24_0.png"> შსს სპეციალური და საგანგებო ღონისძიებების ცენტრი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>21.10.2014 11:53</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>23.10.2014 00:08</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>27.10.2014 13:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="16867-GEL-21.10.2014 11:53">16`867.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;44500000 - ხელსაწყოები, საკეტები, გასაღებები, ანჯამები, დამჭერები, ჭაჯვები და ზამბარები/რესორები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;44510000 - ხელსაწყოები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511000 - ხელის ხელსაწყოები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511100 - ნიჩბები და აქანდაზები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511110 - ნიჩბები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511200 - ფიწლები 
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511300 - თოხები, წერაქვები, საჩეხები, ფოცხები და პლაჟების დასალაგებელი ფოცხები   
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511320 - წერაქვები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511330 - საჩეხები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511340 - ფოცხები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511400 - ნაჯახები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511500 - ხელის ხერხები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44511510 - ხელის ხერხის პირები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512000 - სხვადასხვა სახის ხელის ხელსაწყოები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512100 - საჭრისები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512200 - ბრტყელტუჩები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512210 - შემომჭიმი ბრტყელტუჩები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512400 - მავთულის სატაცები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512500 - ქანჩის გასაღებები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512700 - ქლიბები და ჭოპოსნები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512800 - სახრახნისები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512910 - ბურღები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512920 - სახრახნისის პირები 
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512930 - ხელსაწყოების ყუთები/ჩანთები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44512940 - ხელსაწყოების კომპლექტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44514000 - ხელსაწყოების ტარები და ხელსაწყოების ნაწილები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44514200 - ხელსაწყოების ნაწილები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44520000 - საკეტები, გასაღებები და ანჯამები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44521000 - სხვადასხვა სახის ბოქლომები და საკეტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44521100 - ჩადგმული საკეტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44521110 - კარის საკეტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44521120 - ელექტრონული კოდიანი საკეტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44521140 - ავეჯის საკეტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44521200 - ბოქლომები და ჯაჭვები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44521210 - ბოქლომები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44522000 - კავიანი საკეტები, საკეტის ნაწილები და გასაღებები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44522200 - გასაღებები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44522300 - ბოქლომების ნაწილები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44522400 - საკეტების ნაწილები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44523100 - ანჯამები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44530000 - დამჭერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531000 - კუთხვილიანი დამჭერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531100 - ხის ხრახნები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531200 - ხრახნიანი კავები ან ხრახნიანი რგოლები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531300 - თვითმჭრელი ხრახნები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531400 - ჭანჭიკები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531500 - მილტუჩით შესაერთებლების კომპლექტი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531510 - ჭანჭიკები და ხრახნები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531520 - კუთხოვანთავიანი ჭანჭიკები და ხრახნები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531600 - ქანჩები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44531700 - კუთხვილიანი რკინის ან ფოლადის საგნები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44532000 - დამჭერები კუთხვილების გარეშე
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44532100 - მოქლონები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44532200 - შუასადებები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44532300 - ჭილიბყურები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44532400 - ფოლადის პირაპირა ზესადებები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44540000 - ჯაჭვი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44541000 - სახსრიანი ჯაჭვი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44542000 - ჯაჭვის ნაწილები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;44550000 - ზამბარები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">სხვადასხვა სახის სამეურნო საქონელი სატენდერო დოკუმენტაციის შესაბამისად</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხ. სატენდერო დოკუმენტაციაში</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>იხ. სატენდერო დოკუმენტაციაში</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>150.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>169 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=127987&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="127987">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: რატი მემანიშვილი :: 21.10.2014 11:52</li>
+	<li style="text-align:right">ბოლო შესწორება: რატი მემანიშვილი :: 21.10.2014 11:52</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:127987, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '127987'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="925902.1413892367.127987">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=925902&code=1413892367">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=925902&code=1413892367">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.10.2014 11:52<br/>რატი მემანიშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 16`867.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: იხ. სატენდერო დოკუმენტაციაში</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B127987153614">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(35906)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ბაბი</span>
+			</td>
+		<td class="activebid1"><strong>16`867.00</strong>&nbsp;<br/><span class="date">27.10.2014 12:30</span></td>
+		<td class="activebid1">16`867.00&nbsp;<br/><span class="date">27.10.2014 12:30</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(127987,153614)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B127987153610">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(41189)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ნილა</span>
+			</td>
+		<td class="activebid1"><strong>15`725.00</strong>&nbsp;<br/><span class="date">27.10.2014 12:54</span></td>
+		<td class="activebid1">16`867.00&nbsp;<br/><span class="date">27.10.2014 12:23</span></td>
+		<td align="center" class="activebid1">[3] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(127987,153610)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:05</td>
+		<td align="center" class="activebid1">13:07</td>
+		<td class="activebid1">შპს ბაბი</td>
+		<td align="center" class="activebid1"><strong>16`867.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:07</td>
+		<td align="center" class="activebid1">13:09</td>
+		<td class="activebid1">შპს ნილა</td>
+		<td align="center" class="activebid1"><strong>15`725.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:11</td>
+		<td align="center" class="activebid1">13:13</td>
+		<td class="activebid1">შპს ბაბი</td>
+		<td align="center" class="activebid1"><strong>16`867.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:13</td>
+		<td align="center" class="activebid1">13:15</td>
+		<td class="activebid1">შპს ნილა</td>
+		<td align="center" class="activebid1"><strong>15`725.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:17</td>
+		<td align="center" class="activebid1">13:19</td>
+		<td class="activebid1">შპს ბაბი</td>
+		<td align="center" class="activebid1"><strong>16`867.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">13:19</td>
+		<td align="center" class="activebid1">13:21</td>
+		<td class="activebid1">შპს ნილა</td>
+		<td align="center" class="activebid1"><strong>15`725.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B127987">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(35906)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ბაბი</span>
+		</td>
+		<td class="activebid1"><strong>16`867.00</strong></td>
+		<td class="date activebid1">27.10.2014 12:30</td>
+	</tr><tr bgcolor="#ffffff" id="B127987">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(41189)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს ნილა</span>
+		</td>
+		<td class="activebid1"><strong>15`725.00</strong></td>
+		<td class="date activebid1">27.10.2014 12:54</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'127987'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'127987'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="944899.1415617956.127987">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=944899&code=1415617956">
+                    SPA140024500_ინტერესთა კონფლიქტი.PDF
+                    </a>
+                </td>
+                <td class="date">10.11.2014 11:12 :: რატი მემანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="944900.1415617970.127987">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=944900&code=1415617970">
+                    SPA140024500_ოქმი #2 შერჩევა.PDF
+                    </a>
+                </td>
+                <td class="date">10.11.2014 11:12 :: რატი მემანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="944901.1415617978.127987">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=944901&code=1415617978">
+                    SPA140024500_წერილი დაზუსტება ხელშეკრულების გაფორმებაზე.PDF
+                    </a>
+                </td>
+                <td class="date">10.11.2014 11:12 :: რატი მემანიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="949421.1415884798.127987">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=949421&code=1415884798">
+                    SPA140024500_24500 nila dazusteba.pdf
+                    </a>
+                </td>
+                <td class="date">13.11.2014 13:19 :: ავთანდილ მოთიაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A150378">
+                <td>
+                    &nbsp;
+                    <span title="44510000 - ხელსაწყოები">44510000 - ხელსაწყოები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ხარაჩო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:44 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">950.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;950.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150380">
+                <td>
+                    &nbsp;
+                    <span title="44520000 - საკეტები, გასაღებები და ანჯამები">44520000 - საკეტები, გასაღებები და ანჯამები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>კარის პნევმატური საკეტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:44 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">26.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;390.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150196">
+                <td>
+                    &nbsp;
+                    <span title="44511400 - ნაჯახები">44511400 - ნაჯახები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>ცული</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 16:58 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;225.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150200">
+                <td>
+                    &nbsp;
+                    <span title="44511400 - ნაჯახები">44511400 - ნაჯახები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ნაჯახი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 16:59 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">9.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;135.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150198">
+                <td>
+                    &nbsp;
+                    <span title="44511400 - ნაჯახები">44511400 - ნაჯახები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (საქართველო)<br/>ნახაჯი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 16:58 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">28.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;420.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150270">
+                <td>
+                    &nbsp;
+                    <span title="44512200 - ბრტყელტუჩები">44512200 - ბრტყელტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>მრგვალტუჩა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:15 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">7.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;140.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150272">
+                <td>
+                    &nbsp;
+                    <span title="44512200 - ბრტყელტუჩები">44512200 - ბრტყელტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ბრტყელტუჩა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:15 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;160.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150346">
+                <td>
+                    &nbsp;
+                    <span title="44512200 - ბრტყელტუჩები">44512200 - ბრტყელტუჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ბრტყელტუჩა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:33 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150352">
+                <td>
+                    &nbsp;
+                    <span title="44512700 - ქლიბები და ჭოპოსნები">44512700 - ქლიბები და ჭოპოსნები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (პოლონეთი)<br/>ქლიბი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:36 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;22.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150408">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>შიდა ხრახნის მოსაჭრელი მ4</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:52 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">5 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;25.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150410">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>შიდა ხრახნის მოსაჭრელი მ5</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:53 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">7.00 GEL<br/>
+                <span class="color-2">5 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;35.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150412">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>შიდა ხრახნის მოსაჭრელი მ6</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:53 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">9.00 GEL<br/>
+                <span class="color-2">5 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;45.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150414">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>შიდა ხრახნის მოსაჭრელი მ8</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:54 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">11.00 GEL<br/>
+                <span class="color-2">5 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;55.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150418">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>შიდა ხრახნის მოსაჭრელი მ10</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:54 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">5 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150420">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>შიდა ხრახნის მოსაჭრელი მ12</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:55 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">13.00 GEL<br/>
+                <span class="color-2">5 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;65.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150398">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>გარე ხრახნის მოსაჭრელი მ6</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:50 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">7.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;35.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150402">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>გარე ხრახნის მოსაჭრელი მ8</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:50 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;40.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150404">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>გარე ხრახნის მოსაჭრელი მ10</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:51 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">9.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;45.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150406">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>გარე ხრახნის მოსაჭრელი მ12</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:51 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150364">
+                <td>
+                    &nbsp;
+                    <span title="44512800 - სახრახნისები">44512800 - სახრახნისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>სახრახნისის ნაკრები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:40 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">30 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;180.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150388">
+                <td>
+                    &nbsp;
+                    <span title="44523100 - ანჯამები">44523100 - ანჯამები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ანჯამა ხის კარისათვის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:47 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">35 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;35.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150390">
+                <td>
+                    &nbsp;
+                    <span title="44523100 - ანჯამები">44523100 - ანჯამები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ანჯამა მეტალოპლასმასის კარისათვის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:47 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">2.50 GEL<br/>
+                <span class="color-2">50 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;125.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150392">
+                <td>
+                    &nbsp;
+                    <span title="44523100 - ანჯამები">44523100 - ანჯამები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ანჯამა მეტალოპლასმასის კარის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:48 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">50 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;150.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150426">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:58 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150430">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:58 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150432">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:59 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150434">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:59 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150438">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:59 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150440">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 18:00 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150444">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 18:01 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150446">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 18:01 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150448">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 18:02 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150450">
+                <td>
+                    &nbsp;
+                    <span title="44531600 - ქანჩები">44531600 - ქანჩები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ქანჩების ნაკრები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 18:02 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">60.00 GEL<br/>
+                <span class="color-2">10 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;600.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150190">
+                <td>
+                    &nbsp;
+                    <span title="44511340 - ფოცხები">44511340 - ფოცხები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ფოცხი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 16:58 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">35 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;280.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150182">
+                <td>
+                    &nbsp;
+                    <span title="44511110 - ნიჩბები">44511110 - ნიჩბები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (პოლონეთი)<br/>ნიჩაბი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 16:56 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;800.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150374">
+                <td>
+                    &nbsp;
+                    <span title="44511110 - ნიჩბები">44511110 - ნიჩბები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (უკრაინა)<br/>ბარი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:43 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">95 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;760.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150202">
+                <td>
+                    &nbsp;
+                    <span title="44511510 - ხელის ხერხის პირები">44511510 - ხელის ხერხის პირები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (აშშ)<br/>რკინის საჭრელი ხერხის პირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:00 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150204">
+                <td>
+                    &nbsp;
+                    <span title="44511510 - ხელის ხერხის პირები">44511510 - ხელის ხერხის პირები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (აშშ)<br/>რკინის საჭრელი ხერხის პირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:00 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150206">
+                <td>
+                    &nbsp;
+                    <span title="44511510 - ხელის ხერხის პირები">44511510 - ხელის ხერხის პირები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>რკინის საჭრელი ხერხის პირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:01 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150278">
+                <td>
+                    &nbsp;
+                    <span title="44512210 - შემომჭიმი ბრტყელტუჩები">44512210 - შემომჭიმი ბრტყელტუჩები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>მკვნეტარა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:16 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">5.50 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;165.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150358">
+                <td>
+                    &nbsp;
+                    <span title="44512920 - სახრახნისის პირები ">44512920 - სახრახნისის პირები </span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ელექტრო სახრახნისის თავაკები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:38 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">20.00 GEL<br/>
+                <span class="color-2">1 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150370">
+                <td>
+                    &nbsp;
+                    <span title="44512930 - ხელსაწყოების ყუთები/ჩანთები">44512930 - ხელსაწყოების ყუთები/ჩანთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ხელსაწყოების ჩასადები ყუთი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:42 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">28.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;84.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150372">
+                <td>
+                    &nbsp;
+                    <span title="44521110 - კარის საკეტები">44521110 - კარის საკეტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (იტალია)<br/>საკეტი ჩასასმელი ხის კარზე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:43 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;300.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150184">
+                <td>
+                    &nbsp;
+                    <span title="44511000 - ხელის ხელსაწყოები">44511000 - ხელის ხელსაწყოები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (პოლონეთი)<br/>ბარი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 16:57 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;800.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150188">
+                <td>
+                    &nbsp;
+                    <span title="44511000 - ხელის ხელსაწყოები">44511000 - ხელის ხელსაწყოები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>თოხი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 16:57 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">7.00 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;280.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150280">
+                <td>
+                    &nbsp;
+                    <span title="44513000 - პედლით ამძრავი ხელსაწყოები">44513000 - პედლით ამძრავი ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ბეტონშემრევი მანქანა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:17 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">900.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;900.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150422">
+                <td>
+                    &nbsp;
+                    <span title="44512500 - ქანჩის გასაღებები">44512500 - ქანჩის გასაღებები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ქანჩი-ჭანჭიკი საყელურითა და გროვერით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:57 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 კგ</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150338">
+                <td>
+                    &nbsp;
+                    <span title="44512500 - ქანჩის გასაღებები">44512500 - ქანჩის გასაღებები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>მზარდი ქანჩგასაღები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:32 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">13.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;13.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150234">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>გადამჭრელი ქვა ფ115</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:09 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150362">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>ელექტრო ბურღის თავაკები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:39 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">25.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;250.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150394">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>გარე ხრახნის მოსაჭრელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:49 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150396">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>გარე ხრახნის მოსაჭრელი მ5</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:49 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150268">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ბურღის დამჭერი თავი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:14 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">22.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;22.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150218">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>რკინის საჭრელი დისკები 230/2,5/22,2</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:05 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;450.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150222">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>რკინის საჭრელი დისკები 180/3/22,2</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:05 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">70 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;140.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150226">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>რკინის საჭრელი დისკები 150/2/22,2</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:06 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150310">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>სახეხი რეზინის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:25 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150328">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>სამუშაო იარაღების ჩასაწყობი ქამარი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:29 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">464.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;928.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150330">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>სადურგლო ფანქრები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:30 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;160.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150360">
+                <td>
+                    &nbsp;
+                    <span title="44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები">44512900 - ბურღები, სახრახნისის პირები და სხვა აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>შესადურებელი აპარატის მიმმართველი თავაკები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:39 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">35.00 GEL<br/>
+                <span class="color-2">6 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;210.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150382">
+                <td>
+                    &nbsp;
+                    <span title="44521210 - ბოქლომები">44521210 - ბოქლომები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>დიდი ბოქლომი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:45 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;400.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150210">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (აშშ)<br/>სასხლავი მაკრატელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:03 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">13.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;195.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150344">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ესპანეთი)<br/>სახაზავი ძაფი ფერის მიმცემი ფხვნილით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:33 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">13.00 GEL<br/>
+                <span class="color-2">1 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;13.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150282">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (გერმანია)<br/>შპატელი 30 იანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:19 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150342">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (გერმანია)<br/>თარაზო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:32 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">14.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;14.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150298">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>პატარა ქაფჩა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:23 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150314">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>შპატელი რეზინის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:26 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150316">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>შპატელი რეზინის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:26 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150318">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>შპატელი რეზინის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:27 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150348">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>მილის მოსახსნელი გასაღები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:34 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150212">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>დასამოქლონებელი პისტოლეტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:03 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;40.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150208">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ლითონის საჭრელი მაკრატელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:02 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">7.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;70.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150286">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>შპატელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:20 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150288">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>შპატელი 12 იანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:20 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;6.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150290">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>შპატელი 60 იანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:21 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150292">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>გიფსოკარდონის დანა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:21 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;24.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150302">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ოთხკუთხედი ქაფჩა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:24 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150304">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>სამართი წიბო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:24 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">20.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150306">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>მალკა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:24 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">11.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;11.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150312">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>სახეხი რეზინის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:25 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150320">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>კუთხის საზომი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:27 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150324">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>მიქსერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:28 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">132.50 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;132.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150326">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>მიქსერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:28 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">132.50 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;132.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150332">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>საბრიზგი აპარატი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:30 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">11.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;22.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150350">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>მილის მოსახსნელი გასაღები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:35 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;16.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150368">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (თურქეთი)<br/>ელექტრიკოსის ხელსაწყოების მცირე ნაკრები</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:41 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">120.00 GEL<br/>
+                <span class="color-2">10 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`200.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150296">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ინდოეთი)<br/>შვეული</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:23 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;16.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150354">
+                <td>
+                    &nbsp;
+                    <span title="44512000 - სხვადასხვა სახის ხელის ხელსაწყოები">44512000 - სხვადასხვა სახის ხელის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (უკრაინა)<br/>მეტლახის საჭრელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:37 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">55.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;55.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150386">
+                <td>
+                    &nbsp;
+                    <span title="44522000 - კავიანი საკეტები, საკეტის ნაწილები და გასაღებები">44522000 - კავიანი საკეტები, საკეტის ნაწილები და გასაღებები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>საკეტის გასაღების გულაკი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:46 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;400.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150238">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>სახარატო საჭრისი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:09 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;90.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150240">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>სახარატო საჭრისი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:10 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;160.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150246">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>სახარატო საჭრისი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:10 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">17.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;85.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150250">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>სახარატო საჭრისი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:11 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150254">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>საღარავი საჭრისი ფ8</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:11 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">11.00 GEL<br/>
+                <span class="color-2">6 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;66.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150256">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>საღარავი საჭრისი ფ10</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:12 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">13.00 GEL<br/>
+                <span class="color-2">6 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;78.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150260">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>საღარავი საჭრისი ფ12</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:12 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">14.00 GEL<br/>
+                <span class="color-2">6 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;84.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150264">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (რუსეთის ფედერაცია)<br/>საღარავი საჭრისი ფ16</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:13 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">19.00 GEL<br/>
+                <span class="color-2">6 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;114.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150266">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (გერმანია)<br/>ბეწვა ხერხის საჭრისი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:13 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">95.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;285.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150336">
+                <td>
+                    &nbsp;
+                    <span title="44512100 - საჭრისები">44512100 - საჭრისები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>გიფსოკარდონის დანა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 17:31 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">20.00 GEL<br/>
+                <span class="color-2">1 კომპლექტი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A150456">
+                <td>
+                    &nbsp;
+                    <span title="44532100 - მოქლონები">44532100 - მოქლონები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;ნილა&quot; (ჩინეთი)<br/>ლუქის პლომბირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">14.11.2014 18:04 :: რატი მემანიშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title=""></td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'127987'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg10" style="font-weight:bold">მიმდინარე ხელშეკრულება</span><br/>
+			<span class="date">რატი მემანიშვილი :: 14.11.2014</span><br/>
+			
+			<span>ხელშეკრულების მოქმედების ვადას გადაცილებული დღეები:  <strong>102</strong></span>
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(41189)"><img src="images/profile24.png"></a> <strong>შპს ნილა</strong><br/>
+				
+					ნომერი/თანხა: N399 / <span class="convertme" id="15725-GEL-14.11.2014 16:55">15725 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 14.11.2014 - 31.12.2014<br/>
+					<span class="date">14.11.2014 16:55</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=110345"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="127987">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="127987">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="127987">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 15`725.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 15`725.00 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>1`850.00 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2014</td>
+<td>04.12.2014&nbsp;
+
+</td>
+<td class="date">04.12.2014<br>–</td>
+</tr><tr class="activebid1">
+<td>13`875.00 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2014</td>
+<td>04.12.2014&nbsp;
+
+</td>
+<td class="date">04.12.2014<br>–</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'127987'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>
