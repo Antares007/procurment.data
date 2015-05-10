@@ -1,0 +1,3459 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA150012166</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv147999" /><label for="fv147999"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat20.png"> წინადადებების მიღება დაწყებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(32552)"><img src="images/profile24_0.png"> ქ. თბილისის სამგორის რაიონის გამგეობა</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>23.04.2015 21:20</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td><span class='subject_name'>10.05.2015 00:04</span></td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>15.05.2015 13:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2015 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="630000-GEL-23.04.2015 21:20">630`000.00 GEL</span> </td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;45100000 - სამშენებლო უბნის მოსამზადებელი სამუშაოები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;45112720 - სპორტული მოედნებისა და დასასვენებელი ტერიტორიების მოწყობის სამუშაოები 
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">რაიონის ტერიტორიაზე ახალი და არსებული სკვერების მოწყობის სამუშაოები.</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხ. სატენდერო დოკუმენტაცია.</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან არაუგვიანეს 2015 წლის 1 ოქტომბრამდე.</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>3`500.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>6`300 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=147999&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="147999">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: შოთა ქამხაძე :: 23.04.2015 20:59</li>
+	<li style="text-align:right">ბოლო შესწორება: შოთა ქამხაძე :: 23.04.2015 20:59</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:147999, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+<button id="newclaim" class="btn_davebi ui-state-error" type="button">გასაჩივრება</button>
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '147999'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+<a href="http://procurement.gov.ge/dispute/?act=1&amp;hash=GL5L0IHS" target="blank"><img src="images/thebutton_ge.png" /></a>
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="1149097.1429822980.147999">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149097&code=1429822980">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=1149097&code=1429822980">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია_სკვერები III.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:03<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149098.1429823006.147999">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149098&code=1429823006">
+						
+						<span><img src="images/excel.png"></span>
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149098&code=1429823006">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სამუშაოების ხარჯთაღრიცხვა_samushaoebis xarjtagricxva.xls
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:03<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149099.1429823065.147999">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149099&code=1429823065">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149099&code=1429823065">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:04<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149100.1429823071.147999">
+					<td><span class="opgear">4.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149100&code=1429823071">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149100&code=1429823071">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_აფრიკის დას. ჭიჭინაძის 23ა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:04<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149101.1429823076.147999">
+					<td><span class="opgear">5.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149101&code=1429823076">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149101&code=1429823076">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ლითონის საჩრდილოებელი.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:04<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149102.1429823081.147999">
+					<td><span class="opgear">6.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149102&code=1429823081">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149102&code=1429823081">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:04<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149103.1429823088.147999">
+					<td><span class="opgear">7.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149103&code=1429823088">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149103&code=1429823088">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სასრიალო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:04<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149105.1429823094.147999">
+					<td><span class="opgear">8.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149105&code=1429823094">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149105&code=1429823094">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:04<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149106.1429823100.147999">
+					<td><span class="opgear">9.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149106&code=1429823100">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149106&code=1429823100">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სკამი და მაგიდა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149107.1429823107.147999">
+					<td><span class="opgear">10.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149107&code=1429823107">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149107&code=1429823107">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149108.1429823114.147999">
+					<td><span class="opgear">11.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149108&code=1429823114">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149108&code=1429823114">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149109.1429823126.147999">
+					<td><span class="opgear">12.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149109&code=1429823126">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149109&code=1429823126">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149110.1429823132.147999">
+					<td><span class="opgear">13.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149110&code=1429823132">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149110&code=1429823132">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149111.1429823137.147999">
+					<td><span class="opgear">14.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149111&code=1429823137">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149111&code=1429823137">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ვარკ. 3. მე-4 მ.რ. მე-2 რიგი 2-3 კორპ.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149112.1429823141.147999">
+					<td><span class="opgear">15.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149112&code=1429823141">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149112&code=1429823141">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149113.1429823150.147999">
+					<td><span class="opgear">16.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149113&code=1429823150">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149113&code=1429823150">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149114.1429823155.147999">
+					<td><span class="opgear">17.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149114&code=1429823155">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149114&code=1429823155">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:05<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149115.1429823160.147999">
+					<td><span class="opgear">18.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149115&code=1429823160">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149115&code=1429823160">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:06<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149116.1429823177.147999">
+					<td><span class="opgear">19.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149116&code=1429823177">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149116&code=1429823177">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:06<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149118.1429823192.147999">
+					<td><span class="opgear">20.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149118&code=1429823192">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149118&code=1429823192">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Z111.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:06<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149119.1429823222.147999">
+					<td><span class="opgear">21.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149119&code=1429823222">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149119&code=1429823222">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Z112.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:07<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149120.1429823231.147999">
+					<td><span class="opgear">22.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149120&code=1429823231">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149120&code=1429823231">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ვარკ. 3. მე-2 მ.რ. კორპ #25+.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:07<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149121.1429823242.147999">
+					<td><span class="opgear">23.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149121&code=1429823242">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149121&code=1429823242">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:07<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149122.1429823251.147999">
+					<td><span class="opgear">24.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149122&code=1429823251">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149122&code=1429823251">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:07<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149123.1429823256.147999">
+					<td><span class="opgear">25.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149123&code=1429823256">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149123&code=1429823256">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:07<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149125.1429823268.147999">
+					<td><span class="opgear">26.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149125&code=1429823268">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149125&code=1429823268">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:07<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149126.1429823273.147999">
+					<td><span class="opgear">27.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149126&code=1429823273">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149126&code=1429823273">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Z112.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:07<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149127.1429823280.147999">
+					<td><span class="opgear">28.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149127&code=1429823280">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149127&code=1429823280">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149128.1429823286.147999">
+					<td><span class="opgear">29.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149128&code=1429823286">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149128&code=1429823286">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ვარკ. III. me-2 მ-რ, კორპ. 40.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149129.1429823292.147999">
+					<td><span class="opgear">30.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149129&code=1429823292">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149129&code=1429823292">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149130.1429823299.147999">
+					<td><span class="opgear">31.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149130&code=1429823299">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149130&code=1429823299">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149131.1429823305.147999">
+					<td><span class="opgear">32.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149131&code=1429823305">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149131&code=1429823305">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149132.1429823321.147999">
+					<td><span class="opgear">33.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149132&code=1429823321">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149132&code=1429823321">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_F04-1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149133.1429823326.147999">
+					<td><span class="opgear">34.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149133&code=1429823326">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149133&code=1429823326">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149135.1429823333.147999">
+					<td><span class="opgear">35.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149135&code=1429823333">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149135&code=1429823333">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149136.1429823338.147999">
+					<td><span class="opgear">36.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149136&code=1429823338">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149136&code=1429823338">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ვარკ. 3. მე-2 მ.რ. კორპ #2a-2b-Rea.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:08<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149137.1429823348.147999">
+					<td><span class="opgear">37.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149137&code=1429823348">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149137&code=1429823348">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:09<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149138.1429823353.147999">
+					<td><span class="opgear">38.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149138&code=1429823353">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149138&code=1429823353">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:09<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149139.1429823392.147999">
+					<td><span class="opgear">39.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149139&code=1429823392">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149139&code=1429823392">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:09<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149140.1429823397.147999">
+					<td><span class="opgear">40.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149140&code=1429823397">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149140&code=1429823397">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:09<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149141.1429823401.147999">
+					<td><span class="opgear">41.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149141&code=1429823401">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149141&code=1429823401">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ვარკ. დას. მეგ. ქუჩა ნაძვნარში.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:10<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149142.1429823407.147999">
+					<td><span class="opgear">42.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149142&code=1429823407">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149142&code=1429823407">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:10<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149143.1429823414.147999">
+					<td><span class="opgear">43.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149143&code=1429823414">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149143&code=1429823414">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სასრიალო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:10<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149144.1429823422.147999">
+					<td><span class="opgear">44.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149144&code=1429823422">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149144&code=1429823422">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:10<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149146.1429823427.147999">
+					<td><span class="opgear">45.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149146&code=1429823427">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149146&code=1429823427">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:10<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149147.1429823431.147999">
+					<td><span class="opgear">46.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149147&code=1429823431">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149147&code=1429823431">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:10<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149148.1429823450.147999">
+					<td><span class="opgear">47.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149148&code=1429823450">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149148&code=1429823450">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:10<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149149.1429823455.147999">
+					<td><span class="opgear">48.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149149&code=1429823455">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149149&code=1429823455">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:10<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149150.1429823466.147999">
+					<td><span class="opgear">49.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149150&code=1429823466">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149150&code=1429823466">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:11<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149152.1429823478.147999">
+					<td><span class="opgear">50.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149152&code=1429823478">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149152&code=1429823478">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:11<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149153.1429823484.147999">
+					<td><span class="opgear">51.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149153&code=1429823484">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149153&code=1429823484">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Z118.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:11<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149154.1429823491.147999">
+					<td><span class="opgear">52.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149154&code=1429823491">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149154&code=1429823491">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:11<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149155.1429823496.147999">
+					<td><span class="opgear">53.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149155&code=1429823496">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149155&code=1429823496">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ლითონის საჩრდილოებელი.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:11<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149156.1429823502.147999">
+					<td><span class="opgear">54.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149156&code=1429823502">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149156&code=1429823502">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ლილოს დას. I კვ. 23-24 კორპ.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:11<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149157.1429823509.147999">
+					<td><span class="opgear">55.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149157&code=1429823509">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149157&code=1429823509">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:11<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149158.1429823516.147999">
+					<td><span class="opgear">56.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149158&code=1429823516">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149158&code=1429823516">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:11<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149159.1429823523.147999">
+					<td><span class="opgear">57.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149159&code=1429823523">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149159&code=1429823523">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:12<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149160.1429823559.147999">
+					<td><span class="opgear">58.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149160&code=1429823559">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149160&code=1429823559">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_-9.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:12<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149161.1429823571.147999">
+					<td><span class="opgear">59.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149161&code=1429823571">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149161&code=1429823571">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:12<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149162.1429823577.147999">
+					<td><span class="opgear">60.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149162&code=1429823577">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149162&code=1429823577">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:12<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149163.1429823581.147999">
+					<td><span class="opgear">61.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149163&code=1429823581">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149163&code=1429823581">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149164.1429823587.147999">
+					<td><span class="opgear">62.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149164&code=1429823587">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149164&code=1429823587">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149165.1429823598.147999">
+					<td><span class="opgear">63.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149165&code=1429823598">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149165&code=1429823598">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_10.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149166.1429823606.147999">
+					<td><span class="opgear">64.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149166&code=1429823606">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149166&code=1429823606">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149167.1429823611.147999">
+					<td><span class="opgear">65.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149167&code=1429823611">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149167&code=1429823611">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149168.1429823616.147999">
+					<td><span class="opgear">66.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149168&code=1429823616">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149168&code=1429823616">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_მოსკ. გამზ. 5კვ. მე-13 კ.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149169.1429823622.147999">
+					<td><span class="opgear">67.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149169&code=1429823622">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149169&code=1429823622">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149170.1429823627.147999">
+					<td><span class="opgear">68.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149170&code=1429823627">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149170&code=1429823627">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149171.1429823632.147999">
+					<td><span class="opgear">69.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149171&code=1429823632">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149171&code=1429823632">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:13<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149172.1429823641.147999">
+					<td><span class="opgear">70.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149172&code=1429823641">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149172&code=1429823641">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149173.1429823645.147999">
+					<td><span class="opgear">71.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149173&code=1429823645">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149173&code=1429823645">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149174.1429823650.147999">
+					<td><span class="opgear">72.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149174&code=1429823650">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149174&code=1429823650">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149175.1429823655.147999">
+					<td><span class="opgear">73.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149175&code=1429823655">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149175&code=1429823655">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნავთლუღის დასახლება, მე-2 ქ. დას.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149176.1429823660.147999">
+					<td><span class="opgear">74.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149176&code=1429823660">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149176&code=1429823660">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სასრიალო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149177.1429823665.147999">
+					<td><span class="opgear">75.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149177&code=1429823665">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149177&code=1429823665">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149178.1429823673.147999">
+					<td><span class="opgear">76.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149178&code=1429823673">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149178&code=1429823673">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149179.1429823679.147999">
+					<td><span class="opgear">77.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149179&code=1429823679">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149179&code=1429823679">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149180.1429823692.147999">
+					<td><span class="opgear">78.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149180&code=1429823692">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149180&code=1429823692">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149181.1429823696.147999">
+					<td><span class="opgear">79.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149181&code=1429823696">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149181&code=1429823696">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:14<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149182.1429823701.147999">
+					<td><span class="opgear">80.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149182&code=1429823701">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149182&code=1429823701">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ლითონის საჩრდილოებელი.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149183.1429823706.147999">
+					<td><span class="opgear">81.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149183&code=1429823706">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149183&code=1429823706">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149184.1429823714.147999">
+					<td><span class="opgear">82.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149184&code=1429823714">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149184&code=1429823714">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სასრიალო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149185.1429823721.147999">
+					<td><span class="opgear">83.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149185&code=1429823721">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149185&code=1429823721">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149186.1429823728.147999">
+					<td><span class="opgear">84.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149186&code=1429823728">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149186&code=1429823728">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქნავთის დას. მე-3 კორპ. მიმდ.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149187.1429823737.147999">
+					<td><span class="opgear">85.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149187&code=1429823737">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149187&code=1429823737">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სკამი და მაგიდა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149188.1429823743.147999">
+					<td><span class="opgear">86.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149188&code=1429823743">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149188&code=1429823743">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149189.1429823750.147999">
+					<td><span class="opgear">87.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149189&code=1429823750">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149189&code=1429823750">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149190.1429823758.147999">
+					<td><span class="opgear">88.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149190&code=1429823758">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149190&code=1429823758">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:15<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149191.1429823762.147999">
+					<td><span class="opgear">89.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149191&code=1429823762">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149191&code=1429823762">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149192.1429823767.147999">
+					<td><span class="opgear">90.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149192&code=1429823767">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149192&code=1429823767">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სასრიალო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149193.1429823777.147999">
+					<td><span class="opgear">91.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149193&code=1429823777">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149193&code=1429823777">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149194.1429823784.147999">
+					<td><span class="opgear">92.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149194&code=1429823784">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149194&code=1429823784">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სკამი და მაგიდა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149195.1429823790.147999">
+					<td><span class="opgear">93.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149195&code=1429823790">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149195&code=1429823790">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სოფელი დიდი ლილო. საბ. ბაღის მიმდ.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149196.1429823794.147999">
+					<td><span class="opgear">94.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149196&code=1429823794">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149196&code=1429823794">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149197.1429823801.147999">
+					<td><span class="opgear">95.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149197&code=1429823801">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149197&code=1429823801">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149198.1429823814.147999">
+					<td><span class="opgear">96.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149198&code=1429823814">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149198&code=1429823814">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149199.1429823819.147999">
+					<td><span class="opgear">97.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149199&code=1429823819">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149199&code=1429823819">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:16<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149201.1429823825.147999">
+					<td><span class="opgear">98.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149201&code=1429823825">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149201&code=1429823825">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:17<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149202.1429823830.147999">
+					<td><span class="opgear">99.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149202&code=1429823830">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149202&code=1429823830">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სასრიალო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:17<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149203.1429823837.147999">
+					<td><span class="opgear">100.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149203&code=1429823837">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149203&code=1429823837">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:17<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149204.1429823844.147999">
+					<td><span class="opgear">101.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149204&code=1429823844">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149204&code=1429823844">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სოფელი ნასაგური. სპ. მოედ. გვ.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:17<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149205.1429823850.147999">
+					<td><span class="opgear">102.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149205&code=1429823850">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149205&code=1429823850">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:17<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149206.1429823855.147999">
+					<td><span class="opgear">103.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149206&code=1429823855">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149206&code=1429823855">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:17<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149207.1429823869.147999">
+					<td><span class="opgear">104.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149207&code=1429823869">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149207&code=1429823869">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:17<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149208.1429823873.147999">
+					<td><span class="opgear">105.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149208&code=1429823873">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149208&code=1429823873">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:17<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149209.1429823882.147999">
+					<td><span class="opgear">106.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149209&code=1429823882">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149209&code=1429823882">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:18<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149210.1429823890.147999">
+					<td><span class="opgear">107.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149210&code=1429823890">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149210&code=1429823890">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სასრიალო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:18<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149211.1429823898.147999">
+					<td><span class="opgear">108.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149211&code=1429823898">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149211&code=1429823898">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:18<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149212.1429823908.147999">
+					<td><span class="opgear">109.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149212&code=1429823908">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149212&code=1429823908">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სკამი და მაგიდა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:18<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149213.1429823918.147999">
+					<td><span class="opgear">110.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149213&code=1429823918">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149213&code=1429823918">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სოფელი წინუბანი - სკ. გვ..pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:18<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149214.1429823925.147999">
+					<td><span class="opgear">111.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149214&code=1429823925">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149214&code=1429823925">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:18<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149215.1429823934.147999">
+					<td><span class="opgear">112.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149215&code=1429823934">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149215&code=1429823934">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:18<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149216.1429823957.147999">
+					<td><span class="opgear">113.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149216&code=1429823957">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149216&code=1429823957">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_Qvafenil-border.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:19<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149217.1429823963.147999">
+					<td><span class="opgear">114.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149217&code=1429823963">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149217&code=1429823963">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_скамейка.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:19<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149218.1429823978.147999">
+					<td><span class="opgear">115.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149218&code=1429823978">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149218&code=1429823978">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ნაგვის ურნა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:19<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149219.1429823985.147999">
+					<td><span class="opgear">116.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149219&code=1429823985">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149219&code=1429823985">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სასრიალო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:19<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149220.1429823993.147999">
+					<td><span class="opgear">117.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149220&code=1429823993">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149220&code=1429823993">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_საქანელა აიწონა დაიწონა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:19<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149221.1429823999.147999">
+					<td><span class="opgear">118.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149221&code=1429823999">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149221&code=1429823999">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ქინძმარაულის შეს, კორპ. 23.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:19<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149222.1429824004.147999">
+					<td><span class="opgear">119.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149222&code=1429824004">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149222&code=1429824004">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ღობე ლითონის.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:20<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1149223.1429824010.147999">
+					<td><span class="opgear">120.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1149223&code=1429824010">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1149223&code=1429824010">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ხის საქანელა.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.04.2015 21:20<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="1168807.1431089130.147999">
+					<td><span class="opgear">121.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=1168807&code=1431089130">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=1168807&code=1431089130">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA150012166_სატენდერო დოკუმენტაცია - ცვლილება_სკვერები III - cvlileba.pdf
+						</a>
+					</td>
+					<td class="date" align="right">08.05.2015 12:45<br/>შოთა ქამხაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"><button id="a_147999_-1_0" class="new_question_btn ans" type="button">ახალი კითხვა</button></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+<div id="TenderCountdown" class="ui-corner-all">
+<script type="text/javascript">
+
+function highlightLast(periods) { 
+    if ($.countdown.periodsToSeconds(periods) < 60) {
+        $(this).addClass('lastseconds'); 
+    } 
+}
+
+function RefreshBids() {
+    setTimeout(function(){$('#application_tabs').tabs('load', 2);},1000);
+}
+
+$('#TenderCountdown').countdown({until: +443620 ,onExpiry: RefreshBids, onTick:highlightLast, alwaysExpire: false, description:'მიმდინარეობს ძირითადი დრო'}); 
+
+</script>
+</div>
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 630`000.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან არაუგვიანეს 2015 წლის 1 ოქტომბრამდე.</span><br/>
+</p>
+<p style="margin:4px" class="color-2">შემოთავაზების გაკეთებამდე გთხოვთ დაეთანხმოთ აფიდატივის პირობებს</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+<div id="affd" class="ui-state-highlight ui-corner-all" style="padding:1em">
+<p align="center"><strong>აფიდავიტი</strong></p><p align="center"><strong>სატენდერო წინადადების დამოუკიდებლად განსაზღვრის თაობაზე</strong></p><p>გამოცხადებულ ტენდერში მონაწილეობის მიღების მიზნით, ვადასტურებ, რომ ჩემს მიერ წარმოდგენილი სატენდერო წინადადება შემუშავებულია კონკურენტისგან დამოუკიდებლად. ასევე ვადასტურებ, რომ:</p><p>* ჩემთვის ცნობილია, რომ სატენდერო წინადადება დისკვალიფიცირებულ იქნება, თუ აღმოჩნდა, რომ აფიდავიტში მოცემული ინფორმაცია არის ყალბი ან/და ცრუ;</p><p>* უფლებამოსილი ვარ პრეტენდენტის მიერ, ხელი მოვაწერო ამ აფიდავიტს და წარვადგინო ეს სატენდერო წინადადება;</p><p>* ნებისმიერ პირი, რომლის ხელმოწერაც დაფიქსირებულია სატენდერო წინადადებაზე, შესაბამისად უფლებამოსილია  პრეტენდენტის მიერ;</p><p>* ჩემთვის ცნობილია რომ ტერმინი „კონკურენტი“ აფიდავიტის მიზნებიდან გამომდინარე, გულისხმობს ნებისმიერ პირს, რომელიც შესაძლებელია იყოს პრეტენდენტი ან/და  წარადგინოს სატენდერო წინადადება ამ ტენდერში;</p><p>* მატერიალური გამორჩენის ან უპირატესობის მიღების მიზნით პრეტენდენტსა და კონკურენტს შორის არ წარმოებულა კონსულტაცია, კომუნიკაცია, შეთანხმება ან მოლაპარაკება შემდეგ საკითხებთან დაკავშირებით:</p><ul><li>სატენდერო წინადადების ფასი;</li><li>სატენდერო წინადადების ფასის გამოთვლის მეთოდი, კოეფიციენტი ან ფორმულა;</li><li>სატენდერო წინადადების წარდგენა ან წარდგენისგან თავის შეკავება; </li><li>ისეთი სატენდერო წინადადების განზრახ წარდგენა, რომელიც არ აკმაყოფილებს გამოცხადებული ტენდერის პირობებს;</li><li>შესყიდვის ობიექტის ხარისხი, მოცულობა, ტექნიკური პირობები ან მიწოდების დეტალები, რომელთაც ეხება სატენდერო წინადადება;</li></ul> <p>* სატენდერო წინადადების პირობები პრეტენდენტს წინასწარი განზრახვით, პირდაპირ ან არაპირდაპირ, არ გაუმჟღავნებია ან/და არ გაუმჟღავნებს კონკურენტს სატენდერო წინადადების განსაჯაროების მომენტამდე.</p>
+
+<p><input type="checkbox" id="confirmaff"> გავეცანი ამ აფიდავიტის შინაარსს და ვადასტურებ წარმოდგენილი ინფორმაციის უტყუარობას.</p>
+<p style="text-align:center;"><button id="aff" type="button">თანხმობა</button></p>
+<div class="hr"><hr></div>
+<p>სახელმწიფო შესყიდვების მიზნებისთვის, აფიდავიტი წარმოადგენს  სატენდერო წინადადების დამოუკიდებლად განსაზღვრის თაობაზე წერილობით დოკუმენტს, რომლის ხელმომწერი, პრეტენდენტის სახელით, ადასტურებს დოკუმენტში მითითებული ინფორმაციისა და გარემოებების უტყუარობას და საქართველოს კანონმდებლობით დადგენილი წესით პასუხს აგებს აღნიშნული ინფორმაციისა და გარემოებების უტყუარობაზე. აფიდავიტით განსაზღვრული პირობების დარღვევა იწვევს სისხლისსამართლებრივ პასუხისმგებლობას საქართველოს სისხლის სამართლის კოდექსის 195<sup>1</sup> მუხლის შესაბამისად.</p>
+
+<script type="text/javascript">
+    //$('#aff').button("disable");
+	$('#aff').button({icons:{primary: "ui-icon-star"}}).button("disable").click(function(){
+		 $.get('engine/controller.php', {action:'accept_aff', app_id:'147999'}, function(){$('#application_tabs').tabs( 'load' , 2 );});})	
+		 
+	$('#confirmaff').click(function() {if($(this).is(':checked')) {$('#aff').button("enable")} else {$('#aff').button("disable")}} );
+</script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	
+</tbody>
+</table>
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'147999'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'147999'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="5" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'147999'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="147999">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="147999">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="147999">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="5" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'147999'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

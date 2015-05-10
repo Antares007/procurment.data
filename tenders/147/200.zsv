@@ -27,7 +27,7 @@
 	</tr>
 	<tr>
 		<td>ტენდერის სტატუსი</td>
-		<td valign="middle"><img src="images/statuses/stat10.png"> ტენდერი გამოცხადებულია</td>
+		<td valign="middle"><img src="images/statuses/stat30.png"> წინადადებების მიღება დასრულებულია</td>
 	</tr>
 	<tr>
 		<td>შემსყიდველი</td>
@@ -39,7 +39,7 @@
 	</tr>
 	<tr>
 		<td>წინადადებების მიღება იწყება</td>
-		<td><span class='subject_name'>02.05.2015 00:00</span></td>
+		<td><span class='subject_name'>02.05.2015 00:03</span></td>
 	</tr>
 	<tr>
 		<td>წინადადებების მიღება მთავრდება</td>
@@ -223,7 +223,7 @@ $(document).ready(function() {
 
 
 <!--
-<a href="http://procurement.gov.ge/dispute/?act=1&amp;hash=HAV3X7UM" target="blank"><img src="images/thebutton_ge.png" /></a>
+<a href="http://procurement.gov.ge/dispute/?act=1&amp;hash=DK5WR275" target="blank"><img src="images/thebutton_ge.png" /></a>
 -->
 </div>
 
@@ -511,7 +511,7 @@ padding: 2px;
 	<div class="hr"><hr></div>
 	<div id="chat">
 		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
-		<p class="color-1" style="text-align: center;font-weight: bold"><button id="a_147200_-1_0" class="new_question_btn ans" type="button">ახალი კითხვა</button></p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
 		
 		
 	</div>
@@ -625,7 +625,7 @@ padding: 2px;
 <span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 417`600.00</span><br/>
 <span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან 120 კალენდარული დღე</span><br/>
 </p>
-<p style="margin:4px" class="color-2">წინადადებების მიღება ჯერ არ არის დაწყებული</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
 
 <div id="app_payments" style="margin-top:28px;"></div>
 <div id="app_tdocs" style="margin-top:28px;"></div>
@@ -664,15 +664,116 @@ padding: 2px;
 	</tr>
 </thead>
 <tbody>
-	
+	<tr bgcolor="#ffffff" id="B147200184084">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2146)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ინტერტექნოლოგი</span>
+			</td>
+		<td class="activebid1"><strong>417`600.00</strong>&nbsp;<br/><span class="date">07.05.2015 11:11</span></td>
+		<td class="activebid1">417`600.00&nbsp;<br/><span class="date">07.05.2015 11:11</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(147200,184084)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B147200184088">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(28582)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს დოკასპორტი</span>
+			</td>
+		<td class="activebid1"><strong>405`000.00</strong>&nbsp;<br/><span class="date">07.05.2015 11:15</span></td>
+		<td class="activebid1">405`000.00&nbsp;<br/><span class="date">07.05.2015 11:15</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(147200,184088)">ნახვა</a> </td>
+		
+	</tr>
 </tbody>
 </table>
 
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">ინტერტექნოლოგი</td>
+		<td align="center" class="activebid1"><strong>417`600.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">შპს დოკასპორტი</td>
+		<td align="center" class="activebid1"><strong>405`000.00</strong></td>
+	</tr>
+</table>
+</div>
 
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:11</td>
+		<td align="center" class="activebid1">12:13</td>
+		<td class="activebid1">ინტერტექნოლოგი</td>
+		<td align="center" class="activebid1"><strong>417`600.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">შპს დოკასპორტი</td>
+		<td align="center" class="activebid1"><strong>405`000.00</strong></td>
+	</tr>
+</table>
+</div>
 
-
-
-
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">ინტერტექნოლოგი</td>
+		<td align="center" class="activebid1"><strong>417`600.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:19</td>
+		<td align="center" class="activebid1">12:21</td>
+		<td class="activebid1">შპს დოკასპორტი</td>
+		<td align="center" class="activebid1"><strong>405`000.00</strong></td>
+	</tr>
+</table>
+</div>
 
 <div class="hr"><hr></div>
 
@@ -691,7 +792,23 @@ padding: 2px;
 	</tr>
 </thead>
 <tbody>
-	
+	<tr bgcolor="#ffffff" id="B147200">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2146)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ინტერტექნოლოგი</span>
+		</td>
+		<td class="activebid1"><strong>417`600.00</strong></td>
+		<td class="date activebid1">07.05.2015 11:11</td>
+	</tr><tr bgcolor="#ffffff" id="B147200">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(28582)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს დოკასპორტი</span>
+		</td>
+		<td class="activebid1"><strong>405`000.00</strong></td>
+		<td class="date activebid1">07.05.2015 11:15</td>
+	</tr>
 </tbody>
 </table>
 
