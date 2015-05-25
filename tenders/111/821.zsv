@@ -1,0 +1,4028 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140009021</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv111821" /><label for="fv111821"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(2083)"><img src="images/profile24_0.png"> საქართველოს ტექნიკური უნივერსიტეტი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>01.04.2014 22:48</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>04.04.2014 00:07</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>08.04.2014 15:30</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="128600-GEL-01.04.2014 22:48">128`600.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;30124400 - სტეპლერის ტყვიები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30125100 - ტონერიანი კარტრიჯები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30141200 - მაგიდის კალკულატორები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30191000 - საოფისე მოწყობილობები, ავეჯის გარდა
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192000 - საკანცელარიო ნივთები  
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192100 - საშლელები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192110 - მელანი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192121 - ბურთულიანი კალმები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192122 - მელნის კალმები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192123 - ტუშიანი კალამი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192124 - ფლომასტერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192125 - მარკერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192130 - ფანქრები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192131 - მექანიკური ფანქრები 
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192133 - ფანქრის სათლელები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192160 - კორექტორები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192700 - საკანცელარიო ნივთები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192930 - საკორექციო კალამი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30193200 - სამაგიდე თაროები ან ორგანაიზერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30193400 - წიგნის დამჭერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30194400 - სახაზავი მაგიდის გადასაფარებლები/გადასაკვრელები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30194500 - დამხმარე საშუალება ასოების საწერად
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30195400 - მშრალად გასუფთავებადი დაფები ან აქსესუარები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30195700 - დაფის გასასუფთავებელი კომპლექტები ან აქსესუარები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30195912 - თეთრი დაფების/უაითბორდების მოლბერტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30195921 - საშლელები მაგნიტური დაფებისთვის
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197120 - ჭიკარტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197130 - საკანცელარიო სარჭები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197220 - ქაღალდის სკრეპები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197310 - კონვერტის გასახსნელი დანები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197320 - სტეპლერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197321 - ანტისტეპლერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197330 - სახვრეტელები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197400 - შტამპების/ბეჭდების ღრუბელი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197600 - დამუშავებული ქაღალდი და მუყაო
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტრაფარეტების გასამრავლებელი მოწყობილობისთვის და ქაღალდი ნახშირის ფენის გარეშე
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199230 - კონვერტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199500 - საბუთების ჩასაწყობი ყუთები, საკანცელარიო ჯამები, შესანახი ყუთები და მსგავსი ნივთები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199792 - კალენდრები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla"></div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>მოცემულია სატენდერო დოკუმენტაციაში</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან არაუგვიანეს 60 კალენდარული დღე ეტაპობრივად, შემსყიდველის მოთხოვნის შესაბამისად</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>1`000.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>1`286 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=111821&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="111821">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ქეთევან ქოქრაშვილი :: 01.04.2014 22:30</li>
+	<li style="text-align:right">ბოლო შესწორება: ქეთევან ქოქრაშვილი :: 01.04.2014 22:48</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:111821, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '111821'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="727591.1396392211.111821">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=727591&code=1396392211">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete1">
+						<a target="blank" href="engine/files.php?mode=app&file=727591&code=1396392211">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_satendero dokumentacia.pdf
+						</a>
+					</td>
+					<td class="date" align="right">01.04.2014 22:43<br/>ქეთევან ქოქრაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="728945.1396477376.111821">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=728945&code=1396477376">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=728945&code=1396477376">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>SPA140009021_satendero dokumentacia.pdf
+						</a>
+					</td>
+					<td class="date" align="right">02.04.2014 22:22<br/>ქეთევან ქოქრაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 128`600.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან არაუგვიანეს 60 კალენდარული დღე ეტაპობრივად, შემსყიდველის მოთხოვნის შესაბამისად</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B111821130003">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(5122)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ანსა</span>
+			</td>
+		<td class="activebid1"><strong>125`915.00</strong>&nbsp;<br/><span class="date">08.04.2014 15:17</span></td>
+		<td class="activebid1">125`915.00&nbsp;<br/><span class="date">08.04.2014 15:17</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(111821,130003)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B111821129982">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17291)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კანც პაპერი</span>
+			</td>
+		<td class="activebid1"><strong>123`500.00</strong>&nbsp;<br/><span class="date">08.04.2014 15:29</span></td>
+		<td class="activebid1">128`600.00&nbsp;<br/><span class="date">08.04.2014 14:01</span></td>
+		<td align="center" class="activebid1">[3] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(111821,129982)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B111821129961">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2272)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ფორმატი&quot;</span>
+			</td>
+		<td class="activebid1"><strong>104`401.00</strong>&nbsp;<br/><span class="date">08.04.2014 13:18</span></td>
+		<td class="activebid1">114`041.00&nbsp;<br/><span class="date">08.04.2014 13:11</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(111821,129961)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">15:35</td>
+		<td align="center" class="activebid1">15:37</td>
+		<td class="activebid1">ანსა</td>
+		<td align="center" class="activebid1"><strong>125`915.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:37</td>
+		<td align="center" class="activebid1">15:39</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>123`500.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:39</td>
+		<td align="center" class="activebid1">15:41</td>
+		<td class="activebid1">&quot;ფორმატი&quot;</td>
+		<td align="center" class="activebid1"><strong>104`401.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">15:43</td>
+		<td align="center" class="activebid1">15:45</td>
+		<td class="activebid1">ანსა</td>
+		<td align="center" class="activebid1"><strong>125`915.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:45</td>
+		<td align="center" class="activebid1">15:47</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>123`500.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:47</td>
+		<td align="center" class="activebid1">15:49</td>
+		<td class="activebid1">&quot;ფორმატი&quot;</td>
+		<td align="center" class="activebid1"><strong>104`401.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">15:51</td>
+		<td align="center" class="activebid1">15:53</td>
+		<td class="activebid1">ანსა</td>
+		<td align="center" class="activebid1"><strong>125`915.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:53</td>
+		<td align="center" class="activebid1">15:55</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>123`500.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">15:55</td>
+		<td align="center" class="activebid1">15:57</td>
+		<td class="activebid1">&quot;ფორმატი&quot;</td>
+		<td align="center" class="activebid1"><strong>104`401.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B111821">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(5122)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ანსა</span>
+		</td>
+		<td class="activebid1"><strong>125`915.00</strong></td>
+		<td class="date activebid1">08.04.2014 15:17</td>
+	</tr><tr bgcolor="#ffffff" id="B111821">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17291)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კანც პაპერი</span>
+		</td>
+		<td class="activebid1"><strong>123`500.00</strong></td>
+		<td class="date activebid1">08.04.2014 15:29</td>
+	</tr><tr bgcolor="#ffffff" id="B111821">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2272)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ფორმატი&quot;</span>
+		</td>
+		<td class="activebid1"><strong>104`401.00</strong></td>
+		<td class="date activebid1">08.04.2014 13:18</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'111821'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'111821'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="738105.1397240445.111821">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=738105&code=1397240445">
+                    SPA140009021_oqmi #2, xelwerili.pdf
+                    </a>
+                </td>
+                <td class="date">11.04.2014 18:20 :: ქეთევან ქოქრაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="738107.1397240533.111821">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=738107&code=1397240533">
+                    SPA140009021_werili.pdf
+                    </a>
+                </td>
+                <td class="date">11.04.2014 18:22 :: ქეთევან ქოქრაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="740454.1397574631.111821">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=740454&code=1397574631">
+                    SPA140009021_corrected 9021.PDF
+                    </a>
+                </td>
+                <td class="date">15.04.2014 15:10 :: თამარკარგარეთელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="746401.1398188389.111821">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=746401&code=1398188389">
+                    SPA140009021_oqmi #3,daskvna.pdf
+                    </a>
+                </td>
+                <td class="date">22.04.2014 17:39 :: ქეთევან ქოქრაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="746405.1398188413.111821">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=746405&code=1398188413">
+                    SPA140009021_werili.pdf
+                    </a>
+                </td>
+                <td class="date">22.04.2014 17:40 :: ქეთევან ქოქრაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A71652">
+                <td>
+                    &nbsp;
+                    <span title="30199792 - კალენდრები">30199792 - კალენდრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">საქართველო (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:00 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">105 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;315.00 GEL</td>
+                <td title="სამაგიდე კალენდარი">სამაგიდე კ...</td>
+            </tr><tr id="A71650">
+                <td>
+                    &nbsp;
+                    <span title="30199792 - კალენდრები">30199792 - კალენდრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">საქართველო (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:59 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">53 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;212.00 GEL</td>
+                <td title="კედლის კალენდარი">კედლის კალ...</td>
+            </tr><tr id="A70496">
+                <td>
+                    &nbsp;
+                    <span title="30192131 - მექანიკური ფანქრები ">30192131 - მექანიკური ფანქრები </span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი,ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:51 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">225 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;225.00 GEL</td>
+                <td title="მექანიკური ფანქარი">მექანიკური...</td>
+            </tr><tr id="A70609">
+                <td>
+                    &nbsp;
+                    <span title="30192133 - ფანქრის სათლელები">30192133 - ფანქრის სათლელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:41 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">439 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;439.00 GEL</td>
+                <td title="ფანქრის სათლელი">ფანქრის სა...</td>
+            </tr><tr id="A70385">
+                <td>
+                    &nbsp;
+                    <span title="30192110 - მელანი">30192110 - მელანი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:33 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">114 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;68.40 GEL</td>
+                <td title="ბეჭდის მელანი">ბეჭდის მელ...</td>
+            </tr><tr id="A70486">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:46 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.10 GEL<br/>
+                <span class="color-2">2890 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;289.00 GEL</td>
+                <td title="ფანქრები">ფანქრები...</td>
+            </tr><tr id="A70391">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:37 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">35 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;14.00 GEL</td>
+                <td title="ფანქარი">ფანქარი...</td>
+            </tr><tr id="A70393">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:38 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">35 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;14.00 GEL</td>
+                <td title="ფანქარი">ფანქარი...</td>
+            </tr><tr id="A70488">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:47 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;8.00 GEL</td>
+                <td title="ფანქრები">ფანქრები...</td>
+            </tr><tr id="A70490">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:48 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;8.00 GEL</td>
+                <td title="ფანქრები">ფანქრები...</td>
+            </tr><tr id="A70492">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:49 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;8.00 GEL</td>
+                <td title="ფანქრები">ფანქრები...</td>
+            </tr><tr id="A70494">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:50 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title="ფერადი ფანქრები">ფერადი ფან...</td>
+            </tr><tr id="A70389">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ბრაზილია (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:36 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">24 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;48.00 GEL</td>
+                <td title="ფანქარი სეგმენტით">ფანქარი სე...</td>
+            </tr><tr id="A70654">
+                <td>
+                    &nbsp;
+                    <span title="30192930 - საკორექციო კალამი">30192930 - საკორექციო კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ფორპუსი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 15:30 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">535 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;321.00 GEL</td>
+                <td title="კორექტორი კალამი">კორექტორი ...</td>
+            </tr><tr id="A70883">
+                <td>
+                    &nbsp;
+                    <span title="30197120 - ჭიკარტები">30197120 - ჭიკარტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">კასა თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:00 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">488 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;146.40 GEL</td>
+                <td title="ჭიკარტი">ჭიკარტი...</td>
+            </tr><tr id="A71091">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი,ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 18:40 :: სოფიო გაბიცინაშვილი</div>
+                </td>
+                <td align="right">17.00 GEL<br/>
+                <span class="color-2">8 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;136.00 GEL</td>
+                <td title="სტეპლერი">სტეპლერი...</td>
+            </tr><tr id="A71093">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი,ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 18:41 :: სოფიო გაბიცინაშვილი</div>
+                </td>
+                <td align="right">17.00 GEL<br/>
+                <span class="color-2">22 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;374.00 GEL</td>
+                <td title="სტეპლერი">სტეპლერი...</td>
+            </tr><tr id="A71087">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 18:38 :: სოფიო გაბიცინაშვილი</div>
+                </td>
+                <td align="right">2.60 GEL<br/>
+                <span class="color-2">520 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`352.00 GEL</td>
+                <td title="სტეპლერი">სტეპლერი...</td>
+            </tr><tr id="A71089">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 18:39 :: სოფიო გაბიცინაშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">178 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;356.00 GEL</td>
+                <td title="სტეპლერი">სტეპლერი...</td>
+            </tr><tr id="A71097">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 18:42 :: სოფიო გაბიცინაშვილი</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;36.00 GEL</td>
+                <td title="სტეპლერი">სტეპლერი...</td>
+            </tr><tr id="A71413">
+                <td>
+                    &nbsp;
+                    <span title="30197330 - სახვრეტელები">30197330 - სახვრეტელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 10:45 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">36 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;180.00 GEL</td>
+                <td title="სახვრეტელა">სახვრეტელა...</td>
+            </tr><tr id="A71415">
+                <td>
+                    &nbsp;
+                    <span title="30197330 - სახვრეტელები">30197330 - სახვრეტელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 10:46 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.70 GEL<br/>
+                <span class="color-2">56 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;95.20 GEL</td>
+                <td title="სახვრეტელა">სახვრეტელა...</td>
+            </tr><tr id="A70383">
+                <td>
+                    &nbsp;
+                    <span title="30192100 - საშლელები">30192100 - საშლელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:31 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">928 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;185.60 GEL</td>
+                <td title="საშლელი">საშლელი...</td>
+            </tr><tr id="A70617">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ერაისანი, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:44 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.00 GEL</td>
+                <td title="ასაკინძი ზამბარა">ასაკინძი ზ...</td>
+            </tr><tr id="A70644">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 15:25 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">58 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;290.00 GEL</td>
+                <td title="საკანცელარიო ურნა">საკანცელარ...</td>
+            </tr><tr id="A70623">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:46 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.60 GEL<br/>
+                <span class="color-2">286 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;457.60 GEL</td>
+                <td title="მაკრატელი">მაკრატელი...</td>
+            </tr><tr id="A70629">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:49 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">1394 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`115.20 GEL</td>
+                <td title="მშრალი წებო">მშრალი წებ...</td>
+            </tr><tr id="A70642">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 15:24 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">332 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;166.00 GEL</td>
+                <td title="წებო საკანცელარიო">წებო საკან...</td>
+            </tr><tr id="A70650">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">რუსეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 15:29 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">10 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;40.00 GEL</td>
+                <td title="პლასტელინი">პლასტელინი...</td>
+            </tr><tr id="A70631">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">მალაიზია (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:50 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">3.35 GEL<br/>
+                <span class="color-2">220 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;737.00 GEL</td>
+                <td title="ცარცი">ცარცი...</td>
+            </tr><tr id="A70619">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:45 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">2.50 GEL<br/>
+                <span class="color-2">59 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;147.50 GEL</td>
+                <td title="ლუპა (გამადიდებელი შუშა)">ლუპა (გამა...</td>
+            </tr><tr id="A70627">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:47 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">4.75 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;23.75 GEL</td>
+                <td title="მაკრატელი">მაკრატელი...</td>
+            </tr><tr id="A70633">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:51 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;40.00 GEL</td>
+                <td title="ფუნჯი">ფუნჯი...</td>
+            </tr><tr id="A70635">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:54 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title="ფუნჯი">ფუნჯი...</td>
+            </tr><tr id="A70637">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:55 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">16.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.00 GEL</td>
+                <td title="ფუნჯი">ფუნჯი...</td>
+            </tr><tr id="A70646">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 15:28 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">5.00 GEL<br/>
+                <span class="color-2">12 მეტრი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title="დანართების შესაკრავი ზონარი">დანართების...</td>
+            </tr><tr id="A70817">
+                <td>
+                    &nbsp;
+                    <span title="30195400 - მშრალად გასუფთავებადი დაფები ან აქსესუარები">30195400 - მშრალად გასუფთავებადი დაფები ან აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:50 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">100.00 GEL<br/>
+                <span class="color-2">27 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`700.00 GEL</td>
+                <td title="ბორდმარკერის დაფა">ბორდმარკერ...</td>
+            </tr><tr id="A70823">
+                <td>
+                    &nbsp;
+                    <span title="30195400 - მშრალად გასუფთავებადი დაფები ან აქსესუარები">30195400 - მშრალად გასუფთავებადი დაფები ან აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:51 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">200.00 GEL<br/>
+                <span class="color-2">39 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7`800.00 GEL</td>
+                <td title="ბორდმარკერის დაფა">ბორდმარკერ...</td>
+            </tr><tr id="A70831">
+                <td>
+                    &nbsp;
+                    <span title="30195400 - მშრალად გასუფთავებადი დაფები ან აქსესუარები">30195400 - მშრალად გასუფთავებადი დაფები ან აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:52 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">200.00 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;600.00 GEL</td>
+                <td title="ბორდმარკერის დაფა">ბორდმარკერ...</td>
+            </tr><tr id="A70839">
+                <td>
+                    &nbsp;
+                    <span title="30195700 - დაფის გასასუფთავებელი კომპლექტები ან აქსესუარები">30195700 - დაფის გასასუფთავებელი კომპლექტები ან აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:53 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">6.20 GEL<br/>
+                <span class="color-2">17 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;105.40 GEL</td>
+                <td title="ბორდმარკერის დაფის საწმენდი სითხე">ბორდმარკერ...</td>
+            </tr><tr id="A70849">
+                <td>
+                    &nbsp;
+                    <span title="30195700 - დაფის გასასუფთავებელი კომპლექტები ან აქსესუარები">30195700 - დაფის გასასუფთავებელი კომპლექტები ან აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:55 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">70 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;14.00 GEL</td>
+                <td title="დაფის მაგნიტები">დაფის მაგნ...</td>
+            </tr><tr id="A70357">
+                <td>
+                    &nbsp;
+                    <span title="30124400 - სტეპლერის ტყვიები">30124400 - სტეპლერის ტყვიები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:21 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.20 GEL<br/>
+                <span class="color-2">120 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;144.00 GEL</td>
+                <td title="სტეპლერის ტყვია">სტეპლერის ...</td>
+            </tr><tr id="A70363">
+                <td>
+                    &nbsp;
+                    <span title="30124400 - სტეპლერის ტყვიები">30124400 - სტეპლერის ტყვიები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:22 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.20 GEL<br/>
+                <span class="color-2">60 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;72.00 GEL</td>
+                <td title="სტეპლერის ტყვია">სტეპლერის ...</td>
+            </tr><tr id="A70345">
+                <td>
+                    &nbsp;
+                    <span title="30124400 - სტეპლერის ტყვიები">30124400 - სტეპლერის ტყვიები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:16 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.90 GEL<br/>
+                <span class="color-2">165 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;148.50 GEL</td>
+                <td title="სტეპლერის ტყვია">სტეპლერის ...</td>
+            </tr><tr id="A70347">
+                <td>
+                    &nbsp;
+                    <span title="30124400 - სტეპლერის ტყვიები">30124400 - სტეპლერის ტყვიები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:18 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">1067 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;320.10 GEL</td>
+                <td title="სტეპლერის ტყვიები">სტეპლერის ...</td>
+            </tr><tr id="A70351">
+                <td>
+                    &nbsp;
+                    <span title="30124400 - სტეპლერის ტყვიები">30124400 - სტეპლერის ტყვიები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:19 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">510 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;127.50 GEL</td>
+                <td title="სტეპლერის ტყვიები">სტეპლერის ...</td>
+            </tr><tr id="A71658">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:02 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">261 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`915.00 GEL</td>
+                <td title="კარტრიჯი FX10">კარტრიჯი F...</td>
+            </tr><tr id="A71677">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:09 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">25.00 GEL<br/>
+                <span class="color-2">7 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;175.00 GEL</td>
+                <td title="კარტრიჯი EP 27">კარტრიჯი E...</td>
+            </tr><tr id="A71690">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:12 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">23.00 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;115.00 GEL</td>
+                <td title="კარტრიჯი Q2613A">კარტრიჯი Q...</td>
+            </tr><tr id="A71698">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:14 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">24.00 GEL<br/>
+                <span class="color-2">7 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;168.00 GEL</td>
+                <td title="კარტრიჯი C092A">კარტრიჯი C...</td>
+            </tr><tr id="A71744">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:29 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">142 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`130.00 GEL</td>
+                <td title="კარტრიჯი C725">კარტრიჯი C...</td>
+            </tr><tr id="A71784">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:44 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">66.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;66.00 GEL</td>
+                <td title="კარტრიჯი C4906AE">კარტრიჯი C...</td>
+            </tr><tr id="A71786">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:45 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">46.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title="კარტრიჯი C4907AE">კარტრიჯი C...</td>
+            </tr><tr id="A71794">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:47 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">46.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title="კარტრიჯი C4909AE">კარტრიჯი C...</td>
+            </tr><tr id="A71798">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:48 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">23.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;460.00 GEL</td>
+                <td title="კარტრიჯი 15A">კარტრიჯი 1...</td>
+            </tr><tr id="A71802">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:53 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">231.00 GEL<br/>
+                <span class="color-2">18 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4`158.00 GEL</td>
+                <td title="ტონერი Toner C-EXV21 Cyan">ტონერი Ton...</td>
+            </tr><tr id="A71804">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:57 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">231.00 GEL<br/>
+                <span class="color-2">12 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`772.00 GEL</td>
+                <td title="ტონერი Toner C-EXV21 magenta">ტონერი Ton...</td>
+            </tr><tr id="A71808">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 13:06 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">56.00 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`680.00 GEL</td>
+                <td title="კარტრიჯი D101S">კარტრიჯი D...</td>
+            </tr><tr id="A71706">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:17 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">61.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;61.00 GEL</td>
+                <td title="კარტრიჯი Q2610A">კარტრიჯი Q...</td>
+            </tr><tr id="A71712">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:19 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">24.00 GEL<br/>
+                <span class="color-2">55 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`320.00 GEL</td>
+                <td title="კარტრიჯი CE505A">კარტრიჯი C...</td>
+            </tr><tr id="A71736">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:26 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">47.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;47.00 GEL</td>
+                <td title="კარტრიჯი SCX 4521">კარტრიჯი S...</td>
+            </tr><tr id="A71766">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:37 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">26.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;260.00 GEL</td>
+                <td title="ტონერი Toner C-EXV6">ტონერი Ton...</td>
+            </tr><tr id="A71782">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:43 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">32.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title="კარტრიჯი CB543A">კარტრიჯი C...</td>
+            </tr><tr id="A71790">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:46 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">46.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title="კარტრიჯი C4908AE">კარტრიჯი C...</td>
+            </tr><tr id="A71662">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:04 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">91 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`365.00 GEL</td>
+                <td title="კარტრიჯი Q2612A">კარტრიჯი Q...</td>
+            </tr><tr id="A71704">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:16 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">69.00 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;276.00 GEL</td>
+                <td title="კარტრიჯი Q7516A">კარტრიჯი Q...</td>
+            </tr><tr id="A71754">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:32 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">24.00 GEL<br/>
+                <span class="color-2">51 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`224.00 GEL</td>
+                <td title="ტონერი Toner C-EXV14">ტონერი Ton...</td>
+            </tr><tr id="A71810">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 13:12 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">231.00 GEL<br/>
+                <span class="color-2">14 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`234.00 GEL</td>
+                <td title="ტონერი Toner C-EXV21 yellow">ტონერი Ton...</td>
+            </tr><tr id="A71871">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 13:37 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">181.00 GEL<br/>
+                <span class="color-2">15 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`715.00 GEL</td>
+                <td title="დრამ კარტრიჯი Drum Unit C-EXV14">დრამ კარტრ...</td>
+            </tr><tr id="A71883">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 13:39 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">651.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;651.00 GEL</td>
+                <td title="Drum Unit C-EXV21 Black">Drum Unit ...</td>
+            </tr><tr id="A71899">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 13:43 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">651.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;651.00 GEL</td>
+                <td title="Drum Unit C-EXV21 Magenta">Drum Unit ...</td>
+            </tr><tr id="A71685">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:11 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">23.00 GEL<br/>
+                <span class="color-2">32 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;736.00 GEL</td>
+                <td title="კარტრიჯი Q5949A">კარტრიჯი Q...</td>
+            </tr><tr id="A71700">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:15 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">23.00 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;920.00 GEL</td>
+                <td title="კარტრიჯი Q7553A">კარტრიჯი Q...</td>
+            </tr><tr id="A71708">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:18 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">72 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`080.00 GEL</td>
+                <td title="კარტრიჯი 436A">კარტრიჯი 4...</td>
+            </tr><tr id="A71724">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:24 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">34.00 GEL<br/>
+                <span class="color-2">12 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;408.00 GEL</td>
+                <td title="კარტრიჯი E16">კარტრიჯი E...</td>
+            </tr><tr id="A71728">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:25 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">41.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;41.00 GEL</td>
+                <td title="კარტრიჯი 1610DE">კარტრიჯი 1...</td>
+            </tr><tr id="A71740">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:28 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">90 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`350.00 GEL</td>
+                <td title="კარტრიჯი CE278A">კარტრიჯი C...</td>
+            </tr><tr id="A71776">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:39 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">32.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title="კარტრიჯი CB540A">კარტრიჯი C...</td>
+            </tr><tr id="A71778">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:40 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">32.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title="კარტრიჯი CB541A">კარტრიჯი C...</td>
+            </tr><tr id="A71780">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:41 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">32.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title="კარტრიჯი CB542A">კარტრიჯი C...</td>
+            </tr><tr id="A71891">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 13:41 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">651.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;651.00 GEL</td>
+                <td title="Drum Unit C-EXV21 Cyan">Drum Unit ...</td>
+            </tr><tr id="A71909">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 13:44 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">321.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;321.00 GEL</td>
+                <td title="Drum Unit C-EXV21 Yellow">Drum Unit ...</td>
+            </tr><tr id="A71720">
+                <td>
+                    &nbsp;
+                    <span title="30125100 - ტონერიანი კარტრიჯები">30125100 - ტონერიანი კარტრიჯები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 12:23 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">19.00 GEL<br/>
+                <span class="color-2">65 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`235.00 GEL</td>
+                <td title="კარტრიჯი CB435A">კარტრიჯი C...</td>
+            </tr><tr id="A71429">
+                <td>
+                    &nbsp;
+                    <span title="30197400 - შტამპების/ბეჭდების ღრუბელი">30197400 - შტამპების/ბეჭდების ღრუბელი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 10:49 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">38 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;57.00 GEL</td>
+                <td title="თითის ბალიში">თითის ბალი...</td>
+            </tr><tr id="A71433">
+                <td>
+                    &nbsp;
+                    <span title="30197400 - შტამპების/ბეჭდების ღრუბელი">30197400 - შტამპების/ბეჭდების ღრუბელი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 10:50 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">115 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;57.50 GEL</td>
+                <td title="თითის ბალიში">თითის ბალი...</td>
+            </tr><tr id="A71421">
+                <td>
+                    &nbsp;
+                    <span title="30197400 - შტამპების/ბეჭდების ღრუბელი">30197400 - შტამპების/ბეჭდების ღრუბელი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 10:47 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">19 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;76.00 GEL</td>
+                <td title="ბეჭდის ბალიში">ბეჭდის ბალ...</td>
+            </tr><tr id="A71437">
+                <td>
+                    &nbsp;
+                    <span title="30197600 - დამუშავებული ქაღალდი და მუყაო">30197600 - დამუშავებული ქაღალდი და მუყაო...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 10:51 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;90.00 GEL</td>
+                <td title="მუყაოს ფორმატი">მუყაოს ფორ...</td>
+            </tr><tr id="A71447">
+                <td>
+                    &nbsp;
+                    <span title="30197600 - დამუშავებული ქაღალდი და მუყაო">30197600 - დამუშავებული ქაღალდი და მუყაო...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 10:54 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">14.00 GEL<br/>
+                <span class="color-2">600 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;8`400.00 GEL</td>
+                <td title="ქაღალდი ოფსეტური A3, 80გრ/მ2">ქაღალდი ოფ...</td>
+            </tr><tr id="A71459">
+                <td>
+                    &nbsp;
+                    <span title="30197600 - დამუშავებული ქაღალდი და მუყაო">30197600 - დამუშავებული ქაღალდი და მუყაო...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 10:58 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">56.00 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`800.00 GEL</td>
+                <td title="ქაღალდი ოფსეტური 80გრ/მ2, 60X84სმ (min)">ქაღალდი ოფ...</td>
+            </tr><tr id="A71463">
+                <td>
+                    &nbsp;
+                    <span title="30197600 - დამუშავებული ქაღალდი და მუყაო">30197600 - დამუშავებული ქაღალდი და მუყაო...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:04 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.55 GEL<br/>
+                <span class="color-2">2500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`375.00 GEL</td>
+                <td title="ქაღალდი ცარცის, 250გრ/მ2 70X100">ქაღალდი ცა...</td>
+            </tr><tr id="A71469">
+                <td>
+                    &nbsp;
+                    <span title="30197600 - დამუშავებული ქაღალდი და მუყაო">30197600 - დამუშავებული ქაღალდი და მუყაო...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:06 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;450.00 GEL</td>
+                <td title="მუყაო 2,5მმ">მუყაო 2,5მ...</td>
+            </tr><tr id="A71485">
+                <td>
+                    &nbsp;
+                    <span title="30197600 - დამუშავებული ქაღალდი და მუყაო">30197600 - დამუშავებული ქაღალდი და მუყაო...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:12 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">10000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`500.00 GEL</td>
+                <td title="ქაღალდი ცარცის, 115გრ/მ2 70X100">ქაღალდი ცა...</td>
+            </tr><tr id="A70375">
+                <td>
+                    &nbsp;
+                    <span title="30192000 - საკანცელარიო ნივთები  ">30192000 - საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">კასა, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:27 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">111 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;333.00 GEL</td>
+                <td title="პატარა სკოჩის მოსახევი სკოჩით">პატარა სკო...</td>
+            </tr><tr id="A70369">
+                <td>
+                    &nbsp;
+                    <span title="30192000 - საკანცელარიო ნივთები  ">30192000 - საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:26 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.50 GEL<br/>
+                <span class="color-2">65 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;97.50 GEL</td>
+                <td title="ორმაგი სკოჩი">ორმაგი სკო...</td>
+            </tr><tr id="A70379">
+                <td>
+                    &nbsp;
+                    <span title="30192000 - საკანცელარიო ნივთები  ">30192000 - საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:29 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.15 GEL<br/>
+                <span class="color-2">1254 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;188.10 GEL</td>
+                <td title="სკოჩი">სკოჩი...</td>
+            </tr><tr id="A70381">
+                <td>
+                    &nbsp;
+                    <span title="30192000 - საკანცელარიო ნივთები  ">30192000 - საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:30 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">843 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;843.00 GEL</td>
+                <td title="სკოჩი">სკოჩი...</td>
+            </tr><tr id="A70377">
+                <td>
+                    &nbsp;
+                    <span title="30192000 - საკანცელარიო ნივთები  ">30192000 - საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:28 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.00 GEL</td>
+                <td title="ქაღალდის სკოჩი">ქაღალდის ს...</td>
+            </tr><tr id="A70688">
+                <td>
+                    &nbsp;
+                    <span title="30193000 - ორგანაიზერები და აქსესუარები">30193000 - ორგანაიზერები და აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ბესტარი, ტაივანი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:08 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">180.00 GEL<br/>
+                <span class="color-2">8 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`440.00 GEL</td>
+                <td title="სამაგიდე საკანცელარიო ნაკრები">სამაგიდე ს...</td>
+            </tr><tr id="A70662">
+                <td>
+                    &nbsp;
+                    <span title="30193000 - ორგანაიზერები და აქსესუარები">30193000 - ორგანაიზერები და აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ინტერლინკი, ტაივანი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 15:32 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">13.00 GEL<br/>
+                <span class="color-2">251 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;3`263.00 GEL</td>
+                <td title="მაგიდის ნაკრები (ორგანაიზერი)">მაგიდის ნა...</td>
+            </tr><tr id="A70686">
+                <td>
+                    &nbsp;
+                    <span title="30193000 - ორგანაიზერები და აქსესუარები">30193000 - ორგანაიზერები და აქსესუარები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ინტერლინკი, ტაივანი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:00 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">15.00 GEL<br/>
+                <span class="color-2">46 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;690.00 GEL</td>
+                <td title="საკანცელარიო ნაკრები 12 საგნისგან">საკანცელარ...</td>
+            </tr><tr id="A70605">
+                <td>
+                    &nbsp;
+                    <span title="30192132 - ფანქრის სათადარიგო გულები/გრიფელები ">30192132 - ფანქრის სათადარიგო გულები/გრიფელები ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:40 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">318 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;190.80 GEL</td>
+                <td title="ფანქრის გულები">ფანქრის გუ...</td>
+            </tr><tr id="A70859">
+                <td>
+                    &nbsp;
+                    <span title="30195912 - თეთრი დაფების/უაითბორდების მოლბერტები">30195912 - თეთრი დაფების/უაითბორდების მოლბერტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">საქართველო (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:57 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">119.44 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;597.20 GEL</td>
+                <td title="მოლბერტი">მოლბერტი...</td>
+            </tr><tr id="A70875">
+                <td>
+                    &nbsp;
+                    <span title="30195921 - საშლელები მაგნიტური დაფებისთვის">30195921 - საშლელები მაგნიტური დაფებისთვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:58 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">285 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;285.00 GEL</td>
+                <td title="დაფის საშლელი">დაფის საშლ...</td>
+            </tr><tr id="A71603">
+                <td>
+                    &nbsp;
+                    <span title="30199230 - კონვერტები">30199230 - კონვერტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ზარფსანი, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:45 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.12 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.00 GEL</td>
+                <td title="კონვერტი A5 ფორმატის">კონვერტი A...</td>
+            </tr><tr id="A71607">
+                <td>
+                    &nbsp;
+                    <span title="30199230 - კონვერტები">30199230 - კონვერტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ზარფსანი, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:46 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.06 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;9.00 GEL</td>
+                <td title="კონვერტი A6">კონვერტი A...</td>
+            </tr><tr id="A71615">
+                <td>
+                    &nbsp;
+                    <span title="30199230 - კონვერტები">30199230 - კონვერტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ზარფსანი, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:48 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.06 GEL<br/>
+                <span class="color-2">930 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;55.80 GEL</td>
+                <td title="კონვერტი დიპლომატიური">კონვერტი დ...</td>
+            </tr><tr id="A71623">
+                <td>
+                    &nbsp;
+                    <span title="30199230 - კონვერტები">30199230 - კონვერტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ზარფსანი, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:49 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.16 GEL<br/>
+                <span class="color-2">325 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;52.00 GEL</td>
+                <td title="კონვერტი თვითწებადი">კონვერტი თ...</td>
+            </tr><tr id="A71637">
+                <td>
+                    &nbsp;
+                    <span title="30199230 - კონვერტები">30199230 - კონვერტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ზარფსანი, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:53 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.12 GEL<br/>
+                <span class="color-2">65 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7.80 GEL</td>
+                <td title="კონვერტი თვითწებადი">კონვერტი თ...</td>
+            </tr><tr id="A70897">
+                <td>
+                    &nbsp;
+                    <span title="30197130 - საკანცელარიო სარჭები">30197130 - საკანცელარიო სარჭები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი.ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:02 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.22 GEL<br/>
+                <span class="color-2">440 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;96.80 GEL</td>
+                <td title="კლიპები">კლიპები...</td>
+            </tr><tr id="A70907">
+                <td>
+                    &nbsp;
+                    <span title="30197130 - საკანცელარიო სარჭები">30197130 - საკანცელარიო სარჭები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:03 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">1625 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;146.25 GEL</td>
+                <td title="კლიპები">კლიპები...</td>
+            </tr><tr id="A70891">
+                <td>
+                    &nbsp;
+                    <span title="30197130 - საკანცელარიო სარჭები">30197130 - საკანცელარიო სარჭები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:01 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.70 GEL<br/>
+                <span class="color-2">1391 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;973.70 GEL</td>
+                <td title="კლიპები">კლიპები...</td>
+            </tr><tr id="A70913">
+                <td>
+                    &nbsp;
+                    <span title="30197130 - საკანცელარიო სარჭები">30197130 - საკანცელარიო სარჭები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:04 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.12 GEL<br/>
+                <span class="color-2">260 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;31.20 GEL</td>
+                <td title="კლიპები">კლიპები...</td>
+            </tr><tr id="A70931">
+                <td>
+                    &nbsp;
+                    <span title="30197130 - საკანცელარიო სარჭები">30197130 - საკანცელარიო სარჭები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:08 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.05 GEL<br/>
+                <span class="color-2">2024 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;101.20 GEL</td>
+                <td title="კლიპები">კლიპები...</td>
+            </tr><tr id="A70943">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">კასა, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:10 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.20 GEL<br/>
+                <span class="color-2">310 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;372.00 GEL</td>
+                <td title="სამაგრი (სკრეპი)">სამაგრი (ს...</td>
+            </tr><tr id="A70951">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:11 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">500 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;200.00 GEL</td>
+                <td title="სამაგრი (სკრეპი)">სამაგრი (ს...</td>
+            </tr><tr id="A70973">
+                <td>
+                    &nbsp;
+                    <span title="30197310 - კონვერტის გასახსნელი დანები">30197310 - კონვერტის გასახსნელი დანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი,ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:15 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">145 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;87.00 GEL</td>
+                <td title="საკანცელარიო დანა">საკანცელარ...</td>
+            </tr><tr id="A70961">
+                <td>
+                    &nbsp;
+                    <span title="30197310 - კონვერტის გასახსნელი დანები">30197310 - კონვერტის გასახსნელი დანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:13 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">205 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;205.00 GEL</td>
+                <td title="საკანცელარიო დანა">საკანცელარ...</td>
+            </tr><tr id="A70995">
+                <td>
+                    &nbsp;
+                    <span title="30197310 - კონვერტის გასახსნელი დანები">30197310 - კონვერტის გასახსნელი დანები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 17:20 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">119 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;35.70 GEL</td>
+                <td title="საკანცელარიო დანა">საკანცელარ...</td>
+            </tr><tr id="A71577">
+                <td>
+                    &nbsp;
+                    <span title="30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტრაფარეტების გასამრავლებელი მოწყობილობისთვის და ქაღალდი ნახშირის ფენის გარეშე">30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">რუსეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:37 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;100.00 GEL</td>
+                <td title="აკვარელის ფორმატები">აკვარელის ...</td>
+            </tr><tr id="A71595">
+                <td>
+                    &nbsp;
+                    <span title="30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტრაფარეტების გასამრავლებელი მოწყობილობისთვის და ქაღალდი ნახშირის ფენის გარეშე">30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">რუსეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:42 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">13 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;78.00 GEL</td>
+                <td title="პერგამენტის ქაღალდი">პერგამენტი...</td>
+            </tr><tr id="A71599">
+                <td>
+                    &nbsp;
+                    <span title="30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტრაფარეტების გასამრავლებელი მოწყობილობისთვის და ქაღალდი ნახშირის ფენის გარეშე">30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">რუსეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:43 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">5 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title="ვატმანის ქაღალდი">ვატმანის ქ...</td>
+            </tr><tr id="A71573">
+                <td>
+                    &nbsp;
+                    <span title="30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტრაფარეტების გასამრავლებელი მოწყობილობისთვის და ქაღალდი ნახშირის ფენის გარეშე">30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:36 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">3500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`800.00 GEL</td>
+                <td title="ქაღალდი სახაზავი 270გრ/მ2 70X100">ქაღალდი სა...</td>
+            </tr><tr id="A71581">
+                <td>
+                    &nbsp;
+                    <span title="30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტრაფარეტების გასამრავლებელი მოწყობილობისთვის და ქაღალდი ნახშირის ფენის გარეშე">30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ინდოეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:38 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title="ცარცის ქაღალდი">ცარცის ქაღ...</td>
+            </tr><tr id="A71589">
+                <td>
+                    &nbsp;
+                    <span title="30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტრაფარეტების გასამრავლებელი მოწყობილობისთვის და ქაღალდი ნახშირის ფენის გარეშე">30199100 - პირის გადასაღები ქაღალდი, თვითკოპირებადი ქაღალდი, ქაღალდი ტ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:41 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">6 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title="ფაქსის ქაღალდი">ფაქსის ქაღ...</td>
+            </tr><tr id="A71646">
+                <td>
+                    &nbsp;
+                    <span title="30199500 - საბუთების ჩასაწყობი ყუთები, საკანცელარიო ჯამები, შესანახი ყუთები და მსგავსი ნივთები">30199500 - საბუთების ჩასაწყობი ყუთები, საკანცელარიო ჯამები, შესანახი ყ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:58 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">10.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;200.00 GEL</td>
+                <td title="CD შესანახი ჩანთა">CD შესანახ...</td>
+            </tr><tr id="A70692">
+                <td>
+                    &nbsp;
+                    <span title="30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები">30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">იზივორკინგ (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:11 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.60 GEL<br/>
+                <span class="color-2">174 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;278.40 GEL</td>
+                <td title="საკანცელარიო ჭიქა">საკანცელარ...</td>
+            </tr><tr id="A70690">
+                <td>
+                    &nbsp;
+                    <span title="30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები">30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:10 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.00 GEL</td>
+                <td title="ფანქრების ჩასადები ჭიქა">ფანქრების ...</td>
+            </tr><tr id="A70696">
+                <td>
+                    &nbsp;
+                    <span title="30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები">30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:19 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">40.00 GEL<br/>
+                <span class="color-2">21 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;840.00 GEL</td>
+                <td title="CD დისკების ჩასადები მაგიდის ყუთი">CD დისკები...</td>
+            </tr><tr id="A70698">
+                <td>
+                    &nbsp;
+                    <span title="30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები">30193100 - მაგიდაზე დასადები ყუთი-ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:23 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">110 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;440.00 GEL</td>
+                <td title="CD დისკების ჩასადები პლასტმასის ყუთი">CD დისკები...</td>
+            </tr><tr id="A70799">
+                <td>
+                    &nbsp;
+                    <span title="30194400 - სახაზავი მაგიდის გადასაფარებლები/გადასაკვრელები">30194400 - სახაზავი მაგიდის გადასაფარებლები/გადასაკვრელები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:48 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">58.00 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;232.00 GEL</td>
+                <td title="გილიოტინა">გილიოტინა...</td>
+            </tr><tr id="A70809">
+                <td>
+                    &nbsp;
+                    <span title="30194500 - დამხმარე საშუალება ასოების საწერად">30194500 - დამხმარე საშუალება ასოების საწერად...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:49 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">2.80 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;14.00 GEL</td>
+                <td title="პლანშეტი დამჭერით">პლანშეტი დ...</td>
+            </tr><tr id="A70367">
+                <td>
+                    &nbsp;
+                    <span title="30191000 - საოფისე მოწყობილობები, ავეჯის გარდა">30191000 - საოფისე მოწყობილობები, ავეჯის გარდა...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:25 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">100.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;200.00 GEL</td>
+                <td title="ასაკინძი აპარატი">ასაკინძი ა...</td>
+            </tr><tr id="A70777">
+                <td>
+                    &nbsp;
+                    <span title="30194000 - ხაზვისთვის საჭირო ნივთები">30194000 - ხაზვისთვის საჭირო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">კასა, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:45 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.10 GEL<br/>
+                <span class="color-2">17 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.70 GEL</td>
+                <td title="სახაზავი რკინის">სახაზავი რ...</td>
+            </tr><tr id="A70783">
+                <td>
+                    &nbsp;
+                    <span title="30194000 - ხაზვისთვის საჭირო ნივთები">30194000 - ხაზვისთვის საჭირო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">კასა, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:46 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">8.50 GEL<br/>
+                <span class="color-2">62 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;527.00 GEL</td>
+                <td title="სახაზავი რკინის">სახაზავი რ...</td>
+            </tr><tr id="A70710">
+                <td>
+                    &nbsp;
+                    <span title="30194000 - ხაზვისთვის საჭირო ნივთები">30194000 - ხაზვისთვის საჭირო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:31 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.10 GEL<br/>
+                <span class="color-2">198 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;217.80 GEL</td>
+                <td title="სახაზავი პლასტმასის">სახაზავი პ...</td>
+            </tr><tr id="A70763">
+                <td>
+                    &nbsp;
+                    <span title="30194000 - ხაზვისთვის საჭირო ნივთები">30194000 - ხაზვისთვის საჭირო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:44 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">161 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;80.50 GEL</td>
+                <td title="სახაზავი პლასტმასის">სახაზავი პ...</td>
+            </tr><tr id="A70706">
+                <td>
+                    &nbsp;
+                    <span title="30194000 - ხაზვისთვის საჭირო ნივთები">30194000 - ხაზვისთვის საჭირო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">რუსეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:26 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">30.00 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;600.00 GEL</td>
+                <td title="რეიშინის სახაზავი">რეიშინის ს...</td>
+            </tr><tr id="A70791">
+                <td>
+                    &nbsp;
+                    <span title="30194000 - ხაზვისთვის საჭირო ნივთები">30194000 - ხაზვისთვის საჭირო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:47 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">38 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;30.40 GEL</td>
+                <td title="სახაზავი სამკუთხედი">სახაზავი ს...</td>
+            </tr><tr id="A70365">
+                <td>
+                    &nbsp;
+                    <span title="30141200 - მაგიდის კალკულატორები">30141200 - მაგიდის კალკულატორები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:23 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">8.00 GEL<br/>
+                <span class="color-2">215 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`720.00 GEL</td>
+                <td title="კალკულატორი">კალკულატორ...</td>
+            </tr><tr id="A70704">
+                <td>
+                    &nbsp;
+                    <span title="30193200 - სამაგიდე თაროები ან ორგანაიზერები">30193200 - სამაგიდე თაროები ან ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">კასა, თურქეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:25 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">3.50 GEL<br/>
+                <span class="color-2">224 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;784.00 GEL</td>
+                <td title="საკანცელარიო ჯამი გამჭვირვალე">საკანცელარ...</td>
+            </tr><tr id="A70702">
+                <td>
+                    &nbsp;
+                    <span title="30193200 - სამაგიდე თაროები ან ორგანაიზერები">30193200 - სამაგიდე თაროები ან ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 16:24 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">140 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`680.00 GEL</td>
+                <td title="საკანცელარიო ჯამი">საკანცელარ...</td>
+            </tr><tr id="A71549">
+                <td>
+                    &nbsp;
+                    <span title="30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის">30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ტაილანდი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:29 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">20 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;240.00 GEL</td>
+                <td title="ფერადი ქაღალდი A4">ფერადი ქაღ...</td>
+            </tr><tr id="A71567">
+                <td>
+                    &nbsp;
+                    <span title="30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის">30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ტაილანდი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:35 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">12.00 GEL<br/>
+                <span class="color-2">76 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;912.00 GEL</td>
+                <td title="ქაღალდი ფერადი">ქაღალდი ფე...</td>
+            </tr><tr id="A71547">
+                <td>
+                    &nbsp;
+                    <span title="30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის">30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:28 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">210 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;42.00 GEL</td>
+                <td title="A1 ფორმატის ქაღალდი">A1 ფორმატი...</td>
+            </tr><tr id="A71551">
+                <td>
+                    &nbsp;
+                    <span title="30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის">30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:30 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">26.00 GEL<br/>
+                <span class="color-2">25 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;650.00 GEL</td>
+                <td title="ქაღალდი A3 160 გრ">ქაღალდი A3...</td>
+            </tr><tr id="A71557">
+                <td>
+                    &nbsp;
+                    <span title="30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის">30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:31 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">26.00 GEL<br/>
+                <span class="color-2">68 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;1`768.00 GEL</td>
+                <td title="ქაღალდი A3 80 გრ">ქაღალდი A3...</td>
+            </tr><tr id="A71561">
+                <td>
+                    &nbsp;
+                    <span title="30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის">30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">05.05.2014 11:34 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">26.00 GEL<br/>
+                <span class="color-2">32 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;832.00 GEL</td>
+                <td title="ქაღალდი A3 ფორმატის">ქაღალდი A3...</td>
+            </tr><tr id="A71113">
+                <td>
+                    &nbsp;
+                    <span title="30197321 - ანტისტეპლერები">30197321 - ანტისტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 18:47 :: სოფიო გაბიცინაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">202 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;101.00 GEL</td>
+                <td title="ანტისტეპლერი">ანტისტეპლე...</td>
+            </tr><tr id="A70613">
+                <td>
+                    &nbsp;
+                    <span title="30192160 - კორექტორები">30192160 - კორექტორები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ფორპუსი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 14:42 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">349 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;279.20 GEL</td>
+                <td title="ფლუიდი (კორექტორი ფუნჯით)">ფლუიდი (კო...</td>
+            </tr><tr id="A70407">
+                <td>
+                    &nbsp;
+                    <span title="30192121 - ბურთულიანი კალმები">30192121 - ბურთულიანი კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">სტაბილო, გერმანია (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:44 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title="კალამი როლერგელი">კალამი როლ...</td>
+            </tr><tr id="A70387">
+                <td>
+                    &nbsp;
+                    <span title="30192121 - ბურთულიანი კალმები">30192121 - ბურთულიანი კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:34 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.30 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;6.00 GEL</td>
+                <td title="კალამი ღილაკით">კალამი ღილ...</td>
+            </tr><tr id="A70397">
+                <td>
+                    &nbsp;
+                    <span title="30192121 - ბურთულიანი კალმები">30192121 - ბურთულიანი კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:40 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.18 GEL<br/>
+                <span class="color-2">4630 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;833.40 GEL</td>
+                <td title="საწერი კალამი">საწერი კალ...</td>
+            </tr><tr id="A70399">
+                <td>
+                    &nbsp;
+                    <span title="30192121 - ბურთულიანი კალმები">30192121 - ბურთულიანი კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:41 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.18 GEL<br/>
+                <span class="color-2">1165 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;209.70 GEL</td>
+                <td title="საწერი კალამი">საწერი კალ...</td>
+            </tr><tr id="A70401">
+                <td>
+                    &nbsp;
+                    <span title="30192121 - ბურთულიანი კალმები">30192121 - ბურთულიანი კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:42 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.18 GEL<br/>
+                <span class="color-2">800 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;144.00 GEL</td>
+                <td title="საწერი კალამი">საწერი კალ...</td>
+            </tr><tr id="A70395">
+                <td>
+                    &nbsp;
+                    <span title="30192121 - ბურთულიანი კალმები">30192121 - ბურთულიანი კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">იაპონია (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:39 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">30.00 GEL<br/>
+                <span class="color-2">45 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`350.00 GEL</td>
+                <td title="სასაჩუქრე კალამი">სასაჩუქრე ...</td>
+            </tr><tr id="A70409">
+                <td>
+                    &nbsp;
+                    <span title="30192122 - მელნის კალმები">30192122 - მელნის კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:45 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;10.00 GEL</td>
+                <td title="ტუში">ტუში...</td>
+            </tr><tr id="A70415">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:46 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">591 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;295.50 GEL</td>
+                <td title="კალამი გელის">კალამი გელ...</td>
+            </tr><tr id="A70419">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:48 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">208 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;104.00 GEL</td>
+                <td title="კალამი გელის">კალამი გელ...</td>
+            </tr><tr id="A70427">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:50 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">458 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;229.00 GEL</td>
+                <td title="კალამი გელის">კალამი გელ...</td>
+            </tr><tr id="A70429">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:51 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title="კალამი გელის">კალამი გელ...</td>
+            </tr><tr id="A70435">
+                <td>
+                    &nbsp;
+                    <span title="30192124 - ფლომასტერები">30192124 - ფლომასტერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 11:52 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">6.00 GEL<br/>
+                <span class="color-2">68 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;408.00 GEL</td>
+                <td title="ფლომასტერების ნაკრები">ფლომასტერე...</td>
+            </tr><tr id="A70464">
+                <td>
+                    &nbsp;
+                    <span title="30192125 - მარკერები">30192125 - მარკერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:05 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">1497 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;748.50 GEL</td>
+                <td title="ტექსტ-მარკერი">ტექსტ-მარკ...</td>
+            </tr><tr id="A70470">
+                <td>
+                    &nbsp;
+                    <span title="30192125 - მარკერები">30192125 - მარკერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">სტაბილო, გერმანია (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:10 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">775 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`550.00 GEL</td>
+                <td title="CD მარკერი კარგი ხარისხის">CD მარკერი...</td>
+            </tr><tr id="A70455">
+                <td>
+                    &nbsp;
+                    <span title="30192125 - მარკერები">30192125 - მარკერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:02 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">1487 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;892.20 GEL</td>
+                <td title="დაფის მარკერი">დაფის მარკ...</td>
+            </tr><tr id="A70459">
+                <td>
+                    &nbsp;
+                    <span title="30192125 - მარკერები">30192125 - მარკერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:04 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;24.00 GEL</td>
+                <td title="მარკერი (პერმანენტი)">მარკერი (პ...</td>
+            </tr><tr id="A70468">
+                <td>
+                    &nbsp;
+                    <span title="30192125 - მარკერები">30192125 - მარკერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">დელი, ჩინეთი (დაუდგენელი)<br/>_</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">02.05.2014 12:07 :: ქეთევან ქოქრაშვილი</div>
+                </td>
+                <td align="right">3.00 GEL<br/>
+                <span class="color-2">275 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;825.00 GEL</td>
+                <td title="ტექსტ-მარკერის ნაკრები">ტექსტ-მარკ...</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'111821'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg20" style="font-weight:bold">შესრულებული ხელშეკრულება</span><br/>
+			<span class="date">სოფიო გაბიცინაშვილი :: 19.09.2014</span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(2272)"><img src="images/profile24.png"></a> <strong>&quot;ფორმატი&quot;</strong><br/>
+				
+					ნომერი/თანხა: N105-2014 / <span class="convertme" id="104401-GEL-02.05.2014 11:13">104401 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 28.04.2014 - 30.07.2014<br/>
+					<span class="date">02.05.2014 11:13</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=93774"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="111821">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;font-weight: bold;margin:1em">ხელშეკრულების ცვლილება</div>
+		<table width="100%">
+			<tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 1</u></span><br/>
+					ნომერი/თანხა: N105-2014 / <span class="convertme" id="103803.8-GEL-01.07.2014 12:57">103803.8 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 28.04.2014 - 30.07.2014<br/>
+					<span class="date">01.07.2014 12:57</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=98936"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+		</table>
+	</div>
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="111821">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="111821">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="760786.1399297596.111821">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=760786&code=1399297596">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">05.05.2014 13:46 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="760789.1399297612.111821">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=760789&code=1399297612">
+SPA140009021_105.2014.pdf
+</a>
+</td>
+<td class="date">05.05.2014 13:46 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="762540.1399377539.111821">
+<td>3.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=762540&code=1399377539">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">06.05.2014 11:58 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="762878.1399392348.111821">
+<td>4.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=762878&code=1399392348">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">06.05.2014 16:05 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="768554.1400004053.111821">
+<td>5.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=768554&code=1400004053">
+SPA140009021_105 faqtura.pdf
+</a>
+</td>
+<td class="date">13.05.2014 18:00 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="768556.1400004077.111821">
+<td>6.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=768556&code=1400004077">
+SPA140009021_105..pdf
+</a>
+</td>
+<td class="date">13.05.2014 18:01 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="768557.1400004088.111821">
+<td>7.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=768557&code=1400004088">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">13.05.2014 18:01 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="771118.1400164661.111821">
+<td>8.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=771118&code=1400164661">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">15.05.2014 14:37 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="776908.1400601146.111821">
+<td>9.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=776908&code=1400601146">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">20.05.2014 15:52 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="778530.1400679788.111821">
+<td>10.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=778530&code=1400679788">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">21.05.2014 13:43 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="780545.1400773235.111821">
+<td>11.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=780545&code=1400773235">
+SPA140009021_105 faqturebi.pdf
+</a>
+</td>
+<td class="date">22.05.2014 15:40 :: სოფიო გაბიცინაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="782417.1400857972.111821">
+<td>12.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=782417&code=1400857972">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">23.05.2014 15:12 :: სოფიო გაბიცინაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="786385.1401291390.111821">
+<td>13.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=786385&code=1401291390">
+SPA140009021_105faqtura.pdf
+</a>
+</td>
+<td class="date">28.05.2014 15:36 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="791262.1401717041.111821">
+<td>14.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=791262&code=1401717041">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">02.06.2014 13:50 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="793013.1401804084.111821">
+<td>15.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=793013&code=1401804084">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">03.06.2014 14:01 :: სოფიო გაბიცინაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="796038.1401975899.111821">
+<td>16.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=796038&code=1401975899">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">05.06.2014 13:44 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="799639.1402327532.111821">
+<td>17.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=799639&code=1402327532">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">09.06.2014 15:25 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="799642.1402327542.111821">
+<td>18.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=799642&code=1402327542">
+SPA140009021_105.2014.pdf
+</a>
+</td>
+<td class="date">09.06.2014 15:25 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="801237.1402414220.111821">
+<td>19.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=801237&code=1402414220">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">10.06.2014 15:30 :: სოფიო გაბიცინაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="802899.1402505583.111821">
+<td>20.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=802899&code=1402505583">
+SPA140009021_105 faqtura.pdf
+</a>
+</td>
+<td class="date">11.06.2014 16:53 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="804279.1402582081.111821">
+<td>21.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=804279&code=1402582081">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">12.06.2014 14:08 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="808791.1403011744.111821">
+<td>22.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=808791&code=1403011744">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">17.06.2014 13:29 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="812913.1403272740.111821">
+<td>23.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=812913&code=1403272740">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">20.06.2014 13:59 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="814215.1403524183.111821">
+<td>24.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=814215&code=1403524183">
+SPA140009021_105faqtura.pdf
+</a>
+</td>
+<td class="date">23.06.2014 11:49 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="826810.1404479753.111821">
+<td>25.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=826810&code=1404479753">
+SPA140009021_105.pdf
+</a>
+</td>
+<td class="date">04.07.2014 13:15 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="826813.1404479763.111821">
+<td>26.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=826813&code=1404479763">
+SPA140009021_105 faqturebi.pdf
+</a>
+</td>
+<td class="date">04.07.2014 13:16 :: ქეთევან ქოქრაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 103`803.80 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 103`803.80 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>8`039.70 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>07.07.2014&nbsp;
+
+</td>
+<td class="date">16.07.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>4`575.05 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>23.06.2014&nbsp;
+
+</td>
+<td class="date">01.07.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>6`054.20 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>20.06.2014&nbsp;
+
+</td>
+<td class="date">23.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>8`274.70 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>18.06.2014&nbsp;
+
+</td>
+<td class="date">23.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>9`933.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>16.06.2014&nbsp;
+
+</td>
+<td class="date">23.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>13`910.73 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>12.06.2014&nbsp;
+
+</td>
+<td class="date">17.06.2014<br>ქეთევან ქოქრაშვილი</td>
+</tr><tr class="activebid1">
+<td>5`601.98 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>06.06.2014&nbsp;
+
+</td>
+<td class="date">11.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>1`151.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>06.06.2014&nbsp;
+
+</td>
+<td class="date">11.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>1`400.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>06.06.2014&nbsp;
+
+</td>
+<td class="date">11.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>10`330.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>03.06.2014&nbsp;
+
+</td>
+<td class="date">11.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>1`380.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>03.06.2014&nbsp;
+
+</td>
+<td class="date">11.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>3`271.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>03.06.2014&nbsp;
+
+</td>
+<td class="date">11.06.2014<br>სოფიო გაბიცინაშვილი</td>
+</tr><tr class="activebid1">
+<td>84.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>31.05.2014&nbsp;
+
+</td>
+<td class="date">05.06.2014<br>ქეთევან ქოქრაშვილი</td>
+</tr><tr class="activebid1">
+<td>6`204.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>31.05.2014&nbsp;
+
+</td>
+<td class="date">05.06.2014<br>ქეთევან ქოქრაშვილი</td>
+</tr><tr class="activebid1">
+<td>6`140.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>20.05.2014&nbsp;
+
+</td>
+<td class="date">28.05.2014<br>ქეთევან ქოქრაშვილი</td>
+</tr><tr class="activebid1">
+<td>3`233.44 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>14.05.2014&nbsp;
+
+</td>
+<td class="date">20.05.2014<br>ქეთევან ქოქრაშვილი</td>
+</tr><tr class="activebid1">
+<td>3`346.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>14.05.2014&nbsp;
+
+</td>
+<td class="date">20.05.2014<br>ქეთევან ქოქრაშვილი</td>
+</tr><tr class="activebid1">
+<td>10`875.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>14.05.2014&nbsp;
+
+</td>
+<td class="date">20.05.2014<br>ქეთევან ქოქრაშვილი</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'111821'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

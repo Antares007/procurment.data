@@ -1,0 +1,2381 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140006235</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv108922" /><label for="fv108922"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1928)"><img src="images/profile24_0.png"> საქართველოს სასჯელაღსრულების, პრობაციისა და იურიდიული დახმარების საკითხთა სამინისტროს სასჯელაღსრულების დეპარტამენტი</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>28.02.2014 18:58</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>05.03.2014 00:00</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>07.03.2014 14:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="11670-GEL-28.02.2014 18:58">11`670.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;33600000 - ფარმაცევტული პროდუქტები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;33600000 - ფარმაცევტული პროდუქტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;33613000 - საფაღარათო საშუალებები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;33616000 - ვიტამინები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;33632100 - ანთების საწინააღმდეგო და რევმატიზმის საწინააღმდეგო პროდუქტები (პრეპარატები) 
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla"></div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>20 კალენდარული დღე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>100.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>117 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=108922&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="108922">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: პაატა ვარდიაშვილი :: 28.02.2014 18:17</li>
+	<li style="text-align:right">ბოლო შესწორება: პაატა ვარდიაშვილი :: 28.02.2014 18:58</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:108922, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '108922'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="698115.1393613794.108922">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=698115&code=1393613794">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=698115&code=1393613794">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_satendero dok.pdf
+						</a>
+					</td>
+					<td class="date" align="right">28.02.2014 18:56<br/>პაატა ვარდიაშვილი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 11`670.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: 20 კალენდარული დღე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B108922125075">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(1786)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ავერსი-ფარმა</span>
+			</td>
+		<td class="activebid1"><strong>10`000.00</strong>&nbsp;<br/><span class="date">07.03.2014 13:56</span></td>
+		<td class="activebid1">11`670.00&nbsp;<br/><span class="date">07.03.2014 13:38</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(108922,125075)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">14:05</td>
+		<td align="center" class="activebid1">14:07</td>
+		<td class="activebid1">ავერსი-ფარმა</td>
+		<td align="center" class="activebid1"><strong>10`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">14:09</td>
+		<td align="center" class="activebid1">14:11</td>
+		<td class="activebid1">ავერსი-ფარმა</td>
+		<td align="center" class="activebid1"><strong>10`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">14:13</td>
+		<td align="center" class="activebid1">14:15</td>
+		<td class="activebid1">ავერსი-ფარმა</td>
+		<td align="center" class="activebid1"><strong>10`000.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B108922">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(1786)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ავერსი-ფარმა</span>
+		</td>
+		<td class="activebid1"><strong>10`000.00</strong></td>
+		<td class="date activebid1">07.03.2014 13:56</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'108922'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'108922'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="705120.1394470216.108922">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=705120&code=1394470216">
+                    SPA140006235_oqmi 2.pdf
+                    </a>
+                </td>
+                <td class="date">10.03.2014 16:50 :: პაატა ვარდიაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="705124.1394470235.108922">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=705124&code=1394470235">
+                    SPA140006235_interes. konf.pdf
+                    </a>
+                </td>
+                <td class="date">10.03.2014 16:50 :: პაატა ვარდიაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="705125.1394470247.108922">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=705125&code=1394470247">
+                    SPA140006235_werili.pdf
+                    </a>
+                </td>
+                <td class="date">10.03.2014 16:50 :: პაატა ვარდიაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="708798.1394711663.108922">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=708798&code=1394711663">
+                    SPA140006235_6235DAZUSTEBA.pdf
+                    </a>
+                </td>
+                <td class="date">13.03.2014 11:54 :: ქეთევან სეთურიძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="720933.1395839928.108922">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=720933&code=1395839928">
+                    SPA140006235_95.pdf
+                    </a>
+                </td>
+                <td class="date">26.03.2014 13:18 :: პაატა ვარდიაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A42777">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">. (დაუდგენელი)<br/>ანესთეზოლის. რექტ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 10:51 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.47 GEL<br/>
+                <span class="color-2">16 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;23.52 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44350">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">უკრაინა (დაუდგენელი)<br/>ამბროქსოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:29 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.80 GEL<br/>
+                <span class="color-2">80 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;64.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42142">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">საქართველო     	ავერსი- რაციონალი (დაუდგენელი)<br/>თურმანიძე პლუსი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.03.2014 15:45 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">3.01 GEL<br/>
+                <span class="color-2">28 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;84.28 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42144">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">საქართველო     	ავერსი- რაციონალი (დაუდგენელი)<br/>კოლხური მალამო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.03.2014 15:47 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">4.21 GEL<br/>
+                <span class="color-2">6 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;25.26 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43506">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ქირურგიული ხელთათმანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:44 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.22 GEL<br/>
+                <span class="color-2">160 წყვილი</span><br/>
+                <span class="color-2">=</span>&nbsp;35.87 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43502">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ნიღაბი სამედიცინო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:43 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.18 GEL<br/>
+                <span class="color-2">80 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;14.16 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43510">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>თერმომეტრი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:45 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.00 GEL<br/>
+                <span class="color-2">25 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;25.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44701">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბამბა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:14 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.35 GEL<br/>
+                <span class="color-2">24 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;8.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44703">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ლეიკოპლასტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:15 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.79 GEL<br/>
+                <span class="color-2">16 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.64 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44709">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>შპრიცი 5მლ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:16 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42135">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სამედიცინო ეთანოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.03.2014 15:42 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.48 GEL<br/>
+                <span class="color-2">80 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;118.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43256">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ოტიპაქსი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 13:58 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">3.85 GEL<br/>
+                <span class="color-2">16 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;61.60 GEL</td>
+                <td title="ოტიპაქსი">ოტიპაქსი...</td>
+            </tr><tr id="A43326">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ტანტუმ ვერდე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:08 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">8.05 GEL<br/>
+                <span class="color-2">40 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;322.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43398">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სინოგალი 1.5გ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:26 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.35 GEL<br/>
+                <span class="color-2">360 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;486.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43420">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მერკაცინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:31 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">3.98 GEL<br/>
+                <span class="color-2">80 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;318.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43460">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბიოპაროქსი აეროზოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:38 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">12.59 GEL<br/>
+                <span class="color-2">12 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;151.08 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43490">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ვიტამინი ც</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:42 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.59 GEL<br/>
+                <span class="color-2">36 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;57.24 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44354">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ალთეს</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:30 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.72 GEL<br/>
+                <span class="color-2">64 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;110.08 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44360">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>გლუკოზა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:32 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.62 GEL<br/>
+                <span class="color-2">40 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;24.80 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44362">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ამინოვენი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:33 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">7.23 GEL<br/>
+                <span class="color-2">8 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;57.84 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44366">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ოფლოტასი-ლიქვო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:34 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">3.15 GEL<br/>
+                <span class="color-2">56 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;176.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44374">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ვალერიანის ნაყენი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:35 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.34 GEL<br/>
+                <span class="color-2">24 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;8.16 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44448">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ნაფტიზინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:55 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.26 GEL<br/>
+                <span class="color-2">216 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;56.16 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44689">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მაქსიტროლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:10 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">6.68 GEL<br/>
+                <span class="color-2">8 ფლაკონი</span><br/>
+                <span class="color-2">=</span>&nbsp;53.44 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43266">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ანალგინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 13:59 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.25 GEL<br/>
+                <span class="color-2">24 ფირფიტა</span><br/>
+                <span class="color-2">=</span>&nbsp;6.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43260">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ციტრამონი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 13:59 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.08 GEL<br/>
+                <span class="color-2">160 ფირფიტა</span><br/>
+                <span class="color-2">=</span>&nbsp;12.80 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43436">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფურადონინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:35 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">32 ფირფიტა</span><br/>
+                <span class="color-2">=</span>&nbsp;2.88 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44452">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ნახშირი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:56 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.16 GEL<br/>
+                <span class="color-2">40 ფირფიტა</span><br/>
+                <span class="color-2">=</span>&nbsp;6.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42146">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ლევომეკოლ მეკოლ-ბორიმედ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.03.2014 15:48 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.69 GEL<br/>
+                <span class="color-2">38 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;26.22 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42148">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>წყალბადის ზეჟანგი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">24.03.2014 15:50 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">16 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;6.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43306">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ინდომეტაცინი მალამო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:06 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.90 GEL<br/>
+                <span class="color-2">80 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;72.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43428">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ტრიდერმის მალამო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:33 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">9.13 GEL<br/>
+                <span class="color-2">60 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;547.80 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43466">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სინაფინალის მალამო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:39 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.32 GEL<br/>
+                <span class="color-2">28 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;36.96 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43394">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>დიკლოფენაკის მალამო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:25 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.43 GEL<br/>
+                <span class="color-2">20 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;8.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44376">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>გიოქსიზონის მალამო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:36 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.02 GEL<br/>
+                <span class="color-2">44 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;44.88 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44378">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>დეკომბი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:37 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">13.90 GEL<br/>
+                <span class="color-2">12 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;166.80 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44386">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კლოტრიმაზოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:39 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.19 GEL<br/>
+                <span class="color-2">144 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;171.36 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44390">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ლორინდენ ც მალამო 15 გ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:41 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.65 GEL<br/>
+                <span class="color-2">3 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;16.95 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44412">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მიკონაზოლი 2% 15 გ კრემი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:47 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.88 GEL<br/>
+                <span class="color-2">64 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;56.32 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44468">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბეტადერმი კრემი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:59 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.76 GEL<br/>
+                <span class="color-2">35 ტუბი</span><br/>
+                <span class="color-2">=</span>&nbsp;201.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42781">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ანუზოლის რექტ.</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 10:52 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.59 GEL<br/>
+                <span class="color-2">2 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;3.18 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42785">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>რელიფი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 10:53 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">7.30 GEL<br/>
+                <span class="color-2">88 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;642.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42791">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ტრუქსალი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 10:54 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">10.18 GEL<br/>
+                <span class="color-2">1 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;10.18 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42801">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბისაკოდილი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 10:55 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.06 GEL<br/>
+                <span class="color-2">10 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;10.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A42807">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კეტამო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 10:56 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.03 GEL<br/>
+                <span class="color-2">88 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;90.64 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43270">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ეფექტი ფლუ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:00 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">2.28 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.24 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43282">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ენოზიდი-H</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:02 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.83 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;14.64 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43288">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>აქსენ ფორტე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:02 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.68 GEL<br/>
+                <span class="color-2">56 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;318.08 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43316">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მაგენოლი 100მგ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:07 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.45 GEL<br/>
+                <span class="color-2">28 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;152.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43348">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ეფექტი ფლუ #10</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:12 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">2.28 GEL<br/>
+                <span class="color-2">120 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;273.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43404">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>აუგმენტინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:27 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">9.15 GEL<br/>
+                <span class="color-2">156 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`427.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43444">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ციპროფროქს (ცეფლოქსი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:36 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.48 GEL<br/>
+                <span class="color-2">16 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;87.68 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43452">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კოტრომოქსაზოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:37 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.62 GEL<br/>
+                <span class="color-2">12 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;7.44 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43252">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ნო-შპა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 13:57 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.22 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;41.76 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43292">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>დიკლოფენაკი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:03 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.63 GEL<br/>
+                <span class="color-2">24 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;39.12 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43298">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ეფექტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:04 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">2.23 GEL<br/>
+                <span class="color-2">328 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;731.44 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43416">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ცეფოტამიქსი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:30 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.83 GEL<br/>
+                <span class="color-2">416 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;345.28 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43476">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ვიტყამინი ბ კომპლექსი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:40 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">4.65 GEL<br/>
+                <span class="color-2">64 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;297.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43484">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ვიტამინი ბ6</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:41 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">16 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;8.64 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43494">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ნეირორუბინ-ფორტე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:42 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">8.55 GEL<br/>
+                <span class="color-2">24 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;205.20 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43312">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>კარდიომაგნილი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:06 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">7.17 GEL<br/>
+                <span class="color-2">4 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;28.68 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43334">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ლივ-ანგინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:10 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">2.65 GEL<br/>
+                <span class="color-2">32 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;84.80 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43410">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ამოქსიცილინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:29 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">7.00 GEL<br/>
+                <span class="color-2">12 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;84.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43424">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სტრეპტოციდი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:32 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.16 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;1.28 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A43432">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ფურაგინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 14:34 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">2.01 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;16.08 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44352">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ეუფილინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:29 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.43 GEL<br/>
+                <span class="color-2">32 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;13.76 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44356">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სალბუტამოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:31 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">4.93 GEL<br/>
+                <span class="color-2">10 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;49.30 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44414">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ნისტატინი 0.5გ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:48 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.69 GEL<br/>
+                <span class="color-2">2 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;1.38 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44418">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ამტასი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:49 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">2.85 GEL<br/>
+                <span class="color-2">1 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;2.85 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44422">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>გლუკოზა 40%</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:49 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">1.16 GEL<br/>
+                <span class="color-2">4 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;4.64 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44426">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>დიბაზოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:50 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.53 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;4.24 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44428">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ენტენორმი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:51 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">4.62 GEL<br/>
+                <span class="color-2">24 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;110.88 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44430">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ბიფიდუმბაქტერინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:52 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">2.60 GEL<br/>
+                <span class="color-2">40 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;104.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44434">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ლიდოკაინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:53 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.58 GEL<br/>
+                <span class="color-2">12 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;6.96 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44438">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ლოპერამიდი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:54 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.72 GEL<br/>
+                <span class="color-2">28 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.16 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44444">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ლუცეტამი 1200მგ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:55 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">4.06 GEL<br/>
+                <span class="color-2">16 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;64.96 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44456">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ნოვოკაინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:57 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;4.32 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44462">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ტრენტალი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:58 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">7.18 GEL<br/>
+                <span class="color-2">16 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;114.88 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44684">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>მეტოკლოპრამიდი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:08 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">0.61 GEL<br/>
+                <span class="color-2">33 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;20.13 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44692">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ადაპტოლი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:11 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.85 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.80 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44695">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>გრანდაქსინი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:14 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.85 GEL<br/>
+                <span class="color-2">4 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;23.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44713">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>სუპრსლგონი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:17 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">2.68 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;21.44 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44715">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ალერგოსანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:17 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">4.10 GEL<br/>
+                <span class="color-2">16 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;65.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44717">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ტავეგილი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">26.03.2014 13:18 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">5.30 GEL<br/>
+                <span class="color-2">8 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;42.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A44382">
+                <td>
+                    &nbsp;
+                    <span title="33600000 - ფარმაცევტული პროდუქტები">33600000 - ფარმაცევტული პროდუქტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>ეფცენ -150</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">25.03.2014 18:39 :: პაატა ვარდიაშვილი</div>
+                </td>
+                <td align="right">3.08 GEL<br/>
+                <span class="color-2">208 კაფსულა</span><br/>
+                <span class="color-2">=</span>&nbsp;640.64 GEL</td>
+                <td title=""></td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'108922'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg10" style="font-weight:bold">მიმდინარე ხელშეკრულება</span><br/>
+			<span class="date">პაატა ვარდიაშვილი :: 26.03.2014</span><br/>
+			
+			<span>ხელშეკრულების მოქმედების ვადას გადაცილებული დღეები:  <strong>316</strong></span>
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(1786)"><img src="images/profile24.png"></a> <strong>ავერსი-ფარმა</strong><br/>
+				
+					ნომერი/თანხა: N95 / <span class="convertme" id="10000-GEL-26.03.2014 13:19">10000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 17.03.2014 - 31.05.2014<br/>
+					<span class="date">26.03.2014 13:19</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=90641"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="108922">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="108922">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="108922">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#FFFFFF"><td colspan="6" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 10`000.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 10`000.00 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>50.03 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2014</td>
+<td>17.04.2014&nbsp;
+
+</td>
+<td class="date">17.04.2014<br>–</td>
+</tr><tr class="activebid1">
+<td>9`949.97 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2014</td>
+<td>2014</td>
+<td>17.04.2014&nbsp;
+
+</td>
+<td class="date">17.04.2014<br>–</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'108922'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

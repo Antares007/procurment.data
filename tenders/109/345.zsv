@@ -1,0 +1,2464 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140006628</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv109345" /><label for="fv109345"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1686)"><img src="images/profile24_0.png"> შპს საქაერონავიგაცია</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>06.03.2014 17:09</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td><span class='subject_name'>23.03.2014 00:09</span></td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>28.03.2014 12:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="12275-GEL-06.03.2014 17:09">12`275.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გარეშე</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;30140000 - გამომთვლელი და საბუღალტრო მანქანები 
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30141200 - მაგიდის კალკულატორები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30191400 - დოკუმენტების გასანადგურებელი აპარატები 
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192100 - საშლელები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192110 - მელანი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192111 - სამელნე ბალიშები ბეჭდებისა და შტამპებისთვის 
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192123 - ტუშიანი კალამი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192125 - მარკერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192130 - ფანქრები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192133 - ფანქრის სათლელები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192700 - საკანცელარიო ნივთები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192800 - თვითკრობადი ეტიკეტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192910 - საკორექციო ფირი ან ლენტი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192920 - საკორექციო სითხე
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30192930 - საკორექციო კალამი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30193200 - სამაგიდე თაროები ან ორგანაიზერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30194310 - სახაზავი კომპლექტები ან ნაკრებები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30195000 - დაფები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30195921 - საშლელები მაგნიტური დაფებისთვის
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197120 - ჭიკარტები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197220 - ქაღალდის სკრეპები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197221 - სკრეპების ჩასადებები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197320 - სტეპლერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197321 - ანტისტეპლერები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197620 - საწერი ქაღალდი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197621 - ფლიფჩართის ქაღალდები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197630 - საბეჭდი ქაღალდი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199200 - კონვერტები, ღია ბარათები და სადა/დაუსურათებელი საფოსტო ბარათები
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199330 - გადაბმული ქაღალდები კომპიუტერის პრინტერებისათვის
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199410 - თვითკრობადი ქაღალდი
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199720 - ქაღალდი შენიშვნებისათვის
+			<div class="color-1"></div>
+		</li><li style="padding:4px">
+			&nbsp;30199792 - კალენდრები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla"></div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>50.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>123 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=109345&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="109345">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: გოჩა ნადირაძე :: 06.03.2014 17:09</li>
+	<li style="text-align:right">ბოლო შესწორება: გოჩა ნადირაძე :: 06.03.2014 17:09</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:109345, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '109345'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="702201.1394125768.109345">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=702201&code=1394125768">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=702201&code=1394125768">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">06.03.2014 17:09<br/>გოჩა ნადირაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="702202.1394125773.109345">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=702202&code=1394125773">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=702202&code=1394125773">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ტექნიკური დავალება.pdf
+						</a>
+					</td>
+					<td class="date" align="right">06.03.2014 17:09<br/>გოჩა ნადირაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		<div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_109345_19087" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">26.03.2014 12:49</span> &quot;ფორმატი&quot; :: თამარკარგარეთელი</p>
+			<p class="chatmessgase activebid1">გთხოვთ დაგვიზუსტოდ 35, 36, 37 პოზიციებზე შეკვრაში ფურცლების ოდენობა</p>
+			<div style="display: none" id="ANS19087">...</div>
+		</div><div class="ui-widget-content ui-corner-all pad4px Q type1">
+			<p style="float:right">
+			<button type="button" id="SH_109345_19086" class="show_reply">გამოხმაურება (1)</button>
+			
+			
+			
+			</p>
+			<p class="author color-1"><span class="date">26.03.2014 12:48</span> &quot;ფორმატი&quot; :: თამარკარგარეთელი</p>
+			<p class="chatmessgase activebid1">გთხოვთ დაგვიზუსტოდ 26 პოზიციის ტექნიკური დეტალები</p>
+			<div style="display: none" id="ANS19086">...</div>
+		</div>
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 12`275.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: იხილეთ სატენდერო დოკუმენტაცია</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B109345128250">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2272)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ფორმატი&quot;</span>
+			</td>
+		<td class="activebid1"><strong>7`777.00</strong>&nbsp;<br/><span class="date">28.03.2014 12:21</span></td>
+		<td class="activebid1">11`333.00&nbsp;<br/><span class="date">27.03.2014 13:38</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(109345,128250)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B109345128380">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17291)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კანც პაპერი</span>
+			</td>
+		<td class="activebid1"><strong>7`570.00</strong>&nbsp;<br/><span class="date">28.03.2014 12:23</span></td>
+		<td class="activebid1">12`275.00&nbsp;<br/><span class="date">28.03.2014 11:18</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(109345,128380)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B109345127690">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Geosm</span>
+			</td>
+		<td class="activebid1"><strong>7`557.00</strong>&nbsp;<br/><span class="date">28.03.2014 12:25</span></td>
+		<td class="activebid1">12`275.00&nbsp;<br/><span class="date">24.03.2014 19:31</span></td>
+		<td align="center" class="activebid1">[5] <span><img src="images/star3.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(109345,127690)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">&quot;ფორმატი&quot;</td>
+		<td align="center" class="activebid1"><strong>8`888.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>8`500.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:09</td>
+		<td align="center" class="activebid1">12:11</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>8`484.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">&quot;ფორმატი&quot;</td>
+		<td align="center" class="activebid1"><strong>8`333.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:15</td>
+		<td align="center" class="activebid1">12:17</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>7`950.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>7`878.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">12:21</td>
+		<td align="center" class="activebid1">12:23</td>
+		<td class="activebid1">&quot;ფორმატი&quot;</td>
+		<td align="center" class="activebid1"><strong>7`777.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:23</td>
+		<td align="center" class="activebid1">12:25</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>7`570.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:25</td>
+		<td align="center" class="activebid1">12:27</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>7`557.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B109345">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(2272)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">&quot;ფორმატი&quot;</span>
+		</td>
+		<td class="activebid1"><strong>10`888.00</strong></td>
+		<td class="date activebid1">28.03.2014 11:40</td>
+	</tr><tr bgcolor="#ffffff" id="B109345">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17291)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კანც პაპერი</span>
+		</td>
+		<td class="activebid1"><strong>10`500.00</strong></td>
+		<td class="date activebid1">28.03.2014 11:54</td>
+	</tr><tr bgcolor="#ffffff" id="B109345">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Geosm</span>
+		</td>
+		<td class="activebid1"><strong>9`251.00</strong></td>
+		<td class="date activebid1">28.03.2014 09:54</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'109345'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'109345'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="733238.1396891897.109345">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=733238&code=1396891897">
+                    SPA140006628_ოქმი 2.pdf
+                    </a>
+                </td>
+                <td class="date">07.04.2014 17:31 :: გოჩა ნადირაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="733241.1396891925.109345">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=733241&code=1396891925">
+                    SPA140006628_ინტერესთა კონფლიქტი.pdf
+                    </a>
+                </td>
+                <td class="date">07.04.2014 17:32 :: გოჩა ნადირაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="733242.1396891936.109345">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=733242&code=1396891936">
+                    SPA140006628_წერილი.pdf
+                    </a>
+                </td>
+                <td class="date">07.04.2014 17:32 :: გოჩა ნადირაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="734069.1396965055.109345">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=734069&code=1396965055">
+                    SPA140006628_140006628-საქაერონავიგაცია.pdf
+                    </a>
+                </td>
+                <td class="date">08.04.2014 13:50 :: თემო ახობაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A63042">
+                <td>
+                    &nbsp;
+                    <span title="30140000 - გამომთვლელი და საბუღალტრო მანქანები ">30140000 - გამომთვლელი და საბუღალტრო მანქანები ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>კალკულატორი (ფინანსური, ხარისხის აყვანის ფუნქციით)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:11 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">17.25 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;17.25 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62634">
+                <td>
+                    &nbsp;
+                    <span title="30197621 - ფლიფჩართის ქაღალდები">30197621 - ფლიფჩართის ქაღალდები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ფლიტჩარტის ბალიში</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:20 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">4.00 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;40.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62510">
+                <td>
+                    &nbsp;
+                    <span title="30199792 - კალენდრები">30199792 - კალენდრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს &quot;შპს კომპანია GEOSM&quot; (დაუდგენელი)<br/>კედლის კალენდარი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 16:48 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">4.30 GEL<br/>
+                <span class="color-2">164 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;705.20 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62512">
+                <td>
+                    &nbsp;
+                    <span title="30199792 - კალენდრები">30199792 - კალენდრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>მაგიდის კალენდარი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 16:50 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">2.30 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;115.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62578">
+                <td>
+                    &nbsp;
+                    <span title="30192133 - ფანქრის სათლელები">30192133 - ფანქრის სათლელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სათლელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:09 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.16 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;4.80 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62636">
+                <td>
+                    &nbsp;
+                    <span title="30197221 - სკრეპების ჩასადებები">30197221 - სკრეპების ჩასადებები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სკრეპების ჩასაყრელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:21 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.69 GEL<br/>
+                <span class="color-2">19 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;13.11 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63014">
+                <td>
+                    &nbsp;
+                    <span title="30197630 - საბეჭდი ქაღალდი">30197630 - საბეჭდი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდი A4 230 G\M², შავი, ასაკინძი ყდა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 11:56 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">8.05 GEL<br/>
+                <span class="color-2">5 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;40.25 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63016">
+                <td>
+                    &nbsp;
+                    <span title="30197630 - საბეჭდი ქაღალდი">30197630 - საბეჭდი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდი A3 230 G\M², თეთრი, ასაკინძი ყდა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 11:58 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">14.95 GEL<br/>
+                <span class="color-2">5 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;74.75 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63018">
+                <td>
+                    &nbsp;
+                    <span title="30197630 - საბეჭდი ქაღალდი">30197630 - საბეჭდი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდი A3 230 G\M², შავი, ასაკინძი ყდა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 11:59 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">14.95 GEL<br/>
+                <span class="color-2">5 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;74.75 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63034">
+                <td>
+                    &nbsp;
+                    <span title="30199410 - თვითკრობადი ქაღალდი">30199410 - თვითკრობადი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>თვითკრობადი ქაღალდი (სტიკერი)</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:07 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.32 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;16.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62590">
+                <td>
+                    &nbsp;
+                    <span title="30192110 - მელანი">30192110 - მელანი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შოს კომპანია GEOSM (დაუდგენელი)<br/>ბეჭდის მელანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:11 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">1.32 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;39.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62534">
+                <td>
+                    &nbsp;
+                    <span title="30192130 - ფანქრები">30192130 - ფანქრები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ფანქარი საშლელით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 16:57 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.14 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;140.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62540">
+                <td>
+                    &nbsp;
+                    <span title="30192920 - საკორექციო სითხე">30192920 - საკორექციო სითხე</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>საკორექციო სითხე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 16:59 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62544">
+                <td>
+                    &nbsp;
+                    <span title="30192930 - საკორექციო კალამი">30192930 - საკორექციო კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>საკორექციო კალამი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:00 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;46.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62558">
+                <td>
+                    &nbsp;
+                    <span title="30197120 - ჭიკარტები">30197120 - ჭიკარტები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ჭიკარტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:04 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.44 GEL<br/>
+                <span class="color-2">100 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;44.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62550">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სტეპლერი 26/6</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:03 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">1.65 GEL<br/>
+                <span class="color-2">60 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;99.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63082">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სტეპლერი 23/6-7</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:27 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">21.85 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;21.85 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63060">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სტეპლერის ტყვია 26/6</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:18 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.28 GEL<br/>
+                <span class="color-2">100 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;28.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63062">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სტეპლერის ტყვია 23/6</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:19 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.92 GEL<br/>
+                <span class="color-2">20 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;18.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63064">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სტეპლერის ტყვია 23/8</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:20 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.92 GEL<br/>
+                <span class="color-2">20 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;18.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63074">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>23/15</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:23 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">1.15 GEL<br/>
+                <span class="color-2">160 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;184.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63070">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სტეპლერის ტყვია 23/13</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:22 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.86 GEL<br/>
+                <span class="color-2">40 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;34.40 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63068">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სტეპლერის ტყვია 23/10</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:21 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.26 GEL<br/>
+                <span class="color-2">10 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;2.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63078">
+                <td>
+                    &nbsp;
+                    <span title="30197320 - სტეპლერები">30197320 - სტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სტეპლერის ტყვია 23/17</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:24 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">1.04 GEL<br/>
+                <span class="color-2">100 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;104.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63100">
+                <td>
+                    &nbsp;
+                    <span title="30197330 - სახვრეტელები">30197330 - სახვრეტელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სახვრეტელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:44 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">2.45 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;49.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62570">
+                <td>
+                    &nbsp;
+                    <span title="30192100 - საშლელები">30192100 - საშლელები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>საშლელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:08 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.10 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;5.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62642">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>საკანცელარიო მაკრატელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:23 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.77 GEL<br/>
+                <span class="color-2">14 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;10.78 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62640">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>საკანცელარიო დანა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:22 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.32 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63022">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>დიდი სკოჩი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:01 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.77 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;192.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63026">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>პატარა სკოჩი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:03 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.11 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;33.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63028">
+                <td>
+                    &nbsp;
+                    <span title="30192700 - საკანცელარიო ნივთები">30192700 - საკანცელარიო ნივთები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>საკანცელარიო წებო, მშრალი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:04 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.21 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;63.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63020">
+                <td>
+                    &nbsp;
+                    <span title="30195000 - დაფები">30195000 - დაფები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>განცხადებების დაფა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:00 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">17.25 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;69.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63096">
+                <td>
+                    &nbsp;
+                    <span title="30195000 - დაფები">30195000 - დაფები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>მაგნიტური დაფა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:43 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">18.93 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.93 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63094">
+                <td>
+                    &nbsp;
+                    <span title="30195000 - დაფები">30195000 - დაფები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>მაგნიტური დაფა სადგამით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:43 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">103.50 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;207.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63102">
+                <td>
+                    &nbsp;
+                    <span title="30195000 - დაფები">30195000 - დაფები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>მაგნიტური დაფა 120×80</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:45 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">33.90 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;33.90 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62584">
+                <td>
+                    &nbsp;
+                    <span title="30192111 - სამელნე ბალიშები ბეჭდებისა და შტამპებისთვის ">30192111 - სამელნე ბალიშები ბეჭდებისა და შტამპებისთვის ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ბეჭდის ბალიში</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:10 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">1.32 GEL<br/>
+                <span class="color-2">10 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;13.20 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63080">
+                <td>
+                    &nbsp;
+                    <span title="30195921 - საშლელები მაგნიტური დაფებისთვის">30195921 - საშლელები მაგნიტური დაფებისთვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>დაფის საწმენდი სითხე</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:26 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">4.26 GEL<br/>
+                <span class="color-2">4 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;17.04 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63090">
+                <td>
+                    &nbsp;
+                    <span title="30195921 - საშლელები მაგნიტური დაფებისთვის">30195921 - საშლელები მაგნიტური დაფებისთვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>დაფის საწმენდი ღრუბელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:41 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">1.15 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;23.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62516">
+                <td>
+                    &nbsp;
+                    <span title="30197620 - საწერი ქაღალდი">30197620 - საწერი ქაღალდი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდი A3, უმაღლესი ხარისხის, 420×297მმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 16:52 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">14.10 GEL<br/>
+                <span class="color-2">110 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;1`551.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63010">
+                <td>
+                    &nbsp;
+                    <span title="30199330 - გადაბმული ქაღალდები კომპიუტერის პრინტერებისათვის">30199330 - გადაბმული ქაღალდები კომპიუტერის პრინტერებისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდის პლოტერის რულონი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 11:53 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">13.80 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;69.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63032">
+                <td>
+                    &nbsp;
+                    <span title="30199720 - ქაღალდი შენიშვნებისათვის">30199720 - ქაღალდი შენიშვნებისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ჩასანიშნი ქაღალდი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:06 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">1.38 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;414.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63030">
+                <td>
+                    &nbsp;
+                    <span title="30192910 - საკორექციო ფირი ან ლენტი">30192910 - საკორექციო ფირი ან ლენტი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>კორექტორი ლენტური</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:05 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.69 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;34.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62600">
+                <td>
+                    &nbsp;
+                    <span title="30194310 - სახაზავი კომპლექტები ან ნაკრებები">30194310 - სახაზავი კომპლექტები ან ნაკრებები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სახაზავი 30სმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:14 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.32 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;32.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63048">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდის დამჭერი კლიპსი 32მმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:13 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.08 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;24.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63050">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდის დამჭერი კლიპსი 25მმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:14 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.06 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63054">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდის დამჭერი კლიპსი 41მმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:15 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.13 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;39.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63056">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდის დამჭერი კლიპსი 19მმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:16 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.05 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;15.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63058">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდის დამჭერი კლიპსი 51მმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:17 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.20 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62560">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სკრეპი 30მმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:05 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.33 GEL<br/>
+                <span class="color-2">172 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;56.76 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62562">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სკრეპი 25მმ</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:06 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">100 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62644">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ასაკინძი ლურსმანი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:24 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">1.73 GEL<br/>
+                <span class="color-2">5 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;8.65 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63012">
+                <td>
+                    &nbsp;
+                    <span title="30197220 - ქაღალდის სკრეპები">30197220 - ქაღალდის სკრეპები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ზამბარა პლასრიკა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 11:54 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">4.60 GEL<br/>
+                <span class="color-2">5 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;23.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62630">
+                <td>
+                    &nbsp;
+                    <span title="30191400 - დოკუმენტების გასანადგურებელი აპარატები ">30191400 - დოკუმენტების გასანადგურებელი აპარატები ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდის დამაქუცმაცებელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:18 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">80.50 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;161.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62646">
+                <td>
+                    &nbsp;
+                    <span title="30192800 - თვითკრობადი ეტიკეტები">30192800 - თვითკრობადი ეტიკეტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდი წებოვანი ეტიკეტით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:25 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">11.50 GEL<br/>
+                <span class="color-2">7 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;80.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62650">
+                <td>
+                    &nbsp;
+                    <span title="30192800 - თვითკრობადი ეტიკეტები">30192800 - თვითკრობადი ეტიკეტები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ქაღალდი წებოვანი ეტიკეტით</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:26 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">11.50 GEL<br/>
+                <span class="color-2">5 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;57.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62610">
+                <td>
+                    &nbsp;
+                    <span title="30199200 - კონვერტები, ღია ბარათები და სადა/დაუსურათებელი საფოსტო ბარათები">30199200 - კონვერტები, ღია ბარათები და სადა/დაუსურათებელი საფოსტო ბარა...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>კონვერტი პატარა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:15 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.05 GEL<br/>
+                <span class="color-2">1800 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;90.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62604">
+                <td>
+                    &nbsp;
+                    <span title="30199200 - კონვერტები, ღია ბარათები და სადა/დაუსურათებელი საფოსტო ბარათები">30199200 - კონვერტები, ღია ბარათები და სადა/დაუსურათებელი საფოსტო ბარა...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>კონვერტი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:14 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.10 GEL<br/>
+                <span class="color-2">2200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;220.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63084">
+                <td>
+                    &nbsp;
+                    <span title="30199200 - კონვერტები, ღია ბარათები და სადა/დაუსურათებელი საფოსტო ბარათები">30199200 - კონვერტები, ღია ბარათები და სადა/დაუსურათებელი საფოსტო ბარა...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>კონვერტი აირბაგით ზომა 27,5×20 მმ) A5</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:28 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">2.07 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`035.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62596">
+                <td>
+                    &nbsp;
+                    <span title="30141200 - მაგიდის კალკულატორები">30141200 - მაგიდის კალკულატორები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>მაგიდის გამომთვლელი მანქანა</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:12 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">7.60 GEL<br/>
+                <span class="color-2">56 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;425.60 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62618">
+                <td>
+                    &nbsp;
+                    <span title="30193200 - სამაგიდე თაროები ან ორგანაიზერები">30193200 - სამაგიდე თაროები ან ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ორგანაიზერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:16 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">6.22 GEL<br/>
+                <span class="color-2">43 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;267.46 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62622">
+                <td>
+                    &nbsp;
+                    <span title="30193200 - სამაგიდე თაროები ან ორგანაიზერები">30193200 - სამაგიდე თაროები ან ორგანაიზერები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>სამაგიდე თარო</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:17 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">9.66 GEL<br/>
+                <span class="color-2">46 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;444.36 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63036">
+                <td>
+                    &nbsp;
+                    <span title="30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის">30197642 - ქაღალდი ფოტოასლებისა და ქსეროგრაფიისათვის...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ფაქსის ქაღალდი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:08 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">4.03 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;604.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62548">
+                <td>
+                    &nbsp;
+                    <span title="30197321 - ანტისტეპლერები">30197321 - ანტისტეპლერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ანტისტეპლერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 17:02 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.47 GEL<br/>
+                <span class="color-2">46 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;21.62 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62522">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ბურთულიანი კალამი, ლურჯი ფერის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 16:54 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;270.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62526">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ბურთულიანი კალამი, ფერი -წითელი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 16:55 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;13.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A62528">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>ბურთულიანი კალამი, ფერი - შავი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">16.04.2014 16:56 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.09 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;13.50 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63038">
+                <td>
+                    &nbsp;
+                    <span title="30192125 - მარკერები">30192125 - მარკერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>მარკერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:09 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.38 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;76.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63040">
+                <td>
+                    &nbsp;
+                    <span title="30192125 - მარკერები">30192125 - მარკერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>დაფის მარკერი</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:10 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.40 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;60.00 GEL</td>
+                <td title=""></td>
+            </tr><tr id="A63092">
+                <td>
+                    &nbsp;
+                    <span title="30192125 - მარკერები">30192125 - მარკერები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">შპს კომპანია GEOSM (დაუდგენელი)<br/>მარკერი კომპაქტური დისკებისთვის</span><br/>
+                    <br/>
+                    <div style="text-align:right" class="date">17.04.2014 12:42 :: გოჩა ნადირაძე</div>
+                </td>
+                <td align="right">0.35 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;17.50 GEL</td>
+                <td title=""></td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'109345'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg20" style="font-weight:bold">შესრულებული ხელშეკრულება</span><br/>
+			<span class="date">თეონა თოიძე :: 12.12.2014</span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a> <strong>Geosm</strong><br/>
+				
+					ნომერი/თანხა: Nნას/11/04/14 / <span class="convertme" id="8917.26-GEL-16.04.2014 16:45">8917.26 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 14.04.2014 - 31.01.2015<br/>
+					<span class="date">16.04.2014 16:45</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=92570"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="109345">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="109345">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="109345">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="926233.1413905786.109345">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=926233&code=1413905786">
+SPA140006628_შპს Geo sm მიღება-ჩაბარება 21.10.2014-2.pdf
+</a>
+</td>
+<td class="date">21.10.2014 15:36 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="939001.1415101414.109345">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=939001&code=1415101414">
+SPA140006628_შპს კომპანია GEOSM ანგარიშ-ფაქტურა #0338364.pdf
+</a>
+</td>
+<td class="date">04.11.2014 11:43 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="941562.1415217106.109345">
+<td>3.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=941562&code=1415217106">
+SPA140006628_შპს Geo sm მიღება-ჩაბარება 05.11.2014.pdf
+</a>
+</td>
+<td class="date">05.11.2014 19:51 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="941970.1415278388.109345">
+<td>4.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=941970&code=1415278388">
+SPA140006628_შპს კომპანია GEOSM სასაქონლო ზედნადები #0143356874.pdf
+</a>
+</td>
+<td class="date">06.11.2014 12:53 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="953359.1416235168.109345">
+<td>5.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=953359&code=1416235168">
+SPA140006628_შპს კომპანია GEOSM ანგარიშ-ფაქტურა #0560208.pdf
+</a>
+</td>
+<td class="date">17.11.2014 14:39 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="979747.1418232765.109345">
+<td>6.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=979747&code=1418232765">
+SPA140006628_შპს კომპანია GEOSM ანგარიშ-ფაქტურა #1141882.pdf
+</a>
+</td>
+<td class="date">10.12.2014 17:32 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="979761.1418232897.109345">
+<td>7.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete1">
+<a target="blank" href="engine/files.php?mode=app&file=979761&code=1418232897">
+SPA140006628_შპს კომპანია GEOSM ანგარიშ-ფაქტურა #1141894.pdf
+</a>
+</td>
+<td class="date">10.12.2014 17:34 :: თეონა თოიძე</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 8`917.26 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 8`917.26 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>820.20 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>12.12.2014&nbsp;
+
+</td>
+<td class="date">12.12.2014<br>თეონა თოიძე</td>
+</tr><tr class="activebid1">
+<td>1`252.93 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>14.11.2014&nbsp;
+
+</td>
+<td class="date">17.11.2014<br>თეონა თოიძე</td>
+</tr><tr class="activebid1">
+<td>6`844.13 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>03.11.2014&nbsp;
+
+</td>
+<td class="date">04.11.2014<br>თეონა თოიძე</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'109345'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

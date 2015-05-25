@@ -1,0 +1,1747 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140018171</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv121109" /><label for="fv121109"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1704)"><img src="images/profile24_0.png"> ლევან სამხარაულის სახელობის სასამართლო ექსპერტიზის ეროვნული ბიურო</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>25.07.2014 18:58</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td><span class='subject_name'>10.08.2014 00:03</span></td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>15.08.2014 13:30</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="145000-GEL-25.07.2014 18:58">145`000.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">მყარი ფაზის ექსტრაქციის ერთარხიანი სისტემა შპრიცის ტუმბოსთან ერთად</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>ერთი ერთეული სისტემა</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>ხელშეკრულების გაფორმებიდან არაუმეტეს 60 კალენდარული დღე</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>2`900.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>1`450 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=121109&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="121109">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: თინათინ ჩანადირი :: 23.07.2014 17:52</li>
+	<li style="text-align:right">ბოლო შესწორება: ნოდარ ფოცხვერაშვილი :: 25.07.2014 18:58</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:121109, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '121109'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="845160.1406137984.121109">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=845160&code=1406137984">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=845160&code=1406137984">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">23.07.2014 17:53<br/>თინათინ ჩანადირი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="847121.1406303180.121109">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=847121&code=1406303180">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=847121&code=1406303180">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ReportHandler (1).pdf
+						</a>
+					</td>
+					<td class="date" align="right">25.07.2014 15:46<br/>თინათინ ჩანადირი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="847122.1406303185.121109">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=847122&code=1406303185">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=847122&code=1406303185">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_oqmi 1.pdf
+						</a>
+					</td>
+					<td class="date" align="right">25.07.2014 15:46<br/>თინათინ ჩანადირი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 145`000.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: ხელშეკრულების გაფორმებიდან არაუმეტეს 60 კალენდარული დღე</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B121109145287">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(12156)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სოლემარტი</span>
+			</td>
+		<td class="activebid1"><strong>119`964.00</strong>&nbsp;<br/><span class="date">12.08.2014 17:24</span></td>
+		<td class="activebid1">119`964.00&nbsp;<br/><span class="date">12.08.2014 17:24</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(121109,145287)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:35</td>
+		<td align="center" class="activebid1">13:37</td>
+		<td class="activebid1">სოლემარტი</td>
+		<td align="center" class="activebid1"><strong>119`964.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:39</td>
+		<td align="center" class="activebid1">13:41</td>
+		<td class="activebid1">სოლემარტი</td>
+		<td align="center" class="activebid1"><strong>119`964.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">13:43</td>
+		<td align="center" class="activebid1">13:45</td>
+		<td class="activebid1">სოლემარტი</td>
+		<td align="center" class="activebid1"><strong>119`964.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B121109">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(12156)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">სოლემარტი</span>
+		</td>
+		<td class="activebid1"><strong>119`964.00</strong></td>
+		<td class="date activebid1">12.08.2014 17:24</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'121109'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'121109'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="866430.1408132629.121109">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=866430&code=1408132629">
+                    SPA140018171_ინტერესთა ოქმი.PDF
+                    </a>
+                </td>
+                <td class="date">15.08.2014 19:57 :: ნატალია მეტრეველი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="866431.1408132636.121109">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=866431&code=1408132636">
+                    SPA140018171_ოქმი 2.PDF
+                    </a>
+                </td>
+                <td class="date">15.08.2014 19:57 :: ნატალია მეტრეველი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="866816.1408364630.121109">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=866816&code=1408364630">
+                    SPA140018171_ბრძანება.pdf
+                    </a>
+                </td>
+                <td class="date">18.08.2014 12:23 :: ნატალია მეტრეველი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="867805.1408397745.121109">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=867805&code=1408397745">
+                    SPA140018171_18171.pdf
+                    </a>
+                </td>
+                <td class="date">18.08.2014 21:35 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="867806.1408397920.121109">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=867806&code=1408397920">
+                    SPA140018171_წერილი დაზუსტებაზე 18171.pdf
+                    </a>
+                </td>
+                <td class="date">18.08.2014 21:38 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="868505.1408467012.121109">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=868505&code=1408467012">
+                    SPA140018171_dazustebuli.pdf
+                    </a>
+                </td>
+                <td class="date">19.08.2014 16:50 :: ზურაბ ტუკვაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="870236.1408576938.121109">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=870236&code=1408576938">
+                    SPA140018171_18171.pdf
+                    </a>
+                </td>
+                <td class="date">20.08.2014 23:22 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="870237.1408576989.121109">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=870237&code=1408576989">
+                    SPA140018171_წერილი 18171.pdf
+                    </a>
+                </td>
+                <td class="date">20.08.2014 23:23 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="870238.1408577007.121109">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=870238&code=1408577007">
+                    SPA140018171_წერილი 18171.pdf
+                    </a>
+                </td>
+                <td class="date">20.08.2014 23:23 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A120617">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>406 DUAL ADAPT KIT GX 271 ASPEC</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტუმბოს ადაპტერის ნაკრები</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:04 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">642.60 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;642.60 GEL</td>
+                <td title="ნაკრები">ნაკრები...</td>
+            </tr><tr id="A120609">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>GX 271 ASPEC DUAL 406 WITH ZDRV</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მყარი ფაზის ექსტრაქციის სისტემა ამაორთქლებელით</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 14:50 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">58`878.90 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;58`878.90 GEL</td>
+                <td title="მყარფაზური ექსტრაქციის კატრიჯების კონდიცირების შესაძლებლობა">მყარფაზური...</td>
+            </tr><tr id="A120615">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>PLUMB PKG,GX271 ASPEC 10 ML</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მილის ასაწყობი ნაკრები</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:03 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">1`222.43 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`444.86 GEL</td>
+                <td title="10 მლ-იანი">10 მლ-იანი...</td>
+            </tr><tr id="A120619">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>PLUMB PKG,GX271 ASPEC AIR GAS</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;რეგულატორი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:07 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">117.45 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;117.45 GEL</td>
+                <td title="წნევის რეგულატორის შესაერთებელი კომპლექტი">წნევის რეგ...</td>
+            </tr><tr id="A120631">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>SYRINGE. 10ML 215/235</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;შპრიცი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:18 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">1`243.35 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`243.35 GEL</td>
+                <td title="10 მლ-იანი">10 მლ-იანი...</td>
+            </tr><tr id="A120647">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>SAMPLE LOOP. 20UL SS, VALCO,1/16</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მარყუჟი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:27 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">145.80 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;145.80 GEL</td>
+                <td title="20 მკლ 1/16">20 მკლ 1/1...</td>
+            </tr><tr id="A120659">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>RACK.CODE 343. 80 13/100 MM TUBES</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;შტატივი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:35 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">776.25 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;776.25 GEL</td>
+                <td title="80 სინჯარისათვის">80 სინჯარი...</td>
+            </tr><tr id="A120661">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>BOTLES 180 ML GLASS 2 PKG</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამხსნელის ბოთლი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:37 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">54.00 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;108.00 GEL</td>
+                <td title="180 მლ-იანი">180 მლ-იან...</td>
+            </tr><tr id="A120663">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>SPE PRESSURE REGULATOR ASSY 0-30 PSI</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;რეგულატორი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:38 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">1`085.40 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`085.40 GEL</td>
+                <td title="წნევის რეგულატორი">წნევის რეგ...</td>
+            </tr><tr id="A120627">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>DEC ACCY SET, 6 ML GX ASPEC</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;შტატივი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:16 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">8`293.05 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;8`293.05 GEL</td>
+                <td title="შტატივები აქსესუარებით">შტატივები ...</td>
+            </tr><tr id="A120623">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>GUIDEFOOT, GX 271 1.5 MM</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ნიმუშის დამჭერი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:12 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">260.55 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;260.55 GEL</td>
+                <td title="1.5 მმ ნიმუშის მიმართულების დამჭერი">1.5 მმ ნიმ...</td>
+            </tr><tr id="A120633">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>TUBING, 600 UL, 8MM ID X5FT</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;მილაკების ნაკრები</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:20 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">176.85 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;176.85 GEL</td>
+                <td title="8 მმ-იანი">8 მმ-იანი...</td>
+            </tr><tr id="A120639">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>RACK SOLVENT BOTTLES 4 RBOBE</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;შტატივი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:23 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">291.60 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;291.60 GEL</td>
+                <td title="4 ბოთლისთვის">4 ბოთლისთვ...</td>
+            </tr><tr id="A120665">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>TRILUTION LH 3.0 LICENSE.LIFETIME</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ლიცენზია</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:40 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">13`946.90 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;13`946.90 GEL</td>
+                <td title="პროგრამული ლიცენზია">პროგრამული...</td>
+            </tr><tr id="A120611">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>RINSE STATION, GX 175 MM</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სავლები რეზერვუარი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 14:52 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">720.90 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;720.90 GEL</td>
+                <td title="მოცულობა 175 მმ">მოცულობა 1...</td>
+            </tr><tr id="A120613">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>RINSE STATION GX 175 FC</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სავლები რეზერვუარი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 14:58 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">465.75 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;465.75 GEL</td>
+                <td title="175 მმ ფრაქციების კოლექტორისათვის">175 მმ ფრა...</td>
+            </tr><tr id="A120621">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>PLUMB PKG,GX271 ASPEC 06 DUAL  AIR/GAS</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ტუმბოსთან მისაერთებელი  ნაკრები</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:09 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">197.10 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;197.10 GEL</td>
+                <td title="კომპლექტი">კომპლექტი...</td>
+            </tr><tr id="A120625">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>LOCATOR 5 20 SERIES, GX 271</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სადგამი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:14 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">373.95 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;373.95 GEL</td>
+                <td title="შტატივის სადგამი">შტატივის ს...</td>
+            </tr><tr id="A120651">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>RACK.CODE 330 60 12/32 MM VIALS</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;შტატივი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:29 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">642.60 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`285.20 GEL</td>
+                <td title="60 სინჯარისათვის">60 სინჯარი...</td>
+            </tr><tr id="A120653">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>PROBE, 221 X2.0X8MM BEV 1.5 TIP GR0OVE SP</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;სასინჯი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:31 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">376.65 GEL<br/>
+                <span class="color-2">3 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`129.95 GEL</td>
+                <td title="8 მმ კონუსისებრი კონუსისებრი წვერით">8 მმ კონუს...</td>
+            </tr><tr id="A120629">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>SYRINGE. 1ML 215/235</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;შპრიცი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:17 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">1`007.10 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`007.10 GEL</td>
+                <td title="1 მლ-იანი">1 მლ-იანი...</td>
+            </tr><tr id="A120643">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>BOTTLE,SOLVENT 700 ML,4 /PK</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;გამხსნელის ბოთლი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:25 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">263.25 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;526.50 GEL</td>
+                <td title="700 მლ-იანი მოცულობის ბოთლი">700 მლ-იან...</td>
+            </tr><tr id="A120667">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">GILSON (აშშ)<br/>CARTIGES ASPEC C 18</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;კარტრიჯები</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:41 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">942.30 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18`846.00 GEL</td>
+                <td title="კატრიჯები 6 მლ">კატრიჯები ...</td>
+            </tr><tr id="A120669">
+                <td>
+                    &nbsp;
+                    <span title="38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები">38400000 - ფიზიკური მახასიათებლების კონტროლის ხელსაწყოები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">საქართველო (საქართველო)<br/>ინსტალაცია ტრენინგი</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;ინსტალაცია ტრენინგი</span><br/>
+                    <div style="text-align:right" class="date">05.09.2014 15:43 :: ნატალია მეტრეველი</div>
+                </td>
+                <td align="right">7`000.00 GEL<br/>
+                <span class="color-2">1 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;7`000.00 GEL</td>
+                <td title="-">-</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'121109'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg20" style="font-weight:bold">შესრულებული ხელშეკრულება</span><br/>
+			<span class="date">თამთა ხაჭაპურიძე :: 21.11.2014</span><br/>
+			
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(12156)"><img src="images/profile24.png"></a> <strong>სოლემარტი</strong><br/>
+				
+					ნომერი/თანხა: N297 / <span class="convertme" id="119964-GEL-05.09.2014 12:51">119964 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 27.08.2014 - 31.12.2014<br/>
+					<span class="date">05.09.2014 12:51</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=104260"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="121109">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="121109">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="121109">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="958507.1416581655.121109">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=958507&code=1416581655">
+SPA140018171_სოლემარტი-ხელშ.297  19.11.2014=119964 ლ.pdf
+</a>
+</td>
+<td class="date">21.11.2014 14:54 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 119`964.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 119`964.00 ლარი  (100%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>119`964.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>19.11.2014&nbsp;
+
+</td>
+<td class="date">21.11.2014<br>თამთა ხაჭაპურიძე</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'121109'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

@@ -1,0 +1,2832 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი ელექტრონული ტენდერი <span>პრეისკურანტით</span></td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA140026999</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv130613" /><label for="fv130613"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1369)"><img src="images/profile24_0.png"> საქართველოს შინაგან საქმეთა სამინისტრო</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>21.11.2014 16:48</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td><span class='subject_name'>07.12.2014 00:02</span></td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>12.12.2014 12:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2015 წლის სახსრები</td>
+	</tr>
+
+	<tr>
+		<td><span class='color-1'>პრეისკურანტის სავარაუდო ღირებულება</span></td>
+		<td><span>1`988`404.00 GEL</span></td>
+	</tr>
+	<tr>
+		<td><span class='color-1'>შესყიდვის ობიექტის სახელშეკრულებო ღირებულება</span></td>
+		<td><span>450`000.00 GEL</span> </td>
+	</tr>
+
+	
+
+	
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;50100000 - სატრანსპორტო საშუალებებისა და მათთან დაკავშირებული მოწყობილობების შეკეთება, ტექნიკური მომსახურება და მასთან დაკავშირებული მომსახურებები</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;50100000 - სატრანსპორტო საშუალებებისა და მათთან დაკავშირებული მოწყობილობების შეკეთება, ტექნიკური მომსახურება და მასთან დაკავშირებული მომსახურებები
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">სხვადასხვა მარკის ავტომობილებისა და მათთან დაკავშირებული მოწყობილობების<br />
+შეკეთების და ტექნიკური მომსახურების შესყიდვა</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>იხილეთ სატენდერო დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>9`000.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>19`884 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>160 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=130613&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="130613">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: თათია ლოლაძე :: 21.11.2014 16:46</li>
+	<li style="text-align:right">ბოლო შესწორება: თათია ლოლაძე :: 21.11.2014 16:46</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:130613, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '130613'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="958752.1416588402.130613">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=958752&code=1416588402">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=958752&code=1416588402">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო დოკუმენტაცია.pdf
+						</a>
+					</td>
+					<td class="date" align="right">21.11.2014 16:46<br/>თათია ლოლაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="958753.1416588410.130613">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=958753&code=1416588410">
+						
+						<span><img src="images/excel.png"></span>
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=958753&code=1416588410">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_პრეისკურანტი დანართიN2.xlsx
+						</a>
+					</td>
+					<td class="date" align="right">21.11.2014 16:46<br/>თათია ლოლაძე</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 1`988`404.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: იხილეთ სატენდერო დოკუმენტაცია</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B130613159409">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(29125)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს YOUR CENTER</span>
+			</td>
+		<td class="activebid1"><strong>999`381.00</strong>&nbsp;<br/><span class="date">12.12.2014 12:18</span></td>
+		<td class="activebid1">1`633`592.50&nbsp;<br/><span class="date">12.12.2014 11:36</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(130613,159409)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B130613159319">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3379)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ავტოსერვისცენტრი+</span>
+			</td>
+		<td class="activebid1"><strong>990`382.00</strong>&nbsp;<br/><span class="date">12.12.2014 12:19</span></td>
+		<td class="activebid1">1`233`804.50&nbsp;<br/><span class="date">11.12.2014 19:50</span></td>
+		<td align="center" class="activebid1">[3] <span><img src="images/star1.png"></span>&nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(130613,159319)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">შპს YOUR CENTER</td>
+		<td align="center" class="activebid1"><strong>1`073`700.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">ავტოსერვისცენტრი+</td>
+		<td align="center" class="activebid1"><strong>999`382.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:11</td>
+		<td align="center" class="activebid1">12:13</td>
+		<td class="activebid1">შპს YOUR CENTER</td>
+		<td align="center" class="activebid1"><strong>1`073`700.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">ავტოსერვისცენტრი+</td>
+		<td align="center" class="activebid1"><strong>999`382.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used1">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">შპს YOUR CENTER</td>
+		<td align="center" class="activebid1"><strong>999`381.00</strong></td>
+	</tr><tr class="used1">
+		<td align="center" class="activebid1">12:19</td>
+		<td align="center" class="activebid1">12:21</td>
+		<td class="activebid1">ავტოსერვისცენტრი+</td>
+		<td align="center" class="activebid1"><strong>990`382.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B130613">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(29125)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">შპს YOUR CENTER</span>
+		</td>
+		<td class="activebid1"><strong>1`073`700.00</strong></td>
+		<td class="date activebid1">12.12.2014 11:57</td>
+	</tr><tr bgcolor="#ffffff" id="B130613">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(3379)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">ავტოსერვისცენტრი+</span>
+		</td>
+		<td class="activebid1"><strong>999`382.00</strong></td>
+		<td class="date activebid1">12.12.2014 11:40</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'130613'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'130613'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="991909.1419010083.130613">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=991909&code=1419010083">
+                    SPA140026999_ინტერესთა კონფლიქტი.pdf
+                    </a>
+                </td>
+                <td class="date">19.12.2014 17:28 :: თათია ლოლაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="991910.1419010092.130613">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=991910&code=1419010092">
+                    SPA140026999_ოქმი N2.pdf
+                    </a>
+                </td>
+                <td class="date">19.12.2014 17:28 :: თათია ლოლაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1001658.1419537230.130613">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1001658&code=1419537230">
+                    SPA140026999_ოქმი N3.pdf
+                    </a>
+                </td>
+                <td class="date">25.12.2014 19:53 :: თათია ლოლაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1001659.1419537239.130613">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1001659&code=1419537239">
+                    SPA140026999_წერილი.pdf
+                    </a>
+                </td>
+                <td class="date">25.12.2014 19:53 :: თათია ლოლაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004462.1419710812.130613">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004462&code=1419710812">
+                    SPA140026999_1.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:06 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004463.1419710835.130613">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004463&code=1419710835">
+                    SPA140026999_2.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:07 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004465.1419710861.130613">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004465&code=1419710861">
+                    SPA140026999_3.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:07 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004467.1419710998.130613">
+                <td>8.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004467&code=1419710998">
+                    SPA140026999_4.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:09 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004468.1419711031.130613">
+                <td>9.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004468&code=1419711031">
+                    SPA140026999_5.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:10 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004469.1419711139.130613">
+                <td>10.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004469&code=1419711139">
+                    SPA140026999_6.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:12 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004470.1419711163.130613">
+                <td>11.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004470&code=1419711163">
+                    SPA140026999_7.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:12 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004471.1419711188.130613">
+                <td>12.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004471&code=1419711188">
+                    SPA140026999_8.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:13 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004472.1419711218.130613">
+                <td>13.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004472&code=1419711218">
+                    SPA140026999_9.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:13 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004473.1419711245.130613">
+                <td>14.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004473&code=1419711245">
+                    SPA140026999_10.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:14 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004474.1419711268.130613">
+                <td>15.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004474&code=1419711268">
+                    SPA140026999_11.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:14 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004475.1419711301.130613">
+                <td>16.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004475&code=1419711301">
+                    SPA140026999_12.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:15 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004476.1419711334.130613">
+                <td>17.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004476&code=1419711334">
+                    SPA140026999_13.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:15 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004477.1419711354.130613">
+                <td>18.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004477&code=1419711354">
+                    SPA140026999_14.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:15 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004478.1419711377.130613">
+                <td>19.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004478&code=1419711377">
+                    SPA140026999_15.pdf
+                    </a>
+                </td>
+                <td class="date">27.12.2014 20:16 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004533.1419805485.130613">
+                <td>20.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004533&code=1419805485">
+                    SPA140026999_4-3- 146.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:24 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004534.1419805649.130613">
+                <td>21.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete1">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004534&code=1419805649">
+                    SPA140026999_4-3-147.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:27 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004535.1419805746.130613">
+                <td>22.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004535&code=1419805746">
+                    SPA140026999_4-3-147.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:29 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004536.1419805777.130613">
+                <td>23.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004536&code=1419805777">
+                    SPA140026999_4-3-327.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:29 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004537.1419805865.130613">
+                <td>24.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004537&code=1419805865">
+                    SPA140026999_4-3-370.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:31 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004538.1419805886.130613">
+                <td>25.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004538&code=1419805886">
+                    SPA140026999_15(1).pdf
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:31 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004539.1419805933.130613">
+                <td>26.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004539&code=1419805933">
+                    SPA140026999_15.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:32 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004540.1419805972.130613">
+                <td>27.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004540&code=1419805972">
+                    SPA140026999_18.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:32 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004541.1419806008.130613">
+                <td>28.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004541&code=1419806008">
+                    SPA140026999_33.pdf
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:33 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004542.1419806040.130613">
+                <td>29.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004542&code=1419806040">
+                    SPA140026999_50.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:34 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004543.1419806066.130613">
+                <td>30.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004543&code=1419806066">
+                    SPA140026999_66.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:34 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004544.1419806121.130613">
+                <td>31.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004544&code=1419806121">
+                    SPA140026999_67.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:35 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004545.1419806140.130613">
+                <td>32.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004545&code=1419806140">
+                    SPA140026999_77.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:35 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004546.1419806173.130613">
+                <td>33.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004546&code=1419806173">
+                    SPA140026999_90.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:36 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004547.1419806213.130613">
+                <td>34.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004547&code=1419806213">
+                    SPA140026999_91.pdf
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:36 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004548.1419806254.130613">
+                <td>35.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004548&code=1419806254">
+                    SPA140026999_97.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:37 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004549.1419806307.130613">
+                <td>36.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004549&code=1419806307">
+                    SPA140026999_98.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:38 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004550.1419806336.130613">
+                <td>37.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004550&code=1419806336">
+                    SPA140026999_99.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:38 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004551.1419806394.130613">
+                <td>38.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004551&code=1419806394">
+                    SPA140026999_100.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:39 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004552.1419806439.130613">
+                <td>39.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004552&code=1419806439">
+                    SPA140026999_118.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:40 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004553.1419806461.130613">
+                <td>40.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004553&code=1419806461">
+                    SPA140026999_119.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:41 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004554.1419806525.130613">
+                <td>41.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004554&code=1419806525">
+                    SPA140026999_143.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:42 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004555.1419806553.130613">
+                <td>42.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004555&code=1419806553">
+                    SPA140026999_144.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:42 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004556.1419806591.130613">
+                <td>43.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004556&code=1419806591">
+                    SPA140026999_145.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:43 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004557.1419806634.130613">
+                <td>44.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004557&code=1419806634">
+                    SPA140026999_146.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:43 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004558.1419806689.130613">
+                <td>45.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004558&code=1419806689">
+                    SPA140026999_147.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:44 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004559.1419806734.130613">
+                <td>46.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004559&code=1419806734">
+                    SPA140026999_153.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:45 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004560.1419806805.130613">
+                <td>47.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004560&code=1419806805">
+                    SPA140026999_154.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:46 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004561.1419806853.130613">
+                <td>48.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004561&code=1419806853">
+                    SPA140026999_155.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:47 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004562.1419806901.130613">
+                <td>49.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004562&code=1419806901">
+                    SPA140026999_157.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:48 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004563.1419806935.130613">
+                <td>50.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004563&code=1419806935">
+                    SPA140026999_158.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:48 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004564.1419806955.130613">
+                <td>51.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004564&code=1419806955">
+                    SPA140026999_203.pdf
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:49 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004565.1419806974.130613">
+                <td>52.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004565&code=1419806974">
+                    SPA140026999_227.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:49 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004566.1419806994.130613">
+                <td>53.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004566&code=1419806994">
+                    SPA140026999_228.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:49 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004567.1419807016.130613">
+                <td>54.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004567&code=1419807016">
+                    SPA140026999_229.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:50 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004568.1419807083.130613">
+                <td>55.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004568&code=1419807083">
+                    SPA140026999_230.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:51 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004569.1419807106.130613">
+                <td>56.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004569&code=1419807106">
+                    SPA140026999_310.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:51 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004570.1419807125.130613">
+                <td>57.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004570&code=1419807125">
+                    SPA140026999_311.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:52 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004571.1419807140.130613">
+                <td>58.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004571&code=1419807140">
+                    SPA140026999_373.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:52 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004572.1419807165.130613">
+                <td>59.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004572&code=1419807165">
+                    SPA140026999_521.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:52 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004573.1419807181.130613">
+                <td>60.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004573&code=1419807181">
+                    SPA140026999_529.pdf
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:53 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004574.1419807201.130613">
+                <td>61.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004574&code=1419807201">
+                    SPA140026999_534.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:53 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004575.1419807225.130613">
+                <td>62.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004575&code=1419807225">
+                    SPA140026999_557(1).pdf
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:53 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004576.1419807280.130613">
+                <td>63.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004576&code=1419807280">
+                    SPA140026999_557.pdf
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:54 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004577.1419807298.130613">
+                <td>64.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004577&code=1419807298">
+                    SPA140026999_562.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:54 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004578.1419807332.130613">
+                <td>65.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004578&code=1419807332">
+                    SPA140026999_568.PDF
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:55 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004579.1419807367.130613">
+                <td>66.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004579&code=1419807367">
+                    SPA140026999_1167.pdf
+                    </a>
+                </td>
+                <td class="date">28.12.2014 22:56 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004911.1419856909.130613">
+                <td>67.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004911&code=1419856909">
+                    SPA140026999_1(1).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:41 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004912.1419856927.130613">
+                <td>68.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004912&code=1419856927">
+                    SPA140026999_1(2).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:42 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004913.1419856940.130613">
+                <td>69.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004913&code=1419856940">
+                    SPA140026999_2(1).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:42 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004915.1419856968.130613">
+                <td>70.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004915&code=1419856968">
+                    SPA140026999_2(2).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:42 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004918.1419856998.130613">
+                <td>71.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004918&code=1419856998">
+                    SPA140026999_3(1).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:43 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004919.1419857020.130613">
+                <td>72.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004919&code=1419857020">
+                    SPA140026999_3(2).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:43 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004920.1419857036.130613">
+                <td>73.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004920&code=1419857036">
+                    SPA140026999_4(1).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:43 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004921.1419857047.130613">
+                <td>74.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004921&code=1419857047">
+                    SPA140026999_4(2).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:44 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004923.1419857073.130613">
+                <td>75.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004923&code=1419857073">
+                    SPA140026999_5-2 (1).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:44 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004925.1419857091.130613">
+                <td>76.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004925&code=1419857091">
+                    SPA140026999_5-2 (2).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:44 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004926.1419857106.130613">
+                <td>77.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004926&code=1419857106">
+                    SPA140026999_M.CH4.pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:45 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004927.1419857122.130613">
+                <td>78.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004927&code=1419857122">
+                    SPA140026999_M-CH.pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:45 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004928.1419857161.130613">
+                <td>79.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004928&code=1419857161">
+                    SPA140026999_M-CH1.pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:46 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004929.1419857173.130613">
+                <td>80.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004929&code=1419857173">
+                    SPA140026999_M-CH2.pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:46 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1004931.1419857187.130613">
+                <td>81.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1004931&code=1419857187">
+                    SPA140026999_M-CH3.pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 12:46 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1005744.1419873669.130613">
+                <td>82.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1005744&code=1419873669">
+                    SPA140026999_PREISKURANTI (KORECTIREBULI).pdf
+                    </a>
+                </td>
+                <td class="date">29.12.2014 17:21 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1013630.1420580527.130613">
+                <td>83.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1013630&code=1420580527">
+                    SPA140026999_ოქმი N4.pdf
+                    </a>
+                </td>
+                <td class="date">06.01.2015 21:42 :: ილია აფციაური</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1013631.1420580557.130613">
+                <td>84.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1013631&code=1420580557">
+                    SPA140026999_წერილი გამარჯვებულს.pdf
+                    </a>
+                </td>
+                <td class="date">06.01.2015 21:42 :: ილია აფციაური</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1014052.1420722009.130613">
+                <td>85.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1014052&code=1420722009">
+                    SPA140026999_amonaceri sajarodan.pdf
+                    </a>
+                </td>
+                <td class="date">08.01.2015 13:00 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1014053.1420722023.130613">
+                <td>86.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1014053&code=1420722023">
+                    SPA140026999_cnoba sajarodan.pdf
+                    </a>
+                </td>
+                <td class="date">08.01.2015 13:00 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1014063.1420722200.130613">
+                <td>87.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1014063&code=1420722200">
+                    SPA140026999_sasamartlo.pdf
+                    </a>
+                </td>
+                <td class="date">08.01.2015 13:03 :: პაატა ჯანანაშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1018254.1421090144.130613">
+                <td>88.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1018254&code=1421090144">
+                    SPA140026999_ოქმი N5.pdf
+                    </a>
+                </td>
+                <td class="date">12.01.2015 19:15 :: ილია აფციაური</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1018255.1421090166.130613">
+                <td>89.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1018255&code=1421090166">
+                    SPA140026999_წერილი ხელშეკრულების გაფორმებაზე.pdf
+                    </a>
+                </td>
+                <td class="date">12.01.2015 19:16 :: ილია აფციაური</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="1033641.1422293436.130613">
+                <td>90.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=1033641&code=1422293436">
+                    SPA140026999_ხელშეკრულების უზრუნველყოფის საბანკო გარანტია.pdf
+                    </a>
+                </td>
+                <td class="date">26.01.2015 17:30 :: თათია ლოლაძე</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+        <td width="120">19.12.2014 17:28</td>
+        <td><strong>ავტოსერვისცენტრი+</strong></td>
+        <td align="right">დისკვალიფიკაცია ტექნიკური დოკუმენტაციის გამო</td>
+    </tr>
+</table>
+</div>
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#FFFFFF"><td colspan="3" class="color-1" align="center">ჩანაწერები არ არის</td></tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'130613'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg10" style="font-weight:bold">მიმდინარე ხელშეკრულება</span><br/>
+			<span class="date">თათია ლოლაძე :: 26.01.2015</span><br/>
+			<span><strong>294</strong> დღე ხელშეკრულების მოქმედების ვადის ამოწურვამდე</span>
+			
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(29125)"><img src="images/profile24.png"></a> <strong>შპს YOUR CENTER</strong><br/>
+				
+					ნომერი/თანხა: N38 / <span class="convertme" id="450000-GEL-26.01.2015 17:32">450000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 16.01.2015 - 31.01.2016<br/>
+					<span class="date">26.01.2015 17:32</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=117504"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="130613">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;font-weight: bold;margin:1em">ხელშეკრულების ცვლილება</div>
+		<table width="100%">
+			<tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 1</u></span><br/>
+					ნომერი/თანხა: N38 / <span class="convertme" id="450000-GEL-25.02.2015 21:55">450000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 16.01.2015 - 31.01.2016<br/>
+					<span class="date">25.02.2015 21:55</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=121036"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr><tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 2</u></span><br/>
+					ნომერი/თანხა: N38 / <span class="convertme" id="450000-GEL-20.03.2015 15:15">450000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 16.01.2015 - 31.01.2016<br/>
+					<span class="date">20.03.2015 15:15</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=123608"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr><tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 3</u></span><br/>
+					ნომერი/თანხა: N38 / <span class="convertme" id="450000-GEL-27.03.2015 16:50">450000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 16.01.2015 - 31.01.2016<br/>
+					<span class="date">27.03.2015 16:50</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=124395"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr><tr>
+				<td>
+					<span class="color-1"><u>ცვლილება 4</u></span><br/>
+					ნომერი/თანხა: N38 / <span class="convertme" id="450000-GEL-27.03.2015 16:53">450000 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 16.01.2015 - 31.01.2016<br/>
+					<span class="date">27.03.2015 16:53</span>
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=124396"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+		</table>
+	</div>
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="130613">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="130613">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="1088564.1425983033.130613">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1088564&code=1425983033">
+SPA140026999_მიღება-ჩაბარება_38.pdf
+</a>
+</td>
+<td class="date">10.03.2015 10:23 :: გიორგი კვირიკაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="1097588.1426523414.130613">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=1097588&code=1426523414">
+SPA140026999_მიღება-ჩაბარება_38.pdf
+</a>
+</td>
+<td class="date">16.03.2015 16:30 :: გიორგი კვირიკაშვილი</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 450`000.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 56`576.00 ლარი  (13%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>21`663.50 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2015</td>
+<td>2015</td>
+<td>10.03.2015&nbsp;
+
+</td>
+<td class="date">23.03.2015<br>–</td>
+</tr><tr class="activebid1">
+<td>34`912.50 ლარი<br><span class="color-2">სახელმწიფო ბიუჯეტი</span></td>
+<td>2015</td>
+<td>2015</td>
+<td>23.03.2015&nbsp;
+
+</td>
+<td class="date">23.03.2015<br>–</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'130613'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>

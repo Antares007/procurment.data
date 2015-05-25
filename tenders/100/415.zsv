@@ -1,0 +1,3326 @@
+<div id="app_main">
+
+
+
+<div id="print_area">
+
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="6" class="ktable with-label">
+<colgroup>
+	<col width="188">
+	<col>
+</colgroup>
+<tbody>
+	<tr>
+		<td>ტენდერის ტიპი</td>
+		<td>ერთეტაპიანი გამარტივებული ელექტრონული ტენდერი </td>
+	</tr>
+	
+	<tr>
+		<td>სატენდერო განცხადების ნომერი</td>
+		<td><strong>SPA130027413</strong>
+		   <div id="ka" style="float:right"><input type="checkbox" class="favor" id="fv100415" /><label for="fv100415"><span></span>დაამატე რჩეულებში</label></div>
+		</td>
+	</tr>
+	<tr>
+		<td>ტენდერის სტატუსი</td>
+		<td valign="middle"><img src="images/statuses/stat140.png"> ხელშეკრულება დადებულია</td>
+	</tr>
+	<tr>
+		<td>შემსყიდველი</td>
+		<td><a href="javascript:void()" onclick="ShowProfile(1704)"><img src="images/profile24_0.png"> ლევან სამხარაულის სახელობის სასამართლო ექსპერტიზის ეროვნული ბიურო</a></td>
+	</tr>
+	<tr>
+		<td>ტენდერის გამოცხადების თარიღი</td>
+		<td>11.12.2013 14:33</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება იწყება</td>
+		<td>13.12.2013 00:09</td>
+	</tr>
+	<tr>
+		<td>წინადადებების მიღება მთავრდება</td>
+		<td>17.12.2013 12:00</td>
+	</tr>
+	<tr>
+		<td>დაფინანსების წყარო</td>
+		<td>2014 წლის სახსრები</td>
+	</tr>
+
+	
+	
+
+	
+
+	<tr>
+		<td>
+		    
+		    <span>შესყიდვის სავარაუდო ღირებულება</span>
+		</td>
+		<td><span class="convertme" id="65000-GEL-11.12.2013 14:33">65`000.00 GEL</span> <span class="color-1">
+		
+		
+		
+		ხელშეკრულების უზრუნველყოფის საგარანტიო არ მოითხოვება</span></td>
+	</tr>
+	<tr>
+		<td>სატენდერო წინადადება წარმოდგენილი უნდა იყოს</td>
+		<td>დღგ-ს გათვალისწინებით</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და  კლასიფიკატორის დანაყოფი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div style="text-align:left;color:#222">
+			<ul style="margin:0 0 0 8px;padding:6px;list-style-type:disc;">
+				<li style="padding:4px">&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა</li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="color-2"><div style="text-align:left">კლასიფიკატორის  (CPV) კოდი და შესყიდვის კონკრეტული ობიექტი</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<div style="text-align:left;color:#222">
+	<ul style="margin:0 0 0 8px; padding:6px;list-style-type:disc;">
+		<li style="padding:4px">
+			&nbsp;30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა
+			<div class="color-1"></div>
+		</li>
+	</ul>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">დამატებითი ინფორმაცია</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="blabla">საკანცელარიო ნივთების შესყიდვა</div></td>
+	</tr>
+	<tr>
+		<td>შესყიდვის რაოდენობა ან მოცულობა</td>
+		<td>იხილეთ თანდართული დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>მოწოდების ვადა</td>
+		<td>იხილეთ თანდართული დოკუმენტაცია</td>
+	</tr>
+	<tr>
+		<td>შეთავაზების ფასის კლების ბიჯი</td>
+		<td>1`300.00 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის ოდენობა</td>
+		<td>650 GEL</td>
+	</tr>
+	<tr>
+		<td>გარანტიის მოქმედების ვადა</td>
+		<td>120 დღე</td>
+	</tr>
+</tbody>
+</table>
+
+</div>
+
+<div style="text-align:right;font-weight:bold">
+	<pre><span class="color-1">ტენდერის ბმული:</span> https://tenders.procurement.gov.ge/public/?go=100415&amp;lang=ge&nbsp;&nbsp;<button class="sendmail" id="100415">გაუგზავნე მეგობარს</button>
+	</pre>
+</div>
+
+<div id="history"></div>
+
+<ul class="date" style="line-height:160%;list-style-type:none;padding:0;margin-top:6px;margin-bottom:46px">
+	<li style="text-align:right">განცხადების ჩაწერა: ეთერი ჩოხელი :: 11.12.2013 13:38</li>
+	<li style="text-align:right">ბოლო შესწორება: ეთერი ჩოხელი :: 11.12.2013 14:33</li>
+</ul>
+
+<div class="ui-corner-top pad4px" id="bottom-menu">
+
+
+
+
+
+
+
+
+
+
+<button id="print_button" type="button">ბეჭდვა</button>
+<script>
+$("#print_button").button({icons:{primary: "ui-icon-print"}}).click(function(){$("#print_area").printArea({mode: "popup", popClose: true, popWd:700, popHt:700});});
+</script>
+
+<span>
+<button id="btn_appstatushistory" type="button">ქრონოლოგია</button>
+<script type="text/javascript">
+$('#btn_appstatushistory').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){
+$.get('engine/controller.php',{app_id:100415, action:'app_statushistory'}, function(data) {$('#history').html(data);$("#content").scrollTop($("#content")[0].scrollHeight);})});
+</script>
+</span>
+
+
+
+<span>
+<button id="claims" class="btn_davebi" type="button">საჩივრები მიმდინარე ტენდერზე</button>
+
+</span>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    InitConvertor();
+
+    $('.favor').prop('checked', ('0'=='1'));
+
+    $('#bottom-menu').css('top',$('#content').innerHeight() + $('#content').scrollTop() - 46);
+
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+
+	$('.sendmail').button({icons:{primary: "ui-icon-mail-closed"}}).click(function(){
+	    $.get('engine/controller.php', {
+	        action: 'prepare_mail',
+			app_id: $(this).attr('id')
+	    }, function(res){
+	        $('#dialog').html(res);
+	    })
+
+	});
+
+	$('.favor').click(function(){
+	    var h = this.id.split("fv");
+	    $.get('engine/controller.php', {
+            action: 'favorite',
+            app_id: h[1]
+        }, function(res){
+            $.get('engine/controller.php', {action:'search_apps', page:'current'}, function(res){$('#app_list').html(res);$('#A'+h[1]).addClass('hover')});
+        })
+	});
+
+	$('.btn_davebi').button({icons: {primary: "ui-icon-gear"}}).click(function(){$.get('engine/controller.php', {action: 'davebi', mode:this.id, app_id: '100415'}, function(res){$('#dialog').html(res);})});
+
+});
+</script>
+
+
+<!--
+
+-->
+</div>
+
+</div>
+ <style type="text/css">
+#chat div {margin:0.5em}
+#chat div p {margin:4px;}
+#chat .A {margin-left:5em}
+#chat .type1 {
+background:#EEEEFF !important;
+}
+form label.error {margin-left:4px; color:#f00;font-size:10px}
+.custom-menu {
+z-index:10000;
+position: absolute;
+background-color:#FFFFFF;
+border: 1px solid #444444;
+padding: 2px;
+}
+</style>
+<div id="app_docs">
+	<p align="center"><strong>სატენდერო დოკუმენტაცია</strong></p>
+	
+	<div class="pad4px">
+		<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="tender_docs">
+			<colgroup>
+			<col width="24">
+			<col width="24">
+			<col width="65%">
+			<col>
+			
+			<col width="60">
+			</colgroup>
+			<thead>
+				<tr class="ui-widget-header">
+					<td>#</td>
+					<td colspan="2">მიმაგრებული ფაილები</td>
+					<td>თარიღი/ავტორი</td>
+					
+					<td>&nbsp;</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="624886.1386769114.100415">
+					<td><span class="opgear">1.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=624886&code=1386769114">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=624886&code=1386769114">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ბრძანება.pdf
+						</a>
+					</td>
+					<td class="date" align="right">11.12.2013 13:38<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="624898.1386770244.100415">
+					<td><span class="opgear">2.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=624898&code=1386770244">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=624898&code=1386770244">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_ოქმი 1.PDF
+						</a>
+					</td>
+					<td class="date" align="right">11.12.2013 13:57<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr><tr id="624942.1386772302.100415">
+					<td><span class="opgear">3.</span></td>
+					<td>
+						<a target="blank" href="engine/files.php?mode=app&file=624942&code=1386772302">
+						<span><img src="images/file_lock0.png"></span>
+						
+						</a>
+					</td>
+					<td class="obsolete0">
+						<a target="blank" href="engine/files.php?mode=app&file=624942&code=1386772302">
+						<span class="color-1">სატენდერო დოკუმენტაცია</span><br/>_სატენდერო.pdf
+						</a>
+					</td>
+					<td class="date" align="right">11.12.2013 14:31<br/>ეთერი ჩოხელი</td>
+					
+					<td align="center">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div>
+		
+		<p align="center"><strong>გამონაკლისის დამადასტურებელი დოკუმენტი</strong></p>
+		<p align="center" class="color-1">სატენდერო დოკუმენტაცია მიმაგრებული არ არის</p>
+		
+	</div>
+	
+	
+	<div class="hr"><hr></div>
+	<div id="chat">
+		<p class="color-1" style="text-align: center;font-weight: bold">* * *</p>
+		<p class="color-1" style="text-align: center;font-weight: bold"></p>
+		
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('#app_xdoc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+		$('.new_question_btn').button();
+		$('.new_answer_btn').button({icons:{primary: "ui-icon-comment"}});
+		
+		$('.show_reply').button({icons:{primary: "ui-icon-carat-2-n-s"}}).click(function(){
+			var ch = this.id.split('_');
+		
+		if($('#ANS'+ch[2]).is(":visible")) {
+				$('#ANS'+ch[2]).html('');
+						$('#ANS'+ch[2]).hide();
+		} else {
+			$.get('engine/controller.php', {
+			action: 'show_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#ANS'+ch[2]).html(res);
+			$('#ANS'+ch[2]).show();
+			})
+		}
+		})
+		
+		$('.ans').click(function(){
+			var ch = this.id.split('_');
+		$.get('engine/controller.php', {
+		action: 'add_qa',
+				app_id: ch[1],
+				parent_id:ch[2],
+				chat_id: ch[3],
+		}, function(res){
+		$('#dialog').html(res);
+		})
+		})
+		
+		$('.chat_cancel_btn').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+			var me = this;
+			JQConfirm('ჩანაწერი მოინიშნება გაუქმებულად',function(){
+				var ch = me.id.split('_');
+			$.get('engine/controller.php', {
+			action: 'toggle_qa',
+					app_id: ch[1],
+					chat_id: ch[2],
+			}, function(res){
+			$('#application_tabs').tabs( 'load' , 1 );
+			})
+		})
+		})
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var h = this.id.split(".");
+	$.get('engine/controller.php', {action: 'app_docs', app_id: h[2], toggle_id: h[0], state: 200}, function(res){$('#app_docs').html(res);});
+	})
+	$('.delete-icon').unbind('click');
+	$('.delete-icon').click(function(){
+	var h = this.id.split(".");
+	JQConfirm('დოკუმენტის წაშლა',function(){ $.get('engine/controller.php', {action: 'app_docs', app_id:h[2], doc_id:h[0], code:h[1]}, function(res){$('#app_docs').html(res);}); })
+	})
+	
+		$('#app_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$('#app_xdoc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+		});
+		$("#app_doc_frm").validate({meta: "validate"});
+		$("#app_xdoc_frm").validate({meta: "validate"});
+		
+		GeoKBD.map('app_doc_frm',['app_doc_descr']);
+		GeoKBD.map('app_xdoc_frm',['app_xdoc_descr']);
+	});
+	function validate_form(formData, jqForm, options) {
+		return jqForm.valid();
+	}
+	function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+	Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+	Notify(responseText.result.err_text );
+	} else {
+	Notify('File uploaded');
+	$('#application_tabs').tabs( 'load' , 1 );
+	}
+	}
+	</script>
+</div> <style type="text/css"> 
+    form label.error {margin-left:4px; color:#f00;font-size:10px}
+    #affd p {text-align:justify;}
+    #TenderCountdown {float:left;width:236px;padding:1px;overflow:auto;z-index:1000;margin:24px 0 0 5px}
+</style> 
+
+<div id="app_bids">
+
+
+
+
+<p align="right">
+	<button type="button" id="refrsh">გვერდის განახლება</button>
+	<button type="button" id="showmoney">გადახდები</button>
+	<button type="button" id="showtdocs">ტექნიკური დოკუმენტაცია</button>
+</p>
+
+<p align="right" style="margin-top:20px">
+<span  class="color-1">შესყიდვის სავარაუდო ღირებულება: 65`000.00</span><br/>
+<span  class="color-1">მოწოდების ვადა: იხილეთ თანდართული დოკუმენტაცია</span><br/>
+</p>
+<p style="margin:4px" class="color-2">წინადადებების მიღება დასრულებულია!</p>
+
+<div id="app_payments" style="margin-top:28px;"></div>
+<div id="app_tdocs" style="margin-top:28px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<p id="importante" style="color:#f00;font-size:1.2em;font-weight:bold;text-align:center">პრეტენდენტთა საყურადღებოდ!</p>
+<p style="color:#0073EA !important;text-align:center">ძირითადი დროის განმავლობაში, ტენდერში მონაწილე პრეტენდენტთა რაოდენობა და მათ მიერ შეთავაზებული ფასი დახურული იქნება. ეს ინფორმაცია  ხელმისაწვდომი იქნება მხოლოდ ძირითადი დროის დასრულების შემდეგ, დამატებითი რაუნდების მიმდინარეობის განმავლობაში. ამასთან, პირველი შესვენებისათვის განკუთვნილი პერიოდი გახანგრძლივდა და შეადგენს 5 წუთს.</p>
+-->
+
+
+
+
+<div class="hr"><hr></div>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>ბოლო შეთავაზება<br />თანხა/დრო</td>
+		<td>პირველი შეთავაზება<br />თანხა/დრო</td>
+		<td align="center">შეთავაზებები</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B100415111915">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17291)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კანც პაპერი</span>
+			</td>
+		<td class="activebid1"><strong>65`000.00</strong>&nbsp;<br/><span class="date">17.12.2013 11:57</span></td>
+		<td class="activebid1">65`000.00&nbsp;<br/><span class="date">17.12.2013 11:57</span></td>
+		<td align="center" class="activebid1">[1] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(100415,111915)">ნახვა</a> </td>
+		
+	</tr><tr bgcolor="#ffffff" id="B100415111531">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Geosm</span>
+			</td>
+		<td class="activebid1"><strong>58`431.00</strong>&nbsp;<br/><span class="date">17.12.2013 10:42</span></td>
+		<td class="activebid1">65`000.00&nbsp;<br/><span class="date">14.12.2013 19:17</span></td>
+		<td align="center" class="activebid1">[2] &nbsp;<a href="javascript:void(0)" onclick="ShowBidHistory(100415,111531)">ნახვა</a> </td>
+		
+	</tr>
+</tbody>
+</table>
+
+<div>
+<p>ვაჭრობის 1-ლი რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:05</td>
+		<td align="center" class="activebid1">12:07</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>65`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:07</td>
+		<td align="center" class="activebid1">12:09</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>58`431.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-2 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:11</td>
+		<td align="center" class="activebid1">12:13</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>65`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:13</td>
+		<td align="center" class="activebid1">12:15</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>58`431.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div>
+<p>ვაჭრობის მე-3 რაუნდი</p>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" style="margin-bottom:2em" class="ktable">
+<colgroup>
+	<col width="90">
+	<col width="90">
+	<col>
+	<col width="200">
+</colgroup>
+	<tr class="ui-widget-header">
+		<td align="center">დაწყება</td>
+		<td align="center">დამთავრება</td>
+		<td>პრეტენდენტი</td>
+		<td align="center">თანხა</td>
+	</tr>
+	<tr class="used0">
+		<td align="center" class="activebid1">12:17</td>
+		<td align="center" class="activebid1">12:19</td>
+		<td class="activebid1">კანც პაპერი</td>
+		<td align="center" class="activebid1"><strong>65`000.00</strong></td>
+	</tr><tr class="used0">
+		<td align="center" class="activebid1">12:19</td>
+		<td align="center" class="activebid1">12:21</td>
+		<td class="activebid1">Geosm</td>
+		<td align="center" class="activebid1"><strong>58`431.00</strong></td>
+	</tr>
+</table>
+</div>
+
+<div class="hr"><hr></div>
+
+<p>ძირითად დროში ვაჭრობის შედეგები</p>
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" style="margin-bottom:2em">
+<colgroup>
+	<col>
+	<col width="200">
+	<col width="120">
+</colgroup>
+<thead>
+	<tr class="ui-widget-header">
+		<td>პრეტენდენტი</td>
+		<td>შეთავაზებული თანხა</td>
+		<td>თარიღი</td>
+	</tr>
+</thead>
+<tbody>
+	<tr bgcolor="#ffffff" id="B100415">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(17291)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">კანც პაპერი</span>
+		</td>
+		<td class="activebid1"><strong>65`000.00</strong></td>
+		<td class="date activebid1">17.12.2013 11:57</td>
+	</tr><tr bgcolor="#ffffff" id="B100415">
+		<td class="activebid1">
+			<a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a>
+			
+			<span class="color-1">Geosm</span>
+		</td>
+		<td class="activebid1"><strong>58`431.00</strong></td>
+		<td class="date activebid1">17.12.2013 10:42</td>
+	</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+    $('#app_error').dialog({
+        bgiframe: true,
+        draggable: false,
+        resizable: false,
+        modal:true,
+        width: 400,
+        autoOpen: true,
+        hide: {effect:'blind', duration: 100},
+        show: {effect:'blind', duration: 100},    
+        close: function(){
+            $(this).dialog("destroy").remove();
+        },
+        buttons: {
+             OK: function() {
+                $(this).dialog('close');
+             }
+        }
+    });
+      
+    $('#app_org_doc_save_btn').button();
+
+	$('#placebid').button();
+	$('#frm_bid').submit(function() { 
+		$(this).ajaxSubmit({target:'#bid',beforeSubmit:validate_form }); 
+		return false;
+	});
+	$("#frm_bid").validate({meta: "validate"});	
+	
+	$('#app_org_doc_frm').submit(function() {
+		$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});
+		return false;
+	});
+	$('#app_org_doc_frm').validate({meta: "validate"});
+	
+	GeoKBD.map('app_org_doc_frm',['app_org_doc_descr']);
+
+	$('#refrsh').button({icons:{primary: "ui-icon-refresh"}}).click(function(){
+		$('#application_tabs').tabs('load', 2);
+		$.getJSON('engine/clock.php', function(data) {
+			hh = parseInt(data.hh);
+			mm = parseInt(data.mm);
+			ss = parseInt(data.ss);
+		});
+
+	});
+	$('#showmoney').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_payments', app_id:'100415'}, function(data){$('#app_payments').html(data);});})
+	$('#showtdocs').button({icons:{primary: "ui-icon-triangle-1-s"}}).click(function(){ $.get('engine/controller.php', {action:'app_tdocs', app_id:'100415'}, function(data){$('#app_tdocs').html(data);});})
+
+	$('#pay_select_bank').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_pay').button("enable");
+				 $('#paymoney').attr('action', 'engine/payment.qartu.pay.php');
+	 		break;
+			case '2':
+				$('#btn_pay').button("enable");
+				$('#paymoney').attr('action', 'engine/payment.bog.pay.php');
+			break;
+            case '3':
+                $('#btn_pay').button("enable");
+                $('#paymoney').attr('action', 'engine/payment.liberty.pay.php');
+            break;
+			default:
+				$('#btn_pay').button("disable");
+		}
+	
+	})
+
+
+	$('#banks').change(function(){
+		
+		switch($(this).val())	{
+			case '1':
+				$('#btn_block').button("enable");
+				 $('#money_block').attr('action', 'engine/payment.qartu.block.php');
+	 		break;
+			case '2':
+				$('#btn_block').button("enable");
+				$('#money_block').attr('action', 'engine/payment.bog.block.php');
+			break;
+			default:
+				$('#btn_block').button("disable");
+		}
+	
+	})
+
+});
+
+function doResponse(responseText, statusText)  {
+	if (responseText.result == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result != 0) {
+		Notify('ERROR Uploading file');
+	} else {
+		Notify('File uploaded');
+		$('#application_tabs').tabs( 'load' , 2 );
+	}
+}
+
+function ShowBidHistory(bid,app) {
+	var targetelm = 'B'+ bid + app;
+	var targetcontainer = targetelm + 'C';
+	$('#'+targetcontainer).parent().remove();
+	$('#'+targetelm).after('<tr><td colspan="5" id="' + targetcontainer + '"></td></tr>');
+    $.get('engine/controller.php', {action:'view_bid', app_id:bid, bid_id:app}, function(data){
+        $('#'+targetcontainer).html(data);
+    });
+}
+
+function validate_form(formData, jqForm, options) {
+	return jqForm.valid(); 
+}
+
+function RefuseBid(papp_id) {
+    $.get('engine/controller.php', {action:'refuse_bids', app_id:papp_id}, function(data){
+        $('#application_tabs').tabs( 'load' , 2 );
+    });
+}
+
+</script>
+</div>
+ <style type="text/css">
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.remove-cpv {cursor:pointer}
+</style>
+
+<div id="app_result">
+
+
+
+
+
+<p align="center"><strong>::</strong></p>
+<div class="pad4px">
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="reports">
+        <colgroup>
+        <col width="24">
+        <col width="24">
+        <col width="60%">
+        <col>
+        <col width="60">
+        </colgroup>
+        <thead>
+            <tr class="ui-widget-header">
+                <td align="center" colspan="3">დოკუმენტი</td>
+                <td>თარიღი/ავტორი</td>
+                
+                <td>&nbsp;</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="630154.1387295756.100415">
+                <td>1.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=630154&code=1387295756">
+                    SPA130027413_ინტეერსთა ოქმი.PDF
+                    </a>
+                </td>
+                <td class="date">17.12.2013 15:55 :: ნატალია მეტრეველი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="630155.1387295761.100415">
+                <td>2.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=630155&code=1387295761">
+                    SPA130027413_ოქმი 2.PDF
+                    </a>
+                </td>
+                <td class="date">17.12.2013 15:56 :: ნატალია მეტრეველი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="630156.1387295766.100415">
+                <td>3.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=630156&code=1387295766">
+                    SPA130027413_ოქმი 3.PDF
+                    </a>
+                </td>
+                <td class="date">17.12.2013 15:56 :: ნატალია მეტრეველი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="630780.1387309633.100415">
+                <td>4.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=630780&code=1387309633">
+                    SPA130027413_წერილი დაზუსტებაზე.pdf
+                    </a>
+                </td>
+                <td class="date">17.12.2013 19:47 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="631777.1387388865.100415">
+                <td>5.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype100 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=631777&code=1387388865">
+                    SPA130027413_27413.pdf
+                    </a>
+                </td>
+                <td class="date">18.12.2013 17:47 :: არჩილ სადუნიშვილი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="635191.1387566914.100415">
+                <td>6.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype30 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=635191&code=1387566914">
+                    SPA130027413_ოქმი N4.PDF
+                    </a>
+                </td>
+                <td class="date">20.12.2013 19:15 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr><tr id="635194.1387566963.100415">
+                <td>7.</td>
+                <td>
+                <span><img src="images/file_lock0.png"></span>
+                
+                </td>
+                <td class="doctype40 obsolete0">
+                    <a target="blank" href="engine/files.php?mode=app&file=635194&code=1387566963">
+                    SPA130027413_წერილი გამარჯვებულს.pdf
+                    </a>
+                </td>
+                <td class="date">20.12.2013 19:16 :: ეთერი ჩოხელი</td>
+                
+                <td align="center">
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="hr"><hr></div>
+
+<p align="center"><strong>კლასიფიკატორის აღწერა</strong></p>
+
+<div class="pad4px">
+
+
+    <table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="cpv_reports">
+        <colgroup>
+        <col>
+        <col width="230">
+        <col>
+        <thead>
+            <tr class="ui-widget-header">
+                <td>კლასიფიკატორი/მწარმოებელი/მოდელი</td>
+                <td>ერთეულის ღირებულება/რაოდენობა/საერთო ღირებულება</td>
+                <td>სპეციფიკაცია</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="A8193">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:52 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">28.69 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;573.80 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8195">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:54 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.00 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;400.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8199">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:56 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.43 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`215.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8201">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:57 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.29 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;645.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8203">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:58 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.22 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;122.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8204">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:58 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.14 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;42.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8209">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:00 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.36 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;18.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8213">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:02 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">17.93 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;89.65 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8225">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:07 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.67 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;33.50 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8229">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:08 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.68 GEL<br/>
+                <span class="color-2">120 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;81.60 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8232">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:09 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.49 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;122.50 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8233">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:10 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.64 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;160.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8236">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:11 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.62 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;81.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8243">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:13 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8254">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:17 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8260">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:18 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;30.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8261">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:19 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.60 GEL<br/>
+                <span class="color-2">60 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;36.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8269">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:21 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.36 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8280">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:23 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.10 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;100.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8282">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:24 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.16 GEL<br/>
+                <span class="color-2">5000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;800.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8285">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:25 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.16 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;48.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8295">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:29 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.03 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;303.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8296">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:30 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">11.41 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;570.50 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8297">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:30 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.55 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;155.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8300">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:33 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">5.38 GEL<br/>
+                <span class="color-2">40 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;215.20 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8307">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:36 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8310">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:37 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.48 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;29.60 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8314">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:39 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.26 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;63.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8320">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:41 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.14 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;114.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8334">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:46 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.04 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;8.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8207">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:59 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.76 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;88.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8208">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:00 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.60 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;160.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8219">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:05 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.13 GEL<br/>
+                <span class="color-2">5000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;650.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8224">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:06 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.67 GEL<br/>
+                <span class="color-2">250 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;167.50 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8227">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:07 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.08 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;108.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8230">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:09 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.08 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;462.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8235">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:10 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.45 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;245.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8196">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:55 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.84 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;184.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8210">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:01 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">15.42 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`542.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8216">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:03 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.31 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;310.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8217">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:04 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.22 GEL<br/>
+                <span class="color-2">2000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;440.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8223">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:06 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.06 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;180.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8228">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:08 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.83 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;415.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8238">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:11 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.82 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`410.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8241">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:12 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.15 GEL<br/>
+                <span class="color-2">102 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;219.30 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8245">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:13 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8247">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:14 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8258">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:18 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8263">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:19 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.68 GEL<br/>
+                <span class="color-2">430 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;292.40 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8264">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:19 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;27.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8266">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:20 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.48 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;296.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8274">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:22 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.79 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;358.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8276">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:22 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.08 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;162.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8281">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:24 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.06 GEL<br/>
+                <span class="color-2">15000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;900.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8284">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:25 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.24 GEL<br/>
+                <span class="color-2">700 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;168.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8286">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:26 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.12 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;36.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8287">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:26 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.22 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;110.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8288">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:26 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.69 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;8`070.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8290">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:27 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.35 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;10`050.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8292">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:28 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.69 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;269.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8306">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:35 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.59 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;359.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8205">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:59 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.86 GEL<br/>
+                <span class="color-2">30 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;25.80 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8212">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:01 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.07 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;41.40 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8214">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:03 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">35.86 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;179.30 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8240">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:12 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">4.01 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;802.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8242">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:13 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.20 GEL<br/>
+                <span class="color-2">101 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;121.20 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8255">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:17 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;162.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8273">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:21 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.36 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8309">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:37 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.31 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;15.50 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8322">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:42 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.73 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;146.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8323">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:42 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.22 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;110.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8327">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:43 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">4.67 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;93.40 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8328">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:44 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.44 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;72.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8329">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:44 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.44 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;28.80 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8330">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:44 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.69 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;53.80 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8332">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:45 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.97 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;39.40 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8333">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:45 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">8.60 GEL<br/>
+                <span class="color-2">120 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`032.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8335">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:46 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.06 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;12.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8336">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:46 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.12 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;24.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8339">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:47 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.16 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;480.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8341">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:48 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.10 GEL<br/>
+                <span class="color-2">1500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;150.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8342">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:48 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.07 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;53.50 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8343">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:49 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">46.63 GEL<br/>
+                <span class="color-2">5 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;233.15 GEL</td>
+                <td title="--">--</td>
+            </tr><tr id="A8347">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:50 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.63 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;81.50 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8350">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:52 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">3000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`500.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8351">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:52 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.66 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;330.00 GEL</td>
+                <td title="--">--</td>
+            </tr><tr id="A8352">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:53 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.90 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;45.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8381">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 14:19 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;50.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8382">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 14:49 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.94 GEL<br/>
+                <span class="color-2">750 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`455.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8298">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:31 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.97 GEL<br/>
+                <span class="color-2">20 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;59.40 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8302">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:33 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.87 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;387.00 GEL</td>
+                <td title="--">--</td>
+            </tr><tr id="A8303">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:34 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.82 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;164.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8311">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:38 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.57 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;285.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8289">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:27 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.69 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`690.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8279">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:23 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.42 GEL<br/>
+                <span class="color-2">600 შეკვრა</span><br/>
+                <span class="color-2">=</span>&nbsp;2`052.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8318">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:41 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.27 GEL<br/>
+                <span class="color-2">250 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;317.50 GEL</td>
+                <td title="--">--</td>
+            </tr><tr id="A8198">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:56 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.23 GEL<br/>
+                <span class="color-2">500 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;115.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8200">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:57 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.39 GEL<br/>
+                <span class="color-2">1000 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;390.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8291">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:28 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.69 GEL<br/>
+                <span class="color-2">300 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;207.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8325">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:43 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">500 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;270.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8346">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:50 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.56 GEL<br/>
+                <span class="color-2">20 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;31.20 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8317">
+                <td>
+                    &nbsp;
+                    <span title="30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ">30190000 - სხვადასხვა საოფისე მოწყობილობა და საკანცელარიო ნივთები  ...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:40 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.49 GEL<br/>
+                <span class="color-2">1000 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;490.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8220">
+                <td>
+                    &nbsp;
+                    <span title="30199000 - ქაღალდის საკანცელარიო ნივთები">30199000 - ქაღალდის საკანცელარიო ნივთები...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:05 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.12 GEL<br/>
+                <span class="color-2">4000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;480.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8249">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:14 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.50 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;75.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8294">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:29 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.52 GEL<br/>
+                <span class="color-2">300 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;1`056.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8256">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:17 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8270">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:21 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.36 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8278">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:23 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">16.14 GEL<br/>
+                <span class="color-2">150 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;2`421.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8293">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:29 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">8.52 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;852.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8305">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:35 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">5.38 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;538.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8315">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:40 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.72 GEL<br/>
+                <span class="color-2">200 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;144.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8250">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:15 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;270.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8308">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:36 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.46 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;23.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8324">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:43 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.44 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;144.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8337">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:47 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.28 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;28.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8338">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:47 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.54 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;54.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8344">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:49 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">193.60 GEL<br/>
+                <span class="color-2">2 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;387.20 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8348">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:51 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.70 GEL<br/>
+                <span class="color-2">500 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;850.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8301">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:33 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">5.74 GEL<br/>
+                <span class="color-2">100 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;574.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8313">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:39 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">1.79 GEL<br/>
+                <span class="color-2">10 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;17.90 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8319">
+                <td>
+                    &nbsp;
+                    <span title="30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნივთები, კომპიუტერების, პრინტერებისა და ავეჯის გარდა">30100000 - საოფისე მანქანა-დანადგარები, აღჭურვილობა და საკანცელარიო ნი...</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 12:41 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">2.28 GEL<br/>
+                <span class="color-2">150 კოლოფი</span><br/>
+                <span class="color-2">=</span>&nbsp;342.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8181">
+                <td>
+                    &nbsp;
+                    <span title="30192122 - მელნის კალმები">30192122 - მელნის კალმები</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:45 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.36 GEL<br/>
+                <span class="color-2">1000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;360.00 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8185">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:46 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">3.23 GEL<br/>
+                <span class="color-2">50 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;161.50 GEL</td>
+                <td title="-">-</td>
+            </tr><tr id="A8179">
+                <td>
+                    &nbsp;
+                    <span title="30192123 - ტუშიანი კალამი">30192123 - ტუშიანი კალამი</span><br>
+                    <span style="font-size:0.9em" class="adj-0">- (დაუდგენელი)<br/>-</span><br/>
+                    <span style="font-size:0.9em"><img src="lib/dynatree/skin/hastag.png">&nbsp;-</span><br/>
+                    <div style="text-align:right" class="date">31.12.2013 11:44 :: ეთერი ჩოხელი</div>
+                </td>
+                <td align="right">0.10 GEL<br/>
+                <span class="color-2">5000 ცალი</span><br/>
+                <span class="color-2">=</span>&nbsp;500.00 GEL</td>
+                <td title="-">-</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('#cpv_add').button({
+        icons : {
+            primary : "ui-icon-plus"
+        }
+    }).click(function(){
+        $.get('engine/controller.php',{action:'cpv_dialog',app_id:'100415'}, function(data) {$('#dialog').html(data);});
+    })
+
+    $('.remove-cpv').click(function(){
+        var h = this.id.split("CPV");
+
+        JQConfirm('წაშლა', function() {
+
+            $.get('engine/controller.php', {
+                action : 'app_remove_cpv',
+                app_cpv_id : h[1]
+            }, function(data) {
+                $('#application_tabs').tabs('load', $('#application_tabs').tabs('length') - 2);
+            });
+
+        });
+
+
+    });
+
+        $('#app_tdoc_save_btn').button({
+            icons : {
+                primary : "ui-icon-disk"
+            }
+        }).button("disable");
+
+    $('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+    $('#disq_org_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#go_doit_btn').button('enable');
+        else
+            $('#go_doit_btn').button("disable");
+    });
+    $('#go_doit_prep_frm').submit(function() {$(this).ajaxSubmit({target:$('#doit_frm'), beforeSubmit:validate_form});return false;});
+    $("#go_doit_prep_frm").validate({meta: "validate"});
+
+
+    $('#terminate_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#terminate_doc_frm").validate({meta: "validate"});
+
+    $('.toggle-icon').unbind('click');
+    $('.toggle-icon').click(function(){
+        var me = this;
+        JQConfirm('...', function() {
+        var h = me.id.split(".");
+        $.get('engine/controller.php', {action: 'agency_doc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#app_result').html(res);});
+        }, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+
+    });
+
+    $('#app_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+    $('#agency_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+    $("#agency_doc_frm").validate({meta: "validate"});
+
+
+    $('#status_id').change(function()
+    {
+        if($(this).attr('value')!=='0')
+            $('#changestatus').button('enable');
+        else
+            $('#changestatus').button('disable');
+    });
+
+    $('#changestatus').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status').ajaxSubmit({target : '#app_result'}) })});
+
+
+    GeoKBD.map('agency_doc_frm',['app_doc_descr']);
+});
+
+
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+
+function confirm_request() {
+    return(confirm('დაწმუნებული ხართ?'));
+}
+
+function doResponse(responseText, statusText)  {
+    if (responseText.result.err_code == 999) {
+        Notify('ERROR Uploading file.');
+    } else if (responseText.result.err_code != 0) {
+        Notify(responseText.result.err_text );
+    } else {
+        Notify('File uploaded');
+        $('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') - 2 );
+    }
+}
+</script>
+
+</div> <style type="text/css">
+#last_docs .ui-selecting { background: #ccc; }
+#last_docs .ui-selected { background: #dde;}
+#deals .ui-selecting { background: #ccc; }
+#deals .ui-selected { background: #dde;}
+.form label.error {margin-left:4px; color:#f00;font-size:10px}
+.G20 {color:green}
+.G30 {color:red}
+</style>
+<div id="agency_docs">
+	<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin-bottom:4px;">
+		<div style="text-align:center;margin:1em">
+			<span class="agrfg10" style="font-weight:bold">მიმდინარე ხელშეკრულება</span><br/>
+			<span class="date">ეთერი ჩოხელი :: 31.12.2013</span><br/>
+			
+			<span>ხელშეკრულების მოქმედების ვადას გადაცილებული დღეები:  <strong>71</strong></span>
+		</div>
+		<table width="100%">
+			<tr>
+				<td><a href="#" onclick="ShowProfile(9468)"><img src="images/profile24.png"></a> <strong>Geosm</strong><br/>
+				
+					ნომერი/თანხა: N25 / <span class="convertme" id="58431-GEL-30.12.2013 13:35">58431 ლარი</span><br/>
+					ხელშეკრულება ძალაშია: 01.01.2014 - 31.01.2015<br/>
+					<span class="date">30.12.2013 13:35</span>
+				
+				</td>
+				<td align="right"><a target="_blank" href="engine/contract.php?go=82399"><img src="images/mime/pdf.png"> ნახვა/გადმოწერა</a></td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+
+<div id="frm_blk2" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+<span class="lbl opened">უფლებამონაცვლე ორგანიზაცია</span>
+<form id="agency_uflebamonacvle_frm" method="post" action="engine/controller.php">
+	<input type="hidden" name="app_id" value="100415">
+	<input type="hidden" name="action" value="app_uflebamonacvle">
+	<input type="hidden" name="uflebamonacvle_id" id="uflebamonacvle_id" value="0">
+	<input class="three-char" title="(ძებნა მე-3 სიმბოლოდან)" maxlength="200" type="text" style="width:500px" name="org_u" id="org_u">
+	<button id="app_uflebamonacvle_save_btn" type="submit">ჩაწერა</button>
+	<button id="btn_cancel_3" type="button">გაუქმება</button>
+</form>
+</div>
+
+	
+	
+	
+
+
+<div id="frm_blk" class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;display:none">
+
+<form id="agency_winner_frm_a" method="post" action="engine/controller.php" style="display:none">
+	<input type="hidden" name="app_id" value="100415">
+	<input type="hidden" name="action" value="app_winner_attach_due">
+	<input type="hidden" name="winner_doc_date" value="">
+	<input type="hidden" name="winner_doc_type" value="20">
+	<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+		<tr>
+			<td>გამარჯვებული</td>
+			<td><select name="app_winner_id">
+				
+			</select>
+		</td>
+	</tr>
+	<!--
+			<tr>
+					<td>ხელშეკრულება</td>
+					<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+			</tr>
+	-->
+	<tr>
+		<td>ხელშეკრულების ნომერი</td>
+		<td><input type="text" name="winner_doc_no" size="20" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+	</tr>
+	<tr>
+		<td>ხელშეკრულების თანხა</td>
+		<td>
+			<input type="text" name="winner_doc_amount" size="10" value="" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+			<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+			<select name="valuta_id">
+				<option value="2">ლარი/თეთრი</option>
+				<option value="1">აშშ დოლარი/ცენტი</option>
+				<option value="3">ევრო/ევროცენტი</option>
+				
+			</select>
+		</td>
+	</tr>
+	<td>ხელშეკრულება ძალაშია</td>
+	<td>
+		<input value="" type="text" name="winner_doc_start" id="winner_doc_start" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+		<input value="" type="text" name="winner_doc_end" id="winner_doc_end" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+	<td colspan="2" align="right">
+		<button id="app_winner_save_btn" type="submit">ცვლილების განხორციელება</button>
+		<button id="btn_cancel_1" type="button">გაუქმება</button>
+	</td>
+</tr>
+</table>
+</form>
+<form id="agency_winner_frm_b" method="post" action="engine/controller.php" style="display:none">
+<input type="hidden" name="app_id" value="100415">
+<input type="hidden" name="action" value="app_winner_attach">
+<input type="hidden" name="winner_doc_date" value="">
+<input type="hidden" name="winner_doc_type" value="10">
+<table border="0" cellpadding="2" cellspacing="1" class="with-free-label" align="center">
+<tr>
+	<td>გამარჯვებული</td>
+	<td><select name="app_winner_id">
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>ხელშეკრულების ცვლილება</td>
+<td><input type="file" name="app_winner_file" size="42" class="{validate:{required:true, accept: 'pdf', messages:{required:'?',accept:'მხოლოდ PDF'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების ნომერი (არ იცვლება)</td>
+<td><input type="text" name="winner_doc_no" size="20" readonly="readonly" value="" class="{validate:{required:true, messages:{required:'?'}}}"></td>
+</tr>
+<tr>
+<td>ხელშეკრულების თანხა</td>
+<td>
+	<input type="text" name="winner_doc_amount" value="" size="10" class="{validate:{required:true, digits:true, messages:{required:'?',digits:'?'}}}">
+	<input type="text" name="winner_doc_amount_cent" size="4" value="00" class="{validate:{required:true, digits:true,maxlength: 2,messages:{required:'?',digits:'?',maxlength:'?'}}}">
+	<select name="valuta_id">
+		<option value="2">ლარი/თეთრი</option>
+		<option value="1">აშშ დოლარი/ცენტი</option>
+		<option value="3">ევრო/ევროცენტი</option>
+		
+	</select>
+</td>
+</tr>
+<td>ხელშეკრულება ძალაშია</td>
+<td>
+<input value="" type="text" name="winner_doc_start" id="winner_doc_start_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+<input value="" type="text" name="winner_doc_end" id="winner_doc_end_a" size="10" class="{validate:{required:true, messages:{required:'?'}}}">
+</td>
+</tr>
+<tr>
+<td colspan="2"><span class="color-1">შეგახსენებთ, რომ აღნიშნული მოქმედების განხორციელების შემდეგ მისი შედეგის გაუქმება შეუძლებელი იქნება..</span></td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<button id="app_winner_save_btn_a" type="submit">მიმაგრება</button>
+<button id="btn_cancel_2" type="button">გაუქმება</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<div class="pad4px">
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable" id="last_docs">
+<colgroup>
+<col width="24">
+<col width="24">
+<col width="60%">
+<col>
+<col width="60">
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td align="center" colspan="3">დოკუმენტი</td>
+<td>თარიღი/ავტორი</td>
+
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr id="662611.1390563856.100415">
+<td>1.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=662611&code=1390563856">
+SPA130027413_Geosm_23.01.2014-ხელშეკრულება 25..pdf
+</a>
+</td>
+<td class="date">24.01.2014 11:44 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="684689.1392634086.100415">
+<td>2.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=684689&code=1392634086">
+SPA130027413_Geosm_ხელშეკრ#25.  14.02.2014.pdf
+</a>
+</td>
+<td class="date">17.02.2014 10:48 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="703101.1394197657.100415">
+<td>3.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=703101&code=1394197657">
+SPA130027413_Geosm_ხელშეკრ# 25, 06.03.2014.pdf
+</a>
+</td>
+<td class="date">07.03.2014 13:07 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="719421.1395744280.100415">
+<td>4.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=719421&code=1395744280">
+SPA130027413_Geosm_ხელშეკრ# 25  25.03.2014 = 829,41 ლ.pdf
+</a>
+</td>
+<td class="date">25.03.2014 10:44 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="766787.1399569839.100415">
+<td>5.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=766787&code=1399569839">
+SPA130027413_Geosm_ხელშეკრ. 25  08.05.2014 = 595,1 ლარი.pdf
+</a>
+</td>
+<td class="date">08.05.2014 17:23 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="766918.1399571819.100415">
+<td>6.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=766918&code=1399571819">
+SPA130027413_Geosm_ხელშეკრ. 25   08.05.2014= 375.6 ლ.pdf
+</a>
+</td>
+<td class="date">08.05.2014 17:56 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="793366.1401811638.100415">
+<td>7.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=793366&code=1401811638">
+SPA130027413_Geosm_ხელშეკრ. 25   03.06.2014 = 1293,53 ლარი.pdf
+</a>
+</td>
+<td class="date">03.06.2014 16:07 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="827476.1404496490.100415">
+<td>8.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=827476&code=1404496490">
+SPA130027413_კომპანია Geosm - ხელშ. 25  03.07.2014 = 1008 ლარი.pdf
+</a>
+</td>
+<td class="date">04.07.2014 17:54 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="831827.1404931091.100415">
+<td>9.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=831827&code=1404931091">
+SPA130027413_კომპანია GEOSM - ხელშ. 25 08.07.2014 = 480,40 ლარი.pdf
+</a>
+</td>
+<td class="date">09.07.2014 18:38 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="868616.1408468707.100415">
+<td>10.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=868616&code=1408468707">
+SPA130027413_შპს კომპანია GEOSM.pdf
+</a>
+</td>
+<td class="date">19.08.2014 17:18 :: ნატალია მეტრეველი</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="882330.1409915739.100415">
+<td>11.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=882330&code=1409915739">
+SPA130027413_შპს კომპანია GEOSM - ხელშ. 25   04.09.2014 = 99 ლარი.pdf
+</a>
+</td>
+<td class="date">05.09.2014 11:15 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="885132.1410277416.100415">
+<td>12.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=885132&code=1410277416">
+SPA130027413_შპს კომპანია GEOSM-ხელშ.25  09.09.2014 = 231 ლარი.pdf
+</a>
+</td>
+<td class="date">09.09.2014 15:43 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="889036.1410534203.100415">
+<td>13.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=889036&code=1410534203">
+SPA130027413_შპს კომპანია GEOSM - ხელშ.25   11.09.2014 = 465,60 ლარი.pdf
+</a>
+</td>
+<td class="date">12.09.2014 15:03 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="908884.1412274764.100415">
+<td>14.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=908884&code=1412274764">
+SPA130027413_geosm - ხელშ.25  01.10.2014 = 165,50 ლარი.pdf
+</a>
+</td>
+<td class="date">02.10.2014 18:32 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="913570.1412770961.100415">
+<td>15.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=913570&code=1412770961">
+SPA130027413_შპს კომპანია geosm-ხელშ.25  07.10.2014=2345 ლ.pdf
+</a>
+</td>
+<td class="date">08.10.2014 12:22 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="933676.1414583459.100415">
+<td>16.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete1">
+<a target="blank" href="engine/files.php?mode=app&file=933676&code=1414583459">
+SPA130027413_სტანდ. და მეტრ. ერ. სააგენტ.pdf
+</a>
+</td>
+<td class="date">29.10.2014 11:50 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="934019.1414594130.100415">
+<td>17.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=934019&code=1414594130">
+SPA130027413_შპს კომპანია GEOSM-ხელშ.25 28.10.2014=100 ლ.pdf
+</a>
+</td>
+<td class="date">29.10.2014 14:48 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="944569.1415453523.100415">
+<td>18.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=944569&code=1415453523">
+SPA130027413_კომპანია GEOSM-ხელშ.25  07.11.2014=3283,77 ლ.pdf
+</a>
+</td>
+<td class="date">08.11.2014 13:32 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr><tr id="992668.1419089794.100415">
+<td>19.</td>
+<td><img src="images/file_lock0.png"></td>
+<td class="doctype150 obsolete0">
+<a target="blank" href="engine/files.php?mode=app&file=992668&code=1419089794">
+SPA130027413_შპს კომპანია GEOSM - ხელშ.25  =8254,2 ლ.pdf
+</a>
+</td>
+<td class="date">20.12.2014 15:36 :: თამთა ხაჭაპურიძე</td>
+
+<td align="center">
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="ui-state-highlight ui-corner-all" style="padding:0.5em;margin:1em 0;">
+<p><strong>ფაქტობრივი გადახდები</strong></p>
+
+<p><span class="color-2">ხელშეკრულების თანხა: 58`431.00 ლარი</span><br/><span class="color-1">გადახდილი თანხა: 26`688.66 ლარი  (46%)</span></p>
+
+<table width="100%" border="0" cellspacing="1" cellpadding="6" class="ktable">
+<colgroup>
+<col>
+<col width="70">
+<col width="90">
+<col width="210">
+<col>
+</colgroup>
+<thead>
+<tr class="ui-widget-header">
+<td>თანხა</td>
+<td>წელი</td>
+<td>კვარტალი</td>
+<td>გადახდის თარიღი</td>
+<td>თარიღი/ავტორი</td>
+</tr>
+</thead>
+<tbody>
+<tr class="activebid1">
+<td>8`354.20 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>16.12.2014&nbsp;
+
+</td>
+<td class="date">20.12.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>3`283.77 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>07.11.2014&nbsp;
+
+</td>
+<td class="date">08.11.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid0">
+<td>3`283.97 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>07.11.2014&nbsp;
+
+</td>
+<td class="date">08.11.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>100.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>28.10.2014&nbsp;
+
+</td>
+<td class="date">29.10.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>2`345.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>07.10.2014&nbsp;
+
+</td>
+<td class="date">08.10.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>165.50 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>4</td>
+<td>01.10.2014&nbsp;
+
+</td>
+<td class="date">02.10.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>465.60 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>11.09.2014&nbsp;
+
+</td>
+<td class="date">12.09.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>231.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>08.09.2014&nbsp;
+
+</td>
+<td class="date">09.09.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>99.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>04.09.2014&nbsp;
+
+</td>
+<td class="date">05.09.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>1`848.85 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>14.08.2014&nbsp;
+
+</td>
+<td class="date">19.08.2014<br>ნატალია მეტრეველი</td>
+</tr><tr class="activebid1">
+<td>480.40 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>08.07.2014&nbsp;
+
+</td>
+<td class="date">09.07.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>1`008.00 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>3</td>
+<td>03.07.2014&nbsp;
+
+</td>
+<td class="date">04.07.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>1`293.53 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>03.06.2014&nbsp;
+
+</td>
+<td class="date">03.06.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>375.60 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>08.05.2014&nbsp;
+
+</td>
+<td class="date">08.05.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>595.10 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>2</td>
+<td>08.05.2014&nbsp;
+
+</td>
+<td class="date">08.05.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>829.41 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>1</td>
+<td>25.03.2014&nbsp;
+
+</td>
+<td class="date">25.03.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>914.80 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>1</td>
+<td>06.03.2014&nbsp;
+
+</td>
+<td class="date">07.03.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>2`388.80 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>1</td>
+<td>14.02.2014&nbsp;
+
+</td>
+<td class="date">17.02.2014<br>თამთა ხაჭაპურიძე</td>
+</tr><tr class="activebid1">
+<td>1`910.10 ლარი<br><span class="color-2">საკუთარი შემოსავლები</span></td>
+<td>2014</td>
+<td>1</td>
+<td>23.01.2014&nbsp;
+
+</td>
+<td class="date">24.01.2014<br>თამთა ხაჭაპურიძე</td>
+</tr>
+</tbody>
+</table>
+
+
+<div id="dialog_modal_c" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების ფარგლებში მიმწოდებელი კომპანიის ჩანაცვლება მისი უფლებამონაცვლით, მას შემდეგ რაც სისტემაში აიტვირთება მიმწოდებლის ჩანაცვლების დამადასტურებელი დოკუმენტი. თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_b" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება სისტემაში ატვირთულ ხელშეკრულებაში ცვლილების შეტანა/ხელშეკრულების შეწყვეტა. ამ შემთხვევაში სისტემაში უნდა აიტვირთოს შეცვლილი ხელშეკრულება/ხელშეკრულების შეწყვეტის შესახებ ოქმი და საჭიროების შემთხვევაში, შესაბამისი ცვლილებები განხორციელდეს ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+<div id="dialog_modal_a" title="ყურადღება!" style="display:none;line-height:140%;font-size:1.1em;text-align:justify;">
+ამ მოქმედების განხორციელება დასაშვებია მხოლოდ იმ შემთხვევაში, როდესაც ხდება ხელშეკრულების სისტემურ პარამეტრებში (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა) დაშვებული შეცდომის გასწორება. ამ შემთხვევაში სისტემის შესაბამის გრაფებში უნდა მიეთითოს ხელშეკრულების გასწორებული სისტემური პარამეტრები (ხელშეკრულების თანხა, ხელშეკრულების ნომერი, ხელშეკრულების მოქმედების ვადა). თქვენ პასუხს აგებთ ამ მოქმედების განხორციელების სისწორეზე.
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+InitConvertor();
+	$('#confirm_dialog_a').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_a" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_a').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_1').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_a').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_b').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_b" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk').hide();
+					$('#frm_blk').show();
+					$('#agency_winner_frm_b').show();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_2').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#agency_winner_frm_b').hide();
+		$('#frm_blk').hide();
+		$('#btn_blk').show();
+	})
+
+	$('#confirm_dialog_c').button({icons:{primary: "ui-icon-check"}}).click(function(){
+		$( "#dialog_modal_c" ).dialog({
+			resizable: false,
+			width:500,
+			height:300,
+			modal: true,
+			buttons: {
+				'გაუქმება': function() {
+					$( this ).dialog( "close" );
+				},
+				"გავეცანი": function() {
+					$( this ).dialog( "close" );
+					$('#btn_blk2').hide();
+					$('#frm_blk2').show();
+					$('#org_u').focus();
+				}
+			}
+		});
+	});
+	$('#btn_cancel_3').button({icons:{primary: "ui-icon-cancel"}}).click(function(){
+		$('#frm_blk2').hide();
+		$('#btn_blk2').show();
+	})
+
+	$('#winner_doc_start').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_start_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	$('#winner_doc_end_a').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, onClose: function(dateText, inst) { $('#search_btn').focus()} });
+	
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	$('#win_doc_remove').button({icons:{primary: "ui-icon-trash"}});
+	$('#agreement_amount_date').datepicker({ dateFormat: 'dd.mm.yy', duration: 'fast', firstDay: 1, maxDate: 0 });
+	
+	$('#app_winner_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_winner_save_btn_a').button({icons:{primary: "ui-icon-disk"}});
+	$('#app_uflebamonacvle_save_btn').button({icons:{primary: "ui-icon-disk"}});
+
+	$('#go_doit_btn').button({icons:{primary: "ui-icon-gear"}}).button("disable");
+	$('#add_app_agreement_amount_btn').button({icons:{primary: "ui-icon-disk"}});
+	
+	$('.fact_btn').button({icons:{primary: "ui-icon-minus"}}).click(function(){
+	$.get('engine/controller.php', {action:'del_app_agreement_amount', agr_amount_id: $(this).attr("id").split('b')[1], app_id:'100415'}, function(res){$('#agency_docs').html(res)});
+	});
+	$('#last_doc_save_btn').button({icons:{primary: "ui-icon-disk"}});
+	$('#last_doc_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#last_doc_frm").validate({meta: "validate"});
+	$('.toggle-icon').unbind('click');
+	$('.toggle-icon').click(function(){
+	var me = this;
+	JQConfirm('...', function() {
+		var h = me.id.split(".");
+		$.get('engine/controller.php', {action: 'lastdoc_toggle_state', app_id: h[2], id: h[0], state: 200}, function(res){$('#agency_docs').html(res);});
+	}, 'ამ ქმედების შედეგად დოკუმენტი გადაიხაზება და ჩაითვლება გაუქმებულად.<br/><br/>გაუქმებული დოკუმენტის ხელახალი აქტივაცია შეუძლებელია.',1);
+	});
+	$('#agency_winner_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+
+	$("#agency_winner_frm").validate({meta: "validate"});
+	$('#agency_winner_frm_a').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_a").validate({meta: "validate"});
+	$('#agency_winner_frm_b').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_winner_frm_b").validate({meta: "validate"});
+
+	$('#agency_uflebamonacvle_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_org_u, success:doResponse, dataType: 'json', timeout:120000});return false;});
+	$("#agency_uflebamonacvle_frm").validate({meta: "validate"});
+
+	$('.next-status').click(function(){
+		$('#changestatus_a').button().button('enable');
+	});
+	$('#changestatus_a').button({icons:{primary: "ui-icon-gear"}}).button("disable").bind('click', function() { JQConfirm('ტენდერის სტატუსის შეცვლა',function(){$('#change_app_status_a').ajaxSubmit({target : '#agency_docs'}) },'აღნიშნული ქმედების შედეგად შეუძლებელი იქნება ხელშეკრულებისთვის სხვა სტატუსის მინიჭება ან/და მინიჭებული სტატუსის შეცვლა',1)});
+	$('#add_app_agreement_amount_frm').submit(function() {$(this).ajaxSubmit({beforeSubmit:validate_form, target : '#agency_docs'});return false;});
+	$("#add_app_agreement_amount_frm").validate({meta: "validate"});
+
+	$("#org_u").autocomplete('engine/list_org.php', {
+		minChars: 3,
+		multiple: false,
+		mustMatch: false,
+		autoFill: true,
+		max: 50,
+		width: 400,
+		extraParams: {orgtype:1},
+		formatItem: function(row) {
+			return row[1];
+		},
+		formatResult: function(row) {
+			return row[1];
+		}
+	});
+
+	$("#org_u").result(function(event, data, formatted) {
+		$('#uflebamonacvle_id').val(data[0]);
+	});
+
+	GeoKBD.map('last_doc_frm',['app_doc_descr']);
+	GeoKBD.map('agency_uflebamonacvle_frm',['org_u']);
+
+});
+	
+function validate_form(formData, jqForm, options) {return jqForm.valid();}
+function validate_org_u(formData, jqForm, options) { return !($('#org_u').val() == '') }
+
+function confirm_request() {
+	return(confirm('დაწმუნებული ხართ?'));
+}
+function doResponse(responseText, statusText)  {
+	if (responseText.result.err_code == 999) {
+		Notify('ERROR Uploading file.');
+	} else if (responseText.result.err_code != 0) {
+		Notify(responseText.result.err_text );
+	} else {
+		Notify('Success');
+		$('#application_tabs').tabs( 'load' , $('#application_tabs').tabs('length') -1 );
+	}
+}
+</script>
+</div>
